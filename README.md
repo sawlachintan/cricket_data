@@ -16,4 +16,6 @@ The 6 files are: <br>
 
 ### Game types available <br>
 
-1. Indian Premier League
+| Game Type             | Abbreviation | Link |
+| --------------------- | ------------ | ---- |
+| Indian Premier League | IPL          | xyz  |
