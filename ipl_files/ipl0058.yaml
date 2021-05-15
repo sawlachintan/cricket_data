@@ -1,0 +1,2126 @@
+---
+meta:
+  data_version: 0.9
+  created: 2011-05-06
+  revision: 3
+info:
+  city: Mumbai
+  competition: IPL
+  dates:
+    - 2008-06-01
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      wickets: 3
+    winner: Rajasthan Royals
+  overs: 20
+  player_of_match:
+    - YK Pathan
+  teams:
+    - Chennai Super Kings
+    - Rajasthan Royals
+  toss:
+    decision: field
+    winner: Rajasthan Royals
+  umpires:
+    - BF Bowden
+    - RE Koertzen
+  venue: Dr DY Patil Sports Academy
+innings:
+  - 1st innings:
+      team: Chennai Super Kings
+      deliveries:
+        - 0.1:
+            batsman: PA Patel
+            bowler: Sohail Tanvir
+            non_striker: S Vidyut
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: PA Patel
+            bowler: Sohail Tanvir
+            extras:
+              wides: 1
+            non_striker: S Vidyut
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.3:
+            batsman: PA Patel
+            bowler: Sohail Tanvir
+            non_striker: S Vidyut
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: PA Patel
+            bowler: Sohail Tanvir
+            non_striker: S Vidyut
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: PA Patel
+            bowler: Sohail Tanvir
+            non_striker: S Vidyut
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: PA Patel
+            bowler: Sohail Tanvir
+            non_striker: S Vidyut
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.7:
+            batsman: PA Patel
+            bowler: Sohail Tanvir
+            non_striker: S Vidyut
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.1:
+            batsman: PA Patel
+            bowler: SR Watson
+            non_striker: S Vidyut
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: PA Patel
+            bowler: SR Watson
+            non_striker: S Vidyut
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.3:
+            batsman: S Vidyut
+            bowler: SR Watson
+            non_striker: PA Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: S Vidyut
+            bowler: SR Watson
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.5:
+            batsman: PA Patel
+            bowler: SR Watson
+            non_striker: S Vidyut
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: PA Patel
+            bowler: SR Watson
+            non_striker: S Vidyut
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.1:
+            batsman: S Vidyut
+            bowler: MM Patel
+            non_striker: PA Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: S Vidyut
+            bowler: MM Patel
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.3:
+            batsman: PA Patel
+            bowler: MM Patel
+            non_striker: S Vidyut
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.4:
+            batsman: S Vidyut
+            bowler: MM Patel
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.5:
+            batsman: PA Patel
+            bowler: MM Patel
+            non_striker: S Vidyut
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.6:
+            batsman: S Vidyut
+            bowler: MM Patel
+            non_striker: PA Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: PA Patel
+            bowler: SR Watson
+            extras:
+              legbyes: 1
+            non_striker: S Vidyut
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.2:
+            batsman: S Vidyut
+            bowler: SR Watson
+            non_striker: PA Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: S Vidyut
+            bowler: SR Watson
+            non_striker: PA Patel
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.4:
+            batsman: S Vidyut
+            bowler: SR Watson
+            non_striker: PA Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: S Vidyut
+            bowler: SR Watson
+            non_striker: PA Patel
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.6:
+            batsman: S Vidyut
+            bowler: SR Watson
+            non_striker: PA Patel
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 4.1:
+            batsman: PA Patel
+            bowler: MM Patel
+            non_striker: S Vidyut
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.2:
+            batsman: S Vidyut
+            bowler: MM Patel
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: PA Patel
+            bowler: MM Patel
+            non_striker: S Vidyut
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.4:
+            batsman: PA Patel
+            bowler: MM Patel
+            non_striker: S Vidyut
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: PA Patel
+            bowler: MM Patel
+            non_striker: S Vidyut
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.6:
+            batsman: PA Patel
+            bowler: MM Patel
+            non_striker: S Vidyut
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.1:
+            batsman: S Vidyut
+            bowler: YK Pathan
+            non_striker: PA Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: S Vidyut
+            bowler: YK Pathan
+            non_striker: PA Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RA Jadeja
+              kind: caught
+              player_out: S Vidyut
+        - 5.3:
+            batsman: PA Patel
+            bowler: YK Pathan
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: PA Patel
+            bowler: YK Pathan
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: SK Raina
+            bowler: YK Pathan
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: PA Patel
+            bowler: YK Pathan
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: PA Patel
+            bowler: SK Trivedi
+            non_striker: SK Raina
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.2:
+            batsman: PA Patel
+            bowler: SK Trivedi
+            non_striker: SK Raina
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.3:
+            batsman: PA Patel
+            bowler: SK Trivedi
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: SK Raina
+            bowler: SK Trivedi
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: PA Patel
+            bowler: SK Trivedi
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: PA Patel
+            bowler: SK Trivedi
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: PA Patel
+            bowler: SK Warne
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: SK Raina
+            bowler: SK Warne
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: PA Patel
+            bowler: SK Warne
+            extras:
+              legbyes: 1
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 7.4:
+            batsman: SK Raina
+            bowler: SK Warne
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: PA Patel
+            bowler: SK Warne
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: SK Raina
+            bowler: SK Warne
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: SK Raina
+            bowler: YK Pathan
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: PA Patel
+            bowler: YK Pathan
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: PA Patel
+            bowler: YK Pathan
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: SK Raina
+            bowler: YK Pathan
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: PA Patel
+            bowler: YK Pathan
+            non_striker: SK Raina
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.6:
+            batsman: PA Patel
+            bowler: YK Pathan
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Kamran Akmal
+              kind: caught
+              player_out: PA Patel
+        - 9.1:
+            batsman: SK Raina
+            bowler: SK Warne
+            non_striker: JA Morkel
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 9.2:
+            batsman: SK Raina
+            bowler: SK Warne
+            non_striker: JA Morkel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: SK Raina
+            bowler: SK Warne
+            non_striker: JA Morkel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: SK Raina
+            bowler: SK Warne
+            non_striker: JA Morkel
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 9.5:
+            batsman: SK Raina
+            bowler: SK Warne
+            non_striker: JA Morkel
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 9.6:
+            batsman: SK Raina
+            bowler: SK Warne
+            non_striker: JA Morkel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: SK Raina
+            bowler: YK Pathan
+            non_striker: JA Morkel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: JA Morkel
+            bowler: YK Pathan
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: JA Morkel
+            bowler: YK Pathan
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: JA Morkel
+            bowler: YK Pathan
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: JA Morkel
+            bowler: YK Pathan
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: JA Morkel
+            bowler: YK Pathan
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: JA Morkel
+            bowler: SK Warne
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: JA Morkel
+            bowler: SK Warne
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: SK Raina
+            bowler: SK Warne
+            non_striker: JA Morkel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: JA Morkel
+            bowler: SK Warne
+            non_striker: SK Raina
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 11.5:
+            batsman: JA Morkel
+            bowler: SK Warne
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: JA Morkel
+            bowler: SK Warne
+            extras:
+              wides: 1
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 11.7:
+            batsman: JA Morkel
+            bowler: SK Warne
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: JA Morkel
+            bowler: YK Pathan
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: SK Raina
+            bowler: YK Pathan
+            non_striker: JA Morkel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: JA Morkel
+            bowler: YK Pathan
+            non_striker: SK Raina
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.4:
+            batsman: JA Morkel
+            bowler: YK Pathan
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Kamran Akmal
+              kind: caught
+              player_out: JA Morkel
+        - 12.5:
+            batsman: MS Dhoni
+            bowler: YK Pathan
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.6:
+            batsman: SK Raina
+            bowler: YK Pathan
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: SK Raina
+            bowler: SK Trivedi
+            non_striker: MS Dhoni
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 13.2:
+            batsman: SK Raina
+            bowler: SK Trivedi
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: MS Dhoni
+            bowler: SK Trivedi
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: SK Raina
+            bowler: SK Trivedi
+            non_striker: MS Dhoni
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 13.5:
+            batsman: SK Raina
+            bowler: SK Trivedi
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: SK Raina
+            bowler: SK Trivedi
+            non_striker: MS Dhoni
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.1:
+            batsman: MS Dhoni
+            bowler: SK Warne
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.2:
+            batsman: MS Dhoni
+            bowler: SK Warne
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: MS Dhoni
+            bowler: SK Warne
+            non_striker: SK Raina
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 14.4:
+            batsman: MS Dhoni
+            bowler: SK Warne
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: SK Raina
+            bowler: SK Warne
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: SK Raina
+            bowler: SK Warne
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: SK Raina
+            bowler: Sohail Tanvir
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: SK Raina
+            bowler: Sohail Tanvir
+            non_striker: MS Dhoni
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.3:
+            batsman: SK Raina
+            bowler: Sohail Tanvir
+            non_striker: MS Dhoni
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.4:
+            batsman: SK Raina
+            bowler: Sohail Tanvir
+            non_striker: MS Dhoni
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.5:
+            batsman: SK Raina
+            bowler: Sohail Tanvir
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: MS Dhoni
+            bowler: Sohail Tanvir
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: MS Dhoni
+            bowler: SR Watson
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: SK Raina
+            bowler: SR Watson
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RA Jadeja
+              kind: caught
+              player_out: SK Raina
+        - 16.3:
+            batsman: MS Dhoni
+            bowler: SR Watson
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: CK Kapugedera
+            bowler: SR Watson
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: CK Kapugedera
+            bowler: SR Watson
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.6:
+            batsman: CK Kapugedera
+            bowler: SR Watson
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: CK Kapugedera
+            bowler: Sohail Tanvir
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: MS Dhoni
+            bowler: Sohail Tanvir
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: CK Kapugedera
+            bowler: Sohail Tanvir
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: MS Dhoni
+            bowler: Sohail Tanvir
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: CK Kapugedera
+            bowler: Sohail Tanvir
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: MS Dhoni
+            bowler: Sohail Tanvir
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.1:
+            batsman: CK Kapugedera
+            bowler: SR Watson
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: CK Kapugedera
+            bowler: SR Watson
+            extras:
+              wides: 1
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.3:
+            batsman: CK Kapugedera
+            bowler: SR Watson
+            extras:
+              noballs: 1
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.4:
+            batsman: CK Kapugedera
+            bowler: SR Watson
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.5:
+            batsman: MS Dhoni
+            bowler: SR Watson
+            extras:
+              byes: 1
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.6:
+            batsman: CK Kapugedera
+            bowler: SR Watson
+            non_striker: MS Dhoni
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.7:
+            batsman: CK Kapugedera
+            bowler: SR Watson
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.8:
+            batsman: MS Dhoni
+            bowler: SR Watson
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.1:
+            batsman: CK Kapugedera
+            bowler: Sohail Tanvir
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - SA Asnodkar
+              kind: caught
+              player_out: CK Kapugedera
+        - 19.2:
+            batsman: MS Dhoni
+            bowler: Sohail Tanvir
+            non_striker: S Badrinath
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.3:
+            batsman: MS Dhoni
+            bowler: Sohail Tanvir
+            non_striker: S Badrinath
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 19.4:
+            batsman: MS Dhoni
+            bowler: Sohail Tanvir
+            non_striker: S Badrinath
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: S Badrinath
+            bowler: Sohail Tanvir
+            non_striker: MS Dhoni
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.6:
+            batsman: S Badrinath
+            bowler: Sohail Tanvir
+            non_striker: MS Dhoni
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+  - 2nd innings:
+      team: Rajasthan Royals
+      deliveries:
+        - 0.1:
+            batsman: Niraj Patel
+            bowler: M Ntini
+            non_striker: SA Asnodkar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: Niraj Patel
+            bowler: M Ntini
+            non_striker: SA Asnodkar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: Niraj Patel
+            bowler: M Ntini
+            non_striker: SA Asnodkar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: Niraj Patel
+            bowler: M Ntini
+            non_striker: SA Asnodkar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.5:
+            batsman: SA Asnodkar
+            bowler: M Ntini
+            non_striker: Niraj Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.6:
+            batsman: Niraj Patel
+            bowler: M Ntini
+            non_striker: SA Asnodkar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: SA Asnodkar
+            bowler: MS Gony
+            non_striker: Niraj Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: SA Asnodkar
+            bowler: MS Gony
+            non_striker: Niraj Patel
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.3:
+            batsman: SA Asnodkar
+            bowler: MS Gony
+            non_striker: Niraj Patel
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.4:
+            batsman: SA Asnodkar
+            bowler: MS Gony
+            non_striker: Niraj Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.5:
+            batsman: Niraj Patel
+            bowler: MS Gony
+            non_striker: SA Asnodkar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.6:
+            batsman: SA Asnodkar
+            bowler: MS Gony
+            non_striker: Niraj Patel
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.1:
+            batsman: Niraj Patel
+            bowler: M Ntini
+            non_striker: SA Asnodkar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: Niraj Patel
+            bowler: M Ntini
+            non_striker: SA Asnodkar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: Niraj Patel
+            bowler: M Ntini
+            non_striker: SA Asnodkar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: Niraj Patel
+            bowler: M Ntini
+            extras:
+              byes: 1
+            non_striker: SA Asnodkar
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.5:
+            batsman: SA Asnodkar
+            bowler: M Ntini
+            extras:
+              legbyes: 4
+            non_striker: Niraj Patel
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 2.6:
+            batsman: SA Asnodkar
+            bowler: M Ntini
+            non_striker: Niraj Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: Niraj Patel
+            bowler: MS Gony
+            non_striker: SA Asnodkar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: Niraj Patel
+        - 3.2:
+            batsman: Kamran Akmal
+            bowler: MS Gony
+            non_striker: SA Asnodkar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: SA Asnodkar
+            bowler: MS Gony
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.4:
+            batsman: SA Asnodkar
+            bowler: MS Gony
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.5:
+            batsman: SA Asnodkar
+            bowler: MS Gony
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.6:
+            batsman: Kamran Akmal
+            bowler: MS Gony
+            non_striker: SA Asnodkar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: SA Asnodkar
+            bowler: M Ntini
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: SA Asnodkar
+            bowler: M Ntini
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.3:
+            batsman: SA Asnodkar
+            bowler: M Ntini
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.4:
+            batsman: Kamran Akmal
+            bowler: M Ntini
+            non_striker: SA Asnodkar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: Kamran Akmal
+            bowler: M Ntini
+            non_striker: SA Asnodkar
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.6:
+            batsman: Kamran Akmal
+            bowler: M Ntini
+            non_striker: SA Asnodkar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: SA Asnodkar
+            bowler: MS Gony
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.2:
+            batsman: SA Asnodkar
+            bowler: MS Gony
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.3:
+            batsman: Kamran Akmal
+            bowler: MS Gony
+            non_striker: SA Asnodkar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: SA Asnodkar
+            bowler: MS Gony
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: SA Asnodkar
+            bowler: MS Gony
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: SA Asnodkar
+            bowler: MS Gony
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: SA Asnodkar
+            bowler: JA Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - SK Raina
+              kind: caught
+              player_out: SA Asnodkar
+        - 6.2:
+            batsman: SR Watson
+            bowler: JA Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: SR Watson
+            bowler: JA Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: Kamran Akmal
+            bowler: JA Morkel
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - M Ntini
+              kind: run out
+              player_out: Kamran Akmal
+        - 6.5:
+            batsman: SR Watson
+            bowler: JA Morkel
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: YK Pathan
+            bowler: JA Morkel
+            non_striker: SR Watson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: YK Pathan
+            bowler: L Balaji
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: YK Pathan
+            bowler: L Balaji
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: YK Pathan
+            bowler: L Balaji
+            non_striker: SR Watson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: SR Watson
+            bowler: L Balaji
+            non_striker: YK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: SR Watson
+            bowler: L Balaji
+            non_striker: YK Pathan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.6:
+            batsman: SR Watson
+            bowler: L Balaji
+            non_striker: YK Pathan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.1:
+            batsman: YK Pathan
+            bowler: JA Morkel
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: YK Pathan
+            bowler: JA Morkel
+            extras:
+              wides: 1
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 8.3:
+            batsman: YK Pathan
+            bowler: JA Morkel
+            extras:
+              legbyes: 1
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 8.4:
+            batsman: SR Watson
+            bowler: JA Morkel
+            extras:
+              wides: 1
+            non_striker: YK Pathan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 8.5:
+            batsman: SR Watson
+            bowler: JA Morkel
+            non_striker: YK Pathan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.6:
+            batsman: SR Watson
+            bowler: JA Morkel
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.7:
+            batsman: YK Pathan
+            bowler: JA Morkel
+            non_striker: SR Watson
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.8:
+            batsman: YK Pathan
+            bowler: JA Morkel
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: SR Watson
+            bowler: L Balaji
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: YK Pathan
+            bowler: L Balaji
+            non_striker: SR Watson
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.3:
+            batsman: YK Pathan
+            bowler: L Balaji
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: YK Pathan
+            bowler: L Balaji
+            non_striker: SR Watson
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.5:
+            batsman: YK Pathan
+            bowler: L Balaji
+            non_striker: SR Watson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: SR Watson
+            bowler: L Balaji
+            non_striker: YK Pathan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.1:
+            batsman: YK Pathan
+            bowler: M Muralitharan
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: YK Pathan
+            bowler: M Muralitharan
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: YK Pathan
+            bowler: M Muralitharan
+            non_striker: SR Watson
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 10.4:
+            batsman: YK Pathan
+            bowler: M Muralitharan
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: YK Pathan
+            bowler: M Muralitharan
+            non_striker: SR Watson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: SR Watson
+            bowler: M Muralitharan
+            non_striker: YK Pathan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.1:
+            batsman: YK Pathan
+            bowler: JA Morkel
+            non_striker: SR Watson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: SR Watson
+            bowler: JA Morkel
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: YK Pathan
+            bowler: JA Morkel
+            extras:
+              noballs: 1
+            non_striker: SR Watson
+            runs:
+              batsman: 2
+              extras: 1
+              total: 3
+        - 11.4:
+            batsman: YK Pathan
+            bowler: JA Morkel
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: YK Pathan
+            bowler: JA Morkel
+            non_striker: SR Watson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: SR Watson
+            bowler: JA Morkel
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.7:
+            batsman: YK Pathan
+            bowler: JA Morkel
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: SR Watson
+            bowler: M Muralitharan
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: YK Pathan
+            bowler: M Muralitharan
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: YK Pathan
+            bowler: M Muralitharan
+            non_striker: SR Watson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: SR Watson
+            bowler: M Muralitharan
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: YK Pathan
+            bowler: M Muralitharan
+            non_striker: SR Watson
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.6:
+            batsman: YK Pathan
+            bowler: M Muralitharan
+            non_striker: SR Watson
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 13.1:
+            batsman: SR Watson
+            bowler: MS Gony
+            non_striker: YK Pathan
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 13.2:
+            batsman: YK Pathan
+            bowler: MS Gony
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: YK Pathan
+            bowler: MS Gony
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: YK Pathan
+            bowler: MS Gony
+            non_striker: SR Watson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: SR Watson
+            bowler: MS Gony
+            non_striker: YK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: SR Watson
+            bowler: MS Gony
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.1:
+            batsman: SR Watson
+            bowler: M Muralitharan
+            non_striker: YK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: SR Watson
+        - 14.2:
+            batsman: M Kaif
+            bowler: M Muralitharan
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: YK Pathan
+            bowler: M Muralitharan
+            non_striker: M Kaif
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: M Kaif
+            bowler: M Muralitharan
+            non_striker: YK Pathan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.5:
+            batsman: M Kaif
+            bowler: M Muralitharan
+            non_striker: YK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: M Kaif
+            bowler: M Muralitharan
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: M Kaif
+            bowler: L Balaji
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: YK Pathan
+            bowler: L Balaji
+            non_striker: M Kaif
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.3:
+            batsman: YK Pathan
+            bowler: L Balaji
+            non_striker: M Kaif
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: YK Pathan
+            bowler: L Balaji
+            non_striker: M Kaif
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 15.5:
+            batsman: YK Pathan
+            bowler: L Balaji
+            non_striker: M Kaif
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.6:
+            batsman: YK Pathan
+            bowler: L Balaji
+            non_striker: M Kaif
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: M Kaif
+            bowler: M Muralitharan
+            non_striker: YK Pathan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 16.2:
+            batsman: M Kaif
+            bowler: M Muralitharan
+            non_striker: YK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: M Kaif
+            bowler: M Muralitharan
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: YK Pathan
+            bowler: M Muralitharan
+            non_striker: M Kaif
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 16.5:
+            batsman: YK Pathan
+            bowler: M Muralitharan
+            non_striker: M Kaif
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: M Kaif
+            bowler: M Muralitharan
+            non_striker: YK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MS Dhoni
+              kind: caught
+              player_out: M Kaif
+        - 17.1:
+            batsman: RA Jadeja
+            bowler: JA Morkel
+            non_striker: YK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CK Kapugedera
+              kind: caught
+              player_out: RA Jadeja
+        - 17.2:
+            batsman: YK Pathan
+            bowler: JA Morkel
+            extras:
+              noballs: 1
+            non_striker: SK Warne
+            runs:
+              batsman: 1
+              extras: 1
+              total: 2
+        - 17.3:
+            batsman: SK Warne
+            bowler: JA Morkel
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: YK Pathan
+            bowler: JA Morkel
+            non_striker: SK Warne
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: SK Warne
+            bowler: JA Morkel
+            non_striker: YK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - SK Raina
+              kind: run out
+              player_out: YK Pathan
+        - 17.6:
+            batsman: Sohail Tanvir
+            bowler: JA Morkel
+            extras:
+              wides: 1
+            non_striker: SK Warne
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 17.7:
+            batsman: Sohail Tanvir
+            bowler: JA Morkel
+            non_striker: SK Warne
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.8:
+            batsman: SK Warne
+            bowler: JA Morkel
+            extras:
+              legbyes: 1
+            non_striker: Sohail Tanvir
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.1:
+            batsman: SK Warne
+            bowler: M Ntini
+            non_striker: Sohail Tanvir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: Sohail Tanvir
+            bowler: M Ntini
+            non_striker: SK Warne
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.3:
+            batsman: SK Warne
+            bowler: M Ntini
+            non_striker: Sohail Tanvir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.4:
+            batsman: Sohail Tanvir
+            bowler: M Ntini
+            non_striker: SK Warne
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.5:
+            batsman: Sohail Tanvir
+            bowler: M Ntini
+            non_striker: SK Warne
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.6:
+            batsman: SK Warne
+            bowler: M Ntini
+            non_striker: Sohail Tanvir
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.1:
+            batsman: Sohail Tanvir
+            bowler: L Balaji
+            non_striker: SK Warne
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.2:
+            batsman: SK Warne
+            bowler: L Balaji
+            non_striker: Sohail Tanvir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: SK Warne
+            bowler: L Balaji
+            non_striker: Sohail Tanvir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: Sohail Tanvir
+            bowler: L Balaji
+            extras:
+              wides: 2
+            non_striker: SK Warne
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 19.5:
+            batsman: SK Warne
+            bowler: L Balaji
+            non_striker: Sohail Tanvir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: Sohail Tanvir
+            bowler: L Balaji
+            non_striker: SK Warne
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.7:
+            batsman: Sohail Tanvir
+            bowler: L Balaji
+            non_striker: SK Warne
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1

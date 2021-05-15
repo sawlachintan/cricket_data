@@ -1,6 +1,5 @@
 # load required packages
 
-from array import typecodes
 import yaml
 import zipfile
 from zipfile import ZipFile

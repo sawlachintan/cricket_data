@@ -1,0 +1,2059 @@
+---
+meta:
+  data_version: 0.9
+  created: 2016-05-24
+  revision: 1
+info:
+  city: Bangalore
+  competition: IPL
+  dates:
+    - 2016-05-24
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      wickets: 4
+    winner: Royal Challengers Bangalore
+  overs: 20
+  player_of_match:
+    - AB de Villiers
+  teams:
+    - Gujarat Lions
+    - Royal Challengers Bangalore
+  toss:
+    decision: field
+    winner: Royal Challengers Bangalore
+  umpires:
+    - AK Chaudhary
+    - HDPK Dharmasena
+  venue: M Chinnaswamy Stadium
+innings:
+  - 1st innings:
+      team: Gujarat Lions
+      deliveries:
+        - 0.1:
+            batsman: AJ Finch
+            bowler: S Aravind
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: AJ Finch
+            bowler: S Aravind
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: AJ Finch
+            bowler: S Aravind
+            extras:
+              legbyes: 1
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.4:
+            batsman: BB McCullum
+            bowler: S Aravind
+            non_striker: AJ Finch
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: BB McCullum
+            bowler: S Aravind
+            non_striker: AJ Finch
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: BB McCullum
+            bowler: S Aravind
+            non_striker: AJ Finch
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.1:
+            batsman: BB McCullum
+            bowler: Iqbal Abdulla
+            non_striker: AJ Finch
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - AB de Villiers
+              kind: caught
+              player_out: BB McCullum
+        - 1.2:
+            batsman: AJ Finch
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.3:
+            batsman: AJ Finch
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: AJ Finch
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CH Gayle
+              kind: caught
+              player_out: AJ Finch
+        - 1.5:
+            batsman: KD Karthik
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.6:
+            batsman: SK Raina
+            bowler: Iqbal Abdulla
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: KD Karthik
+            bowler: S Aravind
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.2:
+            batsman: SK Raina
+            bowler: S Aravind
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: SK Raina
+            bowler: S Aravind
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: SK Raina
+            bowler: S Aravind
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: SK Raina
+            bowler: S Aravind
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.6:
+            batsman: KD Karthik
+            bowler: S Aravind
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: SK Raina
+            bowler: SR Watson
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: SK Raina
+            bowler: SR Watson
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: SK Raina
+            bowler: SR Watson
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: SK Raina
+            bowler: SR Watson
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - S Aravind
+              kind: caught
+              player_out: SK Raina
+        - 3.5:
+            batsman: DR Smith
+            bowler: SR Watson
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: DR Smith
+            bowler: SR Watson
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: DR Smith
+            bowler: Iqbal Abdulla
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: DR Smith
+            bowler: Iqbal Abdulla
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: KD Karthik
+            bowler: Iqbal Abdulla
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.4:
+            batsman: DR Smith
+            bowler: Iqbal Abdulla
+            non_striker: KD Karthik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.5:
+            batsman: DR Smith
+            bowler: Iqbal Abdulla
+            non_striker: KD Karthik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.6:
+            batsman: DR Smith
+            bowler: Iqbal Abdulla
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: KD Karthik
+            bowler: SR Watson
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: KD Karthik
+            bowler: SR Watson
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.3:
+            batsman: DR Smith
+            bowler: SR Watson
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: KD Karthik
+            bowler: SR Watson
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: KD Karthik
+            bowler: SR Watson
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: KD Karthik
+            bowler: SR Watson
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: KD Karthik
+            bowler: CJ Jordan
+            extras:
+              wides: 1
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 6.2:
+            batsman: KD Karthik
+            bowler: CJ Jordan
+            extras:
+              legbyes: 1
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 6.3:
+            batsman: DR Smith
+            bowler: CJ Jordan
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: DR Smith
+            bowler: CJ Jordan
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: DR Smith
+            bowler: CJ Jordan
+            non_striker: KD Karthik
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 6.6:
+            batsman: DR Smith
+            bowler: CJ Jordan
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.7:
+            batsman: KD Karthik
+            bowler: CJ Jordan
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: KD Karthik
+            bowler: YS Chahal
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: KD Karthik
+            bowler: YS Chahal
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: KD Karthik
+            bowler: YS Chahal
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: KD Karthik
+            bowler: STR Binny
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: DR Smith
+            bowler: STR Binny
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: DR Smith
+            bowler: STR Binny
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: DR Smith
+            bowler: STR Binny
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: KD Karthik
+            bowler: STR Binny
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.6:
+            batsman: DR Smith
+            bowler: STR Binny
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: KD Karthik
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 9.2:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: KD Karthik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.4:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: KD Karthik
+            bowler: YS Chahal
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: KD Karthik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.1:
+            batsman: KD Karthik
+            bowler: Iqbal Abdulla
+            non_striker: DR Smith
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.2:
+            batsman: KD Karthik
+            bowler: Iqbal Abdulla
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: DR Smith
+            bowler: Iqbal Abdulla
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: KD Karthik
+            bowler: Iqbal Abdulla
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: KD Karthik
+            bowler: Iqbal Abdulla
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: KD Karthik
+            bowler: Iqbal Abdulla
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: KD Karthik
+            bowler: YS Chahal
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: KD Karthik
+            bowler: YS Chahal
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.5:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: KD Karthik
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.1:
+            batsman: KD Karthik
+            bowler: Iqbal Abdulla
+            non_striker: DR Smith
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.2:
+            batsman: KD Karthik
+            bowler: Iqbal Abdulla
+            extras:
+              wides: 1
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 12.3:
+            batsman: KD Karthik
+            bowler: Iqbal Abdulla
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: KD Karthik
+            bowler: Iqbal Abdulla
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: DR Smith
+            bowler: Iqbal Abdulla
+            non_striker: KD Karthik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.6:
+            batsman: DR Smith
+            bowler: Iqbal Abdulla
+            non_striker: KD Karthik
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.7:
+            batsman: DR Smith
+            bowler: Iqbal Abdulla
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: DR Smith
+            bowler: CJ Jordan
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: KD Karthik
+            bowler: CJ Jordan
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: DR Smith
+            bowler: CJ Jordan
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: KD Karthik
+            bowler: CJ Jordan
+            non_striker: DR Smith
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 13.5:
+            batsman: KD Karthik
+            bowler: CJ Jordan
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: KD Karthik
+        - 13.6:
+            batsman: RA Jadeja
+            bowler: CJ Jordan
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: DR Smith
+            bowler: S Aravind
+            non_striker: RA Jadeja
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: RA Jadeja
+            bowler: S Aravind
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: DR Smith
+            bowler: S Aravind
+            non_striker: RA Jadeja
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 14.4:
+            batsman: DR Smith
+            bowler: S Aravind
+            non_striker: RA Jadeja
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: DR Smith
+            bowler: S Aravind
+            non_striker: RA Jadeja
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: RA Jadeja
+            bowler: S Aravind
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: RA Jadeja
+            bowler: SR Watson
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: RA Jadeja
+            bowler: SR Watson
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: RA Jadeja
+            bowler: SR Watson
+            extras:
+              wides: 1
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 15.4:
+            batsman: RA Jadeja
+            bowler: SR Watson
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: DR Smith
+            bowler: SR Watson
+            non_striker: RA Jadeja
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: RA Jadeja
+            bowler: SR Watson
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CH Gayle
+              kind: caught
+              player_out: RA Jadeja
+        - 15.7:
+            batsman: DJ Bravo
+            bowler: SR Watson
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: DJ Bravo
+            bowler: YS Chahal
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: DJ Bravo
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 16.3:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - V Kohli
+              kind: caught
+              player_out: DR Smith
+        - 16.4:
+            batsman: DJ Bravo
+            bowler: YS Chahal
+            non_striker: ER Dwivedi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.5:
+            batsman: ER Dwivedi
+            bowler: YS Chahal
+            non_striker: DJ Bravo
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.6:
+            batsman: ER Dwivedi
+            bowler: YS Chahal
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: ER Dwivedi
+            bowler: CJ Jordan
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: ER Dwivedi
+            bowler: CJ Jordan
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: DJ Bravo
+            bowler: CJ Jordan
+            extras:
+              wides: 1
+            non_striker: ER Dwivedi
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 17.4:
+            batsman: DJ Bravo
+            bowler: CJ Jordan
+            non_striker: ER Dwivedi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.5:
+            batsman: DJ Bravo
+            bowler: CJ Jordan
+            non_striker: ER Dwivedi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: ER Dwivedi
+            bowler: CJ Jordan
+            extras:
+              legbyes: 4
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 17.7:
+            batsman: ER Dwivedi
+            bowler: CJ Jordan
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: ER Dwivedi
+            bowler: SR Watson
+            non_striker: DJ Bravo
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 18.2:
+            batsman: ER Dwivedi
+            bowler: SR Watson
+            non_striker: DJ Bravo
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 18.3:
+            batsman: ER Dwivedi
+            bowler: SR Watson
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - V Kohli
+              kind: caught
+              player_out: ER Dwivedi
+        - 18.4:
+            batsman: DJ Bravo
+            bowler: SR Watson
+            non_striker: P Kumar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: DJ Bravo
+        - 18.5:
+            batsman: P Kumar
+            bowler: SR Watson
+            extras:
+              wides: 1
+            non_striker: DS Kulkarni
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.6:
+            batsman: DS Kulkarni
+            bowler: SR Watson
+            non_striker: P Kumar
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.7:
+            batsman: DS Kulkarni
+            bowler: SR Watson
+            non_striker: P Kumar
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.1:
+            batsman: P Kumar
+            bowler: CJ Jordan
+            non_striker: DS Kulkarni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.2:
+            batsman: DS Kulkarni
+            bowler: CJ Jordan
+            non_striker: P Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: P Kumar
+            bowler: CJ Jordan
+            non_striker: DS Kulkarni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: P Kumar
+        - 19.4:
+            batsman: SB Jakati
+            bowler: CJ Jordan
+            non_striker: DS Kulkarni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: SB Jakati
+            bowler: CJ Jordan
+            non_striker: DS Kulkarni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: DS Kulkarni
+            bowler: CJ Jordan
+            non_striker: SB Jakati
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+            wicket:
+              fielders:
+                - Sachin Baby
+                - KL Rahul
+              kind: run out
+              player_out: DS Kulkarni
+  - 2nd innings:
+      team: Royal Challengers Bangalore
+      deliveries:
+        - 0.1:
+            batsman: CH Gayle
+            bowler: P Kumar
+            extras:
+              wides: 1
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.2:
+            batsman: CH Gayle
+            bowler: P Kumar
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.3:
+            batsman: CH Gayle
+            bowler: P Kumar
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: CH Gayle
+            bowler: P Kumar
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: CH Gayle
+            bowler: P Kumar
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: CH Gayle
+            bowler: P Kumar
+            extras:
+              wides: 5
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 5
+              total: 5
+        - 0.7:
+            batsman: CH Gayle
+            bowler: P Kumar
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.8:
+            batsman: V Kohli
+            bowler: P Kumar
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: CH Gayle
+            bowler: DS Kulkarni
+            extras:
+              legbyes: 1
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.2:
+            batsman: V Kohli
+            bowler: DS Kulkarni
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: V Kohli
+        - 1.3:
+            batsman: AB de Villiers
+            bowler: DS Kulkarni
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: AB de Villiers
+            bowler: DS Kulkarni
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.5:
+            batsman: CH Gayle
+            bowler: DS Kulkarni
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: CH Gayle
+            bowler: DS Kulkarni
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.1:
+            batsman: AB de Villiers
+            bowler: P Kumar
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: AB de Villiers
+            bowler: P Kumar
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: AB de Villiers
+            bowler: P Kumar
+            non_striker: CH Gayle
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 2.4:
+            batsman: AB de Villiers
+            bowler: P Kumar
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.5:
+            batsman: CH Gayle
+            bowler: P Kumar
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: CH Gayle
+            bowler: P Kumar
+            extras:
+              legbyes: 1
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.1:
+            batsman: CH Gayle
+            bowler: DS Kulkarni
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: CH Gayle
+            bowler: DS Kulkarni
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: CH Gayle
+        - 3.3:
+            batsman: KL Rahul
+            bowler: DS Kulkarni
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - DR Smith
+              kind: caught
+              player_out: KL Rahul
+        - 3.4:
+            batsman: SR Watson
+            bowler: DS Kulkarni
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: SR Watson
+            bowler: DS Kulkarni
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: SR Watson
+            bowler: DS Kulkarni
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: AB de Villiers
+            bowler: RA Jadeja
+            non_striker: SR Watson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.2:
+            batsman: SR Watson
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: AB de Villiers
+            bowler: RA Jadeja
+            non_striker: SR Watson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.4:
+            batsman: SR Watson
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: SR Watson
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - DR Smith
+              kind: caught
+              player_out: SR Watson
+        - 4.6:
+            batsman: Sachin Baby
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: AB de Villiers
+            bowler: DS Kulkarni
+            non_striker: Sachin Baby
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.2:
+            batsman: Sachin Baby
+            bowler: DS Kulkarni
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: Sachin Baby
+            bowler: DS Kulkarni
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - SB Jakati
+              kind: caught
+              player_out: Sachin Baby
+        - 5.4:
+            batsman: STR Binny
+            bowler: DS Kulkarni
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: STR Binny
+            bowler: DS Kulkarni
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: AB de Villiers
+            bowler: DS Kulkarni
+            non_striker: STR Binny
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: AB de Villiers
+            bowler: RA Jadeja
+            non_striker: STR Binny
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: STR Binny
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: STR Binny
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: STR Binny
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: AB de Villiers
+            bowler: RA Jadeja
+            non_striker: STR Binny
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.6:
+            batsman: AB de Villiers
+            bowler: RA Jadeja
+            non_striker: STR Binny
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.1:
+            batsman: STR Binny
+            bowler: DS Kulkarni
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: AB de Villiers
+            bowler: DS Kulkarni
+            non_striker: STR Binny
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: STR Binny
+            bowler: DS Kulkarni
+            non_striker: AB de Villiers
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.4:
+            batsman: STR Binny
+            bowler: DS Kulkarni
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: AB de Villiers
+            bowler: DS Kulkarni
+            non_striker: STR Binny
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: AB de Villiers
+            bowler: DS Kulkarni
+            non_striker: STR Binny
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: AB de Villiers
+            bowler: SB Jakati
+            non_striker: STR Binny
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 8.2:
+            batsman: STR Binny
+            bowler: SB Jakati
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.3:
+            batsman: STR Binny
+            bowler: SB Jakati
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.4:
+            batsman: STR Binny
+            bowler: SB Jakati
+            extras:
+              wides: 1
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 8.5:
+            batsman: STR Binny
+            bowler: SB Jakati
+            non_striker: AB de Villiers
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.6:
+            batsman: STR Binny
+            bowler: SB Jakati
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.7:
+            batsman: STR Binny
+            bowler: SB Jakati
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: AB de Villiers
+            bowler: RA Jadeja
+            non_striker: STR Binny
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: STR Binny
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: AB de Villiers
+            bowler: RA Jadeja
+            non_striker: STR Binny
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.4:
+            batsman: STR Binny
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: STR Binny
+        - 9.5:
+            batsman: Iqbal Abdulla
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: AB de Villiers
+            bowler: RA Jadeja
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: AB de Villiers
+            bowler: SB Jakati
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: AB de Villiers
+            bowler: SB Jakati
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: Iqbal Abdulla
+            bowler: SB Jakati
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: Iqbal Abdulla
+            bowler: SB Jakati
+            extras:
+              noballs: 1
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 1
+              total: 2
+        - 10.5:
+            batsman: AB de Villiers
+            bowler: SB Jakati
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 10.6:
+            batsman: AB de Villiers
+            bowler: SB Jakati
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.7:
+            batsman: Iqbal Abdulla
+            bowler: SB Jakati
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: Iqbal Abdulla
+            bowler: DJ Bravo
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: AB de Villiers
+            bowler: DJ Bravo
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: Iqbal Abdulla
+            bowler: DJ Bravo
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: AB de Villiers
+            bowler: DJ Bravo
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.5:
+            batsman: AB de Villiers
+            bowler: DJ Bravo
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: Iqbal Abdulla
+            bowler: DJ Bravo
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: AB de Villiers
+            bowler: RA Jadeja
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: AB de Villiers
+            bowler: RA Jadeja
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: Iqbal Abdulla
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: Iqbal Abdulla
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: AB de Villiers
+            bowler: RA Jadeja
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.6:
+            batsman: Iqbal Abdulla
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: AB de Villiers
+            bowler: DJ Bravo
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: Iqbal Abdulla
+            bowler: DJ Bravo
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: Iqbal Abdulla
+            bowler: DJ Bravo
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: AB de Villiers
+            bowler: DJ Bravo
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: Iqbal Abdulla
+            bowler: DJ Bravo
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: Iqbal Abdulla
+            bowler: DJ Bravo
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.1:
+            batsman: Iqbal Abdulla
+            bowler: DR Smith
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.2:
+            batsman: Iqbal Abdulla
+            bowler: DR Smith
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: AB de Villiers
+            bowler: DR Smith
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.4:
+            batsman: AB de Villiers
+            bowler: DR Smith
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 14.5:
+            batsman: AB de Villiers
+            bowler: DR Smith
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: Iqbal Abdulla
+            bowler: DR Smith
+            non_striker: AB de Villiers
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.1:
+            batsman: AB de Villiers
+            bowler: SB Jakati
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 15.2:
+            batsman: AB de Villiers
+            bowler: SB Jakati
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.3:
+            batsman: Iqbal Abdulla
+            bowler: SB Jakati
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.4:
+            batsman: AB de Villiers
+            bowler: SB Jakati
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: Iqbal Abdulla
+            bowler: SB Jakati
+            non_striker: AB de Villiers
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 15.6:
+            batsman: Iqbal Abdulla
+            bowler: SB Jakati
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: Iqbal Abdulla
+            bowler: P Kumar
+            extras:
+              legbyes: 1
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 16.2:
+            batsman: AB de Villiers
+            bowler: P Kumar
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: AB de Villiers
+            bowler: P Kumar
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 16.4:
+            batsman: AB de Villiers
+            bowler: P Kumar
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: AB de Villiers
+            bowler: P Kumar
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.6:
+            batsman: AB de Villiers
+            bowler: P Kumar
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: AB de Villiers
+            bowler: DJ Bravo
+            extras:
+              legbyes: 4
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 17.2:
+            batsman: AB de Villiers
+            bowler: DJ Bravo
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: AB de Villiers
+            bowler: DJ Bravo
+            extras:
+              wides: 1
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 17.4:
+            batsman: AB de Villiers
+            bowler: DJ Bravo
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: Iqbal Abdulla
+            bowler: DJ Bravo
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.6:
+            batsman: Iqbal Abdulla
+            bowler: DJ Bravo
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.7:
+            batsman: Iqbal Abdulla
+            bowler: DJ Bravo
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.1:
+            batsman: AB de Villiers
+            bowler: P Kumar
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: Iqbal Abdulla
+            bowler: P Kumar
+            non_striker: AB de Villiers
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2

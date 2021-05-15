@@ -1,0 +1,1109 @@
+---
+meta:
+  data_version: 0.9
+  created: 2015-05-03
+  revision: 1
+info:
+  city: Bangalore
+  competition: IPL
+  dates:
+    - 2015-05-02
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      wickets: 7
+    winner: Royal Challengers Bangalore
+  overs: 20
+  player_of_match:
+    - Mandeep Singh
+  teams:
+    - Royal Challengers Bangalore
+    - Kolkata Knight Riders
+  toss:
+    decision: field
+    winner: Royal Challengers Bangalore
+  umpires:
+    - JD Cloete
+    - PG Pathak
+  venue: M Chinnaswamy Stadium
+innings:
+  - 1st innings:
+      team: Kolkata Knight Riders
+      deliveries:
+        - 0.1:
+            batsman: RV Uthappa
+            bowler: MA Starc
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: RV Uthappa
+            bowler: MA Starc
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: RV Uthappa
+            bowler: MA Starc
+            extras:
+              wides: 1
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.4:
+            batsman: RV Uthappa
+            bowler: MA Starc
+            non_striker: G Gambhir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.5:
+            batsman: G Gambhir
+            bowler: MA Starc
+            extras:
+              wides: 1
+            non_striker: RV Uthappa
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.6:
+            batsman: G Gambhir
+            bowler: MA Starc
+            non_striker: RV Uthappa
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.7:
+            batsman: G Gambhir
+            bowler: MA Starc
+            non_striker: RV Uthappa
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.8:
+            batsman: RV Uthappa
+            bowler: MA Starc
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: G Gambhir
+            bowler: VR Aaron
+            non_striker: RV Uthappa
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.2:
+            batsman: RV Uthappa
+            bowler: VR Aaron
+            non_striker: G Gambhir
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.3:
+            batsman: RV Uthappa
+            bowler: VR Aaron
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: RV Uthappa
+            bowler: VR Aaron
+            non_striker: G Gambhir
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.5:
+            batsman: RV Uthappa
+            bowler: VR Aaron
+            non_striker: G Gambhir
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.6:
+            batsman: RV Uthappa
+            bowler: VR Aaron
+            non_striker: G Gambhir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.1:
+            batsman: RV Uthappa
+            bowler: HV Patel
+            extras:
+              legbyes: 1
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.2:
+            batsman: G Gambhir
+            bowler: HV Patel
+            extras:
+              wides: 1
+            non_striker: RV Uthappa
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.3:
+            batsman: G Gambhir
+            bowler: HV Patel
+            non_striker: RV Uthappa
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.4:
+            batsman: RV Uthappa
+            bowler: HV Patel
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: RV Uthappa
+            bowler: HV Patel
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: RV Uthappa
+            bowler: HV Patel
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.7:
+            batsman: RV Uthappa
+            bowler: HV Patel
+            non_striker: G Gambhir
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.1:
+            batsman: G Gambhir
+            bowler: D Wiese
+            non_striker: RV Uthappa
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.2:
+            batsman: RV Uthappa
+            bowler: D Wiese
+            non_striker: G Gambhir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: G Gambhir
+            bowler: D Wiese
+            non_striker: RV Uthappa
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.4:
+            batsman: G Gambhir
+            bowler: D Wiese
+            non_striker: RV Uthappa
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: G Gambhir
+            bowler: D Wiese
+            non_striker: RV Uthappa
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Mandeep Singh
+              kind: caught
+              player_out: G Gambhir
+        - 3.6:
+            batsman: AD Russell
+            bowler: D Wiese
+            non_striker: RV Uthappa
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: AD Russell
+            bowler: YS Chahal
+            non_striker: RV Uthappa
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.2:
+            batsman: RV Uthappa
+            bowler: YS Chahal
+            non_striker: AD Russell
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.3:
+            batsman: RV Uthappa
+            bowler: YS Chahal
+            non_striker: AD Russell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.4:
+            batsman: AD Russell
+            bowler: YS Chahal
+            non_striker: RV Uthappa
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: RV Uthappa
+            bowler: YS Chahal
+            non_striker: AD Russell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: AD Russell
+            bowler: YS Chahal
+            non_striker: RV Uthappa
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.1:
+            batsman: RV Uthappa
+            bowler: VR Aaron
+            non_striker: AD Russell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.2:
+            batsman: AD Russell
+            bowler: VR Aaron
+            non_striker: RV Uthappa
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 5.3:
+            batsman: AD Russell
+            bowler: VR Aaron
+            non_striker: RV Uthappa
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: AD Russell
+            bowler: VR Aaron
+            non_striker: RV Uthappa
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: AD Russell
+            bowler: VR Aaron
+            non_striker: RV Uthappa
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.6:
+            batsman: AD Russell
+            bowler: VR Aaron
+            non_striker: RV Uthappa
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 6.1:
+            batsman: RV Uthappa
+            bowler: YS Chahal
+            non_striker: AD Russell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: AD Russell
+            bowler: YS Chahal
+            non_striker: RV Uthappa
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.3:
+            batsman: AD Russell
+            bowler: YS Chahal
+            non_striker: RV Uthappa
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.4:
+            batsman: AD Russell
+            bowler: YS Chahal
+            non_striker: RV Uthappa
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: RV Uthappa
+            bowler: YS Chahal
+            non_striker: AD Russell
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KD Karthik
+              kind: caught
+              player_out: RV Uthappa
+        - 6.6:
+            batsman: AD Russell
+            bowler: YS Chahal
+            non_striker: RN ten Doeschate
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.1:
+            batsman: RN ten Doeschate
+            bowler: D Wiese
+            non_striker: AD Russell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: AD Russell
+            bowler: D Wiese
+            non_striker: RN ten Doeschate
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.3:
+            batsman: AD Russell
+            bowler: D Wiese
+            non_striker: RN ten Doeschate
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: RN ten Doeschate
+            bowler: D Wiese
+            non_striker: AD Russell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: AD Russell
+            bowler: D Wiese
+            non_striker: RN ten Doeschate
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: AD Russell
+            bowler: D Wiese
+            non_striker: RN ten Doeschate
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.1:
+            batsman: RN ten Doeschate
+            bowler: HV Patel
+            non_striker: AD Russell
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.2:
+            batsman: RN ten Doeschate
+            bowler: HV Patel
+            non_striker: AD Russell
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: RN ten Doeschate
+            bowler: HV Patel
+            non_striker: AD Russell
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.4:
+            batsman: RN ten Doeschate
+            bowler: HV Patel
+            non_striker: AD Russell
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KD Karthik
+              kind: run out
+              player_out: AD Russell
+        - 8.5:
+            batsman: YK Pathan
+            bowler: HV Patel
+            non_striker: RN ten Doeschate
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: YK Pathan
+            bowler: HV Patel
+            non_striker: RN ten Doeschate
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 9.1:
+            batsman: RN ten Doeschate
+            bowler: MA Starc
+            non_striker: YK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - AB de Villiers
+              kind: caught
+              player_out: RN ten Doeschate
+        - 9.2:
+            batsman: YK Pathan
+            bowler: MA Starc
+            non_striker: SA Yadav
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: SA Yadav
+            bowler: MA Starc
+            extras:
+              legbyes: 1
+            non_striker: YK Pathan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.4:
+            batsman: YK Pathan
+            bowler: MA Starc
+            extras:
+              noballs: 1
+            non_striker: SA Yadav
+            runs:
+              batsman: 2
+              extras: 1
+              total: 3
+        - 9.5:
+            batsman: YK Pathan
+            bowler: MA Starc
+            non_striker: SA Yadav
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: SA Yadav
+            bowler: MA Starc
+            extras:
+              legbyes: 1
+            non_striker: YK Pathan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.7:
+            batsman: YK Pathan
+            bowler: MA Starc
+            extras:
+              wides: 1
+            non_striker: SA Yadav
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.8:
+            batsman: YK Pathan
+            bowler: MA Starc
+            non_striker: SA Yadav
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+  - 2nd innings:
+      team: Royal Challengers Bangalore
+      deliveries:
+        - 0.1:
+            batsman: CH Gayle
+            bowler: PJ Cummins
+            extras:
+              wides: 1
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.2:
+            batsman: CH Gayle
+            bowler: PJ Cummins
+            extras:
+              wides: 1
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.3:
+            batsman: CH Gayle
+            bowler: PJ Cummins
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.4:
+            batsman: V Kohli
+            bowler: PJ Cummins
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: V Kohli
+            bowler: PJ Cummins
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: V Kohli
+            bowler: PJ Cummins
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.7:
+            batsman: V Kohli
+            bowler: PJ Cummins
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.8:
+            batsman: V Kohli
+            bowler: PJ Cummins
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.1:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 1.2:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.3:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.6:
+            batsman: CH Gayle
+            bowler: UT Yadav
+            extras:
+              wides: 1
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.7:
+            batsman: CH Gayle
+            bowler: UT Yadav
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 2.1:
+            batsman: V Kohli
+            bowler: PJ Cummins
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.2:
+            batsman: V Kohli
+            bowler: PJ Cummins
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.3:
+            batsman: CH Gayle
+            bowler: PJ Cummins
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.4:
+            batsman: V Kohli
+            bowler: PJ Cummins
+            non_striker: CH Gayle
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 2.5:
+            batsman: V Kohli
+            bowler: PJ Cummins
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.6:
+            batsman: CH Gayle
+            bowler: PJ Cummins
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.1:
+            batsman: CH Gayle
+            bowler: GB Hogg
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 3.2:
+            batsman: CH Gayle
+            bowler: GB Hogg
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: CH Gayle
+            bowler: GB Hogg
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 3.4:
+            batsman: CH Gayle
+            bowler: GB Hogg
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: CH Gayle
+            bowler: GB Hogg
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - AD Russell
+              kind: caught
+              player_out: CH Gayle
+        - 3.6:
+            batsman: AB de Villiers
+            bowler: GB Hogg
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: AB de Villiers
+            bowler: PP Chawla
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: AB de Villiers
+            bowler: PP Chawla
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: V Kohli
+            bowler: PP Chawla
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.4:
+            batsman: AB de Villiers
+            bowler: PP Chawla
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: AB de Villiers
+        - 4.5:
+            batsman: Mandeep Singh
+            bowler: PP Chawla
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: Mandeep Singh
+            bowler: PP Chawla
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.1:
+            batsman: Mandeep Singh
+            bowler: GB Hogg
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.2:
+            batsman: V Kohli
+            bowler: GB Hogg
+            non_striker: Mandeep Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.3:
+            batsman: Mandeep Singh
+            bowler: GB Hogg
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: V Kohli
+            bowler: GB Hogg
+            non_striker: Mandeep Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: Mandeep Singh
+            bowler: GB Hogg
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: Mandeep Singh
+            bowler: GB Hogg
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 6.1:
+            batsman: V Kohli
+            bowler: PP Chawla
+            non_striker: Mandeep Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: Mandeep Singh
+            bowler: PP Chawla
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.3:
+            batsman: Mandeep Singh
+            bowler: PP Chawla
+            non_striker: V Kohli
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.4:
+            batsman: Mandeep Singh
+            bowler: PP Chawla
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.5:
+            batsman: Mandeep Singh
+            bowler: PP Chawla
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: V Kohli
+            bowler: PP Chawla
+            non_striker: Mandeep Singh
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 7.1:
+            batsman: Mandeep Singh
+            bowler: AD Russell
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: V Kohli
+            bowler: AD Russell
+            non_striker: Mandeep Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - SA Yadav
+              kind: caught
+              player_out: V Kohli
+        - 7.3:
+            batsman: D Wiese
+            bowler: AD Russell
+            extras:
+              wides: 1
+            non_striker: Mandeep Singh
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 7.4:
+            batsman: D Wiese
+            bowler: AD Russell
+            non_striker: Mandeep Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: Mandeep Singh
+            bowler: AD Russell
+            non_striker: D Wiese
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: D Wiese
+            bowler: AD Russell
+            non_striker: Mandeep Singh
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.7:
+            batsman: D Wiese
+            bowler: AD Russell
+            non_striker: Mandeep Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: D Wiese
+            bowler: UT Yadav
+            non_striker: Mandeep Singh
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.2:
+            batsman: D Wiese
+            bowler: UT Yadav
+            non_striker: Mandeep Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: Mandeep Singh
+            bowler: UT Yadav
+            non_striker: D Wiese
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: D Wiese
+            bowler: UT Yadav
+            non_striker: Mandeep Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: Mandeep Singh
+            bowler: UT Yadav
+            non_striker: D Wiese
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.6:
+            batsman: Mandeep Singh
+            bowler: UT Yadav
+            non_striker: D Wiese
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.1:
+            batsman: D Wiese
+            bowler: AD Russell
+            non_striker: Mandeep Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: Mandeep Singh
+            bowler: AD Russell
+            non_striker: D Wiese
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 9.3:
+            batsman: Mandeep Singh
+            bowler: AD Russell
+            non_striker: D Wiese
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 9.4:
+            batsman: Mandeep Singh
+            bowler: AD Russell
+            non_striker: D Wiese
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6

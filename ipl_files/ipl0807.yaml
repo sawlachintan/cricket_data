@@ -1,0 +1,1759 @@
+---
+meta:
+  data_version: 0.9
+  created: '2020-11-02'
+  revision: 1
+info:
+  competition: IPL
+  dates:
+  - '2020-10-31'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Mumbai Indians
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - Ishan Kishan
+  teams:
+  - Delhi Capitals
+  - Mumbai Indians
+  toss:
+    decision: field
+    winner: Mumbai Indians
+  umpires:
+  - YC Barde
+  - PR Reiffel
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: Delhi Capitals
+    deliveries:
+    - 0.1:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PP Shaw
+    - 0.2:
+        non_striker: PP Shaw
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 0.3:
+        non_striker: PP Shaw
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+        wicket:
+          player_out: S Dhawan
+          fielders:
+          - SA Yadav
+          kind: caught
+    - 0.4:
+        non_striker: PP Shaw
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 0.5:
+        non_striker: PP Shaw
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 0.6:
+        non_striker: PP Shaw
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 1.1:
+        non_striker: SS Iyer
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+    - 1.2:
+        non_striker: SS Iyer
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+    - 1.3:
+        non_striker: SS Iyer
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+    - 1.4:
+        non_striker: SS Iyer
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PP Shaw
+    - 1.5:
+        non_striker: PP Shaw
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 1.6:
+        non_striker: PP Shaw
+        bowler: KH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SS Iyer
+    - 1.7:
+        non_striker: PP Shaw
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 2.1:
+        non_striker: SS Iyer
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PP Shaw
+    - 2.2:
+        non_striker: SS Iyer
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+    - 2.3:
+        non_striker: SS Iyer
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+    - 2.4:
+        non_striker: SS Iyer
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PP Shaw
+    - 2.5:
+        non_striker: SS Iyer
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+    - 2.6:
+        non_striker: SS Iyer
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+        wicket:
+          player_out: PP Shaw
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 3.1:
+        non_striker: RR Pant
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 3.2:
+        non_striker: RR Pant
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 3.3:
+        non_striker: SS Iyer
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 3.4:
+        non_striker: SS Iyer
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 3.5:
+        non_striker: RR Pant
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 3.6:
+        non_striker: SS Iyer
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 4.1:
+        non_striker: RR Pant
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 4.2:
+        non_striker: RR Pant
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 4.3:
+        non_striker: RR Pant
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 4.4:
+        non_striker: SS Iyer
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 4.5:
+        non_striker: SS Iyer
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 4.6:
+        non_striker: SS Iyer
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 5.1:
+        non_striker: RR Pant
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 5.2:
+        non_striker: RR Pant
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 5.3:
+        non_striker: RR Pant
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 5.4:
+        non_striker: SS Iyer
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 5.5:
+        non_striker: RR Pant
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 5.6:
+        non_striker: SS Iyer
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 6.1:
+        non_striker: RR Pant
+        bowler: KH Pandya
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: SS Iyer
+    - 6.2:
+        non_striker: RR Pant
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 6.3:
+        non_striker: RR Pant
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 6.4:
+        non_striker: SS Iyer
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 6.5:
+        non_striker: RR Pant
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 6.6:
+        non_striker: SS Iyer
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 7.1:
+        non_striker: SS Iyer
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 7.2:
+        non_striker: RR Pant
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 7.3:
+        non_striker: RR Pant
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 7.4:
+        non_striker: RR Pant
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 7.5:
+        non_striker: SS Iyer
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 7.6:
+        non_striker: RR Pant
+        bowler: J Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 8.1:
+        non_striker: RR Pant
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 8.2:
+        non_striker: RR Pant
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 8.3:
+        non_striker: SS Iyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 8.4:
+        non_striker: RR Pant
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 8.5:
+        non_striker: SS Iyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 8.6:
+        non_striker: SS Iyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 9.1:
+        non_striker: SS Iyer
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Pant
+    - 9.2:
+        non_striker: SS Iyer
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 9.3:
+        non_striker: SS Iyer
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 9.4:
+        non_striker: SS Iyer
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 9.5:
+        non_striker: RR Pant
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 9.6:
+        non_striker: RR Pant
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 10.1:
+        non_striker: SS Iyer
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 10.2:
+        non_striker: RR Pant
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+        wicket:
+          player_out: SS Iyer
+          fielders:
+          - Q de Kock
+          kind: stumped
+    - 10.3:
+        non_striker: RR Pant
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 10.4:
+        non_striker: MP Stoinis
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 10.5:
+        non_striker: RR Pant
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 10.6:
+        non_striker: MP Stoinis
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 11.1:
+        non_striker: RR Pant
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+        wicket:
+          player_out: MP Stoinis
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 11.2:
+        non_striker: RR Pant
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 11.3:
+        non_striker: SO Hetmyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 11.4:
+        non_striker: SO Hetmyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+        wicket:
+          player_out: RR Pant
+          kind: lbw
+    - 11.5:
+        non_striker: SO Hetmyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HV Patel
+    - 11.6:
+        non_striker: SO Hetmyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+    - 11.7:
+        non_striker: SO Hetmyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+    - 12.1:
+        non_striker: HV Patel
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 12.2:
+        non_striker: HV Patel
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.3:
+        non_striker: SO Hetmyer
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 12.4:
+        non_striker: HV Patel
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 12.5:
+        non_striker: HV Patel
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 12.6:
+        non_striker: HV Patel
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 13.1:
+        non_striker: SO Hetmyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+    - 13.2:
+        non_striker: SO Hetmyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HV Patel
+    - 13.3:
+        non_striker: SO Hetmyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+    - 13.4:
+        non_striker: SO Hetmyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+    - 13.5:
+        non_striker: SO Hetmyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+    - 13.6:
+        non_striker: SO Hetmyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+        wicket:
+          player_out: HV Patel
+          kind: lbw
+    - 14.1:
+        non_striker: R Ashwin
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 14.2:
+        non_striker: R Ashwin
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 14.3:
+        non_striker: R Ashwin
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 14.4:
+        non_striker: R Ashwin
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 14.5:
+        non_striker: R Ashwin
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.6:
+        non_striker: SO Hetmyer
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 15.1:
+        non_striker: R Ashwin
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 15.2:
+        non_striker: R Ashwin
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - KH Pandya
+          kind: caught
+    - 15.3:
+        non_striker: R Ashwin
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dubey
+    - 15.4:
+        non_striker: P Dubey
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 15.5:
+        non_striker: P Dubey
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Ashwin
+    - 15.6:
+        non_striker: P Dubey
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Ashwin
+    - 16.1:
+        non_striker: R Ashwin
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Dubey
+    - 16.2:
+        non_striker: R Ashwin
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dubey
+    - 16.3:
+        non_striker: R Ashwin
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dubey
+    - 16.4:
+        non_striker: R Ashwin
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dubey
+    - 16.5:
+        non_striker: P Dubey
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 16.6:
+        non_striker: P Dubey
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Ashwin
+    - 17.1:
+        non_striker: R Ashwin
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dubey
+    - 17.2:
+        non_striker: P Dubey
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 17.3:
+        non_striker: R Ashwin
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dubey
+    - 17.4:
+        non_striker: R Ashwin
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dubey
+    - 17.5:
+        non_striker: R Ashwin
+        bowler: KH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Dubey
+    - 17.6:
+        non_striker: P Dubey
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 18.1:
+        non_striker: P Dubey
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+        wicket:
+          player_out: R Ashwin
+          fielders:
+          - KH Pandya
+          kind: caught
+    - 18.2:
+        non_striker: K Rabada
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dubey
+    - 18.3:
+        non_striker: P Dubey
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Rabada
+    - 18.4:
+        non_striker: P Dubey
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 18.5:
+        non_striker: P Dubey
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Rabada
+    - 18.6:
+        non_striker: P Dubey
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Rabada
+    - 19.1:
+        non_striker: K Rabada
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dubey
+    - 19.2:
+        non_striker: K Rabada
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dubey
+    - 19.3:
+        non_striker: K Rabada
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dubey
+    - 19.4:
+        non_striker: P Dubey
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Rabada
+    - 19.5:
+        non_striker: P Dubey
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 19.6:
+        non_striker: P Dubey
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+        wicket:
+          player_out: K Rabada
+          kind: run out
+- 2nd innings:
+    team: Mumbai Indians
+    deliveries:
+    - 0.1:
+        non_striker: Q de Kock
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.2:
+        non_striker: Q de Kock
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 0.3:
+        non_striker: Ishan Kishan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: Q de Kock
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.5:
+        non_striker: Q de Kock
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.6:
+        non_striker: Q de Kock
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 1.1:
+        non_striker: Ishan Kishan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.2:
+        non_striker: Ishan Kishan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.3:
+        non_striker: Ishan Kishan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 1.4:
+        non_striker: Ishan Kishan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.5:
+        non_striker: Ishan Kishan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Q de Kock
+    - 1.6:
+        non_striker: Q de Kock
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 2.1:
+        non_striker: Ishan Kishan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.2:
+        non_striker: Q de Kock
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 2.3:
+        non_striker: Ishan Kishan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.4:
+        non_striker: Ishan Kishan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.5:
+        non_striker: Ishan Kishan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.6:
+        non_striker: Q de Kock
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 3.1:
+        non_striker: Ishan Kishan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.2:
+        non_striker: Ishan Kishan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 3.3:
+        non_striker: Ishan Kishan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 3.4:
+        non_striker: Q de Kock
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 3.5:
+        non_striker: Q de Kock
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 3.6:
+        non_striker: Q de Kock
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 4.1:
+        non_striker: Ishan Kishan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 4.2:
+        non_striker: Q de Kock
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 4.3:
+        non_striker: Q de Kock
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 4.4:
+        non_striker: Ishan Kishan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 4.5:
+        non_striker: Q de Kock
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 4.6:
+        non_striker: Q de Kock
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 5.1:
+        non_striker: Q de Kock
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 5.2:
+        non_striker: Q de Kock
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 5.3:
+        non_striker: Q de Kock
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 5.4:
+        non_striker: Ishan Kishan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 5.5:
+        non_striker: Q de Kock
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 5.6:
+        non_striker: Q de Kock
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 6.1:
+        non_striker: Q de Kock
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 6.2:
+        non_striker: Ishan Kishan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.3:
+        non_striker: Q de Kock
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 6.4:
+        non_striker: Q de Kock
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 6.5:
+        non_striker: Ishan Kishan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 6.6:
+        non_striker: Ishan Kishan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 7.1:
+        non_striker: Q de Kock
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 7.2:
+        non_striker: Q de Kock
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 7.3:
+        non_striker: Q de Kock
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 7.4:
+        non_striker: Q de Kock
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 7.5:
+        non_striker: Ishan Kishan
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 7.6:
+        non_striker: Ishan Kishan
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 8.1:
+        non_striker: Q de Kock
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 8.2:
+        non_striker: Q de Kock
+        bowler: HV Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ishan Kishan
+    - 8.3:
+        non_striker: Q de Kock
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 8.4:
+        non_striker: Ishan Kishan
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 8.5:
+        non_striker: Ishan Kishan
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 8.6:
+        non_striker: Ishan Kishan
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 8.7:
+        non_striker: Q de Kock
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 9.1:
+        non_striker: Q de Kock
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 9.2:
+        non_striker: Ishan Kishan
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 9.3:
+        non_striker: Q de Kock
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 9.4:
+        non_striker: Ishan Kishan
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 9.5:
+        non_striker: Q de Kock
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 9.6:
+        non_striker: Q de Kock
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 10.1:
+        non_striker: Ishan Kishan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 10.2:
+        non_striker: Ishan Kishan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          kind: bowled
+    - 10.3:
+        non_striker: Ishan Kishan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 10.4:
+        non_striker: SA Yadav
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 10.5:
+        non_striker: Ishan Kishan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 10.6:
+        non_striker: Ishan Kishan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 11.1:
+        non_striker: SA Yadav
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 11.2:
+        non_striker: SA Yadav
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 11.3:
+        non_striker: SA Yadav
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 11.4:
+        non_striker: SA Yadav
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 11.5:
+        non_striker: Ishan Kishan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 11.6:
+        non_striker: Ishan Kishan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 12.1:
+        non_striker: SA Yadav
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 12.2:
+        non_striker: SA Yadav
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 12.3:
+        non_striker: SA Yadav
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 12.4:
+        non_striker: Ishan Kishan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 12.5:
+        non_striker: Ishan Kishan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 12.6:
+        non_striker: Ishan Kishan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 13.1:
+        non_striker: Ishan Kishan
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 13.2:
+        non_striker: SA Yadav
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 13.3:
+        non_striker: SA Yadav
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 13.4:
+        non_striker: Ishan Kishan
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 13.5:
+        non_striker: SA Yadav
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 13.6:
+        non_striker: Ishan Kishan
+        bowler: P Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 14.1:
+        non_striker: SA Yadav
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 14.2:
+        non_striker: SA Yadav
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan

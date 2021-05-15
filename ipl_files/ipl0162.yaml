@@ -1,0 +1,1805 @@
+---
+meta:
+  data_version: 0.9
+  created: 2011-04-29
+  revision: 2
+info:
+  city: Chennai
+  competition: IPL
+  dates:
+    - 2010-04-13
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      wickets: 9
+    winner: Chennai Super Kings
+  overs: 20
+  player_of_match:
+    - R Ashwin
+  teams:
+    - Chennai Super Kings
+    - Kolkata Knight Riders
+  toss:
+    decision: bat
+    winner: Kolkata Knight Riders
+  umpires:
+    - SS Hazare
+    - SJA Taufel
+  venue: 'MA Chidambaram Stadium, Chepauk'
+innings:
+  - 1st innings:
+      team: Kolkata Knight Riders
+      deliveries:
+        - 0.1:
+            batsman: SC Ganguly
+            bowler: R Ashwin
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: SC Ganguly
+            bowler: R Ashwin
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: SC Ganguly
+            bowler: R Ashwin
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.4:
+            batsman: CH Gayle
+            bowler: R Ashwin
+            non_striker: SC Ganguly
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.5:
+            batsman: SC Ganguly
+            bowler: R Ashwin
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.6:
+            batsman: CH Gayle
+            bowler: R Ashwin
+            non_striker: SC Ganguly
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: SC Ganguly
+            bowler: DE Bollinger
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: SC Ganguly
+            bowler: DE Bollinger
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.3:
+            batsman: SC Ganguly
+            bowler: DE Bollinger
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: SC Ganguly
+            bowler: DE Bollinger
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: SC Ganguly
+            bowler: DE Bollinger
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.6:
+            batsman: SC Ganguly
+            bowler: DE Bollinger
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: CH Gayle
+            bowler: R Ashwin
+            non_striker: SC Ganguly
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 2.2:
+            batsman: CH Gayle
+            bowler: R Ashwin
+            non_striker: SC Ganguly
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MS Dhoni
+              kind: stumped
+              player_out: CH Gayle
+        - 2.3:
+            batsman: BB McCullum
+            bowler: R Ashwin
+            non_striker: SC Ganguly
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: BB McCullum
+            bowler: R Ashwin
+            non_striker: SC Ganguly
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: BB McCullum
+            bowler: R Ashwin
+            non_striker: SC Ganguly
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: BB McCullum
+            bowler: R Ashwin
+            non_striker: SC Ganguly
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - M Muralitharan
+              kind: caught
+              player_out: BB McCullum
+        - 3.1:
+            batsman: SC Ganguly
+            bowler: DE Bollinger
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: SC Ganguly
+            bowler: DE Bollinger
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: SC Ganguly
+        - 3.3:
+            batsman: DJ Hussey
+            bowler: DE Bollinger
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: DJ Hussey
+            bowler: DE Bollinger
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: DJ Hussey
+            bowler: DE Bollinger
+            extras:
+              legbyes: 1
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.6:
+            batsman: MK Tiwary
+            bowler: DE Bollinger
+            non_striker: DJ Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: DJ Hussey
+            bowler: R Ashwin
+            extras:
+              wides: 1
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+            wicket:
+              fielders:
+                - MS Dhoni
+              kind: stumped
+              player_out: DJ Hussey
+        - 4.2:
+            batsman: AD Mathews
+            bowler: R Ashwin
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: AD Mathews
+            bowler: R Ashwin
+            non_striker: MK Tiwary
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.4:
+            batsman: AD Mathews
+            bowler: R Ashwin
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: AD Mathews
+            bowler: R Ashwin
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: AD Mathews
+            bowler: R Ashwin
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.7:
+            batsman: AD Mathews
+            bowler: R Ashwin
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: MK Tiwary
+            bowler: DE Bollinger
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: MK Tiwary
+            bowler: DE Bollinger
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: MK Tiwary
+            bowler: DE Bollinger
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: MK Tiwary
+            bowler: DE Bollinger
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: AD Mathews
+            bowler: DE Bollinger
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: AD Mathews
+            bowler: DE Bollinger
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: MK Tiwary
+            bowler: R Ashwin
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: AD Mathews
+            bowler: R Ashwin
+            extras:
+              legbyes: 4
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 6.3:
+            batsman: AD Mathews
+            bowler: R Ashwin
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: MK Tiwary
+            bowler: R Ashwin
+            non_striker: AD Mathews
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.5:
+            batsman: MK Tiwary
+            bowler: R Ashwin
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: MK Tiwary
+            bowler: R Ashwin
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: AD Mathews
+            bowler: JA Morkel
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: AD Mathews
+            bowler: JA Morkel
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: MK Tiwary
+            bowler: JA Morkel
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: MK Tiwary
+            bowler: JA Morkel
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: AD Mathews
+            bowler: JA Morkel
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: MK Tiwary
+            bowler: JA Morkel
+            extras:
+              wides: 5
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 5
+              total: 5
+        - 7.7:
+            batsman: MK Tiwary
+            bowler: JA Morkel
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: MK Tiwary
+            bowler: SB Jakati
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: MK Tiwary
+            bowler: SB Jakati
+            non_striker: AD Mathews
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.3:
+            batsman: MK Tiwary
+            bowler: SB Jakati
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: MK Tiwary
+            bowler: SB Jakati
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: AD Mathews
+            bowler: SB Jakati
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.6:
+            batsman: MK Tiwary
+            bowler: SB Jakati
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: MK Tiwary
+            bowler: JA Morkel
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: AD Mathews
+            bowler: JA Morkel
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: MK Tiwary
+            bowler: JA Morkel
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: MK Tiwary
+            bowler: JA Morkel
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: AD Mathews
+            bowler: JA Morkel
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: MK Tiwary
+            bowler: JA Morkel
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: MK Tiwary
+            bowler: M Muralitharan
+            non_striker: AD Mathews
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 10.2:
+            batsman: AD Mathews
+            bowler: M Muralitharan
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: AD Mathews
+            bowler: M Muralitharan
+            non_striker: MK Tiwary
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.4:
+            batsman: AD Mathews
+            bowler: M Muralitharan
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: AD Mathews
+            bowler: M Muralitharan
+            non_striker: MK Tiwary
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 10.6:
+            batsman: AD Mathews
+            bowler: M Muralitharan
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: AD Mathews
+            bowler: SB Jakati
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: AD Mathews
+            bowler: SB Jakati
+            extras:
+              wides: 1
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 11.3:
+            batsman: AD Mathews
+            bowler: SB Jakati
+            non_striker: MK Tiwary
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.4:
+            batsman: AD Mathews
+            bowler: SB Jakati
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: AD Mathews
+            bowler: SB Jakati
+            non_striker: MK Tiwary
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.6:
+            batsman: AD Mathews
+            bowler: SB Jakati
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.7:
+            batsman: AD Mathews
+            bowler: SB Jakati
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: MK Tiwary
+            bowler: M Muralitharan
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: AD Mathews
+            bowler: M Muralitharan
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: MK Tiwary
+            bowler: M Muralitharan
+            non_striker: AD Mathews
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.4:
+            batsman: MK Tiwary
+            bowler: M Muralitharan
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: AD Mathews
+            bowler: M Muralitharan
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: AD Mathews
+            bowler: M Muralitharan
+            non_striker: MK Tiwary
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 13.1:
+            batsman: MK Tiwary
+            bowler: SB Jakati
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: AD Mathews
+            bowler: SB Jakati
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: MK Tiwary
+            bowler: SB Jakati
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: MK Tiwary
+            bowler: SB Jakati
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: AD Mathews
+            bowler: SB Jakati
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: MK Tiwary
+            bowler: SB Jakati
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: AD Mathews
+            bowler: SK Raina
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: MK Tiwary
+            bowler: SK Raina
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: AD Mathews
+            bowler: SK Raina
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: MK Tiwary
+            bowler: SK Raina
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - M Vijay
+              kind: caught
+              player_out: MK Tiwary
+        - 14.5:
+            batsman: AD Mathews
+            bowler: SK Raina
+            non_striker: WP Saha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: AD Mathews
+            bowler: SK Raina
+            non_striker: WP Saha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: AD Mathews
+            bowler: SB Jakati
+            non_striker: WP Saha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: WP Saha
+            bowler: SB Jakati
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.3:
+            batsman: AD Mathews
+            bowler: SB Jakati
+            non_striker: WP Saha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: AD Mathews
+            bowler: SB Jakati
+            non_striker: WP Saha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: WP Saha
+            bowler: SB Jakati
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MS Dhoni
+              kind: stumped
+              player_out: WP Saha
+        - 15.6:
+            batsman: LR Shukla
+            bowler: SB Jakati
+            non_striker: AD Mathews
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.1:
+            batsman: AD Mathews
+            bowler: SK Raina
+            non_striker: LR Shukla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: AD Mathews
+            bowler: SK Raina
+            non_striker: LR Shukla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: LR Shukla
+            bowler: SK Raina
+            non_striker: AD Mathews
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 16.4:
+            batsman: LR Shukla
+            bowler: SK Raina
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: LR Shukla
+            bowler: SK Raina
+            non_striker: AD Mathews
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 16.6:
+            batsman: LR Shukla
+            bowler: SK Raina
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: LR Shukla
+            bowler: M Muralitharan
+            extras:
+              wides: 5
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 5
+              total: 5
+        - 17.2:
+            batsman: LR Shukla
+            bowler: M Muralitharan
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: AD Mathews
+            bowler: M Muralitharan
+            extras:
+              wides: 1
+            non_striker: LR Shukla
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 17.4:
+            batsman: AD Mathews
+            bowler: M Muralitharan
+            non_striker: LR Shukla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: LR Shukla
+            bowler: M Muralitharan
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: AD Mathews
+            bowler: M Muralitharan
+            non_striker: LR Shukla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.7:
+            batsman: LR Shukla
+            bowler: M Muralitharan
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.8:
+            batsman: LR Shukla
+            bowler: M Muralitharan
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: AD Mathews
+            bowler: DE Bollinger
+            non_striker: LR Shukla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: LR Shukla
+            bowler: DE Bollinger
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - ML Hayden
+              kind: caught
+              player_out: LR Shukla
+        - 18.3:
+            batsman: AD Mathews
+            bowler: DE Bollinger
+            non_striker: AB Agarkar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.4:
+            batsman: AB Agarkar
+            bowler: DE Bollinger
+            non_striker: AD Mathews
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.5:
+            batsman: AB Agarkar
+            bowler: DE Bollinger
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: AB Agarkar
+            bowler: DE Bollinger
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: AD Mathews
+            bowler: M Muralitharan
+            non_striker: AB Agarkar
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.2:
+            batsman: AD Mathews
+            bowler: M Muralitharan
+            extras:
+              wides: 1
+            non_striker: AB Agarkar
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 19.3:
+            batsman: AD Mathews
+            bowler: M Muralitharan
+            non_striker: AB Agarkar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.4:
+            batsman: AD Mathews
+            bowler: M Muralitharan
+            non_striker: AB Agarkar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - ML Hayden
+              kind: caught
+              player_out: AD Mathews
+        - 19.5:
+            batsman: AB Agarkar
+            bowler: M Muralitharan
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.6:
+            batsman: AB Agarkar
+            bowler: M Muralitharan
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.7:
+            batsman: Iqbal Abdulla
+            bowler: M Muralitharan
+            extras:
+              byes: 1
+            non_striker: AB Agarkar
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+  - 2nd innings:
+      team: Chennai Super Kings
+      deliveries:
+        - 0.1:
+            batsman: M Vijay
+            bowler: CH Gayle
+            extras:
+              wides: 5
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 5
+              total: 5
+        - 0.2:
+            batsman: M Vijay
+            bowler: CH Gayle
+            non_striker: ML Hayden
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.3:
+            batsman: ML Hayden
+            bowler: CH Gayle
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: ML Hayden
+            bowler: CH Gayle
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: ML Hayden
+        - 0.5:
+            batsman: SK Raina
+            bowler: CH Gayle
+            non_striker: M Vijay
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 0.6:
+            batsman: SK Raina
+            bowler: CH Gayle
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.7:
+            batsman: SK Raina
+            bowler: CH Gayle
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: M Vijay
+            bowler: AB Dinda
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.2:
+            batsman: SK Raina
+            bowler: AB Dinda
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.3:
+            batsman: SK Raina
+            bowler: AB Dinda
+            extras:
+              wides: 1
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.4:
+            batsman: SK Raina
+            bowler: AB Dinda
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: SK Raina
+            bowler: AB Dinda
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: SK Raina
+            bowler: AB Dinda
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.7:
+            batsman: SK Raina
+            bowler: AB Dinda
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.1:
+            batsman: M Vijay
+            bowler: CH Gayle
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: M Vijay
+            bowler: CH Gayle
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: M Vijay
+            bowler: CH Gayle
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.4:
+            batsman: SK Raina
+            bowler: CH Gayle
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: SK Raina
+            bowler: CH Gayle
+            extras:
+              wides: 5
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 5
+              total: 5
+        - 2.6:
+            batsman: SK Raina
+            bowler: CH Gayle
+            non_striker: M Vijay
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.7:
+            batsman: SK Raina
+            bowler: CH Gayle
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.1:
+            batsman: M Vijay
+            bowler: AB Dinda
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: M Vijay
+            bowler: AB Dinda
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: M Vijay
+            bowler: AB Dinda
+            non_striker: SK Raina
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.4:
+            batsman: M Vijay
+            bowler: AB Dinda
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.5:
+            batsman: SK Raina
+            bowler: AB Dinda
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.6:
+            batsman: SK Raina
+            bowler: AB Dinda
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.1:
+            batsman: M Vijay
+            bowler: CH Gayle
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: M Vijay
+            bowler: CH Gayle
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: SK Raina
+            bowler: CH Gayle
+            non_striker: M Vijay
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.4:
+            batsman: SK Raina
+            bowler: CH Gayle
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.5:
+            batsman: SK Raina
+            bowler: CH Gayle
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.6:
+            batsman: SK Raina
+            bowler: CH Gayle
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.1:
+            batsman: M Vijay
+            bowler: AB Agarkar
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.2:
+            batsman: SK Raina
+            bowler: AB Agarkar
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: SK Raina
+            bowler: AB Agarkar
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.4:
+            batsman: SK Raina
+            bowler: AB Agarkar
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: M Vijay
+            bowler: AB Agarkar
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: SK Raina
+            bowler: AB Agarkar
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: M Vijay
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: SK Raina
+            bowler: Iqbal Abdulla
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: SK Raina
+            bowler: Iqbal Abdulla
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: M Vijay
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: M Vijay
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: SK Raina
+            bowler: Iqbal Abdulla
+            non_striker: M Vijay
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 7.1:
+            batsman: M Vijay
+            bowler: AB Agarkar
+            non_striker: SK Raina
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.2:
+            batsman: M Vijay
+            bowler: AB Agarkar
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: M Vijay
+            bowler: AB Agarkar
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: M Vijay
+            bowler: AB Agarkar
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: SK Raina
+            bowler: AB Agarkar
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: M Vijay
+            bowler: AB Agarkar
+            extras:
+              wides: 1
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 7.7:
+            batsman: M Vijay
+            bowler: AB Agarkar
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: SK Raina
+            bowler: DJ Hussey
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: M Vijay
+            bowler: DJ Hussey
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: SK Raina
+            bowler: DJ Hussey
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: M Vijay
+            bowler: DJ Hussey
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: SK Raina
+            bowler: DJ Hussey
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: SK Raina
+            bowler: DJ Hussey
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: SK Raina
+            bowler: AD Mathews
+            non_striker: M Vijay
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 9.2:
+            batsman: SK Raina
+            bowler: AD Mathews
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: M Vijay
+            bowler: AD Mathews
+            extras:
+              wides: 1
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.4:
+            batsman: M Vijay
+            bowler: AD Mathews
+            non_striker: SK Raina
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 9.5:
+            batsman: M Vijay
+            bowler: AD Mathews
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: SK Raina
+            bowler: AD Mathews
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.7:
+            batsman: SK Raina
+            bowler: AD Mathews
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: M Vijay
+            bowler: DJ Hussey
+            non_striker: SK Raina
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 10.2:
+            batsman: M Vijay
+            bowler: DJ Hussey
+            non_striker: SK Raina
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.3:
+            batsman: M Vijay
+            bowler: DJ Hussey
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: SK Raina
+            bowler: DJ Hussey
+            extras:
+              legbyes: 1
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 10.5:
+            batsman: M Vijay
+            bowler: DJ Hussey
+            non_striker: SK Raina
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.6:
+            batsman: M Vijay
+            bowler: DJ Hussey
+            non_striker: SK Raina
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.1:
+            batsman: SK Raina
+            bowler: Iqbal Abdulla
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: M Vijay
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: M Vijay
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.4:
+            batsman: M Vijay
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: M Vijay
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: M Vijay
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: SK Raina
+            bowler: LR Shukla
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: M Vijay
+            bowler: LR Shukla
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: SK Raina
+            bowler: LR Shukla
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: SK Raina
+            bowler: LR Shukla
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: M Vijay
+            bowler: LR Shukla
+            non_striker: SK Raina
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.6:
+            batsman: M Vijay
+            bowler: LR Shukla
+            extras:
+              legbyes: 1
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.1:
+            batsman: M Vijay
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: M Vijay
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: SK Raina
+            bowler: Iqbal Abdulla
+            non_striker: M Vijay
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6

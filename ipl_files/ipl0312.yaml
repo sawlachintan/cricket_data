@@ -1,0 +1,2090 @@
+---
+meta:
+  data_version: 0.9
+  created: 2012-07-14
+  revision: 3
+info:
+  city: Delhi
+  competition: IPL
+  dates:
+    - 2012-05-17
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      runs: 21
+    winner: Royal Challengers Bangalore
+  overs: 20
+  player_of_match:
+    - CH Gayle
+  teams:
+    - Delhi Daredevils
+    - Royal Challengers Bangalore
+  toss:
+    decision: field
+    winner: Delhi Daredevils
+  umpires:
+    - HDPK Dharmasena
+    - C Shamshuddin
+  venue: Feroz Shah Kotla
+innings:
+  - 1st innings:
+      team: Royal Challengers Bangalore
+      deliveries:
+        - 0.1:
+            batsman: CH Gayle
+            bowler: IK Pathan
+            non_striker: TM Dilshan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.2:
+            batsman: TM Dilshan
+            bowler: IK Pathan
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: TM Dilshan
+            bowler: IK Pathan
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: TM Dilshan
+            bowler: IK Pathan
+            non_striker: CH Gayle
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 0.5:
+            batsman: TM Dilshan
+            bowler: IK Pathan
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.6:
+            batsman: TM Dilshan
+            bowler: IK Pathan
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.1:
+            batsman: CH Gayle
+            bowler: UT Yadav
+            non_striker: TM Dilshan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: CH Gayle
+            bowler: UT Yadav
+            non_striker: TM Dilshan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: CH Gayle
+            bowler: UT Yadav
+            non_striker: TM Dilshan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: CH Gayle
+            bowler: UT Yadav
+            non_striker: TM Dilshan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: CH Gayle
+            bowler: UT Yadav
+            non_striker: TM Dilshan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: CH Gayle
+            bowler: UT Yadav
+            non_striker: TM Dilshan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: TM Dilshan
+            bowler: VR Aaron
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: TM Dilshan
+            bowler: VR Aaron
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - IK Pathan
+              kind: caught
+              player_out: TM Dilshan
+        - 2.3:
+            batsman: CH Gayle
+            bowler: VR Aaron
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: CH Gayle
+            bowler: VR Aaron
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: CH Gayle
+            bowler: VR Aaron
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.6:
+            batsman: CH Gayle
+            bowler: VR Aaron
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.1:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.2:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.3:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.4:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.6:
+            batsman: CH Gayle
+            bowler: UT Yadav
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: V Kohli
+            bowler: VR Aaron
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.2:
+            batsman: V Kohli
+            bowler: VR Aaron
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: V Kohli
+            bowler: VR Aaron
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: V Kohli
+            bowler: VR Aaron
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: V Kohli
+            bowler: VR Aaron
+            extras:
+              wides: 1
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.6:
+            batsman: V Kohli
+            bowler: VR Aaron
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.7:
+            batsman: V Kohli
+            bowler: VR Aaron
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.1:
+            batsman: CH Gayle
+            bowler: AD Russell
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: CH Gayle
+            bowler: AD Russell
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.3:
+            batsman: V Kohli
+            bowler: AD Russell
+            extras:
+              noballs: 1
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.4:
+            batsman: V Kohli
+            bowler: AD Russell
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: CH Gayle
+            bowler: AD Russell
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: CH Gayle
+            bowler: AD Russell
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.7:
+            batsman: CH Gayle
+            bowler: AD Russell
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: V Kohli
+            bowler: IK Pathan
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: V Kohli
+            bowler: IK Pathan
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: CH Gayle
+            bowler: IK Pathan
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.4:
+            batsman: CH Gayle
+            bowler: IK Pathan
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: V Kohli
+            bowler: IK Pathan
+            non_striker: CH Gayle
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.6:
+            batsman: V Kohli
+            bowler: IK Pathan
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: V Kohli
+            bowler: AD Russell
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: CH Gayle
+            bowler: AD Russell
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.3:
+            batsman: CH Gayle
+            bowler: AD Russell
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: CH Gayle
+            bowler: AD Russell
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 7.5:
+            batsman: CH Gayle
+            bowler: AD Russell
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: V Kohli
+            bowler: AD Russell
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: V Kohli
+            bowler: P Negi
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: V Kohli
+            bowler: P Negi
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: CH Gayle
+            bowler: P Negi
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: CH Gayle
+            bowler: P Negi
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: V Kohli
+            bowler: P Negi
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: V Kohli
+            bowler: P Negi
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: CH Gayle
+            bowler: Y Venugopal Rao
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.2:
+            batsman: CH Gayle
+            bowler: Y Venugopal Rao
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: V Kohli
+            bowler: Y Venugopal Rao
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.4:
+            batsman: V Kohli
+            bowler: Y Venugopal Rao
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: CH Gayle
+            bowler: Y Venugopal Rao
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 9.6:
+            batsman: CH Gayle
+            bowler: Y Venugopal Rao
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: CH Gayle
+            bowler: IK Pathan
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: V Kohli
+            bowler: IK Pathan
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: V Kohli
+            bowler: IK Pathan
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: CH Gayle
+            bowler: IK Pathan
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: CH Gayle
+            bowler: IK Pathan
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: V Kohli
+            bowler: IK Pathan
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: V Kohli
+            bowler: P Negi
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: CH Gayle
+            bowler: P Negi
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: CH Gayle
+            bowler: P Negi
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: V Kohli
+            bowler: P Negi
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.5:
+            batsman: CH Gayle
+            bowler: P Negi
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 11.6:
+            batsman: CH Gayle
+            bowler: P Negi
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.1:
+            batsman: V Kohli
+            bowler: AD Russell
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: CH Gayle
+            bowler: AD Russell
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.3:
+            batsman: CH Gayle
+            bowler: AD Russell
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: CH Gayle
+            bowler: AD Russell
+            non_striker: V Kohli
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.5:
+            batsman: CH Gayle
+            bowler: AD Russell
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.6:
+            batsman: CH Gayle
+            bowler: AD Russell
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: CH Gayle
+            bowler: IK Pathan
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: V Kohli
+            bowler: IK Pathan
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: CH Gayle
+            bowler: IK Pathan
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 13.4:
+            batsman: CH Gayle
+            bowler: IK Pathan
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: CH Gayle
+            bowler: IK Pathan
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 13.6:
+            batsman: CH Gayle
+            bowler: IK Pathan
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 14.1:
+            batsman: V Kohli
+            bowler: VR Aaron
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: CH Gayle
+            bowler: VR Aaron
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: V Kohli
+            bowler: VR Aaron
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.4:
+            batsman: V Kohli
+            bowler: VR Aaron
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: CH Gayle
+            bowler: VR Aaron
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: V Kohli
+            bowler: VR Aaron
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: V Kohli
+            bowler: P Negi
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: CH Gayle
+            bowler: P Negi
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 15.3:
+            batsman: CH Gayle
+            bowler: P Negi
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 15.4:
+            batsman: CH Gayle
+            bowler: P Negi
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 15.5:
+            batsman: CH Gayle
+            bowler: P Negi
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: V Kohli
+            bowler: P Negi
+            non_striker: CH Gayle
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.1:
+            batsman: CH Gayle
+            bowler: UT Yadav
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: CH Gayle
+            bowler: UT Yadav
+            extras:
+              noballs: 1
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 1
+              total: 7
+        - 16.4:
+            batsman: CH Gayle
+            bowler: UT Yadav
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 16.5:
+            batsman: CH Gayle
+            bowler: UT Yadav
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.7:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: V Kohli
+            bowler: AD Russell
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.2:
+            batsman: V Kohli
+            bowler: AD Russell
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: V Kohli
+            bowler: AD Russell
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: CH Gayle
+            bowler: AD Russell
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 17.5:
+            batsman: CH Gayle
+            bowler: AD Russell
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: V Kohli
+            bowler: AD Russell
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: CH Gayle
+            bowler: UT Yadav
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.3:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.4:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: V Kohli
+            bowler: UT Yadav
+            extras:
+              wides: 1
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.6:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 18.7:
+            batsman: V Kohli
+            bowler: UT Yadav
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.1:
+            batsman: V Kohli
+            bowler: VR Aaron
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.2:
+            batsman: CH Gayle
+            bowler: VR Aaron
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: CH Gayle
+            bowler: VR Aaron
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 19.4:
+            batsman: CH Gayle
+            bowler: VR Aaron
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: V Kohli
+            bowler: VR Aaron
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.6:
+            batsman: V Kohli
+            bowler: VR Aaron
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+  - 2nd innings:
+      team: Delhi Daredevils
+      deliveries:
+        - 0.1:
+            batsman: UBT Chand
+            bowler: TM Dilshan
+            extras:
+              wides: 1
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.2:
+            batsman: UBT Chand
+            bowler: TM Dilshan
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.3:
+            batsman: DA Warner
+            bowler: TM Dilshan
+            non_striker: UBT Chand
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.4:
+            batsman: DA Warner
+            bowler: TM Dilshan
+            non_striker: UBT Chand
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.5:
+            batsman: DA Warner
+            bowler: TM Dilshan
+            non_striker: UBT Chand
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: DA Warner
+            bowler: TM Dilshan
+            non_striker: UBT Chand
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.7:
+            batsman: DA Warner
+            bowler: TM Dilshan
+            non_striker: UBT Chand
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.1:
+            batsman: DA Warner
+            bowler: Z Khan
+            non_striker: UBT Chand
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: DA Warner
+            bowler: Z Khan
+            non_striker: UBT Chand
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: DA Warner
+            bowler: Z Khan
+            non_striker: UBT Chand
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 1.4:
+            batsman: DA Warner
+            bowler: Z Khan
+            non_striker: UBT Chand
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - R Vinay Kumar
+              kind: caught
+              player_out: DA Warner
+        - 1.5:
+            batsman: Y Venugopal Rao
+            bowler: Z Khan
+            non_striker: UBT Chand
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.6:
+            batsman: UBT Chand
+            bowler: Z Khan
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: Y Venugopal Rao
+            bowler: R Vinay Kumar
+            non_striker: UBT Chand
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: Y Venugopal Rao
+            bowler: R Vinay Kumar
+            non_striker: UBT Chand
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.3:
+            batsman: Y Venugopal Rao
+            bowler: R Vinay Kumar
+            non_striker: UBT Chand
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.4:
+            batsman: UBT Chand
+            bowler: R Vinay Kumar
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: UBT Chand
+            bowler: R Vinay Kumar
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.6:
+            batsman: Y Venugopal Rao
+            bowler: R Vinay Kumar
+            non_striker: UBT Chand
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: UBT Chand
+            bowler: Z Khan
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.2:
+            batsman: UBT Chand
+            bowler: Z Khan
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: Y Venugopal Rao
+            bowler: Z Khan
+            non_striker: UBT Chand
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.4:
+            batsman: Y Venugopal Rao
+            bowler: Z Khan
+            non_striker: UBT Chand
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.5:
+            batsman: UBT Chand
+            bowler: Z Khan
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.6:
+            batsman: UBT Chand
+            bowler: Z Khan
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: UBT Chand
+            bowler: R Vinay Kumar
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 4.2:
+            batsman: UBT Chand
+            bowler: R Vinay Kumar
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - HV Patel
+              kind: caught
+              player_out: UBT Chand
+        - 4.3:
+            batsman: DPMD Jayawardene
+            bowler: R Vinay Kumar
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.4:
+            batsman: Y Venugopal Rao
+            bowler: R Vinay Kumar
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: DPMD Jayawardene
+            bowler: R Vinay Kumar
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: DPMD Jayawardene
+            bowler: R Vinay Kumar
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: Y Venugopal Rao
+            bowler: HV Patel
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: Y Venugopal Rao
+            bowler: HV Patel
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.3:
+            batsman: DPMD Jayawardene
+            bowler: HV Patel
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: Y Venugopal Rao
+            bowler: HV Patel
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: DPMD Jayawardene
+            bowler: HV Patel
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: DPMD Jayawardene
+            bowler: HV Patel
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: DPMD Jayawardene
+            bowler: M Muralitharan
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: DPMD Jayawardene
+            bowler: M Muralitharan
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.3:
+            batsman: DPMD Jayawardene
+            bowler: M Muralitharan
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: Y Venugopal Rao
+            bowler: M Muralitharan
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.5:
+            batsman: Y Venugopal Rao
+            bowler: M Muralitharan
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: DPMD Jayawardene
+            bowler: M Muralitharan
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: DPMD Jayawardene
+            bowler: HV Patel
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: Y Venugopal Rao
+            bowler: HV Patel
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: Y Venugopal Rao
+            bowler: HV Patel
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: DPMD Jayawardene
+            bowler: HV Patel
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: DPMD Jayawardene
+            bowler: HV Patel
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: Y Venugopal Rao
+            bowler: HV Patel
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.1:
+            batsman: DPMD Jayawardene
+            bowler: P Parameswaran
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - AB de Villiers
+              kind: caught
+              player_out: DPMD Jayawardene
+        - 8.2:
+            batsman: LRPL Taylor
+            bowler: P Parameswaran
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: LRPL Taylor
+            bowler: P Parameswaran
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: LRPL Taylor
+            bowler: P Parameswaran
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.5:
+            batsman: LRPL Taylor
+            bowler: P Parameswaran
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 5
+              extras: 0
+              total: 5
+        - 8.6:
+            batsman: Y Venugopal Rao
+            bowler: P Parameswaran
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.1:
+            batsman: LRPL Taylor
+            bowler: M Muralitharan
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: Y Venugopal Rao
+            bowler: M Muralitharan
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: LRPL Taylor
+            bowler: M Muralitharan
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.4:
+            batsman: Y Venugopal Rao
+            bowler: M Muralitharan
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: LRPL Taylor
+            bowler: M Muralitharan
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.6:
+            batsman: LRPL Taylor
+            bowler: M Muralitharan
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 10.1:
+            batsman: Y Venugopal Rao
+            bowler: P Parameswaran
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: LRPL Taylor
+            bowler: P Parameswaran
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: Y Venugopal Rao
+            bowler: P Parameswaran
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: LRPL Taylor
+            bowler: P Parameswaran
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.5:
+            batsman: LRPL Taylor
+            bowler: P Parameswaran
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: Y Venugopal Rao
+            bowler: P Parameswaran
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: Y Venugopal Rao
+            bowler: M Muralitharan
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: LRPL Taylor
+            bowler: M Muralitharan
+            extras:
+              legbyes: 1
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 11.3:
+            batsman: Y Venugopal Rao
+            bowler: M Muralitharan
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - HV Patel
+              kind: caught
+              player_out: Y Venugopal Rao
+        - 11.4:
+            batsman: LRPL Taylor
+            bowler: M Muralitharan
+            non_striker: NV Ojha
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.5:
+            batsman: LRPL Taylor
+            bowler: M Muralitharan
+            non_striker: NV Ojha
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.6:
+            batsman: LRPL Taylor
+            bowler: M Muralitharan
+            non_striker: NV Ojha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: LRPL Taylor
+            bowler: HV Patel
+            non_striker: NV Ojha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: NV Ojha
+            bowler: HV Patel
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.3:
+            batsman: NV Ojha
+            bowler: HV Patel
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.4:
+            batsman: NV Ojha
+            bowler: HV Patel
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: LRPL Taylor
+            bowler: HV Patel
+            non_striker: NV Ojha
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.6:
+            batsman: LRPL Taylor
+            bowler: HV Patel
+            non_striker: NV Ojha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: LRPL Taylor
+            bowler: M Muralitharan
+            extras:
+              legbyes: 2
+            non_striker: NV Ojha
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 13.2:
+            batsman: LRPL Taylor
+            bowler: M Muralitharan
+            non_striker: NV Ojha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: NV Ojha
+            bowler: M Muralitharan
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: LRPL Taylor
+            bowler: M Muralitharan
+            extras:
+              wides: 1
+            non_striker: NV Ojha
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.5:
+            batsman: LRPL Taylor
+            bowler: M Muralitharan
+            non_striker: NV Ojha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: NV Ojha
+            bowler: M Muralitharan
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.7:
+            batsman: LRPL Taylor
+            bowler: M Muralitharan
+            non_striker: NV Ojha
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 14.1:
+            batsman: NV Ojha
+            bowler: HV Patel
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: LRPL Taylor
+            bowler: HV Patel
+            non_striker: NV Ojha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: LRPL Taylor
+            bowler: HV Patel
+            non_striker: NV Ojha
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.4:
+            batsman: LRPL Taylor
+            bowler: HV Patel
+            non_striker: NV Ojha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: NV Ojha
+            bowler: HV Patel
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: NV Ojha
+            bowler: HV Patel
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: NV Ojha
+            bowler: Z Khan
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: NV Ojha
+            bowler: Z Khan
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: NV Ojha
+            bowler: Z Khan
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.4:
+            batsman: NV Ojha
+            bowler: Z Khan
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - SS Tiwary
+              kind: caught
+              player_out: NV Ojha
+        - 15.5:
+            batsman: AD Russell
+            bowler: Z Khan
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 15.6:
+            batsman: AD Russell
+            bowler: Z Khan
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: AD Russell
+            bowler: R Vinay Kumar
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: LRPL Taylor
+            bowler: R Vinay Kumar
+            non_striker: AD Russell
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MA Agarwal
+              kind: caught
+              player_out: LRPL Taylor
+        - 16.3:
+            batsman: AD Russell
+            bowler: R Vinay Kumar
+            non_striker: IK Pathan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.4:
+            batsman: AD Russell
+            bowler: R Vinay Kumar
+            non_striker: IK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.5:
+            batsman: IK Pathan
+            bowler: R Vinay Kumar
+            non_striker: AD Russell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: AD Russell
+            bowler: R Vinay Kumar
+            non_striker: IK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.1:
+            batsman: IK Pathan
+            bowler: Z Khan
+            non_striker: AD Russell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: AD Russell
+            bowler: Z Khan
+            non_striker: IK Pathan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.3:
+            batsman: AD Russell
+            bowler: Z Khan
+            non_striker: IK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: IK Pathan
+            bowler: Z Khan
+            non_striker: AD Russell
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.5:
+            batsman: IK Pathan
+            bowler: Z Khan
+            non_striker: AD Russell
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - TM Dilshan
+              kind: caught
+              player_out: IK Pathan
+        - 17.6:
+            batsman: AD Russell
+            bowler: Z Khan
+            non_striker: P Negi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: AD Russell
+            bowler: R Vinay Kumar
+            non_striker: P Negi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: P Negi
+            bowler: R Vinay Kumar
+            non_striker: AD Russell
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.3:
+            batsman: P Negi
+            bowler: R Vinay Kumar
+            non_striker: AD Russell
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: P Negi
+            bowler: R Vinay Kumar
+            non_striker: AD Russell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.5:
+            batsman: AD Russell
+            bowler: R Vinay Kumar
+            extras:
+              wides: 1
+            non_striker: P Negi
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.6:
+            batsman: AD Russell
+            bowler: R Vinay Kumar
+            non_striker: P Negi
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 18.7:
+            batsman: AD Russell
+            bowler: R Vinay Kumar
+            non_striker: P Negi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.1:
+            batsman: AD Russell
+            bowler: P Parameswaran
+            non_striker: P Negi
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 19.2:
+            batsman: AD Russell
+            bowler: P Parameswaran
+            non_striker: P Negi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: AD Russell
+            bowler: P Parameswaran
+            non_striker: P Negi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - V Kohli
+              kind: caught
+              player_out: AD Russell
+        - 19.4:
+            batsman: P Negi
+            bowler: P Parameswaran
+            extras:
+              wides: 1
+            non_striker: UT Yadav
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 19.5:
+            batsman: P Negi
+            bowler: P Parameswaran
+            non_striker: UT Yadav
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: UT Yadav
+            bowler: P Parameswaran
+            non_striker: P Negi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.7:
+            batsman: UT Yadav
+            bowler: P Parameswaran
+            non_striker: P Negi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - SS Tiwary
+              kind: caught
+              player_out: UT Yadav

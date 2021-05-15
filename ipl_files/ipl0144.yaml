@@ -1,0 +1,2038 @@
+---
+meta:
+  data_version: 0.9
+  created: 2011-04-29
+  revision: 2
+info:
+  city: Chennai
+  competition: IPL
+  dates:
+    - 2010-03-31
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      wickets: 5
+    winner: Chennai Super Kings
+  overs: 20
+  player_of_match:
+    - M Vijay
+  teams:
+    - Chennai Super Kings
+    - Royal Challengers Bangalore
+  toss:
+    decision: bat
+    winner: Royal Challengers Bangalore
+  umpires:
+    - BG Jerling
+    - RE Koertzen
+  venue: 'MA Chidambaram Stadium, Chepauk'
+innings:
+  - 1st innings:
+      team: Royal Challengers Bangalore
+      deliveries:
+        - 0.1:
+            batsman: MK Pandey
+            bowler: T Thushara
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: MK Pandey
+            bowler: T Thushara
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.3:
+            batsman: JH Kallis
+            bowler: T Thushara
+            non_striker: MK Pandey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: JH Kallis
+            bowler: T Thushara
+            non_striker: MK Pandey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: JH Kallis
+            bowler: T Thushara
+            non_striker: MK Pandey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.6:
+            batsman: MK Pandey
+            bowler: T Thushara
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: JH Kallis
+            bowler: MS Gony
+            non_striker: MK Pandey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.2:
+            batsman: JH Kallis
+            bowler: MS Gony
+            non_striker: MK Pandey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: JH Kallis
+            bowler: MS Gony
+            non_striker: MK Pandey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.4:
+            batsman: MK Pandey
+            bowler: MS Gony
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: MK Pandey
+            bowler: MS Gony
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: MK Pandey
+            bowler: MS Gony
+            non_striker: JH Kallis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.1:
+            batsman: JH Kallis
+            bowler: T Thushara
+            non_striker: MK Pandey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: JH Kallis
+            bowler: T Thushara
+            non_striker: MK Pandey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.3:
+            batsman: MK Pandey
+            bowler: T Thushara
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MS Dhoni
+              kind: caught
+              player_out: MK Pandey
+        - 2.4:
+            batsman: JH Kallis
+            bowler: T Thushara
+            non_striker: RV Uthappa
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.5:
+            batsman: JH Kallis
+            bowler: T Thushara
+            extras:
+              legbyes: 1
+            non_striker: RV Uthappa
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.6:
+            batsman: RV Uthappa
+            bowler: T Thushara
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: JH Kallis
+            bowler: JA Morkel
+            non_striker: RV Uthappa
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.2:
+            batsman: JH Kallis
+            bowler: JA Morkel
+            non_striker: RV Uthappa
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: RV Uthappa
+            bowler: JA Morkel
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: JH Kallis
+            bowler: JA Morkel
+            non_striker: RV Uthappa
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.5:
+            batsman: JH Kallis
+            bowler: JA Morkel
+            non_striker: RV Uthappa
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: JH Kallis
+            bowler: JA Morkel
+            non_striker: RV Uthappa
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: JH Kallis
+            bowler: T Thushara
+            non_striker: RV Uthappa
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.2:
+            batsman: RV Uthappa
+            bowler: T Thushara
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: RV Uthappa
+            bowler: T Thushara
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: RV Uthappa
+            bowler: T Thushara
+            extras:
+              wides: 1
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.5:
+            batsman: RV Uthappa
+            bowler: T Thushara
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: JH Kallis
+            bowler: T Thushara
+            non_striker: RV Uthappa
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.7:
+            batsman: RV Uthappa
+            bowler: T Thushara
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.1:
+            batsman: RV Uthappa
+            bowler: MS Gony
+            non_striker: JH Kallis
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 5.2:
+            batsman: RV Uthappa
+            bowler: MS Gony
+            non_striker: JH Kallis
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 5.3:
+            batsman: RV Uthappa
+            bowler: MS Gony
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: RV Uthappa
+            bowler: MS Gony
+            non_striker: JH Kallis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.5:
+            batsman: RV Uthappa
+            bowler: MS Gony
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: JH Kallis
+            bowler: MS Gony
+            extras:
+              wides: 1
+            non_striker: RV Uthappa
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.7:
+            batsman: JH Kallis
+            bowler: MS Gony
+            extras:
+              wides: 1
+            non_striker: RV Uthappa
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.8:
+            batsman: JH Kallis
+            bowler: MS Gony
+            non_striker: RV Uthappa
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: RV Uthappa
+            bowler: SB Jakati
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: JH Kallis
+            bowler: SB Jakati
+            non_striker: RV Uthappa
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: RV Uthappa
+            bowler: SB Jakati
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MS Gony
+              kind: caught
+              player_out: RV Uthappa
+        - 6.4:
+            batsman: JH Kallis
+            bowler: SB Jakati
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: V Kohli
+            bowler: SB Jakati
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: V Kohli
+            bowler: SB Jakati
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: JH Kallis
+            bowler: M Muralitharan
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: V Kohli
+            bowler: M Muralitharan
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: V Kohli
+            bowler: M Muralitharan
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: V Kohli
+            bowler: M Muralitharan
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: JH Kallis
+            bowler: M Muralitharan
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: V Kohli
+            bowler: M Muralitharan
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: V Kohli
+            bowler: SB Jakati
+            non_striker: JH Kallis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.2:
+            batsman: V Kohli
+            bowler: SB Jakati
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: JH Kallis
+            bowler: SB Jakati
+            non_striker: V Kohli
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.4:
+            batsman: JH Kallis
+            bowler: SB Jakati
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: JH Kallis
+            bowler: SB Jakati
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: JH Kallis
+            bowler: SB Jakati
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: JH Kallis
+            bowler: C Ganapathy
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: V Kohli
+            bowler: C Ganapathy
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: JH Kallis
+            bowler: C Ganapathy
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: JH Kallis
+            bowler: C Ganapathy
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.5:
+            batsman: JH Kallis
+            bowler: C Ganapathy
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: V Kohli
+            bowler: C Ganapathy
+            non_striker: JH Kallis
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 10.1:
+            batsman: JH Kallis
+            bowler: SB Jakati
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.2:
+            batsman: JH Kallis
+            bowler: SB Jakati
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: JH Kallis
+            bowler: SB Jakati
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: JH Kallis
+            bowler: SB Jakati
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: JH Kallis
+            bowler: SB Jakati
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: V Kohli
+            bowler: SB Jakati
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: V Kohli
+            bowler: M Muralitharan
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: V Kohli
+            bowler: M Muralitharan
+            non_striker: JH Kallis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.3:
+            batsman: V Kohli
+            bowler: M Muralitharan
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: JH Kallis
+            bowler: M Muralitharan
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.5:
+            batsman: V Kohli
+            bowler: M Muralitharan
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: JH Kallis
+            bowler: M Muralitharan
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: JH Kallis
+            bowler: JA Morkel
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: V Kohli
+            bowler: JA Morkel
+            non_striker: JH Kallis
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.3:
+            batsman: V Kohli
+            bowler: JA Morkel
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: JH Kallis
+            bowler: JA Morkel
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: V Kohli
+            bowler: JA Morkel
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.6:
+            batsman: JH Kallis
+            bowler: JA Morkel
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.1:
+            batsman: V Kohli
+            bowler: MS Gony
+            non_striker: JH Kallis
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 13.2:
+            batsman: V Kohli
+            bowler: MS Gony
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: JH Kallis
+            bowler: MS Gony
+            extras:
+              wides: 1
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.4:
+            batsman: JH Kallis
+            bowler: MS Gony
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: V Kohli
+            bowler: MS Gony
+            non_striker: JH Kallis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.6:
+            batsman: V Kohli
+            bowler: MS Gony
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.7:
+            batsman: JH Kallis
+            bowler: MS Gony
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.1:
+            batsman: JH Kallis
+            bowler: M Muralitharan
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.2:
+            batsman: JH Kallis
+            bowler: M Muralitharan
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: JH Kallis
+            bowler: M Muralitharan
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: JH Kallis
+            bowler: M Muralitharan
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: V Kohli
+            bowler: M Muralitharan
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: JH Kallis
+            bowler: M Muralitharan
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: V Kohli
+            bowler: SB Jakati
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - M Vijay
+              kind: caught
+              player_out: V Kohli
+        - 15.2:
+            batsman: JH Kallis
+            bowler: SB Jakati
+            non_striker: KP Pietersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: JH Kallis
+            bowler: SB Jakati
+            non_striker: KP Pietersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - SK Raina
+                - SB Jakati
+              kind: run out
+              player_out: JH Kallis
+        - 15.4:
+            batsman: KP Pietersen
+            bowler: SB Jakati
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: KP Pietersen
+            bowler: SB Jakati
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: KP Pietersen
+            bowler: SB Jakati
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: CL White
+            bowler: M Muralitharan
+            non_striker: KP Pietersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: CL White
+            bowler: M Muralitharan
+            non_striker: KP Pietersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: CL White
+            bowler: M Muralitharan
+            non_striker: KP Pietersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: KP Pietersen
+            bowler: M Muralitharan
+            non_striker: CL White
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.5:
+            batsman: CL White
+            bowler: M Muralitharan
+            non_striker: KP Pietersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.6:
+            batsman: CL White
+            bowler: M Muralitharan
+            non_striker: KP Pietersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: CL White
+            bowler: JA Morkel
+            non_striker: KP Pietersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: CL White
+            bowler: JA Morkel
+            non_striker: KP Pietersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: KP Pietersen
+            bowler: JA Morkel
+            non_striker: CL White
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: CL White
+            bowler: JA Morkel
+            non_striker: KP Pietersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: KP Pietersen
+            bowler: JA Morkel
+            non_striker: CL White
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.6:
+            batsman: KP Pietersen
+            bowler: JA Morkel
+            non_striker: CL White
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: KP Pietersen
+            bowler: T Thushara
+            non_striker: CL White
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: CL White
+            bowler: T Thushara
+            non_striker: KP Pietersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.3:
+            batsman: CL White
+            bowler: T Thushara
+            non_striker: KP Pietersen
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 18.4:
+            batsman: CL White
+            bowler: T Thushara
+            non_striker: KP Pietersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.5:
+            batsman: KP Pietersen
+            bowler: T Thushara
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: KP Pietersen
+            bowler: T Thushara
+            non_striker: CL White
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 19.1:
+            batsman: CL White
+            bowler: JA Morkel
+            non_striker: KP Pietersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.2:
+            batsman: KP Pietersen
+            bowler: JA Morkel
+            non_striker: CL White
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: CL White
+            bowler: JA Morkel
+            non_striker: KP Pietersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: KP Pietersen
+            bowler: JA Morkel
+            non_striker: CL White
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.5:
+            batsman: KP Pietersen
+            bowler: JA Morkel
+            non_striker: CL White
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.6:
+            batsman: KP Pietersen
+            bowler: JA Morkel
+            non_striker: CL White
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+  - 2nd innings:
+      team: Chennai Super Kings
+      deliveries:
+        - 0.1:
+            batsman: M Vijay
+            bowler: P Kumar
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: M Vijay
+            bowler: P Kumar
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: M Vijay
+            bowler: P Kumar
+            non_striker: ML Hayden
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 0.4:
+            batsman: M Vijay
+            bowler: P Kumar
+            non_striker: ML Hayden
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.5:
+            batsman: M Vijay
+            bowler: P Kumar
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: M Vijay
+            bowler: P Kumar
+            non_striker: ML Hayden
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.1:
+            batsman: M Vijay
+            bowler: DW Steyn
+            non_striker: ML Hayden
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.2:
+            batsman: M Vijay
+            bowler: DW Steyn
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: M Vijay
+            bowler: DW Steyn
+            non_striker: ML Hayden
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.4:
+            batsman: ML Hayden
+            bowler: DW Steyn
+            extras:
+              byes: 1
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.5:
+            batsman: M Vijay
+            bowler: DW Steyn
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: M Vijay
+            bowler: DW Steyn
+            non_striker: ML Hayden
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.1:
+            batsman: M Vijay
+            bowler: P Kumar
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: M Vijay
+            bowler: P Kumar
+            non_striker: ML Hayden
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 2.3:
+            batsman: M Vijay
+            bowler: P Kumar
+            non_striker: ML Hayden
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.4:
+            batsman: M Vijay
+            bowler: P Kumar
+            non_striker: ML Hayden
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 2.5:
+            batsman: M Vijay
+            bowler: P Kumar
+            non_striker: ML Hayden
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.6:
+            batsman: M Vijay
+            bowler: P Kumar
+            non_striker: ML Hayden
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 3.1:
+            batsman: ML Hayden
+            bowler: A Kumble
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: ML Hayden
+            bowler: A Kumble
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: M Vijay
+            bowler: A Kumble
+            non_striker: ML Hayden
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: ML Hayden
+            bowler: A Kumble
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: ML Hayden
+            bowler: A Kumble
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: ML Hayden
+            bowler: A Kumble
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: ML Hayden
+            bowler: DW Steyn
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.2:
+            batsman: M Vijay
+            bowler: DW Steyn
+            non_striker: ML Hayden
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: ML Hayden
+            bowler: DW Steyn
+            extras:
+              legbyes: 1
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.4:
+            batsman: M Vijay
+            bowler: DW Steyn
+            non_striker: ML Hayden
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.5:
+            batsman: M Vijay
+            bowler: DW Steyn
+            non_striker: ML Hayden
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: ML Hayden
+            bowler: DW Steyn
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: M Vijay
+            bowler: JH Kallis
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: M Vijay
+            bowler: JH Kallis
+            non_striker: ML Hayden
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.3:
+            batsman: ML Hayden
+            bowler: JH Kallis
+            non_striker: M Vijay
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 5.4:
+            batsman: ML Hayden
+            bowler: JH Kallis
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: M Vijay
+            bowler: JH Kallis
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: M Vijay
+            bowler: JH Kallis
+            non_striker: ML Hayden
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: M Vijay
+            bowler: A Kumble
+            non_striker: ML Hayden
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.2:
+            batsman: M Vijay
+            bowler: A Kumble
+            non_striker: ML Hayden
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: ML Hayden
+            bowler: A Kumble
+            non_striker: M Vijay
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.4:
+            batsman: ML Hayden
+            bowler: A Kumble
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: ML Hayden
+            bowler: A Kumble
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RV Uthappa
+              kind: stumped
+              player_out: ML Hayden
+        - 6.6:
+            batsman: SK Raina
+            bowler: A Kumble
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: SK Raina
+            bowler: JH Kallis
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.2:
+            batsman: SK Raina
+            bowler: JH Kallis
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: M Vijay
+            bowler: JH Kallis
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: SK Raina
+            bowler: JH Kallis
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: SK Raina
+            bowler: JH Kallis
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: M Vijay
+            bowler: JH Kallis
+            non_striker: SK Raina
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.1:
+            batsman: SK Raina
+            bowler: KP Pietersen
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: SK Raina
+            bowler: KP Pietersen
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: M Vijay
+            bowler: KP Pietersen
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: SK Raina
+            bowler: KP Pietersen
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: M Vijay
+            bowler: KP Pietersen
+            non_striker: SK Raina
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.6:
+            batsman: M Vijay
+            bowler: KP Pietersen
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: M Vijay
+            bowler: R Vinay Kumar
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: SK Raina
+            bowler: R Vinay Kumar
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: SK Raina
+            bowler: R Vinay Kumar
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.4:
+            batsman: M Vijay
+            bowler: R Vinay Kumar
+            non_striker: SK Raina
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.5:
+            batsman: M Vijay
+            bowler: R Vinay Kumar
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: SK Raina
+            bowler: R Vinay Kumar
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: SK Raina
+            bowler: KP Pietersen
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: M Vijay
+            bowler: KP Pietersen
+            non_striker: SK Raina
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 10.3:
+            batsman: M Vijay
+            bowler: KP Pietersen
+            non_striker: SK Raina
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 10.4:
+            batsman: M Vijay
+            bowler: KP Pietersen
+            non_striker: SK Raina
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 10.5:
+            batsman: M Vijay
+            bowler: KP Pietersen
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MK Pandey
+              kind: caught
+              player_out: M Vijay
+        - 10.6:
+            batsman: SK Raina
+            bowler: KP Pietersen
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: SK Raina
+            bowler: A Kumble
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: SK Raina
+            bowler: A Kumble
+            extras:
+              legbyes: 1
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 11.3:
+            batsman: MS Dhoni
+            bowler: A Kumble
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: MS Dhoni
+            bowler: A Kumble
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: MS Dhoni
+            bowler: A Kumble
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: MS Dhoni
+            bowler: A Kumble
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: MS Dhoni
+            bowler: DW Steyn
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: MS Dhoni
+            bowler: DW Steyn
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: SK Raina
+            bowler: DW Steyn
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: MS Dhoni
+            bowler: DW Steyn
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: MS Dhoni
+            bowler: DW Steyn
+            non_striker: SK Raina
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.6:
+            batsman: MS Dhoni
+            bowler: DW Steyn
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: SK Raina
+            bowler: R Vinay Kumar
+            non_striker: MS Dhoni
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.2:
+            batsman: SK Raina
+            bowler: R Vinay Kumar
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: MS Dhoni
+            bowler: R Vinay Kumar
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: MS Dhoni
+            bowler: R Vinay Kumar
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: SK Raina
+            bowler: R Vinay Kumar
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: SK Raina
+            bowler: R Vinay Kumar
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.1:
+            batsman: SK Raina
+            bowler: A Kumble
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.2:
+            batsman: SK Raina
+            bowler: A Kumble
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: MS Dhoni
+            bowler: A Kumble
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: MS Dhoni
+            bowler: A Kumble
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: SK Raina
+            bowler: A Kumble
+            extras:
+              legbyes: 1
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 14.6:
+            batsman: MS Dhoni
+            bowler: A Kumble
+            non_striker: SK Raina
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.1:
+            batsman: SK Raina
+            bowler: P Kumar
+            non_striker: MS Dhoni
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.2:
+            batsman: SK Raina
+            bowler: P Kumar
+            non_striker: MS Dhoni
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.3:
+            batsman: SK Raina
+            bowler: P Kumar
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.4:
+            batsman: MS Dhoni
+            bowler: P Kumar
+            extras:
+              wides: 1
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 15.5:
+            batsman: MS Dhoni
+            bowler: P Kumar
+            non_striker: SK Raina
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.6:
+            batsman: MS Dhoni
+            bowler: P Kumar
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.7:
+            batsman: MS Dhoni
+            bowler: P Kumar
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: MS Dhoni
+            bowler: DW Steyn
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: SK Raina
+            bowler: DW Steyn
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: MS Dhoni
+            bowler: DW Steyn
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - R Dravid
+              kind: caught
+              player_out: MS Dhoni
+        - 16.4:
+            batsman: SK Raina
+            bowler: DW Steyn
+            non_striker: JA Morkel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: SK Raina
+            bowler: DW Steyn
+            extras:
+              wides: 1
+            non_striker: JA Morkel
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 16.6:
+            batsman: SK Raina
+            bowler: DW Steyn
+            non_striker: JA Morkel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.7:
+            batsman: JA Morkel
+            bowler: DW Steyn
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: JA Morkel
+            bowler: JH Kallis
+            extras:
+              legbyes: 1
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 17.2:
+            batsman: SK Raina
+            bowler: JH Kallis
+            non_striker: JA Morkel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: JA Morkel
+            bowler: JH Kallis
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: JA Morkel
+        - 17.4:
+            batsman: S Badrinath
+            bowler: JH Kallis
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: SK Raina
+            bowler: JH Kallis
+            extras:
+              legbyes: 1
+            non_striker: S Badrinath
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 17.6:
+            batsman: S Badrinath
+            bowler: JH Kallis
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: S Badrinath
+            bowler: R Vinay Kumar
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: SK Raina
+            bowler: R Vinay Kumar
+            non_striker: S Badrinath
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.3:
+            batsman: S Badrinath
+            bowler: R Vinay Kumar
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: S Badrinath
+            bowler: R Vinay Kumar
+            non_striker: SK Raina
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.5:
+            batsman: S Badrinath
+            bowler: R Vinay Kumar
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RV Uthappa
+              kind: caught
+              player_out: S Badrinath
+        - 18.6:
+            batsman: SK Raina
+            bowler: R Vinay Kumar
+            extras:
+              noballs: 1
+            non_striker: C Ganapathy
+            runs:
+              batsman: 6
+              extras: 1
+              total: 7
+        - 18.7:
+            batsman: SK Raina
+            bowler: R Vinay Kumar
+            extras:
+              noballs: 1
+            non_striker: C Ganapathy
+            runs:
+              batsman: 2
+              extras: 1
+              total: 3

@@ -1,0 +1,962 @@
+---
+meta:
+  data_version: 0.9
+  created: 2011-05-01
+  revision: 2
+info:
+  city: Cape Town
+  competition: IPL
+  dates:
+    - 2009-04-19
+  gender: male
+  match_type: T20
+  neutral_venue: 1
+  outcome:
+    by:
+      wickets: 10
+    method: D/L
+    winner: Delhi Daredevils
+  overs: 20
+  player_of_match:
+    - DL Vettori
+  teams:
+    - Delhi Daredevils
+    - Kings XI Punjab
+  toss:
+    decision: field
+    winner: Delhi Daredevils
+  umpires:
+    - MR Benson
+    - SD Ranade
+  venue: Newlands
+innings:
+  - 1st innings:
+      team: Kings XI Punjab
+      deliveries:
+        - 0.1:
+            batsman: RS Bopara
+            bowler: DP Nannes
+            extras:
+              wides: 1
+            non_striker: K Goel
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.2:
+            batsman: RS Bopara
+            bowler: DP Nannes
+            extras:
+              legbyes: 1
+            non_striker: K Goel
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.3:
+            batsman: K Goel
+            bowler: DP Nannes
+            extras:
+              wides: 1
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.4:
+            batsman: K Goel
+            bowler: DP Nannes
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: K Goel
+            bowler: DP Nannes
+            non_striker: RS Bopara
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.6:
+            batsman: K Goel
+            bowler: DP Nannes
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.7:
+            batsman: K Goel
+            bowler: DP Nannes
+            extras:
+              legbyes: 1
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.8:
+            batsman: RS Bopara
+            bowler: DP Nannes
+            non_striker: K Goel
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.1:
+            batsman: K Goel
+            bowler: AM Salvi
+            non_striker: RS Bopara
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.2:
+            batsman: K Goel
+            bowler: AM Salvi
+            non_striker: RS Bopara
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.3:
+            batsman: K Goel
+            bowler: AM Salvi
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.4:
+            batsman: RS Bopara
+            bowler: AM Salvi
+            non_striker: K Goel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: RS Bopara
+            bowler: AM Salvi
+            non_striker: K Goel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.6:
+            batsman: K Goel
+            bowler: AM Salvi
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.1:
+            batsman: K Goel
+            bowler: PJ Sangwan
+            extras:
+              legbyes: 1
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.2:
+            batsman: RS Bopara
+            bowler: PJ Sangwan
+            non_striker: K Goel
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 2.3:
+            batsman: RS Bopara
+            bowler: PJ Sangwan
+            non_striker: K Goel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: RS Bopara
+            bowler: PJ Sangwan
+            non_striker: K Goel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.5:
+            batsman: K Goel
+            bowler: PJ Sangwan
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: K Goel
+            bowler: PJ Sangwan
+            non_striker: RS Bopara
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.1:
+            batsman: RS Bopara
+            bowler: VY Mahesh
+            non_striker: K Goel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.2:
+            batsman: K Goel
+            bowler: VY Mahesh
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: RS Bopara
+            bowler: VY Mahesh
+            non_striker: K Goel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: K Goel
+            bowler: VY Mahesh
+            non_striker: RS Bopara
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 3.5:
+            batsman: K Goel
+            bowler: VY Mahesh
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.6:
+            batsman: RS Bopara
+            bowler: VY Mahesh
+            non_striker: K Goel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: K Goel
+            bowler: PJ Sangwan
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.2:
+            batsman: RS Bopara
+            bowler: PJ Sangwan
+            non_striker: K Goel
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 4.3:
+            batsman: RS Bopara
+            bowler: PJ Sangwan
+            non_striker: K Goel
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.4:
+            batsman: RS Bopara
+            bowler: PJ Sangwan
+            non_striker: K Goel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: K Goel
+            bowler: PJ Sangwan
+            extras:
+              legbyes: 1
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.6:
+            batsman: RS Bopara
+            bowler: PJ Sangwan
+            non_striker: K Goel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: K Goel
+            bowler: VY Mahesh
+            non_striker: RS Bopara
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 5.2:
+            batsman: K Goel
+            bowler: VY Mahesh
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: K Goel
+            bowler: VY Mahesh
+            non_striker: RS Bopara
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 5.4:
+            batsman: K Goel
+            bowler: VY Mahesh
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: RS Bopara
+            bowler: VY Mahesh
+            extras:
+              wides: 1
+            non_striker: K Goel
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.6:
+            batsman: RS Bopara
+            bowler: VY Mahesh
+            non_striker: K Goel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.7:
+            batsman: K Goel
+            bowler: VY Mahesh
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - DL Vettori
+              kind: caught
+              player_out: K Goel
+        - 6.1:
+            batsman: RS Bopara
+            bowler: DL Vettori
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: RS Bopara
+        - 6.2:
+            batsman: KC Sangakkara
+            bowler: DL Vettori
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: KC Sangakkara
+            bowler: DL Vettori
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: KC Sangakkara
+            bowler: DL Vettori
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: KC Sangakkara
+            bowler: DL Vettori
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: KC Sangakkara
+            bowler: DL Vettori
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: KC Sangakkara
+            bowler: DP Nannes
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: KC Sangakkara
+            bowler: DP Nannes
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: Yuvraj Singh
+            bowler: DP Nannes
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: Yuvraj Singh
+            bowler: DP Nannes
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: Yuvraj Singh
+            bowler: DP Nannes
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: KC Sangakkara
+            bowler: DP Nannes
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: KC Sangakkara
+            bowler: DL Vettori
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: Yuvraj Singh
+            bowler: DL Vettori
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: KC Sangakkara
+            bowler: DL Vettori
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.4:
+            batsman: KC Sangakkara
+            bowler: DL Vettori
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - DP Nannes
+              kind: caught
+              player_out: KC Sangakkara
+        - 8.5:
+            batsman: Yuvraj Singh
+            bowler: DL Vettori
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.6:
+            batsman: DPMD Jayawardene
+            bowler: DL Vettori
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: Yuvraj Singh
+            bowler: DP Nannes
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: DPMD Jayawardene
+            bowler: DP Nannes
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.3:
+            batsman: DPMD Jayawardene
+            bowler: DP Nannes
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.4:
+            batsman: Yuvraj Singh
+            bowler: DP Nannes
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: Yuvraj Singh
+            bowler: DP Nannes
+            extras:
+              wides: 1
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.6:
+            batsman: Yuvraj Singh
+            bowler: DP Nannes
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.7:
+            batsman: Yuvraj Singh
+            bowler: DP Nannes
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 10.1:
+            batsman: DPMD Jayawardene
+            bowler: DL Vettori
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: Yuvraj Singh
+            bowler: DL Vettori
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 10.3:
+            batsman: Yuvraj Singh
+            bowler: DL Vettori
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KD Karthik
+                - DL Vettori
+              kind: run out
+              player_out: Yuvraj Singh
+        - 10.4:
+            batsman: DPMD Jayawardene
+            bowler: DL Vettori
+            non_striker: IK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: DPMD Jayawardene
+            bowler: DL Vettori
+            non_striker: IK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - TM Dilshan
+              kind: caught
+              player_out: DPMD Jayawardene
+        - 10.6:
+            batsman: IK Pathan
+            bowler: DL Vettori
+            non_striker: PP Chawla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MK Tiwary
+              kind: run out
+              player_out: PP Chawla
+        - 11.1:
+            batsman: IK Pathan
+            bowler: AM Salvi
+            non_striker: T Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: IK Pathan
+            bowler: AM Salvi
+            non_striker: T Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: IK Pathan
+            bowler: AM Salvi
+            non_striker: T Kohli
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.4:
+            batsman: IK Pathan
+            bowler: AM Salvi
+            non_striker: T Kohli
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.5:
+            batsman: IK Pathan
+            bowler: AM Salvi
+            non_striker: T Kohli
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.6:
+            batsman: IK Pathan
+            bowler: AM Salvi
+            non_striker: T Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - TM Dilshan
+              kind: caught
+              player_out: IK Pathan
+  - 2nd innings:
+      team: Delhi Daredevils
+      deliveries:
+        - 0.1:
+            batsman: G Gambhir
+            bowler: IK Pathan
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: G Gambhir
+            bowler: IK Pathan
+            extras:
+              wides: 1
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.3:
+            batsman: G Gambhir
+            bowler: IK Pathan
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: G Gambhir
+            bowler: IK Pathan
+            non_striker: V Sehwag
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.5:
+            batsman: G Gambhir
+            bowler: IK Pathan
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: G Gambhir
+            bowler: IK Pathan
+            non_striker: V Sehwag
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.7:
+            batsman: G Gambhir
+            bowler: IK Pathan
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: V Sehwag
+            bowler: YA Abdulla
+            non_striker: G Gambhir
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 1.2:
+            batsman: V Sehwag
+            bowler: YA Abdulla
+            non_striker: G Gambhir
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.3:
+            batsman: V Sehwag
+            bowler: YA Abdulla
+            extras:
+              wides: 1
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.4:
+            batsman: V Sehwag
+            bowler: YA Abdulla
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: V Sehwag
+            bowler: YA Abdulla
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: V Sehwag
+            bowler: YA Abdulla
+            non_striker: G Gambhir
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.7:
+            batsman: V Sehwag
+            bowler: YA Abdulla
+            non_striker: G Gambhir
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.1:
+            batsman: G Gambhir
+            bowler: VS Malik
+            extras:
+              legbyes: 1
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.2:
+            batsman: V Sehwag
+            bowler: VS Malik
+            extras:
+              byes: 1
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.3:
+            batsman: G Gambhir
+            bowler: VS Malik
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.4:
+            batsman: V Sehwag
+            bowler: VS Malik
+            non_striker: G Gambhir
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 2.5:
+            batsman: V Sehwag
+            bowler: VS Malik
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: V Sehwag
+            bowler: VS Malik
+            non_striker: G Gambhir
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.1:
+            batsman: G Gambhir
+            bowler: VRV Singh
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.2:
+            batsman: V Sehwag
+            bowler: VRV Singh
+            non_striker: G Gambhir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: G Gambhir
+            bowler: VRV Singh
+            non_striker: V Sehwag
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.4:
+            batsman: G Gambhir
+            bowler: VRV Singh
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.5:
+            batsman: V Sehwag
+            bowler: VRV Singh
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: V Sehwag
+            bowler: VRV Singh
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: G Gambhir
+            bowler: PP Chawla
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.2:
+            batsman: V Sehwag
+            bowler: PP Chawla
+            non_striker: G Gambhir
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.3:
+            batsman: V Sehwag
+            bowler: PP Chawla
+            non_striker: G Gambhir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.4:
+            batsman: G Gambhir
+            bowler: PP Chawla
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: V Sehwag
+            bowler: PP Chawla
+            extras:
+              wides: 1
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.6:
+            batsman: V Sehwag
+            bowler: PP Chawla
+            non_striker: G Gambhir
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6

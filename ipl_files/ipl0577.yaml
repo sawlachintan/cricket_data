@@ -1,0 +1,2139 @@
+---
+meta:
+  data_version: 0.9
+  created: 2016-05-30
+  revision: 1
+info:
+  city: Bangalore
+  competition: IPL
+  dates:
+    - 2016-05-29
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      runs: 8
+    winner: Sunrisers Hyderabad
+  overs: 20
+  player_of_match:
+    - BCJ Cutting
+  teams:
+    - Royal Challengers Bangalore
+    - Sunrisers Hyderabad
+  toss:
+    decision: bat
+    winner: Sunrisers Hyderabad
+  umpires:
+    - HDPK Dharmasena
+    - BNJ Oxenford
+  venue: M Chinnaswamy Stadium
+innings:
+  - 1st innings:
+      team: Sunrisers Hyderabad
+      deliveries:
+        - 0.1:
+            batsman: DA Warner
+            bowler: S Aravind
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.2:
+            batsman: S Dhawan
+            bowler: S Aravind
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.3:
+            batsman: DA Warner
+            bowler: S Aravind
+            non_striker: S Dhawan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: DA Warner
+            bowler: S Aravind
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.5:
+            batsman: S Dhawan
+            bowler: S Aravind
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: S Dhawan
+            bowler: S Aravind
+            non_striker: DA Warner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.1:
+            batsman: DA Warner
+            bowler: CH Gayle
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.2:
+            batsman: S Dhawan
+            bowler: CH Gayle
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: S Dhawan
+            bowler: CH Gayle
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.4:
+            batsman: DA Warner
+            bowler: CH Gayle
+            non_striker: S Dhawan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: DA Warner
+            bowler: CH Gayle
+            extras:
+              wides: 2
+            non_striker: S Dhawan
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 1.6:
+            batsman: S Dhawan
+            bowler: CH Gayle
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.7:
+            batsman: S Dhawan
+            bowler: CH Gayle
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.1:
+            batsman: S Dhawan
+            bowler: S Aravind
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: S Dhawan
+            bowler: S Aravind
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: S Dhawan
+            bowler: S Aravind
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: S Dhawan
+            bowler: S Aravind
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.5:
+            batsman: DA Warner
+            bowler: S Aravind
+            non_striker: S Dhawan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.6:
+            batsman: DA Warner
+            bowler: S Aravind
+            non_striker: S Dhawan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.1:
+            batsman: S Dhawan
+            bowler: CH Gayle
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: S Dhawan
+            bowler: CH Gayle
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: DA Warner
+            bowler: CH Gayle
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: S Dhawan
+            bowler: CH Gayle
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: S Dhawan
+            bowler: CH Gayle
+            non_striker: DA Warner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.6:
+            batsman: S Dhawan
+            bowler: CH Gayle
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: DA Warner
+            bowler: SR Watson
+            non_striker: S Dhawan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 4.2:
+            batsman: DA Warner
+            bowler: SR Watson
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: S Dhawan
+            bowler: SR Watson
+            non_striker: DA Warner
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 4.4:
+            batsman: S Dhawan
+            bowler: SR Watson
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: DA Warner
+            bowler: SR Watson
+            non_striker: S Dhawan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.6:
+            batsman: DA Warner
+            bowler: SR Watson
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.1:
+            batsman: DA Warner
+            bowler: CH Gayle
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.2:
+            batsman: S Dhawan
+            bowler: CH Gayle
+            extras:
+              wides: 1
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.3:
+            batsman: S Dhawan
+            bowler: CH Gayle
+            non_striker: DA Warner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.4:
+            batsman: S Dhawan
+            bowler: CH Gayle
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: S Dhawan
+            bowler: CH Gayle
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: S Dhawan
+            bowler: CH Gayle
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.7:
+            batsman: DA Warner
+            bowler: CH Gayle
+            non_striker: S Dhawan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 6.1:
+            batsman: S Dhawan
+            bowler: YS Chahal
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: DA Warner
+            bowler: YS Chahal
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: S Dhawan
+            bowler: YS Chahal
+            non_striker: DA Warner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.4:
+            batsman: S Dhawan
+            bowler: YS Chahal
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CJ Jordan
+              kind: caught
+              player_out: S Dhawan
+        - 6.5:
+            batsman: DA Warner
+            bowler: YS Chahal
+            non_striker: MC Henriques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: MC Henriques
+            bowler: YS Chahal
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: MC Henriques
+            bowler: Iqbal Abdulla
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: DA Warner
+            bowler: Iqbal Abdulla
+            non_striker: MC Henriques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: DA Warner
+            bowler: Iqbal Abdulla
+            non_striker: MC Henriques
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 7.4:
+            batsman: DA Warner
+            bowler: Iqbal Abdulla
+            non_striker: MC Henriques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: MC Henriques
+            bowler: Iqbal Abdulla
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: DA Warner
+            bowler: Iqbal Abdulla
+            non_striker: MC Henriques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: DA Warner
+            bowler: YS Chahal
+            non_striker: MC Henriques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: MC Henriques
+            bowler: YS Chahal
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: DA Warner
+            bowler: YS Chahal
+            non_striker: MC Henriques
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.4:
+            batsman: DA Warner
+            bowler: YS Chahal
+            non_striker: MC Henriques
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.5:
+            batsman: DA Warner
+            bowler: YS Chahal
+            non_striker: MC Henriques
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.6:
+            batsman: DA Warner
+            bowler: YS Chahal
+            extras:
+              byes: 1
+            non_striker: MC Henriques
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.1:
+            batsman: DA Warner
+            bowler: CJ Jordan
+            non_striker: MC Henriques
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.2:
+            batsman: DA Warner
+            bowler: CJ Jordan
+            non_striker: MC Henriques
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.3:
+            batsman: DA Warner
+            bowler: CJ Jordan
+            non_striker: MC Henriques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: DA Warner
+            bowler: CJ Jordan
+            non_striker: MC Henriques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: MC Henriques
+            bowler: CJ Jordan
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - YS Chahal
+              kind: caught
+              player_out: MC Henriques
+        - 9.6:
+            batsman: DA Warner
+            bowler: CJ Jordan
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: Yuvraj Singh
+            bowler: SR Watson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: Yuvraj Singh
+            bowler: SR Watson
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: DA Warner
+            bowler: SR Watson
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: Yuvraj Singh
+            bowler: SR Watson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: Yuvraj Singh
+            bowler: SR Watson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: Yuvraj Singh
+            bowler: SR Watson
+            non_striker: DA Warner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.1:
+            batsman: DA Warner
+            bowler: CJ Jordan
+            extras:
+              legbyes: 1
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 11.2:
+            batsman: Yuvraj Singh
+            bowler: CJ Jordan
+            non_striker: DA Warner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.3:
+            batsman: Yuvraj Singh
+            bowler: CJ Jordan
+            non_striker: DA Warner
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 11.4:
+            batsman: Yuvraj Singh
+            bowler: CJ Jordan
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.5:
+            batsman: DA Warner
+            bowler: CJ Jordan
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: DA Warner
+            bowler: CJ Jordan
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: DA Warner
+            bowler: YS Chahal
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: Yuvraj Singh
+            bowler: YS Chahal
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: Yuvraj Singh
+            bowler: YS Chahal
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: Yuvraj Singh
+            bowler: YS Chahal
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: DA Warner
+            bowler: YS Chahal
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.6:
+            batsman: Yuvraj Singh
+            bowler: YS Chahal
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: Yuvraj Singh
+            bowler: S Aravind
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: DA Warner
+            bowler: S Aravind
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.3:
+            batsman: DA Warner
+            bowler: S Aravind
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Iqbal Abdulla
+              kind: caught
+              player_out: DA Warner
+        - 13.4:
+            batsman: DJ Hooda
+            bowler: S Aravind
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: Yuvraj Singh
+            bowler: S Aravind
+            non_striker: DJ Hooda
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: DJ Hooda
+            bowler: S Aravind
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: Yuvraj Singh
+            bowler: YS Chahal
+            non_striker: DJ Hooda
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: DJ Hooda
+            bowler: YS Chahal
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: Yuvraj Singh
+            bowler: YS Chahal
+            non_striker: DJ Hooda
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 14.4:
+            batsman: Yuvraj Singh
+            bowler: YS Chahal
+            non_striker: DJ Hooda
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.5:
+            batsman: Yuvraj Singh
+            bowler: YS Chahal
+            non_striker: DJ Hooda
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: Yuvraj Singh
+            bowler: YS Chahal
+            non_striker: DJ Hooda
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: Yuvraj Singh
+            bowler: S Aravind
+            non_striker: DJ Hooda
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.2:
+            batsman: Yuvraj Singh
+            bowler: S Aravind
+            non_striker: DJ Hooda
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.3:
+            batsman: DJ Hooda
+            bowler: S Aravind
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: DJ Hooda
+            bowler: S Aravind
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: Yuvraj Singh
+            bowler: S Aravind
+            non_striker: DJ Hooda
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: DJ Hooda
+            bowler: S Aravind
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - V Kohli
+              kind: caught
+              player_out: DJ Hooda
+        - 16.1:
+            batsman: Yuvraj Singh
+            bowler: CJ Jordan
+            extras:
+              wides: 1
+            non_striker: BCJ Cutting
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 16.2:
+            batsman: Yuvraj Singh
+            bowler: CJ Jordan
+            non_striker: BCJ Cutting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - SR Watson
+              kind: caught
+              player_out: Yuvraj Singh
+        - 16.3:
+            batsman: NV Ojha
+            bowler: CJ Jordan
+            non_striker: BCJ Cutting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.4:
+            batsman: NV Ojha
+            bowler: CJ Jordan
+            non_striker: BCJ Cutting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.5:
+            batsman: BCJ Cutting
+            bowler: CJ Jordan
+            extras:
+              legbyes: 1
+            non_striker: NV Ojha
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 16.6:
+            batsman: NV Ojha
+            bowler: CJ Jordan
+            non_striker: BCJ Cutting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.7:
+            batsman: NV Ojha
+            bowler: CJ Jordan
+            non_striker: BCJ Cutting
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.1:
+            batsman: BCJ Cutting
+            bowler: SR Watson
+            extras:
+              wides: 1
+            non_striker: NV Ojha
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 17.2:
+            batsman: BCJ Cutting
+            bowler: SR Watson
+            extras:
+              wides: 1
+            non_striker: NV Ojha
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 17.3:
+            batsman: BCJ Cutting
+            bowler: SR Watson
+            non_striker: NV Ojha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - SR Watson
+              kind: run out
+              player_out: NV Ojha
+        - 17.4:
+            batsman: BCJ Cutting
+            bowler: SR Watson
+            non_striker: Bipul Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: BCJ Cutting
+            bowler: SR Watson
+            non_striker: Bipul Sharma
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 17.6:
+            batsman: BCJ Cutting
+            bowler: SR Watson
+            non_striker: Bipul Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.7:
+            batsman: BCJ Cutting
+            bowler: SR Watson
+            non_striker: Bipul Sharma
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.8:
+            batsman: BCJ Cutting
+            bowler: SR Watson
+            non_striker: Bipul Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: Bipul Sharma
+            bowler: CJ Jordan
+            non_striker: BCJ Cutting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: BCJ Cutting
+            bowler: CJ Jordan
+            non_striker: Bipul Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.3:
+            batsman: Bipul Sharma
+            bowler: CJ Jordan
+            non_striker: BCJ Cutting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.4:
+            batsman: Bipul Sharma
+            bowler: CJ Jordan
+            non_striker: BCJ Cutting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - YS Chahal
+              kind: caught
+              player_out: Bipul Sharma
+        - 18.5:
+            batsman: BCJ Cutting
+            bowler: CJ Jordan
+            extras:
+              wides: 5
+            non_striker: B Kumar
+            runs:
+              batsman: 0
+              extras: 5
+              total: 5
+        - 18.6:
+            batsman: BCJ Cutting
+            bowler: CJ Jordan
+            non_striker: B Kumar
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.7:
+            batsman: BCJ Cutting
+            bowler: CJ Jordan
+            non_striker: B Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.1:
+            batsman: BCJ Cutting
+            bowler: SR Watson
+            non_striker: B Kumar
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.2:
+            batsman: BCJ Cutting
+            bowler: SR Watson
+            non_striker: B Kumar
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 19.3:
+            batsman: BCJ Cutting
+            bowler: SR Watson
+            non_striker: B Kumar
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 19.4:
+            batsman: BCJ Cutting
+            bowler: SR Watson
+            non_striker: B Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: B Kumar
+            bowler: SR Watson
+            non_striker: BCJ Cutting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: BCJ Cutting
+            bowler: SR Watson
+            non_striker: B Kumar
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+  - 2nd innings:
+      team: Royal Challengers Bangalore
+      deliveries:
+        - 0.1:
+            batsman: CH Gayle
+            bowler: B Kumar
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: CH Gayle
+            bowler: B Kumar
+            extras:
+              legbyes: 1
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.3:
+            batsman: V Kohli
+            bowler: B Kumar
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: V Kohli
+            bowler: B Kumar
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: V Kohli
+            bowler: B Kumar
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.6:
+            batsman: V Kohli
+            bowler: B Kumar
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: CH Gayle
+            bowler: BB Sran
+            extras:
+              wides: 1
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.2:
+            batsman: CH Gayle
+            bowler: BB Sran
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: CH Gayle
+            bowler: BB Sran
+            non_striker: V Kohli
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.4:
+            batsman: CH Gayle
+            bowler: BB Sran
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 1.5:
+            batsman: CH Gayle
+            bowler: BB Sran
+            extras:
+              wides: 1
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.6:
+            batsman: CH Gayle
+            bowler: BB Sran
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.7:
+            batsman: CH Gayle
+            bowler: BB Sran
+            non_striker: V Kohli
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.8:
+            batsman: CH Gayle
+            bowler: BB Sran
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.1:
+            batsman: CH Gayle
+            bowler: B Kumar
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: CH Gayle
+            bowler: B Kumar
+            extras:
+              legbyes: 1
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.3:
+            batsman: V Kohli
+            bowler: B Kumar
+            extras:
+              wides: 1
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.4:
+            batsman: V Kohli
+            bowler: B Kumar
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.5:
+            batsman: CH Gayle
+            bowler: B Kumar
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.6:
+            batsman: CH Gayle
+            bowler: B Kumar
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.7:
+            batsman: CH Gayle
+            bowler: B Kumar
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.1:
+            batsman: CH Gayle
+            bowler: BB Sran
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: CH Gayle
+            bowler: BB Sran
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 3.3:
+            batsman: CH Gayle
+            bowler: BB Sran
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: CH Gayle
+            bowler: BB Sran
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: CH Gayle
+            bowler: BB Sran
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.6:
+            batsman: CH Gayle
+            bowler: BB Sran
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 4.1:
+            batsman: V Kohli
+            bowler: BCJ Cutting
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: V Kohli
+            bowler: BCJ Cutting
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: CH Gayle
+            bowler: BCJ Cutting
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 4.4:
+            batsman: CH Gayle
+            bowler: BCJ Cutting
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.5:
+            batsman: CH Gayle
+            bowler: BCJ Cutting
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: V Kohli
+            bowler: BCJ Cutting
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.1:
+            batsman: V Kohli
+            bowler: Mustafizur Rahman
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: V Kohli
+            bowler: Mustafizur Rahman
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: V Kohli
+            bowler: Mustafizur Rahman
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: CH Gayle
+            bowler: Mustafizur Rahman
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: CH Gayle
+            bowler: Mustafizur Rahman
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: V Kohli
+            bowler: Mustafizur Rahman
+            non_striker: CH Gayle
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.1:
+            batsman: CH Gayle
+            bowler: MC Henriques
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 6.2:
+            batsman: CH Gayle
+            bowler: MC Henriques
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: CH Gayle
+            bowler: MC Henriques
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: V Kohli
+            bowler: MC Henriques
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: V Kohli
+            bowler: MC Henriques
+            non_striker: CH Gayle
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.6:
+            batsman: V Kohli
+            bowler: MC Henriques
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: V Kohli
+            bowler: BCJ Cutting
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: V Kohli
+            bowler: BCJ Cutting
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: CH Gayle
+            bowler: BCJ Cutting
+            extras:
+              wides: 1
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 7.4:
+            batsman: CH Gayle
+            bowler: BCJ Cutting
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 7.5:
+            batsman: CH Gayle
+            bowler: BCJ Cutting
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: CH Gayle
+            bowler: BCJ Cutting
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.7:
+            batsman: V Kohli
+            bowler: BCJ Cutting
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: V Kohli
+            bowler: MC Henriques
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.2:
+            batsman: V Kohli
+            bowler: MC Henriques
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: CH Gayle
+            bowler: MC Henriques
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: CH Gayle
+            bowler: MC Henriques
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.5:
+            batsman: CH Gayle
+            bowler: MC Henriques
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.6:
+            batsman: CH Gayle
+            bowler: MC Henriques
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.1:
+            batsman: V Kohli
+            bowler: Mustafizur Rahman
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.2:
+            batsman: V Kohli
+            bowler: Mustafizur Rahman
+            non_striker: CH Gayle
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 9.3:
+            batsman: V Kohli
+            bowler: Mustafizur Rahman
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.4:
+            batsman: CH Gayle
+            bowler: Mustafizur Rahman
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: CH Gayle
+            bowler: Mustafizur Rahman
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: V Kohli
+            bowler: Mustafizur Rahman
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: CH Gayle
+            bowler: BCJ Cutting
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: V Kohli
+            bowler: BCJ Cutting
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: CH Gayle
+            bowler: BCJ Cutting
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Bipul Sharma
+              kind: caught
+              player_out: CH Gayle
+        - 10.4:
+            batsman: V Kohli
+            bowler: BCJ Cutting
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.5:
+            batsman: V Kohli
+            bowler: BCJ Cutting
+            non_striker: AB de Villiers
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 10.6:
+            batsman: V Kohli
+            bowler: BCJ Cutting
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: AB de Villiers
+            bowler: Bipul Sharma
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: V Kohli
+            bowler: Bipul Sharma
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.3:
+            batsman: V Kohli
+            bowler: Bipul Sharma
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: AB de Villiers
+            bowler: Bipul Sharma
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.5:
+            batsman: V Kohli
+            bowler: Bipul Sharma
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: AB de Villiers
+            bowler: Bipul Sharma
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: AB de Villiers
+            bowler: BB Sran
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: V Kohli
+            bowler: BB Sran
+            non_striker: AB de Villiers
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.3:
+            batsman: V Kohli
+            bowler: BB Sran
+            non_striker: AB de Villiers
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.4:
+            batsman: V Kohli
+            bowler: BB Sran
+            non_striker: AB de Villiers
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.5:
+            batsman: V Kohli
+            bowler: BB Sran
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: V Kohli
+        - 12.6:
+            batsman: KL Rahul
+            bowler: BB Sran
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: KL Rahul
+            bowler: Bipul Sharma
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.2:
+            batsman: KL Rahul
+            bowler: Bipul Sharma
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: AB de Villiers
+            bowler: Bipul Sharma
+            non_striker: KL Rahul
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: KL Rahul
+            bowler: Bipul Sharma
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: AB de Villiers
+            bowler: Bipul Sharma
+            non_striker: KL Rahul
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MC Henriques
+              kind: caught
+              player_out: AB de Villiers
+        - 13.6:
+            batsman: KL Rahul
+            bowler: Bipul Sharma
+            non_striker: SR Watson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.1:
+            batsman: KL Rahul
+            bowler: MC Henriques
+            non_striker: SR Watson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: SR Watson
+            bowler: MC Henriques
+            non_striker: KL Rahul
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: KL Rahul
+            bowler: MC Henriques
+            non_striker: SR Watson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: SR Watson
+            bowler: MC Henriques
+            non_striker: KL Rahul
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: SR Watson
+            bowler: MC Henriques
+            non_striker: KL Rahul
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 14.6:
+            batsman: SR Watson
+            bowler: MC Henriques
+            non_striker: KL Rahul
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: KL Rahul
+            bowler: BCJ Cutting
+            non_striker: SR Watson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: SR Watson
+            bowler: BCJ Cutting
+            non_striker: KL Rahul
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.3:
+            batsman: KL Rahul
+            bowler: BCJ Cutting
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: KL Rahul
+        - 15.4:
+            batsman: Sachin Baby
+            bowler: BCJ Cutting
+            non_striker: SR Watson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: Sachin Baby
+            bowler: BCJ Cutting
+            non_striker: SR Watson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: SR Watson
+            bowler: BCJ Cutting
+            non_striker: Sachin Baby
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: SR Watson
+            bowler: Mustafizur Rahman
+            non_striker: Sachin Baby
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: SR Watson
+            bowler: Mustafizur Rahman
+            non_striker: Sachin Baby
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.3:
+            batsman: SR Watson
+            bowler: Mustafizur Rahman
+            non_striker: Sachin Baby
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MC Henriques
+              kind: caught
+              player_out: SR Watson
+        - 16.4:
+            batsman: Sachin Baby
+            bowler: Mustafizur Rahman
+            non_striker: STR Binny
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.5:
+            batsman: STR Binny
+            bowler: Mustafizur Rahman
+            non_striker: Sachin Baby
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 16.6:
+            batsman: STR Binny
+            bowler: Mustafizur Rahman
+            non_striker: Sachin Baby
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: STR Binny
+            bowler: B Kumar
+            non_striker: Sachin Baby
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: STR Binny
+            bowler: B Kumar
+            non_striker: Sachin Baby
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: Sachin Baby
+            bowler: B Kumar
+            non_striker: STR Binny
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: STR Binny
+            bowler: B Kumar
+            non_striker: Sachin Baby
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: STR Binny
+            bowler: B Kumar
+            extras:
+              legbyes: 1
+            non_striker: Sachin Baby
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 17.6:
+            batsman: Sachin Baby
+            bowler: B Kumar
+            non_striker: STR Binny
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.1:
+            batsman: STR Binny
+            bowler: Mustafizur Rahman
+            non_striker: Sachin Baby
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+            wicket:
+              fielders:
+                - DJ Hooda
+                - NV Ojha
+              kind: run out
+              player_out: STR Binny
+        - 18.2:
+            batsman: CJ Jordan
+            bowler: Mustafizur Rahman
+            non_striker: Sachin Baby
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.3:
+            batsman: CJ Jordan
+            bowler: Mustafizur Rahman
+            non_striker: Sachin Baby
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: CJ Jordan
+            bowler: Mustafizur Rahman
+            extras:
+              legbyes: 1
+            non_striker: Sachin Baby
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.5:
+            batsman: Sachin Baby
+            bowler: Mustafizur Rahman
+            non_striker: CJ Jordan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.6:
+            batsman: Sachin Baby
+            bowler: Mustafizur Rahman
+            non_striker: CJ Jordan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 19.1:
+            batsman: CJ Jordan
+            bowler: B Kumar
+            non_striker: Sachin Baby
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.2:
+            batsman: Sachin Baby
+            bowler: B Kumar
+            non_striker: CJ Jordan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.3:
+            batsman: Sachin Baby
+            bowler: B Kumar
+            non_striker: CJ Jordan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - NV Ojha
+              kind: run out
+              player_out: CJ Jordan
+        - 19.4:
+            batsman: Iqbal Abdulla
+            bowler: B Kumar
+            extras:
+              legbyes: 1
+            non_striker: Sachin Baby
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 19.5:
+            batsman: Sachin Baby
+            bowler: B Kumar
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: Iqbal Abdulla
+            bowler: B Kumar
+            non_striker: Sachin Baby
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4

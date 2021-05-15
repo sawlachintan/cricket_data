@@ -1,0 +1,1236 @@
+---
+meta:
+  data_version: 0.9
+  created: 2012-07-13
+  revision: 2
+info:
+  city: Kolkata
+  competition: IPL
+  dates:
+    - 2012-04-05
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      wickets: 8
+    winner: Delhi Daredevils
+  overs: 20
+  player_of_match:
+    - IK Pathan
+  teams:
+    - Kolkata Knight Riders
+    - Delhi Daredevils
+  toss:
+    decision: field
+    winner: Delhi Daredevils
+  umpires:
+    - S Asnani
+    - HDPK Dharmasena
+  venue: Eden Gardens
+innings:
+  - 1st innings:
+      team: Kolkata Knight Riders
+      deliveries:
+        - 0.1:
+            batsman: BB McCullum
+            bowler: IK Pathan
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: BB McCullum
+            bowler: IK Pathan
+            non_striker: JH Kallis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.3:
+            batsman: BB McCullum
+            bowler: IK Pathan
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.4:
+            batsman: JH Kallis
+            bowler: IK Pathan
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: JH Kallis
+            bowler: IK Pathan
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: JH Kallis
+            bowler: IK Pathan
+            non_striker: BB McCullum
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.1:
+            batsman: BB McCullum
+            bowler: RE van der Merwe
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: BB McCullum
+            bowler: RE van der Merwe
+            non_striker: JH Kallis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.3:
+            batsman: BB McCullum
+            bowler: RE van der Merwe
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: BB McCullum
+            bowler: RE van der Merwe
+            extras:
+              wides: 1
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.5:
+            batsman: BB McCullum
+            bowler: RE van der Merwe
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: BB McCullum
+        - 1.6:
+            batsman: G Gambhir
+            bowler: RE van der Merwe
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.7:
+            batsman: G Gambhir
+            bowler: RE van der Merwe
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.1:
+            batsman: G Gambhir
+            bowler: M Morkel
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: G Gambhir
+            bowler: M Morkel
+            non_striker: JH Kallis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.3:
+            batsman: G Gambhir
+            bowler: M Morkel
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.4:
+            batsman: JH Kallis
+            bowler: M Morkel
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: JH Kallis
+        - 2.5:
+            batsman: MK Tiwary
+            bowler: M Morkel
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: MK Tiwary
+        - 2.6:
+            batsman: YK Pathan
+            bowler: M Morkel
+            extras:
+              legbyes: 4
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 3.1:
+            batsman: G Gambhir
+            bowler: UT Yadav
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.2:
+            batsman: YK Pathan
+            bowler: UT Yadav
+            extras:
+              legbyes: 1
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.3:
+            batsman: G Gambhir
+            bowler: UT Yadav
+            non_striker: YK Pathan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.4:
+            batsman: G Gambhir
+            bowler: UT Yadav
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.5:
+            batsman: YK Pathan
+            bowler: UT Yadav
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: YK Pathan
+            bowler: UT Yadav
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - NV Ojha
+              kind: caught
+              player_out: YK Pathan
+        - 4.1:
+            batsman: G Gambhir
+            bowler: M Morkel
+            non_striker: DB Das
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: G Gambhir
+            bowler: M Morkel
+            non_striker: DB Das
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: DB Das
+            bowler: M Morkel
+            non_striker: G Gambhir
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.4:
+            batsman: DB Das
+            bowler: M Morkel
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: DB Das
+            bowler: M Morkel
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: DB Das
+            bowler: M Morkel
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: G Gambhir
+            bowler: GJ Maxwell
+            non_striker: DB Das
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.2:
+            batsman: DB Das
+            bowler: GJ Maxwell
+            extras:
+              wides: 1
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.3:
+            batsman: DB Das
+            bowler: GJ Maxwell
+            non_striker: G Gambhir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: G Gambhir
+            bowler: GJ Maxwell
+            non_striker: DB Das
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: G Gambhir
+            bowler: GJ Maxwell
+            non_striker: DB Das
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: DB Das
+            bowler: GJ Maxwell
+            non_striker: G Gambhir
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.7:
+            batsman: DB Das
+            bowler: GJ Maxwell
+            non_striker: G Gambhir
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 6.1:
+            batsman: G Gambhir
+            bowler: M Morkel
+            non_striker: DB Das
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: DB Das
+            bowler: M Morkel
+            non_striker: G Gambhir
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 6.3:
+            batsman: DB Das
+            bowler: M Morkel
+            non_striker: G Gambhir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: G Gambhir
+            bowler: M Morkel
+            non_striker: DB Das
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: G Gambhir
+        - 6.5:
+            batsman: LR Shukla
+            bowler: M Morkel
+            non_striker: DB Das
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+            wicket:
+              fielders:
+                - AJ Finch
+                - NV Ojha
+              kind: run out
+              player_out: DB Das
+        - 6.6:
+            batsman: R Bhatia
+            bowler: M Morkel
+            non_striker: LR Shukla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: R Bhatia
+            bowler: S Nadeem
+            non_striker: LR Shukla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: R Bhatia
+            bowler: S Nadeem
+            non_striker: LR Shukla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: LR Shukla
+            bowler: S Nadeem
+            non_striker: R Bhatia
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.4:
+            batsman: LR Shukla
+            bowler: S Nadeem
+            non_striker: R Bhatia
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: R Bhatia
+            bowler: S Nadeem
+            non_striker: LR Shukla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: LR Shukla
+            bowler: S Nadeem
+            non_striker: R Bhatia
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: LR Shukla
+            bowler: RE van der Merwe
+            non_striker: R Bhatia
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: LR Shukla
+            bowler: RE van der Merwe
+            non_striker: R Bhatia
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.3:
+            batsman: LR Shukla
+            bowler: RE van der Merwe
+            non_striker: R Bhatia
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.4:
+            batsman: LR Shukla
+            bowler: RE van der Merwe
+            non_striker: R Bhatia
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.5:
+            batsman: LR Shukla
+            bowler: RE van der Merwe
+            non_striker: R Bhatia
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: LR Shukla
+            bowler: RE van der Merwe
+            non_striker: R Bhatia
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: LR Shukla
+            bowler: S Nadeem
+            non_striker: R Bhatia
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 9.2:
+            batsman: LR Shukla
+            bowler: S Nadeem
+            non_striker: R Bhatia
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: R Bhatia
+            bowler: S Nadeem
+            non_striker: LR Shukla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.4:
+            batsman: LR Shukla
+            bowler: S Nadeem
+            non_striker: R Bhatia
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: R Bhatia
+            bowler: S Nadeem
+            non_striker: LR Shukla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: LR Shukla
+            bowler: S Nadeem
+            non_striker: R Bhatia
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: R Bhatia
+            bowler: UT Yadav
+            non_striker: LR Shukla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: LR Shukla
+            bowler: UT Yadav
+            non_striker: R Bhatia
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: LR Shukla
+            bowler: UT Yadav
+            non_striker: R Bhatia
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: LR Shukla
+            bowler: UT Yadav
+            non_striker: R Bhatia
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Y Nagar
+              kind: caught
+              player_out: LR Shukla
+        - 10.5:
+            batsman: R Bhatia
+            bowler: UT Yadav
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: B Lee
+            bowler: UT Yadav
+            non_striker: R Bhatia
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: B Lee
+            bowler: RE van der Merwe
+            non_striker: R Bhatia
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: R Bhatia
+            bowler: RE van der Merwe
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - NV Ojha
+              kind: stumped
+              player_out: R Bhatia
+        - 11.3:
+            batsman: Iqbal Abdulla
+            bowler: RE van der Merwe
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: B Lee
+            bowler: RE van der Merwe
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 11.5:
+            batsman: B Lee
+            bowler: RE van der Merwe
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: B Lee
+            bowler: RE van der Merwe
+            non_striker: Iqbal Abdulla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+            wicket:
+              fielders:
+                - UT Yadav
+              kind: run out
+              player_out: B Lee
+  - 2nd innings:
+      team: Delhi Daredevils
+      deliveries:
+        - 0.1:
+            batsman: AJ Finch
+            bowler: B Lee
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.2:
+            batsman: V Sehwag
+            bowler: B Lee
+            non_striker: AJ Finch
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.3:
+            batsman: AJ Finch
+            bowler: B Lee
+            non_striker: V Sehwag
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 0.4:
+            batsman: AJ Finch
+            bowler: B Lee
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: AJ Finch
+            bowler: B Lee
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: AJ Finch
+            bowler: B Lee
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.1:
+            batsman: AJ Finch
+            bowler: M de Lange
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: AJ Finch
+            bowler: M de Lange
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.3:
+            batsman: V Sehwag
+            bowler: M de Lange
+            non_striker: AJ Finch
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.4:
+            batsman: AJ Finch
+            bowler: M de Lange
+            extras:
+              wides: 1
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.5:
+            batsman: AJ Finch
+            bowler: M de Lange
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: AJ Finch
+            bowler: M de Lange
+            non_striker: V Sehwag
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.7:
+            batsman: AJ Finch
+            bowler: M de Lange
+            non_striker: V Sehwag
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.1:
+            batsman: V Sehwag
+            bowler: B Lee
+            non_striker: AJ Finch
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.2:
+            batsman: AJ Finch
+            bowler: B Lee
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: AJ Finch
+            bowler: B Lee
+            non_striker: V Sehwag
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.4:
+            batsman: AJ Finch
+            bowler: B Lee
+            non_striker: V Sehwag
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.5:
+            batsman: AJ Finch
+            bowler: B Lee
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: AJ Finch
+            bowler: B Lee
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.1:
+            batsman: AJ Finch
+            bowler: Iqbal Abdulla
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.2:
+            batsman: V Sehwag
+            bowler: Iqbal Abdulla
+            non_striker: AJ Finch
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 3.3:
+            batsman: V Sehwag
+            bowler: Iqbal Abdulla
+            non_striker: AJ Finch
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: AJ Finch
+            bowler: Iqbal Abdulla
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: AJ Finch
+            bowler: Iqbal Abdulla
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: AJ Finch
+            bowler: Iqbal Abdulla
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: V Sehwag
+            bowler: JH Kallis
+            non_striker: AJ Finch
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.2:
+            batsman: AJ Finch
+            bowler: JH Kallis
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: AJ Finch
+            bowler: JH Kallis
+            non_striker: V Sehwag
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.4:
+            batsman: AJ Finch
+            bowler: JH Kallis
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: AJ Finch
+            bowler: JH Kallis
+            extras:
+              legbyes: 1
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.6:
+            batsman: V Sehwag
+            bowler: JH Kallis
+            non_striker: AJ Finch
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.1:
+            batsman: V Sehwag
+            bowler: M de Lange
+            non_striker: AJ Finch
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.2:
+            batsman: AJ Finch
+            bowler: M de Lange
+            non_striker: V Sehwag
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.3:
+            batsman: AJ Finch
+            bowler: M de Lange
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: V Sehwag
+            bowler: M de Lange
+            non_striker: AJ Finch
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: AJ Finch
+            bowler: M de Lange
+            extras:
+              legbyes: 1
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.6:
+            batsman: V Sehwag
+            bowler: M de Lange
+            non_striker: AJ Finch
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: V Sehwag
+            bowler: JH Kallis
+            non_striker: AJ Finch
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: AJ Finch
+            bowler: JH Kallis
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: AJ Finch
+        - 6.3:
+            batsman: IK Pathan
+            bowler: JH Kallis
+            non_striker: V Sehwag
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.4:
+            batsman: IK Pathan
+            bowler: JH Kallis
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: IK Pathan
+            bowler: JH Kallis
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: V Sehwag
+            bowler: JH Kallis
+            non_striker: IK Pathan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.1:
+            batsman: IK Pathan
+            bowler: R Bhatia
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: V Sehwag
+            bowler: R Bhatia
+            non_striker: IK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Iqbal Abdulla
+              kind: caught
+              player_out: V Sehwag
+        - 7.3:
+            batsman: GJ Maxwell
+            bowler: R Bhatia
+            non_striker: IK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: GJ Maxwell
+            bowler: R Bhatia
+            non_striker: IK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: IK Pathan
+            bowler: R Bhatia
+            non_striker: GJ Maxwell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: GJ Maxwell
+            bowler: R Bhatia
+            non_striker: IK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: IK Pathan
+            bowler: JH Kallis
+            non_striker: GJ Maxwell
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.2:
+            batsman: IK Pathan
+            bowler: JH Kallis
+            non_striker: GJ Maxwell
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: IK Pathan
+            bowler: JH Kallis
+            non_striker: GJ Maxwell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: GJ Maxwell
+            bowler: JH Kallis
+            non_striker: IK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: IK Pathan
+            bowler: JH Kallis
+            non_striker: GJ Maxwell
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.6:
+            batsman: IK Pathan
+            bowler: JH Kallis
+            non_striker: GJ Maxwell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: IK Pathan
+            bowler: M de Lange
+            non_striker: GJ Maxwell
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 9.2:
+            batsman: IK Pathan
+            bowler: M de Lange
+            non_striker: GJ Maxwell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: GJ Maxwell
+            bowler: M de Lange
+            non_striker: IK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.4:
+            batsman: IK Pathan
+            bowler: M de Lange
+            non_striker: GJ Maxwell
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 9.5:
+            batsman: IK Pathan
+            bowler: M de Lange
+            non_striker: GJ Maxwell
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 9.6:
+            batsman: IK Pathan
+            bowler: M de Lange
+            non_striker: GJ Maxwell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: IK Pathan
+            bowler: YK Pathan
+            non_striker: GJ Maxwell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: GJ Maxwell
+            bowler: YK Pathan
+            extras:
+              legbyes: 1
+            non_striker: IK Pathan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 10.3:
+            batsman: IK Pathan
+            bowler: YK Pathan
+            non_striker: GJ Maxwell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: GJ Maxwell
+            bowler: YK Pathan
+            extras:
+              legbyes: 1
+            non_striker: IK Pathan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 10.5:
+            batsman: IK Pathan
+            bowler: YK Pathan
+            non_striker: GJ Maxwell
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.6:
+            batsman: IK Pathan
+            bowler: YK Pathan
+            non_striker: GJ Maxwell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: IK Pathan
+            bowler: R Bhatia
+            non_striker: GJ Maxwell
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4

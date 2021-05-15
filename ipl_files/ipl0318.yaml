@@ -1,0 +1,2107 @@
+---
+meta:
+  data_version: 0.9
+  created: 2012-07-14
+  revision: 3
+info:
+  city: Hyderabad
+  competition: IPL
+  dates:
+    - 2012-05-20
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      runs: 9
+    winner: Deccan Chargers
+  overs: 20
+  player_of_match:
+    - DW Steyn
+  teams:
+    - Deccan Chargers
+    - Royal Challengers Bangalore
+  toss:
+    decision: field
+    winner: Royal Challengers Bangalore
+  umpires:
+    - S Ravi
+    - SJA Taufel
+  venue: 'Rajiv Gandhi International Stadium, Uppal'
+innings:
+  - 1st innings:
+      team: Deccan Chargers
+      deliveries:
+        - 0.1:
+            batsman: S Dhawan
+            bowler: Z Khan
+            non_striker: PA Reddy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: S Dhawan
+            bowler: Z Khan
+            non_striker: PA Reddy
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.3:
+            batsman: S Dhawan
+            bowler: Z Khan
+            non_striker: PA Reddy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.4:
+            batsman: PA Reddy
+            bowler: Z Khan
+            non_striker: S Dhawan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: PA Reddy
+            bowler: Z Khan
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.6:
+            batsman: S Dhawan
+            bowler: Z Khan
+            non_striker: PA Reddy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: S Dhawan
+        - 1.1:
+            batsman: PA Reddy
+            bowler: R Vinay Kumar
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.2:
+            batsman: KC Sangakkara
+            bowler: R Vinay Kumar
+            non_striker: PA Reddy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: KC Sangakkara
+            bowler: R Vinay Kumar
+            non_striker: PA Reddy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: KC Sangakkara
+            bowler: R Vinay Kumar
+            non_striker: PA Reddy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.5:
+            batsman: PA Reddy
+            bowler: R Vinay Kumar
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.6:
+            batsman: PA Reddy
+            bowler: R Vinay Kumar
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: KC Sangakkara
+            bowler: Z Khan
+            non_striker: PA Reddy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.2:
+            batsman: PA Reddy
+            bowler: Z Khan
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: PA Reddy
+            bowler: Z Khan
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: PA Reddy
+            bowler: Z Khan
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.5:
+            batsman: KC Sangakkara
+            bowler: Z Khan
+            non_striker: PA Reddy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: KC Sangakkara
+            bowler: Z Khan
+            non_striker: PA Reddy
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.1:
+            batsman: PA Reddy
+            bowler: R Vinay Kumar
+            extras:
+              wides: 1
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.2:
+            batsman: PA Reddy
+            bowler: R Vinay Kumar
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.3:
+            batsman: PA Reddy
+            bowler: R Vinay Kumar
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: PA Reddy
+            bowler: R Vinay Kumar
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - AB de Villiers
+              kind: caught
+              player_out: PA Reddy
+        - 3.5:
+            batsman: CL White
+            bowler: R Vinay Kumar
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: CL White
+            bowler: R Vinay Kumar
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.7:
+            batsman: CL White
+            bowler: R Vinay Kumar
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: CL White
+            bowler: P Parameswaran
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: CL White
+            bowler: P Parameswaran
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MA Agarwal
+              kind: caught
+              player_out: CL White
+        - 4.3:
+            batsman: JP Duminy
+            bowler: P Parameswaran
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: JP Duminy
+            bowler: P Parameswaran
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: JP Duminy
+            bowler: P Parameswaran
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: KC Sangakkara
+            bowler: P Parameswaran
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: JP Duminy
+            bowler: M Muralitharan
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: JP Duminy
+            bowler: M Muralitharan
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.3:
+            batsman: KC Sangakkara
+            bowler: M Muralitharan
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: KC Sangakkara
+            bowler: M Muralitharan
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: KC Sangakkara
+            bowler: M Muralitharan
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: JP Duminy
+            bowler: M Muralitharan
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: KC Sangakkara
+            bowler: P Parameswaran
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: JP Duminy
+            bowler: P Parameswaran
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: JP Duminy
+            bowler: P Parameswaran
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.4:
+            batsman: JP Duminy
+            bowler: P Parameswaran
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: JP Duminy
+            bowler: P Parameswaran
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.6:
+            batsman: JP Duminy
+            bowler: P Parameswaran
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: KC Sangakkara
+            bowler: HV Patel
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: JP Duminy
+            bowler: HV Patel
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.3:
+            batsman: JP Duminy
+            bowler: HV Patel
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: KC Sangakkara
+            bowler: HV Patel
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: KC Sangakkara
+            bowler: HV Patel
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: JP Duminy
+            bowler: HV Patel
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: KC Sangakkara
+            bowler: P Parameswaran
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: KC Sangakkara
+            bowler: P Parameswaran
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: JP Duminy
+            bowler: P Parameswaran
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: JP Duminy
+            bowler: P Parameswaran
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: JP Duminy
+            bowler: P Parameswaran
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.6:
+            batsman: JP Duminy
+            bowler: P Parameswaran
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: JP Duminy
+            bowler: M Muralitharan
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: KC Sangakkara
+            bowler: M Muralitharan
+            extras:
+              wides: 1
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.3:
+            batsman: KC Sangakkara
+            bowler: M Muralitharan
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: KC Sangakkara
+            bowler: M Muralitharan
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: JP Duminy
+            bowler: M Muralitharan
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: KC Sangakkara
+            bowler: M Muralitharan
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.7:
+            batsman: JP Duminy
+            bowler: M Muralitharan
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: JP Duminy
+            bowler: HV Patel
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: JP Duminy
+            bowler: HV Patel
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: KC Sangakkara
+            bowler: HV Patel
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: JP Duminy
+            bowler: HV Patel
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.5:
+            batsman: KC Sangakkara
+            bowler: HV Patel
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: JP Duminy
+            bowler: HV Patel
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: KC Sangakkara
+            bowler: M Muralitharan
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - R Vinay Kumar
+              kind: caught
+              player_out: KC Sangakkara
+        - 11.2:
+            batsman: PA Patel
+            bowler: M Muralitharan
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: JP Duminy
+            bowler: M Muralitharan
+            non_striker: PA Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: JP Duminy
+            bowler: M Muralitharan
+            non_striker: PA Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: JP Duminy
+            bowler: M Muralitharan
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: PA Patel
+            bowler: M Muralitharan
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: JP Duminy
+            bowler: HV Patel
+            non_striker: PA Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: JP Duminy
+            bowler: HV Patel
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: PA Patel
+            bowler: HV Patel
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: JP Duminy
+            bowler: HV Patel
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: PA Patel
+            bowler: HV Patel
+            non_striker: JP Duminy
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.6:
+            batsman: PA Patel
+            bowler: HV Patel
+            extras:
+              byes: 1
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.1:
+            batsman: PA Patel
+            bowler: TM Dilshan
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: JP Duminy
+            bowler: TM Dilshan
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: PA Patel
+            bowler: TM Dilshan
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: JP Duminy
+            bowler: TM Dilshan
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: PA Patel
+            bowler: TM Dilshan
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: PA Patel
+            bowler: TM Dilshan
+            extras:
+              wides: 1
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.7:
+            batsman: PA Patel
+            bowler: TM Dilshan
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.1:
+            batsman: PA Patel
+            bowler: HV Patel
+            non_striker: JP Duminy
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.2:
+            batsman: PA Patel
+            bowler: HV Patel
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: JP Duminy
+            bowler: HV Patel
+            non_striker: PA Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: JP Duminy
+            bowler: HV Patel
+            non_striker: PA Patel
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.5:
+            batsman: JP Duminy
+            bowler: HV Patel
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: PA Patel
+            bowler: HV Patel
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: JP Duminy
+            bowler: R Vinay Kumar
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: PA Patel
+            bowler: R Vinay Kumar
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: PA Patel
+            bowler: R Vinay Kumar
+            extras:
+              legbyes: 1
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 15.4:
+            batsman: JP Duminy
+            bowler: R Vinay Kumar
+            non_striker: PA Patel
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 15.5:
+            batsman: JP Duminy
+            bowler: R Vinay Kumar
+            non_striker: PA Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: JP Duminy
+            bowler: R Vinay Kumar
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: JP Duminy
+            bowler: Z Khan
+            non_striker: PA Patel
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.2:
+            batsman: JP Duminy
+            bowler: Z Khan
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: PA Patel
+            bowler: Z Khan
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: JP Duminy
+            bowler: Z Khan
+            non_striker: PA Patel
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 16.5:
+            batsman: JP Duminy
+            bowler: Z Khan
+            non_striker: PA Patel
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.6:
+            batsman: JP Duminy
+            bowler: Z Khan
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: JP Duminy
+            bowler: M Muralitharan
+            non_striker: PA Patel
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 17.2:
+            batsman: JP Duminy
+            bowler: M Muralitharan
+            non_striker: PA Patel
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 17.3:
+            batsman: JP Duminy
+            bowler: M Muralitharan
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: PA Patel
+            bowler: M Muralitharan
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: JP Duminy
+            bowler: M Muralitharan
+            non_striker: PA Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.6:
+            batsman: JP Duminy
+            bowler: M Muralitharan
+            non_striker: PA Patel
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 18.1:
+            batsman: PA Patel
+            bowler: Z Khan
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: PA Patel
+            bowler: Z Khan
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.3:
+            batsman: JP Duminy
+            bowler: Z Khan
+            non_striker: PA Patel
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.4:
+            batsman: JP Duminy
+            bowler: Z Khan
+            non_striker: PA Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: JP Duminy
+            bowler: Z Khan
+            non_striker: PA Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KP Appanna (sub)
+              kind: caught
+              player_out: JP Duminy
+        - 18.6:
+            batsman: PA Patel
+            bowler: Z Khan
+            extras:
+              legbyes: 4
+            non_striker: A Ashish Reddy
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 19.1:
+            batsman: A Ashish Reddy
+            bowler: R Vinay Kumar
+            non_striker: PA Patel
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.2:
+            batsman: A Ashish Reddy
+            bowler: R Vinay Kumar
+            extras:
+              wides: 1
+            non_striker: PA Patel
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 19.3:
+            batsman: A Ashish Reddy
+            bowler: R Vinay Kumar
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: PA Patel
+            bowler: R Vinay Kumar
+            non_striker: A Ashish Reddy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: A Ashish Reddy
+            bowler: R Vinay Kumar
+            non_striker: PA Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: PA Patel
+            bowler: R Vinay Kumar
+            non_striker: A Ashish Reddy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CH Gayle
+              kind: caught
+              player_out: PA Patel
+        - 19.7:
+            batsman: A Ashish Reddy
+            bowler: R Vinay Kumar
+            non_striker: DW Steyn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: A Ashish Reddy
+  - 2nd innings:
+      team: Royal Challengers Bangalore
+      deliveries:
+        - 0.1:
+            batsman: CH Gayle
+            bowler: DW Steyn
+            non_striker: TM Dilshan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.2:
+            batsman: TM Dilshan
+            bowler: DW Steyn
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: TM Dilshan
+            bowler: DW Steyn
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: TM Dilshan
+            bowler: DW Steyn
+            non_striker: CH Gayle
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 0.5:
+            batsman: TM Dilshan
+            bowler: DW Steyn
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: TM Dilshan
+            bowler: DW Steyn
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: CH Gayle
+            bowler: MS Gony
+            non_striker: TM Dilshan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.2:
+            batsman: CH Gayle
+            bowler: MS Gony
+            non_striker: TM Dilshan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: CH Gayle
+            bowler: MS Gony
+            non_striker: TM Dilshan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.4:
+            batsman: CH Gayle
+            bowler: MS Gony
+            non_striker: TM Dilshan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 1.5:
+            batsman: CH Gayle
+            bowler: MS Gony
+            non_striker: TM Dilshan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.6:
+            batsman: CH Gayle
+            bowler: MS Gony
+            non_striker: TM Dilshan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 2.1:
+            batsman: TM Dilshan
+            bowler: DW Steyn
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: TM Dilshan
+            bowler: DW Steyn
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.3:
+            batsman: CH Gayle
+            bowler: DW Steyn
+            non_striker: TM Dilshan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.4:
+            batsman: CH Gayle
+            bowler: DW Steyn
+            non_striker: TM Dilshan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: CH Gayle
+            bowler: DW Steyn
+            non_striker: TM Dilshan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: CH Gayle
+        - 2.6:
+            batsman: V Kohli
+            bowler: DW Steyn
+            non_striker: TM Dilshan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: TM Dilshan
+            bowler: MS Gony
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: TM Dilshan
+            bowler: MS Gony
+            extras:
+              wides: 1
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.3:
+            batsman: TM Dilshan
+            bowler: MS Gony
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: V Kohli
+            bowler: MS Gony
+            non_striker: TM Dilshan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.5:
+            batsman: V Kohli
+            bowler: MS Gony
+            non_striker: TM Dilshan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: V Kohli
+            bowler: MS Gony
+            non_striker: TM Dilshan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.7:
+            batsman: V Kohli
+            bowler: MS Gony
+            non_striker: TM Dilshan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: TM Dilshan
+            bowler: DW Steyn
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: TM Dilshan
+            bowler: DW Steyn
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: TM Dilshan
+            bowler: DW Steyn
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: TM Dilshan
+        - 4.4:
+            batsman: SS Tiwary
+            bowler: DW Steyn
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: SS Tiwary
+            bowler: DW Steyn
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: V Kohli
+            bowler: DW Steyn
+            non_striker: SS Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: SS Tiwary
+            bowler: MS Gony
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: SS Tiwary
+            bowler: MS Gony
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.3:
+            batsman: V Kohli
+            bowler: MS Gony
+            non_striker: SS Tiwary
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.4:
+            batsman: V Kohli
+            bowler: MS Gony
+            non_striker: AB de Villiers
+            replacements:
+              role:
+                - in: AB de Villiers
+                  out: SS Tiwary
+                  reason: injury
+                  role: batter
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: V Kohli
+            bowler: MS Gony
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: V Kohli
+            bowler: MS Gony
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: AB de Villiers
+            bowler: V Pratap Singh
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: V Kohli
+            bowler: V Pratap Singh
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: AB de Villiers
+            bowler: V Pratap Singh
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: V Kohli
+            bowler: V Pratap Singh
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: AB de Villiers
+            bowler: V Pratap Singh
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: AB de Villiers
+            bowler: V Pratap Singh
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: V Kohli
+            bowler: A Mishra
+            non_striker: AB de Villiers
+            runs:
+              batsman: 6
+              extras: 0
+              non_boundary: 1
+              total: 6
+        - 7.2:
+            batsman: V Kohli
+            bowler: A Mishra
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: V Kohli
+            bowler: A Mishra
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: AB de Villiers
+            bowler: A Mishra
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: AB de Villiers
+            bowler: A Mishra
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: AB de Villiers
+            bowler: A Mishra
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: AB de Villiers
+            bowler: V Pratap Singh
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: AB de Villiers
+            bowler: V Pratap Singh
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: AB de Villiers
+            bowler: V Pratap Singh
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: V Kohli
+            bowler: V Pratap Singh
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: V Kohli
+            bowler: V Pratap Singh
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: V Kohli
+            bowler: V Pratap Singh
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: V Kohli
+            bowler: A Mishra
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: AB de Villiers
+            bowler: A Mishra
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JP Duminy
+              kind: caught
+              player_out: AB de Villiers
+        - 9.3:
+            batsman: MA Agarwal
+            bowler: A Mishra
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.4:
+            batsman: V Kohli
+            bowler: A Mishra
+            non_striker: MA Agarwal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: MA Agarwal
+            bowler: A Mishra
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: MA Agarwal
+        - 9.6:
+            batsman: SS Tiwary
+            bowler: A Mishra
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: V Kohli
+            bowler: A Ashish Reddy
+            non_striker: SS Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: V Kohli
+            bowler: A Ashish Reddy
+            non_striker: SS Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: SS Tiwary
+            bowler: A Ashish Reddy
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: V Kohli
+            bowler: A Ashish Reddy
+            non_striker: SS Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: V Kohli
+            bowler: A Ashish Reddy
+            non_striker: SS Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: SS Tiwary
+            bowler: A Ashish Reddy
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: V Kohli
+            bowler: A Mishra
+            non_striker: SS Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: V Kohli
+            bowler: A Mishra
+            non_striker: SS Tiwary
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 11.3:
+            batsman: V Kohli
+            bowler: A Mishra
+            non_striker: SS Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: V Kohli
+            bowler: A Mishra
+            non_striker: SS Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: V Kohli
+            bowler: A Mishra
+            non_striker: SS Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: SS Tiwary
+            bowler: A Mishra
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: SS Tiwary
+            bowler: A Ashish Reddy
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: SS Tiwary
+            bowler: A Ashish Reddy
+            non_striker: V Kohli
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.3:
+            batsman: SS Tiwary
+            bowler: A Ashish Reddy
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: V Kohli
+            bowler: A Ashish Reddy
+            non_striker: SS Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: V Kohli
+            bowler: A Ashish Reddy
+            non_striker: SS Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: V Kohli
+            bowler: A Ashish Reddy
+            non_striker: SS Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: V Kohli
+            bowler: MS Gony
+            extras:
+              wides: 1
+            non_striker: SS Tiwary
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.2:
+            batsman: V Kohli
+            bowler: MS Gony
+            non_striker: SS Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: SS Tiwary
+            bowler: MS Gony
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: SS Tiwary
+            bowler: MS Gony
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: SS Tiwary
+            bowler: MS Gony
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: V Kohli
+            bowler: MS Gony
+            non_striker: SS Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.7:
+            batsman: SS Tiwary
+            bowler: MS Gony
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.1:
+            batsman: SS Tiwary
+            bowler: V Pratap Singh
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.2:
+            batsman: SS Tiwary
+            bowler: V Pratap Singh
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: V Kohli
+            bowler: V Pratap Singh
+            non_striker: SS Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: V Kohli
+            bowler: V Pratap Singh
+            non_striker: SS Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: SS Tiwary
+            bowler: V Pratap Singh
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 14.6:
+            batsman: SS Tiwary
+            bowler: V Pratap Singh
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: V Kohli
+            bowler: A Ashish Reddy
+            non_striker: SS Tiwary
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.2:
+            batsman: V Kohli
+            bowler: A Ashish Reddy
+            non_striker: SS Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.3:
+            batsman: SS Tiwary
+            bowler: A Ashish Reddy
+            non_striker: V Kohli
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.4:
+            batsman: SS Tiwary
+            bowler: A Ashish Reddy
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: V Kohli
+            bowler: A Ashish Reddy
+            non_striker: SS Tiwary
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 15.6:
+            batsman: V Kohli
+            bowler: A Ashish Reddy
+            non_striker: SS Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MS Gony
+              kind: caught
+              player_out: V Kohli
+        - 16.1:
+            batsman: SS Tiwary
+            bowler: DW Steyn
+            non_striker: Z Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: Z Khan
+            bowler: DW Steyn
+            non_striker: SS Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: Z Khan
+            bowler: DW Steyn
+            non_striker: SS Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: Z Khan
+            bowler: DW Steyn
+            non_striker: SS Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: Z Khan
+            bowler: DW Steyn
+            non_striker: SS Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: Z Khan
+        - 16.6:
+            batsman: R Vinay Kumar
+            bowler: DW Steyn
+            non_striker: SS Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.1:
+            batsman: SS Tiwary
+            bowler: A Mishra
+            non_striker: R Vinay Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: R Vinay Kumar
+            bowler: A Mishra
+            non_striker: SS Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: SS Tiwary
+            bowler: A Mishra
+            non_striker: R Vinay Kumar
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.4:
+            batsman: SS Tiwary
+            bowler: A Mishra
+            non_striker: R Vinay Kumar
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.5:
+            batsman: SS Tiwary
+            bowler: A Mishra
+            non_striker: R Vinay Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: R Vinay Kumar
+            bowler: A Mishra
+            non_striker: SS Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: SS Tiwary
+            bowler: V Pratap Singh
+            non_striker: R Vinay Kumar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KC Sangakkara
+              kind: caught
+              player_out: SS Tiwary
+        - 18.2:
+            batsman: R Vinay Kumar
+            bowler: V Pratap Singh
+            non_striker: HV Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.3:
+            batsman: HV Patel
+            bowler: V Pratap Singh
+            non_striker: R Vinay Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.4:
+            batsman: R Vinay Kumar
+            bowler: V Pratap Singh
+            non_striker: HV Patel
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.5:
+            batsman: R Vinay Kumar
+            bowler: V Pratap Singh
+            non_striker: HV Patel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.6:
+            batsman: HV Patel
+            bowler: V Pratap Singh
+            non_striker: R Vinay Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.1:
+            batsman: HV Patel
+            bowler: A Ashish Reddy
+            non_striker: R Vinay Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.2:
+            batsman: R Vinay Kumar
+            bowler: A Ashish Reddy
+            non_striker: HV Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JP Duminy
+              kind: caught
+              player_out: R Vinay Kumar
+        - 19.3:
+            batsman: HV Patel
+            bowler: A Ashish Reddy
+            non_striker: M Muralitharan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: M Muralitharan
+            bowler: A Ashish Reddy
+            non_striker: HV Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JP Duminy
+              kind: caught
+              player_out: M Muralitharan
+        - 19.5:
+            batsman: HV Patel
+            bowler: A Ashish Reddy
+            non_striker: P Parameswaran
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: P Parameswaran
+            bowler: A Ashish Reddy
+            extras:
+              wides: 1
+            non_striker: HV Patel
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 19.7:
+            batsman: P Parameswaran
+            bowler: A Ashish Reddy
+            non_striker: HV Patel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0

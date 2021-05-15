@@ -1,0 +1,1738 @@
+---
+meta:
+  data_version: 0.9
+  created: 2011-05-06
+  revision: 3
+info:
+  city: Hyderabad
+  competition: IPL
+  dates:
+    - 2008-04-22
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      wickets: 9
+    winner: Delhi Daredevils
+  overs: 20
+  player_of_match:
+    - V Sehwag
+  teams:
+    - Deccan Chargers
+    - Delhi Daredevils
+  toss:
+    decision: bat
+    winner: Deccan Chargers
+  umpires:
+    - IL Howell
+    - AM Saheba
+  venue: 'Rajiv Gandhi International Stadium, Uppal'
+innings:
+  - 1st innings:
+      team: Deccan Chargers
+      deliveries:
+        - 0.1:
+            batsman: AC Gilchrist
+            bowler: GD McGrath
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: AC Gilchrist
+            bowler: GD McGrath
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: AC Gilchrist
+            bowler: GD McGrath
+            extras:
+              legbyes: 1
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.4:
+            batsman: Y Venugopal Rao
+            bowler: GD McGrath
+            non_striker: AC Gilchrist
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: Y Venugopal Rao
+            bowler: GD McGrath
+            non_striker: AC Gilchrist
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: Y Venugopal Rao
+            bowler: GD McGrath
+            non_striker: AC Gilchrist
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: AC Gilchrist
+            bowler: Mohammad Asif
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: AC Gilchrist
+            bowler: Mohammad Asif
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: AC Gilchrist
+            bowler: Mohammad Asif
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 1.4:
+            batsman: AC Gilchrist
+            bowler: Mohammad Asif
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: AC Gilchrist
+            bowler: Mohammad Asif
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.6:
+            batsman: AC Gilchrist
+            bowler: Mohammad Asif
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: AC Gilchrist
+        - 2.1:
+            batsman: Y Venugopal Rao
+            bowler: GD McGrath
+            non_striker: VVS Laxman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: Y Venugopal Rao
+            bowler: GD McGrath
+            non_striker: VVS Laxman
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.3:
+            batsman: Y Venugopal Rao
+            bowler: GD McGrath
+            non_striker: VVS Laxman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: Y Venugopal Rao
+            bowler: GD McGrath
+            non_striker: VVS Laxman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: Y Venugopal Rao
+            bowler: GD McGrath
+            non_striker: VVS Laxman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: Y Venugopal Rao
+            bowler: GD McGrath
+            non_striker: VVS Laxman
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.1:
+            batsman: VVS Laxman
+            bowler: Mohammad Asif
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: VVS Laxman
+            bowler: Mohammad Asif
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: VVS Laxman
+            bowler: Mohammad Asif
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: VVS Laxman
+            bowler: Mohammad Asif
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.5:
+            batsman: Y Venugopal Rao
+            bowler: Mohammad Asif
+            non_striker: VVS Laxman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: Y Venugopal Rao
+            bowler: Mohammad Asif
+            non_striker: VVS Laxman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: VVS Laxman
+            bowler: GD McGrath
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.2:
+            batsman: Y Venugopal Rao
+            bowler: GD McGrath
+            non_striker: VVS Laxman
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.3:
+            batsman: Y Venugopal Rao
+            bowler: GD McGrath
+            non_striker: VVS Laxman
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.4:
+            batsman: Y Venugopal Rao
+            bowler: GD McGrath
+            non_striker: VVS Laxman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: Y Venugopal Rao
+            bowler: GD McGrath
+            non_striker: VVS Laxman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: Y Venugopal Rao
+            bowler: GD McGrath
+            non_striker: VVS Laxman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: VVS Laxman
+            bowler: Mohammad Asif
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: VVS Laxman
+        - 5.2:
+            batsman: A Symonds
+            bowler: Mohammad Asif
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: A Symonds
+            bowler: Mohammad Asif
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: A Symonds
+            bowler: Mohammad Asif
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: A Symonds
+            bowler: Mohammad Asif
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.6:
+            batsman: A Symonds
+            bowler: Mohammad Asif
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: Y Venugopal Rao
+            bowler: GD McGrath
+            non_striker: A Symonds
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: A Symonds
+            bowler: GD McGrath
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.3:
+            batsman: A Symonds
+            bowler: GD McGrath
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.4:
+            batsman: A Symonds
+            bowler: GD McGrath
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: A Symonds
+            bowler: GD McGrath
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: A Symonds
+            bowler: GD McGrath
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: Y Venugopal Rao
+            bowler: MF Maharoof
+            non_striker: A Symonds
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: A Symonds
+            bowler: MF Maharoof
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: Y Venugopal Rao
+            bowler: MF Maharoof
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: Y Venugopal Rao
+            bowler: MF Maharoof
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: Y Venugopal Rao
+            bowler: MF Maharoof
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: Y Venugopal Rao
+            bowler: MF Maharoof
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - S Dhawan
+              kind: caught
+              player_out: Y Venugopal Rao
+        - 8.1:
+            batsman: RG Sharma
+            bowler: VY Mahesh
+            non_striker: A Symonds
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.2:
+            batsman: RG Sharma
+            bowler: VY Mahesh
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: RG Sharma
+            bowler: VY Mahesh
+            non_striker: A Symonds
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: A Symonds
+            bowler: VY Mahesh
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: RG Sharma
+            bowler: VY Mahesh
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: RG Sharma
+            bowler: VY Mahesh
+            non_striker: A Symonds
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: RG Sharma
+            bowler: MF Maharoof
+            extras:
+              wides: 1
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.2:
+            batsman: RG Sharma
+            bowler: MF Maharoof
+            non_striker: A Symonds
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: A Symonds
+            bowler: MF Maharoof
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KD Karthik
+              kind: caught
+              player_out: A Symonds
+        - 9.4:
+            batsman: Shahid Afridi
+            bowler: MF Maharoof
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: Shahid Afridi
+            bowler: MF Maharoof
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: Shahid Afridi
+            bowler: MF Maharoof
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.7:
+            batsman: Shahid Afridi
+            bowler: MF Maharoof
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: RG Sharma
+            bowler: VY Mahesh
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: RG Sharma
+            bowler: VY Mahesh
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: RG Sharma
+            bowler: VY Mahesh
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: RG Sharma
+            bowler: VY Mahesh
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.5:
+            batsman: RG Sharma
+            bowler: VY Mahesh
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.6:
+            batsman: RG Sharma
+            bowler: VY Mahesh
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: RG Sharma
+            bowler: MF Maharoof
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.2:
+            batsman: RG Sharma
+            bowler: MF Maharoof
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: RG Sharma
+            bowler: MF Maharoof
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: Shahid Afridi
+            bowler: MF Maharoof
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.5:
+            batsman: RG Sharma
+            bowler: MF Maharoof
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: Shahid Afridi
+            bowler: MF Maharoof
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: Shahid Afridi
+            bowler: R Bhatia
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: Shahid Afridi
+        - 12.2:
+            batsman: SB Bangar
+            bowler: R Bhatia
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: SB Bangar
+            bowler: R Bhatia
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: SB Bangar
+            bowler: R Bhatia
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: RG Sharma
+            bowler: R Bhatia
+            non_striker: SB Bangar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.6:
+            batsman: SB Bangar
+            bowler: R Bhatia
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: RG Sharma
+            bowler: VY Mahesh
+            non_striker: SB Bangar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: SB Bangar
+            bowler: VY Mahesh
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: RG Sharma
+            bowler: VY Mahesh
+            non_striker: SB Bangar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: SB Bangar
+            bowler: VY Mahesh
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: RG Sharma
+            bowler: VY Mahesh
+            non_striker: SB Bangar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: SB Bangar
+            bowler: VY Mahesh
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.1:
+            batsman: SB Bangar
+            bowler: R Bhatia
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: RG Sharma
+            bowler: R Bhatia
+            non_striker: SB Bangar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: SB Bangar
+            bowler: R Bhatia
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: RG Sharma
+            bowler: R Bhatia
+            non_striker: SB Bangar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: RG Sharma
+            bowler: R Bhatia
+            non_striker: SB Bangar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: SB Bangar
+            bowler: R Bhatia
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: SB Bangar
+            bowler: Mohammad Asif
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: SB Bangar
+            bowler: Mohammad Asif
+            extras:
+              legbyes: 1
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 15.3:
+            batsman: RG Sharma
+            bowler: Mohammad Asif
+            non_striker: SB Bangar
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 15.4:
+            batsman: RG Sharma
+            bowler: Mohammad Asif
+            non_striker: SB Bangar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: SB Bangar
+            bowler: Mohammad Asif
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: RG Sharma
+            bowler: Mohammad Asif
+            non_striker: SB Bangar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: SB Bangar
+            bowler: R Bhatia
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MK Tiwary
+                - KD Karthik
+              kind: run out
+              player_out: SB Bangar
+        - 16.2:
+            batsman: AS Yadav
+            bowler: R Bhatia
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: RG Sharma
+            bowler: R Bhatia
+            non_striker: AS Yadav
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: RG Sharma
+            bowler: R Bhatia
+            non_striker: AS Yadav
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 16.5:
+            batsman: RG Sharma
+            bowler: R Bhatia
+            non_striker: AS Yadav
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: AS Yadav
+            bowler: R Bhatia
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.1:
+            batsman: RG Sharma
+            bowler: MF Maharoof
+            non_striker: AS Yadav
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 17.2:
+            batsman: RG Sharma
+            bowler: MF Maharoof
+            non_striker: AS Yadav
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 17.3:
+            batsman: RG Sharma
+            bowler: MF Maharoof
+            non_striker: AS Yadav
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.4:
+            batsman: RG Sharma
+            bowler: MF Maharoof
+            non_striker: AS Yadav
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.5:
+            batsman: RG Sharma
+            bowler: MF Maharoof
+            non_striker: AS Yadav
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.6:
+            batsman: RG Sharma
+            bowler: MF Maharoof
+            non_striker: AS Yadav
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.1:
+            batsman: AS Yadav
+            bowler: R Bhatia
+            non_striker: RG Sharma
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.2:
+            batsman: AS Yadav
+            bowler: R Bhatia
+            non_striker: RG Sharma
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.3:
+            batsman: AS Yadav
+            bowler: R Bhatia
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.4:
+            batsman: RG Sharma
+            bowler: R Bhatia
+            non_striker: AS Yadav
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - GD McGrath
+              kind: caught
+              player_out: RG Sharma
+        - 18.5:
+            batsman: WPUJC Vaas
+            bowler: R Bhatia
+            non_striker: AS Yadav
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.6:
+            batsman: AS Yadav
+            bowler: R Bhatia
+            non_striker: WPUJC Vaas
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.1:
+            batsman: WPUJC Vaas
+            bowler: VY Mahesh
+            extras:
+              legbyes: 1
+            non_striker: AS Yadav
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 19.2:
+            batsman: AS Yadav
+            bowler: VY Mahesh
+            non_striker: WPUJC Vaas
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - G Gambhir
+              kind: caught
+              player_out: AS Yadav
+        - 19.3:
+            batsman: WPUJC Vaas
+            bowler: VY Mahesh
+            non_striker: RP Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: RP Singh
+            bowler: VY Mahesh
+            non_striker: WPUJC Vaas
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: WPUJC Vaas
+            bowler: VY Mahesh
+            non_striker: RP Singh
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.6:
+            batsman: WPUJC Vaas
+            bowler: VY Mahesh
+            extras:
+              noballs: 1
+            non_striker: RP Singh
+            runs:
+              batsman: 6
+              extras: 1
+              total: 7
+        - 19.7:
+            batsman: WPUJC Vaas
+            bowler: VY Mahesh
+            non_striker: RP Singh
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+  - 2nd innings:
+      team: Delhi Daredevils
+      deliveries:
+        - 0.1:
+            batsman: G Gambhir
+            bowler: WPUJC Vaas
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.2:
+            batsman: V Sehwag
+            bowler: WPUJC Vaas
+            non_striker: G Gambhir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.3:
+            batsman: G Gambhir
+            bowler: WPUJC Vaas
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.4:
+            batsman: V Sehwag
+            bowler: WPUJC Vaas
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: V Sehwag
+            bowler: WPUJC Vaas
+            non_striker: G Gambhir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.6:
+            batsman: G Gambhir
+            bowler: WPUJC Vaas
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: V Sehwag
+            bowler: RP Singh
+            non_striker: G Gambhir
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.2:
+            batsman: V Sehwag
+            bowler: RP Singh
+            non_striker: G Gambhir
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.3:
+            batsman: V Sehwag
+            bowler: RP Singh
+            non_striker: G Gambhir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.4:
+            batsman: G Gambhir
+            bowler: RP Singh
+            non_striker: V Sehwag
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.5:
+            batsman: G Gambhir
+            bowler: RP Singh
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.6:
+            batsman: V Sehwag
+            bowler: RP Singh
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: G Gambhir
+            bowler: WPUJC Vaas
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.2:
+            batsman: V Sehwag
+            bowler: WPUJC Vaas
+            non_striker: G Gambhir
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.3:
+            batsman: V Sehwag
+            bowler: WPUJC Vaas
+            non_striker: G Gambhir
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.4:
+            batsman: V Sehwag
+            bowler: WPUJC Vaas
+            non_striker: G Gambhir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.5:
+            batsman: G Gambhir
+            bowler: WPUJC Vaas
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: G Gambhir
+            bowler: WPUJC Vaas
+            non_striker: V Sehwag
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.1:
+            batsman: V Sehwag
+            bowler: RP Singh
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: V Sehwag
+            bowler: RP Singh
+            non_striker: G Gambhir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: G Gambhir
+            bowler: RP Singh
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - AC Gilchrist
+              kind: caught
+              player_out: G Gambhir
+        - 3.4:
+            batsman: S Dhawan
+            bowler: RP Singh
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: S Dhawan
+            bowler: RP Singh
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.6:
+            batsman: V Sehwag
+            bowler: RP Singh
+            non_striker: S Dhawan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: S Dhawan
+            bowler: WPUJC Vaas
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: S Dhawan
+            bowler: WPUJC Vaas
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: S Dhawan
+            bowler: WPUJC Vaas
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.4:
+            batsman: V Sehwag
+            bowler: WPUJC Vaas
+            non_striker: S Dhawan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.5:
+            batsman: V Sehwag
+            bowler: WPUJC Vaas
+            non_striker: S Dhawan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: V Sehwag
+            bowler: WPUJC Vaas
+            non_striker: S Dhawan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: S Dhawan
+            bowler: RP Singh
+            extras:
+              wides: 1
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.2:
+            batsman: S Dhawan
+            bowler: RP Singh
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: S Dhawan
+            bowler: RP Singh
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: V Sehwag
+            bowler: RP Singh
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: S Dhawan
+            bowler: RP Singh
+            non_striker: V Sehwag
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.6:
+            batsman: S Dhawan
+            bowler: RP Singh
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.7:
+            batsman: S Dhawan
+            bowler: RP Singh
+            non_striker: V Sehwag
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.1:
+            batsman: V Sehwag
+            bowler: SB Bangar
+            non_striker: S Dhawan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.2:
+            batsman: V Sehwag
+            bowler: SB Bangar
+            non_striker: S Dhawan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: V Sehwag
+            bowler: SB Bangar
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: S Dhawan
+            bowler: SB Bangar
+            non_striker: V Sehwag
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.5:
+            batsman: S Dhawan
+            bowler: SB Bangar
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: S Dhawan
+            bowler: SB Bangar
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: V Sehwag
+            bowler: Shahid Afridi
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: S Dhawan
+            bowler: Shahid Afridi
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: S Dhawan
+            bowler: Shahid Afridi
+            non_striker: V Sehwag
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.4:
+            batsman: S Dhawan
+            bowler: Shahid Afridi
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: S Dhawan
+            bowler: Shahid Afridi
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: V Sehwag
+            bowler: Shahid Afridi
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: V Sehwag
+            bowler: SB Bangar
+            extras:
+              wides: 1
+            non_striker: S Dhawan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 8.2:
+            batsman: V Sehwag
+            bowler: SB Bangar
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: S Dhawan
+            bowler: SB Bangar
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: V Sehwag
+            bowler: SB Bangar
+            non_striker: S Dhawan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.5:
+            batsman: V Sehwag
+            bowler: SB Bangar
+            non_striker: S Dhawan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.6:
+            batsman: V Sehwag
+            bowler: SB Bangar
+            non_striker: S Dhawan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.7:
+            batsman: V Sehwag
+            bowler: SB Bangar
+            non_striker: S Dhawan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.1:
+            batsman: S Dhawan
+            bowler: Shahid Afridi
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: V Sehwag
+            bowler: Shahid Afridi
+            non_striker: S Dhawan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 9.3:
+            batsman: V Sehwag
+            bowler: Shahid Afridi
+            non_striker: S Dhawan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 9.4:
+            batsman: V Sehwag
+            bowler: Shahid Afridi
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: S Dhawan
+            bowler: Shahid Afridi
+            non_striker: V Sehwag
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 9.6:
+            batsman: S Dhawan
+            bowler: Shahid Afridi
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: V Sehwag
+            bowler: A Symonds
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: S Dhawan
+            bowler: A Symonds
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: S Dhawan
+            bowler: A Symonds
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: S Dhawan
+            bowler: A Symonds
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: S Dhawan
+            bowler: A Symonds
+            non_striker: V Sehwag
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.6:
+            batsman: S Dhawan
+            bowler: A Symonds
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: V Sehwag
+            bowler: PP Ojha
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: S Dhawan
+            bowler: PP Ojha
+            extras:
+              wides: 2
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 11.3:
+            batsman: V Sehwag
+            bowler: PP Ojha
+            non_striker: S Dhawan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: V Sehwag
+            bowler: PP Ojha
+            extras:
+              wides: 2
+            non_striker: S Dhawan
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 11.5:
+            batsman: S Dhawan
+            bowler: PP Ojha
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: V Sehwag
+            bowler: PP Ojha
+            extras:
+              penalty: 5
+            non_striker: S Dhawan
+            runs:
+              batsman: 0
+              extras: 5
+              total: 5
+        - 11.7:
+            batsman: V Sehwag
+            bowler: PP Ojha
+            non_striker: S Dhawan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.8:
+            batsman: S Dhawan
+            bowler: PP Ojha
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: V Sehwag
+            bowler: A Symonds
+            non_striker: S Dhawan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.2:
+            batsman: V Sehwag
+            bowler: A Symonds
+            non_striker: S Dhawan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.3:
+            batsman: V Sehwag
+            bowler: A Symonds
+            non_striker: S Dhawan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.4:
+            batsman: V Sehwag
+            bowler: A Symonds
+            non_striker: S Dhawan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.5:
+            batsman: V Sehwag
+            bowler: A Symonds
+            non_striker: S Dhawan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.6:
+            batsman: V Sehwag
+            bowler: A Symonds
+            non_striker: S Dhawan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 13.1:
+            batsman: S Dhawan
+            bowler: WPUJC Vaas
+            extras:
+              wides: 1
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1

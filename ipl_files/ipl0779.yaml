@@ -1,0 +1,2179 @@
+---
+meta:
+  data_version: 0.9
+  created: '2020-10-09'
+  revision: 1
+info:
+  competition: IPL
+  dates:
+  - '2020-10-09'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Delhi Capitals
+    by:
+      runs: 46
+  overs: 20
+  player_of_match:
+  - R Ashwin
+  teams:
+  - Delhi Capitals
+  - Rajasthan Royals
+  toss:
+    decision: field
+    winner: Rajasthan Royals
+  umpires:
+  - KN Ananthapadmanabhan
+  - C Shamshuddin
+  venue: Sharjah Cricket Stadium
+innings:
+- 1st innings:
+    team: Delhi Capitals
+    deliveries:
+    - 0.1:
+        non_striker: S Dhawan
+        bowler: VR Aaron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+    - 0.2:
+        non_striker: S Dhawan
+        bowler: VR Aaron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PP Shaw
+    - 0.3:
+        non_striker: PP Shaw
+        bowler: VR Aaron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 0.4:
+        non_striker: PP Shaw
+        bowler: VR Aaron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 0.5:
+        non_striker: S Dhawan
+        bowler: VR Aaron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PP Shaw
+    - 0.6:
+        non_striker: PP Shaw
+        bowler: VR Aaron
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 1.1:
+        non_striker: S Dhawan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PP Shaw
+    - 1.2:
+        non_striker: S Dhawan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PP Shaw
+    - 1.3:
+        non_striker: PP Shaw
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+        wicket:
+          player_out: S Dhawan
+          fielders:
+          - YBK Jaiswal
+          kind: caught
+    - 1.4:
+        non_striker: PP Shaw
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 1.5:
+        non_striker: PP Shaw
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 1.6:
+        non_striker: SS Iyer
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+    - 2.1:
+        non_striker: PP Shaw
+        bowler: VR Aaron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 2.2:
+        non_striker: PP Shaw
+        bowler: VR Aaron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 2.3:
+        non_striker: PP Shaw
+        bowler: VR Aaron
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: SS Iyer
+    - 2.4:
+        non_striker: PP Shaw
+        bowler: VR Aaron
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 2.5:
+        non_striker: PP Shaw
+        bowler: VR Aaron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 2.6:
+        non_striker: SS Iyer
+        bowler: VR Aaron
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PP Shaw
+    - 2.7:
+        non_striker: SS Iyer
+        bowler: VR Aaron
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PP Shaw
+    - 3.1:
+        non_striker: PP Shaw
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 3.2:
+        non_striker: PP Shaw
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 3.3:
+        non_striker: PP Shaw
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 3.4:
+        non_striker: PP Shaw
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 3.5:
+        non_striker: PP Shaw
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 3.6:
+        non_striker: PP Shaw
+        bowler: Kartik Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SS Iyer
+    - 3.7:
+        non_striker: PP Shaw
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 4.1:
+        non_striker: SS Iyer
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PP Shaw
+    - 4.2:
+        non_striker: SS Iyer
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+        wicket:
+          player_out: PP Shaw
+          kind: caught and bowled
+    - 4.3:
+        non_striker: RR Pant
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 4.4:
+        non_striker: SS Iyer
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 4.5:
+        non_striker: SS Iyer
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 4.6:
+        non_striker: SS Iyer
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 5.1:
+        non_striker: RR Pant
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 5.2:
+        non_striker: RR Pant
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 5.3:
+        non_striker: RR Pant
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 5.4:
+        non_striker: SS Iyer
+        bowler: AJ Tye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Pant
+    - 5.5:
+        non_striker: SS Iyer
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 5.6:
+        non_striker: RR Pant
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+        wicket:
+          player_out: SS Iyer
+          kind: run out
+    - 5.7:
+        non_striker: RR Pant
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 6.1:
+        non_striker: RR Pant
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 6.2:
+        non_striker: RR Pant
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 6.3:
+        non_striker: MP Stoinis
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 6.4:
+        non_striker: RR Pant
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 6.5:
+        non_striker: RR Pant
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 6.6:
+        non_striker: RR Pant
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 7.1:
+        non_striker: RR Pant
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 7.2:
+        non_striker: MP Stoinis
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 7.3:
+        non_striker: MP Stoinis
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 7.4:
+        non_striker: RR Pant
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 7.5:
+        non_striker: RR Pant
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 7.6:
+        non_striker: RR Pant
+        bowler: R Tewatia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Stoinis
+    - 7.7:
+        non_striker: RR Pant
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 8.1:
+        non_striker: RR Pant
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 8.2:
+        non_striker: RR Pant
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 8.3:
+        non_striker: RR Pant
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 8.4:
+        non_striker: RR Pant
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 8.5:
+        non_striker: RR Pant
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 8.6:
+        non_striker: MP Stoinis
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 9.1:
+        non_striker: MP Stoinis
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 9.2:
+        non_striker: RR Pant
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+        wicket:
+          player_out: RR Pant
+          kind: run out
+    - 9.3:
+        non_striker: SO Hetmyer
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 9.4:
+        non_striker: SO Hetmyer
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 9.5:
+        non_striker: MP Stoinis
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 9.6:
+        non_striker: SO Hetmyer
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 10.1:
+        non_striker: MP Stoinis
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 10.2:
+        non_striker: SO Hetmyer
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 10.3:
+        non_striker: MP Stoinis
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 10.4:
+        non_striker: SO Hetmyer
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 10.5:
+        non_striker: MP Stoinis
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 10.6:
+        non_striker: SO Hetmyer
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 11.1:
+        non_striker: MP Stoinis
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 11.2:
+        non_striker: MP Stoinis
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 11.3:
+        non_striker: MP Stoinis
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 11.4:
+        non_striker: SO Hetmyer
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 11.5:
+        non_striker: MP Stoinis
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 11.6:
+        non_striker: SO Hetmyer
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 12.1:
+        non_striker: SO Hetmyer
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 12.2:
+        non_striker: SO Hetmyer
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 12.3:
+        non_striker: MP Stoinis
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 12.4:
+        non_striker: MP Stoinis
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.5:
+        non_striker: SO Hetmyer
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 12.6:
+        non_striker: SO Hetmyer
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 13.1:
+        non_striker: SO Hetmyer
+        bowler: R Tewatia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP Stoinis
+    - 13.2:
+        non_striker: MP Stoinis
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.3:
+        non_striker: SO Hetmyer
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+        wicket:
+          player_out: MP Stoinis
+          fielders:
+          - SPD Smith
+          kind: caught
+    - 13.4:
+        non_striker: SO Hetmyer
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+    - 13.5:
+        non_striker: SO Hetmyer
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HV Patel
+    - 13.6:
+        non_striker: SO Hetmyer
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+    - 14.1:
+        non_striker: HV Patel
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.2:
+        non_striker: SO Hetmyer
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HV Patel
+    - 14.3:
+        non_striker: SO Hetmyer
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 14.4:
+        non_striker: HV Patel
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 14.5:
+        non_striker: HV Patel
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 14.6:
+        non_striker: HV Patel
+        bowler: Kartik Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SO Hetmyer
+    - 15.1:
+        non_striker: HV Patel
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 15.2:
+        non_striker: HV Patel
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 15.3:
+        non_striker: HV Patel
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 15.4:
+        non_striker: HV Patel
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 15.5:
+        non_striker: SO Hetmyer
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 15.6:
+        non_striker: HV Patel
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 16.1:
+        non_striker: HV Patel
+        bowler: Kartik Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SO Hetmyer
+    - 16.2:
+        non_striker: SO Hetmyer
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+    - 16.3:
+        non_striker: SO Hetmyer
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 16.4:
+        non_striker: HV Patel
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 16.5:
+        non_striker: HV Patel
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 16.6:
+        non_striker: HV Patel
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - R Tewatia
+          kind: caught
+    - 17.1:
+        non_striker: HV Patel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 17.2:
+        non_striker: AR Patel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HV Patel
+    - 17.3:
+        non_striker: AR Patel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 17.4:
+        non_striker: HV Patel
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Patel
+    - 17.5:
+        non_striker: HV Patel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 17.6:
+        non_striker: AR Patel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+    - 17.7:
+        non_striker: AR Patel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HV Patel
+    - 18.1:
+        non_striker: HV Patel
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patel
+    - 18.2:
+        non_striker: HV Patel
+        bowler: AJ Tye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Patel
+    - 18.3:
+        non_striker: HV Patel
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 18.4:
+        non_striker: AR Patel
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 18.5:
+        non_striker: HV Patel
+        bowler: AJ Tye
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        batsman: AR Patel
+    - 18.6:
+        non_striker: HV Patel
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Patel
+    - 18.7:
+        non_striker: HV Patel
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patel
+    - 18.8:
+        non_striker: HV Patel
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+        wicket:
+          player_out: AR Patel
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 19.1:
+        non_striker: K Rabada
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 19.2:
+        non_striker: HV Patel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+    - 19.3:
+        non_striker: HV Patel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Rabada
+    - 19.4:
+        non_striker: K Rabada
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+        wicket:
+          player_out: HV Patel
+          fielders:
+          - R Tewatia
+          kind: caught
+    - 19.5:
+        non_striker: R Ashwin
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Rabada
+    - 19.6:
+        non_striker: K Rabada
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+- 2nd innings:
+    team: Rajasthan Royals
+    deliveries:
+    - 0.1:
+        non_striker: JC Buttler
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 0.2:
+        non_striker: JC Buttler
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 0.3:
+        non_striker: YBK Jaiswal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 0.4:
+        non_striker: YBK Jaiswal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 0.5:
+        non_striker: YBK Jaiswal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 0.6:
+        non_striker: YBK Jaiswal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 1.1:
+        non_striker: YBK Jaiswal
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 1.2:
+        non_striker: YBK Jaiswal
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 1.3:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 1.4:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 1.5:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 1.6:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 2.1:
+        non_striker: YBK Jaiswal
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 2.2:
+        non_striker: JC Buttler
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 2.3:
+        non_striker: YBK Jaiswal
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          fielders:
+          - S Dhawan
+          kind: caught
+    - 2.4:
+        non_striker: YBK Jaiswal
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 2.5:
+        non_striker: SPD Smith
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 2.6:
+        non_striker: SPD Smith
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 3.1:
+        non_striker: YBK Jaiswal
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SPD Smith
+    - 3.2:
+        non_striker: YBK Jaiswal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 3.3:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 3.4:
+        non_striker: SPD Smith
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 3.5:
+        non_striker: YBK Jaiswal
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SPD Smith
+    - 3.6:
+        non_striker: YBK Jaiswal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 3.7:
+        non_striker: YBK Jaiswal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SPD Smith
+    - 3.8:
+        non_striker: YBK Jaiswal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 4.1:
+        non_striker: SPD Smith
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 4.2:
+        non_striker: YBK Jaiswal
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 4.3:
+        non_striker: SPD Smith
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 4.4:
+        non_striker: SPD Smith
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 4.5:
+        non_striker: SPD Smith
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 4.6:
+        non_striker: YBK Jaiswal
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 5.1:
+        non_striker: SPD Smith
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 5.2:
+        non_striker: SPD Smith
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YBK Jaiswal
+    - 5.3:
+        non_striker: SPD Smith
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 5.4:
+        non_striker: YBK Jaiswal
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 5.5:
+        non_striker: SPD Smith
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 5.6:
+        non_striker: SPD Smith
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 6.1:
+        non_striker: YBK Jaiswal
+        bowler: R Ashwin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SPD Smith
+    - 6.2:
+        non_striker: YBK Jaiswal
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 6.3:
+        non_striker: YBK Jaiswal
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 6.4:
+        non_striker: YBK Jaiswal
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 6.5:
+        non_striker: SPD Smith
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 6.6:
+        non_striker: YBK Jaiswal
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 6.7:
+        non_striker: SPD Smith
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 7.1:
+        non_striker: SPD Smith
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 7.2:
+        non_striker: YBK Jaiswal
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 7.3:
+        non_striker: YBK Jaiswal
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 7.4:
+        non_striker: SPD Smith
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 7.5:
+        non_striker: YBK Jaiswal
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 7.6:
+        non_striker: YBK Jaiswal
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 8.1:
+        non_striker: YBK Jaiswal
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+        wicket:
+          player_out: SPD Smith
+          fielders:
+          - SO Hetmyer
+          kind: caught
+    - 8.2:
+        non_striker: YBK Jaiswal
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 8.3:
+        non_striker: YBK Jaiswal
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 8.4:
+        non_striker: YBK Jaiswal
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SV Samson
+    - 8.5:
+        non_striker: SV Samson
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 8.6:
+        non_striker: YBK Jaiswal
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 9.1:
+        non_striker: YBK Jaiswal
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 9.2:
+        non_striker: SV Samson
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 9.3:
+        non_striker: YBK Jaiswal
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 9.4:
+        non_striker: YBK Jaiswal
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SV Samson
+    - 9.5:
+        non_striker: SV Samson
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 9.6:
+        non_striker: YBK Jaiswal
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 10.1:
+        non_striker: SV Samson
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YBK Jaiswal
+    - 10.2:
+        non_striker: SV Samson
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 10.3:
+        non_striker: YBK Jaiswal
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+        wicket:
+          player_out: SV Samson
+          fielders:
+          - SO Hetmyer
+          kind: caught
+    - 10.4:
+        non_striker: MK Lomror
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 10.5:
+        non_striker: YBK Jaiswal
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Lomror
+    - 10.6:
+        non_striker: MK Lomror
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 11.1:
+        non_striker: MK Lomror
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 11.2:
+        non_striker: YBK Jaiswal
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Lomror
+        wicket:
+          player_out: MK Lomror
+          fielders:
+          - AR Patel
+          kind: caught
+    - 11.3:
+        non_striker: YBK Jaiswal
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 11.4:
+        non_striker: R Tewatia
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 11.5:
+        non_striker: R Tewatia
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 11.6:
+        non_striker: R Tewatia
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 12.1:
+        non_striker: R Tewatia
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+        wicket:
+          player_out: YBK Jaiswal
+          kind: bowled
+    - 12.2:
+        non_striker: R Tewatia
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+    - 12.3:
+        non_striker: R Tewatia
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+    - 12.4:
+        non_striker: R Tewatia
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+    - 12.5:
+        non_striker: R Tewatia
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Tye
+    - 12.6:
+        non_striker: R Tewatia
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Tye
+    - 12.7:
+        non_striker: R Tewatia
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+    - 13.1:
+        non_striker: AJ Tye
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+    - 13.2:
+        non_striker: AJ Tye
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+    - 13.3:
+        non_striker: AJ Tye
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+    - 13.4:
+        non_striker: AJ Tye
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 13.5:
+        non_striker: R Tewatia
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+        wicket:
+          player_out: AJ Tye
+          fielders:
+          - K Rabada
+          kind: caught
+    - 13.6:
+        non_striker: R Tewatia
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 14.1:
+        non_striker: R Tewatia
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 14.2:
+        non_striker: JC Archer
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 14.3:
+        non_striker: R Tewatia
+        bowler: K Rabada
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 1
+          noballs: 1
+        batsman: JC Archer
+    - 14.4:
+        non_striker: JC Archer
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Tewatia
+    - 14.5:
+        non_striker: JC Archer
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 14.6:
+        non_striker: R Tewatia
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+        wicket:
+          player_out: JC Archer
+          fielders:
+          - SS Iyer
+          kind: caught
+    - 14.7:
+        non_striker: S Gopal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 15.1:
+        non_striker: S Gopal
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+    - 15.2:
+        non_striker: S Gopal
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 15.3:
+        non_striker: R Tewatia
+        bowler: HV Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Gopal
+    - 15.4:
+        non_striker: R Tewatia
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gopal
+    - 15.5:
+        non_striker: S Gopal
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+    - 15.6:
+        non_striker: S Gopal
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Tewatia
+    - 15.7:
+        non_striker: S Gopal
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 16.1:
+        non_striker: S Gopal
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+    - 16.2:
+        non_striker: S Gopal
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Tewatia
+    - 16.3:
+        non_striker: S Gopal
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Tewatia
+    - 16.4:
+        non_striker: S Gopal
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 16.5:
+        non_striker: R Tewatia
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gopal
+    - 16.6:
+        non_striker: S Gopal
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 17.1:
+        non_striker: S Gopal
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 17.2:
+        non_striker: R Tewatia
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gopal
+        wicket:
+          player_out: S Gopal
+          fielders:
+          - SO Hetmyer
+          kind: caught
+    - 17.3:
+        non_striker: R Tewatia
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Tyagi
+    - 17.4:
+        non_striker: Kartik Tyagi
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Tewatia
+    - 17.5:
+        non_striker: Kartik Tyagi
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 17.6:
+        non_striker: R Tewatia
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Tyagi
+    - 18.1:
+        non_striker: Kartik Tyagi
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+    - 18.2:
+        non_striker: Kartik Tyagi
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+    - 18.3:
+        non_striker: Kartik Tyagi
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Tewatia
+    - 18.4:
+        non_striker: Kartik Tyagi
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+    - 18.5:
+        non_striker: Kartik Tyagi
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Tewatia
+    - 18.6:
+        non_striker: Kartik Tyagi
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+    - 18.7:
+        non_striker: Kartik Tyagi
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Tewatia
+    - 18.8:
+        non_striker: Kartik Tyagi
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 19.1:
+        non_striker: Kartik Tyagi
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+        wicket:
+          player_out: R Tewatia
+          kind: bowled
+    - 19.2:
+        non_striker: Kartik Tyagi
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VR Aaron
+    - 19.3:
+        non_striker: VR Aaron
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Tyagi
+    - 19.4:
+        non_striker: Kartik Tyagi
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VR Aaron
+        wicket:
+          player_out: VR Aaron
+          fielders:
+          - RR Pant
+          kind: caught

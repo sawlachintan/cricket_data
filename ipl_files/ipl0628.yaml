@@ -1,0 +1,2121 @@
+---
+meta:
+  data_version: 0.9
+  created: 2017-05-14
+  revision: 1
+info:
+  city: Delhi
+  competition: IPL
+  dates:
+    - 2017-05-12
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      runs: 7
+    winner: Delhi Daredevils
+  overs: 20
+  player_of_match:
+    - KK Nair
+  teams:
+    - Delhi Daredevils
+    - Rising Pune Supergiant
+  toss:
+    decision: bat
+    winner: Delhi Daredevils
+  umpires:
+    - KN Ananthapadmanabhan
+    - CK Nandan
+  venue: Feroz Shah Kotla
+innings:
+  - 1st innings:
+      team: Delhi Daredevils
+      deliveries:
+        - 0.1:
+            batsman: SV Samson
+            bowler: JD Unadkat
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: SV Samson
+            bowler: JD Unadkat
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.3:
+            batsman: KK Nair
+            bowler: JD Unadkat
+            non_striker: SV Samson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.4:
+            batsman: SV Samson
+            bowler: JD Unadkat
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: SV Samson
+            bowler: JD Unadkat
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.6:
+            batsman: KK Nair
+            bowler: JD Unadkat
+            non_striker: SV Samson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - BA Stokes
+              kind: run out
+              player_out: SV Samson
+        - 1.1:
+            batsman: KK Nair
+            bowler: SN Thakur
+            non_striker: SS Iyer
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.2:
+            batsman: KK Nair
+            bowler: SN Thakur
+            non_striker: SS Iyer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.3:
+            batsman: SS Iyer
+            bowler: SN Thakur
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: SS Iyer
+            bowler: SN Thakur
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: SS Iyer
+            bowler: SN Thakur
+            non_striker: KK Nair
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 1.6:
+            batsman: KK Nair
+            bowler: SN Thakur
+            non_striker: SS Iyer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: SS Iyer
+            bowler: JD Unadkat
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MS Dhoni
+              kind: caught
+              player_out: SS Iyer
+        - 2.2:
+            batsman: RR Pant
+            bowler: JD Unadkat
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: RR Pant
+            bowler: JD Unadkat
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.4:
+            batsman: KK Nair
+            bowler: JD Unadkat
+            non_striker: RR Pant
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.5:
+            batsman: RR Pant
+            bowler: JD Unadkat
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: RR Pant
+            bowler: JD Unadkat
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: KK Nair
+            bowler: Washington Sundar
+            non_striker: RR Pant
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.2:
+            batsman: KK Nair
+            bowler: Washington Sundar
+            non_striker: RR Pant
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: KK Nair
+            bowler: Washington Sundar
+            non_striker: RR Pant
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.4:
+            batsman: KK Nair
+            bowler: Washington Sundar
+            non_striker: RR Pant
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.5:
+            batsman: RR Pant
+            bowler: Washington Sundar
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: RR Pant
+            bowler: Washington Sundar
+            non_striker: KK Nair
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 4.1:
+            batsman: KK Nair
+            bowler: BA Stokes
+            non_striker: RR Pant
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.2:
+            batsman: KK Nair
+            bowler: BA Stokes
+            extras:
+              legbyes: 1
+            non_striker: RR Pant
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.3:
+            batsman: RR Pant
+            bowler: BA Stokes
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: RR Pant
+            bowler: BA Stokes
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: KK Nair
+            bowler: BA Stokes
+            non_striker: RR Pant
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.6:
+            batsman: KK Nair
+            bowler: BA Stokes
+            non_striker: RR Pant
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.1:
+            batsman: RR Pant
+            bowler: SN Thakur
+            non_striker: KK Nair
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.2:
+            batsman: RR Pant
+            bowler: SN Thakur
+            non_striker: KK Nair
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.3:
+            batsman: RR Pant
+            bowler: SN Thakur
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: KK Nair
+            bowler: SN Thakur
+            extras:
+              legbyes: 1
+            non_striker: RR Pant
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.5:
+            batsman: RR Pant
+            bowler: SN Thakur
+            non_striker: KK Nair
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.6:
+            batsman: RR Pant
+            bowler: SN Thakur
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: KK Nair
+            bowler: A Zampa
+            non_striker: RR Pant
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: KK Nair
+            bowler: A Zampa
+            non_striker: RR Pant
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: RR Pant
+            bowler: A Zampa
+            non_striker: KK Nair
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.4:
+            batsman: RR Pant
+            bowler: A Zampa
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: KK Nair
+            bowler: A Zampa
+            non_striker: RR Pant
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.6:
+            batsman: KK Nair
+            bowler: A Zampa
+            non_striker: RR Pant
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: KK Nair
+            bowler: DT Christian
+            non_striker: RR Pant
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: RR Pant
+            bowler: DT Christian
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: KK Nair
+            bowler: DT Christian
+            non_striker: RR Pant
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: RR Pant
+            bowler: DT Christian
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: KK Nair
+            bowler: DT Christian
+            non_striker: RR Pant
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.6:
+            batsman: KK Nair
+            bowler: DT Christian
+            non_striker: RR Pant
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.1:
+            batsman: RR Pant
+            bowler: A Zampa
+            non_striker: KK Nair
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.2:
+            batsman: RR Pant
+            bowler: A Zampa
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: RR Pant
+            bowler: A Zampa
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: RR Pant
+            bowler: A Zampa
+            non_striker: KK Nair
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.5:
+            batsman: RR Pant
+            bowler: A Zampa
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - DT Christian
+              kind: caught
+              player_out: RR Pant
+        - 8.6:
+            batsman: MN Samuels
+            bowler: A Zampa
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: KK Nair
+            bowler: Washington Sundar
+            non_striker: MN Samuels
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: MN Samuels
+            bowler: Washington Sundar
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: MN Samuels
+            bowler: Washington Sundar
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.4:
+            batsman: KK Nair
+            bowler: Washington Sundar
+            non_striker: MN Samuels
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: KK Nair
+            bowler: Washington Sundar
+            non_striker: MN Samuels
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: KK Nair
+            bowler: Washington Sundar
+            non_striker: MN Samuels
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: MN Samuels
+            bowler: BA Stokes
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: KK Nair
+            bowler: BA Stokes
+            non_striker: MN Samuels
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: MN Samuels
+            bowler: BA Stokes
+            extras:
+              wides: 1
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 10.4:
+            batsman: MN Samuels
+            bowler: BA Stokes
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: MN Samuels
+            bowler: BA Stokes
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: MN Samuels
+            bowler: BA Stokes
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.7:
+            batsman: MN Samuels
+            bowler: BA Stokes
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: MN Samuels
+            bowler: SN Thakur
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: MN Samuels
+            bowler: SN Thakur
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: MN Samuels
+            bowler: SN Thakur
+            non_striker: KK Nair
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.4:
+            batsman: MN Samuels
+            bowler: SN Thakur
+            non_striker: KK Nair
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.5:
+            batsman: MN Samuels
+            bowler: SN Thakur
+            non_striker: KK Nair
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 11.6:
+            batsman: MN Samuels
+            bowler: SN Thakur
+            non_striker: KK Nair
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.1:
+            batsman: KK Nair
+            bowler: A Zampa
+            non_striker: MN Samuels
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: MN Samuels
+            bowler: A Zampa
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: MN Samuels
+            bowler: A Zampa
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: KK Nair
+            bowler: A Zampa
+            non_striker: MN Samuels
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: MN Samuels
+            bowler: A Zampa
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.6:
+            batsman: KK Nair
+            bowler: A Zampa
+            non_striker: MN Samuels
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: MN Samuels
+            bowler: DT Christian
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: KK Nair
+            bowler: DT Christian
+            non_striker: MN Samuels
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: MN Samuels
+            bowler: DT Christian
+            non_striker: KK Nair
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.4:
+            batsman: MN Samuels
+            bowler: DT Christian
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: KK Nair
+            bowler: DT Christian
+            non_striker: MN Samuels
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: MN Samuels
+            bowler: DT Christian
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MS Dhoni
+              kind: caught
+              player_out: MN Samuels
+        - 14.1:
+            batsman: KK Nair
+            bowler: A Zampa
+            non_striker: CJ Anderson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: CJ Anderson
+            bowler: A Zampa
+            non_striker: KK Nair
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.3:
+            batsman: CJ Anderson
+            bowler: A Zampa
+            extras:
+              wides: 1
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 14.4:
+            batsman: CJ Anderson
+            bowler: A Zampa
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: CJ Anderson
+            bowler: A Zampa
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: CJ Anderson
+            bowler: A Zampa
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.7:
+            batsman: KK Nair
+            bowler: A Zampa
+            non_striker: CJ Anderson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: KK Nair
+            bowler: Washington Sundar
+            non_striker: CJ Anderson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: CJ Anderson
+            bowler: Washington Sundar
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MS Dhoni
+              kind: stumped
+              player_out: CJ Anderson
+        - 15.3:
+            batsman: PJ Cummins
+            bowler: Washington Sundar
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.4:
+            batsman: KK Nair
+            bowler: Washington Sundar
+            non_striker: PJ Cummins
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: PJ Cummins
+            bowler: Washington Sundar
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: KK Nair
+            bowler: Washington Sundar
+            non_striker: PJ Cummins
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.1:
+            batsman: PJ Cummins
+            bowler: BA Stokes
+            non_striker: KK Nair
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.2:
+            batsman: PJ Cummins
+            bowler: BA Stokes
+            extras:
+              wides: 1
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 16.3:
+            batsman: PJ Cummins
+            bowler: BA Stokes
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: KK Nair
+            bowler: BA Stokes
+            non_striker: PJ Cummins
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.5:
+            batsman: PJ Cummins
+            bowler: BA Stokes
+            non_striker: KK Nair
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 16.6:
+            batsman: PJ Cummins
+            bowler: BA Stokes
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: PJ Cummins
+        - 16.7:
+            batsman: A Mishra
+            bowler: BA Stokes
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: A Mishra
+            bowler: JD Unadkat
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: KK Nair
+            bowler: JD Unadkat
+            non_striker: A Mishra
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.3:
+            batsman: KK Nair
+            bowler: JD Unadkat
+            non_striker: A Mishra
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 17.4:
+            batsman: A Mishra
+            bowler: JD Unadkat
+            non_striker: KK Nair
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 17.5:
+            batsman: A Mishra
+            bowler: JD Unadkat
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: KK Nair
+            bowler: JD Unadkat
+            non_striker: A Mishra
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.1:
+            batsman: A Mishra
+            bowler: BA Stokes
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: A Mishra
+            bowler: BA Stokes
+            extras:
+              wides: 1
+            non_striker: KK Nair
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.3:
+            batsman: A Mishra
+            bowler: BA Stokes
+            non_striker: KK Nair
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.4:
+            batsman: KK Nair
+            bowler: BA Stokes
+            non_striker: A Mishra
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: KK Nair
+            bowler: BA Stokes
+            non_striker: A Mishra
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: KK Nair
+            bowler: BA Stokes
+            non_striker: A Mishra
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JD Unadkat
+              kind: caught
+              player_out: KK Nair
+        - 18.7:
+            batsman: A Mishra
+            bowler: BA Stokes
+            extras:
+              legbyes: 1
+            non_striker: Mohammed Shami
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 19.1:
+            batsman: A Mishra
+            bowler: JD Unadkat
+            non_striker: Mohammed Shami
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.2:
+            batsman: Mohammed Shami
+            bowler: JD Unadkat
+            non_striker: A Mishra
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: Mohammed Shami
+            bowler: JD Unadkat
+            non_striker: A Mishra
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.4:
+            batsman: Mohammed Shami
+            bowler: JD Unadkat
+            non_striker: A Mishra
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.5:
+            batsman: Mohammed Shami
+            bowler: JD Unadkat
+            non_striker: A Mishra
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - BA Stokes
+              kind: caught
+              player_out: Mohammed Shami
+        - 19.6:
+            batsman: A Mishra
+            bowler: JD Unadkat
+            non_striker: S Nadeem
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+  - 2nd innings:
+      team: Rising Pune Supergiant
+      deliveries:
+        - 0.1:
+            batsman: AM Rahane
+            bowler: Z Khan
+            non_striker: RA Tripathi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: AM Rahane
+        - 0.2:
+            batsman: SPD Smith
+            bowler: Z Khan
+            extras:
+              wides: 1
+            non_striker: RA Tripathi
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.3:
+            batsman: SPD Smith
+            bowler: Z Khan
+            non_striker: RA Tripathi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: SPD Smith
+            bowler: Z Khan
+            non_striker: RA Tripathi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.5:
+            batsman: SPD Smith
+            bowler: Z Khan
+            non_striker: RA Tripathi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.6:
+            batsman: RA Tripathi
+            bowler: Z Khan
+            non_striker: SPD Smith
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.7:
+            batsman: RA Tripathi
+            bowler: Z Khan
+            non_striker: SPD Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: SPD Smith
+            bowler: Mohammed Shami
+            non_striker: RA Tripathi
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.2:
+            batsman: SPD Smith
+            bowler: Mohammed Shami
+            non_striker: RA Tripathi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.3:
+            batsman: RA Tripathi
+            bowler: Mohammed Shami
+            non_striker: SPD Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.4:
+            batsman: SPD Smith
+            bowler: Mohammed Shami
+            non_striker: RA Tripathi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.5:
+            batsman: SPD Smith
+            bowler: Mohammed Shami
+            non_striker: RA Tripathi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: SPD Smith
+            bowler: Mohammed Shami
+            non_striker: RA Tripathi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: RA Tripathi
+            bowler: Z Khan
+            non_striker: SPD Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.2:
+            batsman: SPD Smith
+            bowler: Z Khan
+            non_striker: RA Tripathi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: SPD Smith
+            bowler: Z Khan
+            non_striker: RA Tripathi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: SPD Smith
+            bowler: Z Khan
+            non_striker: RA Tripathi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.5:
+            batsman: RA Tripathi
+            bowler: Z Khan
+            non_striker: SPD Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.6:
+            batsman: SPD Smith
+            bowler: Z Khan
+            non_striker: RA Tripathi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.1:
+            batsman: SPD Smith
+            bowler: S Nadeem
+            non_striker: RA Tripathi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: SPD Smith
+            bowler: S Nadeem
+            non_striker: RA Tripathi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: SPD Smith
+            bowler: S Nadeem
+            non_striker: RA Tripathi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.4:
+            batsman: SPD Smith
+            bowler: S Nadeem
+            non_striker: RA Tripathi
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 3.5:
+            batsman: SPD Smith
+            bowler: S Nadeem
+            non_striker: RA Tripathi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.6:
+            batsman: SPD Smith
+            bowler: S Nadeem
+            non_striker: RA Tripathi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: RA Tripathi
+            bowler: Z Khan
+            non_striker: SPD Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RR Pant
+              kind: caught
+              player_out: RA Tripathi
+        - 4.2:
+            batsman: MK Tiwary
+            bowler: Z Khan
+            non_striker: SPD Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: SPD Smith
+            bowler: Z Khan
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: SPD Smith
+            bowler: Z Khan
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: MK Tiwary
+            bowler: Z Khan
+            non_striker: SPD Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: SPD Smith
+            bowler: Z Khan
+            non_striker: MK Tiwary
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.1:
+            batsman: MK Tiwary
+            bowler: Mohammed Shami
+            non_striker: SPD Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.2:
+            batsman: SPD Smith
+            bowler: Mohammed Shami
+            extras:
+              wides: 1
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.3:
+            batsman: SPD Smith
+            bowler: Mohammed Shami
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: MK Tiwary
+            bowler: Mohammed Shami
+            non_striker: SPD Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: MK Tiwary
+            bowler: Mohammed Shami
+            non_striker: SPD Smith
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.6:
+            batsman: MK Tiwary
+            bowler: Mohammed Shami
+            non_striker: SPD Smith
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.7:
+            batsman: MK Tiwary
+            bowler: Mohammed Shami
+            non_striker: SPD Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: MK Tiwary
+            bowler: A Mishra
+            non_striker: SPD Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: SPD Smith
+            bowler: A Mishra
+            extras:
+              wides: 1
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 6.3:
+            batsman: SPD Smith
+            bowler: A Mishra
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: SPD Smith
+            bowler: A Mishra
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: MK Tiwary
+            bowler: A Mishra
+            non_striker: SPD Smith
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.6:
+            batsman: MK Tiwary
+            bowler: A Mishra
+            non_striker: SPD Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.7:
+            batsman: SPD Smith
+            bowler: A Mishra
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: SPD Smith
+            bowler: S Nadeem
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: MK Tiwary
+            bowler: S Nadeem
+            non_striker: SPD Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: MK Tiwary
+            bowler: S Nadeem
+            non_striker: SPD Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: SPD Smith
+            bowler: S Nadeem
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: MK Tiwary
+            bowler: S Nadeem
+            non_striker: SPD Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: MK Tiwary
+            bowler: S Nadeem
+            non_striker: SPD Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: SPD Smith
+            bowler: A Mishra
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: MK Tiwary
+            bowler: A Mishra
+            non_striker: SPD Smith
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.3:
+            batsman: MK Tiwary
+            bowler: A Mishra
+            non_striker: SPD Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: SPD Smith
+            bowler: A Mishra
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: SPD Smith
+            bowler: A Mishra
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: SPD Smith
+            bowler: A Mishra
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: SPD Smith
+            bowler: S Nadeem
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: SPD Smith
+        - 9.2:
+            batsman: BA Stokes
+            bowler: S Nadeem
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: BA Stokes
+            bowler: S Nadeem
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: BA Stokes
+            bowler: S Nadeem
+            non_striker: MK Tiwary
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.5:
+            batsman: BA Stokes
+            bowler: S Nadeem
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: BA Stokes
+            bowler: S Nadeem
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: MK Tiwary
+            bowler: PJ Cummins
+            non_striker: BA Stokes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: MK Tiwary
+            bowler: PJ Cummins
+            non_striker: BA Stokes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: MK Tiwary
+            bowler: PJ Cummins
+            non_striker: BA Stokes
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.4:
+            batsman: MK Tiwary
+            bowler: PJ Cummins
+            non_striker: BA Stokes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.5:
+            batsman: BA Stokes
+            bowler: PJ Cummins
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: BA Stokes
+            bowler: PJ Cummins
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: BA Stokes
+            bowler: A Mishra
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: MK Tiwary
+            bowler: A Mishra
+            non_striker: BA Stokes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: BA Stokes
+            bowler: A Mishra
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: MK Tiwary
+            bowler: A Mishra
+            non_striker: BA Stokes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: MK Tiwary
+            bowler: A Mishra
+            non_striker: BA Stokes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: BA Stokes
+            bowler: A Mishra
+            non_striker: MK Tiwary
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.1:
+            batsman: MK Tiwary
+            bowler: PJ Cummins
+            non_striker: BA Stokes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: BA Stokes
+            bowler: PJ Cummins
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: BA Stokes
+            bowler: PJ Cummins
+            non_striker: MK Tiwary
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.4:
+            batsman: BA Stokes
+            bowler: PJ Cummins
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: BA Stokes
+            bowler: PJ Cummins
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: BA Stokes
+            bowler: PJ Cummins
+            non_striker: MK Tiwary
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 13.1:
+            batsman: MK Tiwary
+            bowler: MN Samuels
+            non_striker: BA Stokes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: BA Stokes
+            bowler: MN Samuels
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: BA Stokes
+            bowler: MN Samuels
+            non_striker: MK Tiwary
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 13.4:
+            batsman: BA Stokes
+            bowler: MN Samuels
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: BA Stokes
+            bowler: MN Samuels
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: MK Tiwary
+            bowler: MN Samuels
+            non_striker: BA Stokes
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.1:
+            batsman: BA Stokes
+            bowler: Z Khan
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: MK Tiwary
+            bowler: Z Khan
+            non_striker: BA Stokes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: BA Stokes
+            bowler: Z Khan
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: MK Tiwary
+            bowler: Z Khan
+            non_striker: BA Stokes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: BA Stokes
+            bowler: Z Khan
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: MK Tiwary
+            bowler: Z Khan
+            non_striker: BA Stokes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: MK Tiwary
+            bowler: Mohammed Shami
+            non_striker: BA Stokes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: BA Stokes
+            bowler: Mohammed Shami
+            non_striker: MK Tiwary
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 15.3:
+            batsman: BA Stokes
+            bowler: Mohammed Shami
+            extras:
+              wides: 1
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 15.4:
+            batsman: BA Stokes
+            bowler: Mohammed Shami
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: BA Stokes
+            bowler: Mohammed Shami
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CJ Anderson
+              kind: caught
+              player_out: BA Stokes
+        - 15.6:
+            batsman: MK Tiwary
+            bowler: Mohammed Shami
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.7:
+            batsman: MK Tiwary
+            bowler: Mohammed Shami
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: MK Tiwary
+            bowler: CJ Anderson
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: MK Tiwary
+            bowler: CJ Anderson
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: MS Dhoni
+            bowler: CJ Anderson
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: MK Tiwary
+            bowler: CJ Anderson
+            extras:
+              legbyes: 1
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 16.5:
+            batsman: MS Dhoni
+            bowler: CJ Anderson
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.6:
+            batsman: MS Dhoni
+            bowler: CJ Anderson
+            non_striker: MK Tiwary
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.1:
+            batsman: MK Tiwary
+            bowler: PJ Cummins
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: MS Dhoni
+            bowler: PJ Cummins
+            non_striker: MK Tiwary
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.3:
+            batsman: MS Dhoni
+            bowler: PJ Cummins
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Mohammed Shami
+              kind: run out
+              player_out: MS Dhoni
+        - 17.4:
+            batsman: MK Tiwary
+            bowler: PJ Cummins
+            non_striker: DT Christian
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: DT Christian
+            bowler: PJ Cummins
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: MK Tiwary
+            bowler: PJ Cummins
+            non_striker: DT Christian
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: DT Christian
+            bowler: Mohammed Shami
+            non_striker: MK Tiwary
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.2:
+            batsman: DT Christian
+            bowler: Mohammed Shami
+            non_striker: MK Tiwary
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: DT Christian
+        - 18.3:
+            batsman: Washington Sundar
+            bowler: Mohammed Shami
+            non_striker: MK Tiwary
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.4:
+            batsman: MK Tiwary
+            bowler: Mohammed Shami
+            non_striker: Washington Sundar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.5:
+            batsman: Washington Sundar
+            bowler: Mohammed Shami
+            non_striker: MK Tiwary
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.6:
+            batsman: Washington Sundar
+            bowler: Mohammed Shami
+            non_striker: MK Tiwary
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.1:
+            batsman: MK Tiwary
+            bowler: PJ Cummins
+            non_striker: Washington Sundar
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 19.2:
+            batsman: MK Tiwary
+            bowler: PJ Cummins
+            non_striker: Washington Sundar
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 19.3:
+            batsman: MK Tiwary
+            bowler: PJ Cummins
+            extras:
+              wides: 1
+            non_striker: Washington Sundar
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 19.4:
+            batsman: MK Tiwary
+            bowler: PJ Cummins
+            non_striker: Washington Sundar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: MK Tiwary
+            bowler: PJ Cummins
+            non_striker: Washington Sundar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: MK Tiwary
+            bowler: PJ Cummins
+            extras:
+              legbyes: 4
+            non_striker: Washington Sundar
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 19.7:
+            batsman: MK Tiwary
+            bowler: PJ Cummins
+            non_striker: Washington Sundar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: MK Tiwary

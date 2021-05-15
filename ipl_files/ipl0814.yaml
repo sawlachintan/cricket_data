@@ -1,0 +1,2085 @@
+---
+meta:
+  data_version: 0.9
+  created: '2020-11-06'
+  revision: 1
+info:
+  city: Abu Dhabi
+  competition: IPL
+  dates:
+  - '2020-11-06'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sunrisers Hyderabad
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - KS Williamson
+  teams:
+  - Royal Challengers Bangalore
+  - Sunrisers Hyderabad
+  toss:
+    decision: field
+    winner: Sunrisers Hyderabad
+  umpires:
+  - PR Reiffel
+  - S Ravi
+  venue: Sheikh Zayed Stadium
+innings:
+- 1st innings:
+    team: Royal Challengers Bangalore
+    deliveries:
+    - 0.1:
+        non_striker: D Padikkal
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 0.2:
+        non_striker: D Padikkal
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 0.3:
+        non_striker: V Kohli
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 0.4:
+        non_striker: D Padikkal
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 0.5:
+        non_striker: D Padikkal
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 0.6:
+        non_striker: D Padikkal
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 1.1:
+        non_striker: D Padikkal
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 1.2:
+        non_striker: D Padikkal
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+        wicket:
+          player_out: V Kohli
+          fielders:
+          - SP Goswami
+          kind: caught
+    - 1.3:
+        non_striker: D Padikkal
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 1.4:
+        non_striker: D Padikkal
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Finch
+    - 1.5:
+        non_striker: D Padikkal
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 1.6:
+        non_striker: D Padikkal
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 1.7:
+        non_striker: D Padikkal
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 2.1:
+        non_striker: D Padikkal
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 2.2:
+        non_striker: D Padikkal
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 2.3:
+        non_striker: AJ Finch
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+    - 2.4:
+        non_striker: AJ Finch
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+    - 2.5:
+        non_striker: AJ Finch
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+    - 2.6:
+        non_striker: AJ Finch
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+    - 3.1:
+        non_striker: D Padikkal
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 3.2:
+        non_striker: D Padikkal
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 3.3:
+        non_striker: AJ Finch
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+        wicket:
+          player_out: D Padikkal
+          fielders:
+          - PK Garg
+          kind: caught
+    - 3.4:
+        non_striker: AJ Finch
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 3.5:
+        non_striker: AJ Finch
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 3.6:
+        non_striker: AJ Finch
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 4.1:
+        non_striker: AB de Villiers
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 4.2:
+        non_striker: AJ Finch
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 4.3:
+        non_striker: AB de Villiers
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 4.4:
+        non_striker: AB de Villiers
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 4.5:
+        non_striker: AJ Finch
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 4.6:
+        non_striker: AB de Villiers
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 5.1:
+        non_striker: AJ Finch
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 5.2:
+        non_striker: AB de Villiers
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 5.3:
+        non_striker: AJ Finch
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 5.4:
+        non_striker: AB de Villiers
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 5.5:
+        non_striker: AJ Finch
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 5.6:
+        non_striker: AB de Villiers
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 6.1:
+        non_striker: AJ Finch
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 6.2:
+        non_striker: AB de Villiers
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 6.3:
+        non_striker: AJ Finch
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 6.4:
+        non_striker: AB de Villiers
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 6.5:
+        non_striker: AB de Villiers
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 6.6:
+        non_striker: AJ Finch
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 7.1:
+        non_striker: AJ Finch
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 7.2:
+        non_striker: AJ Finch
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 7.3:
+        non_striker: AB de Villiers
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 7.4:
+        non_striker: AB de Villiers
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 7.5:
+        non_striker: AB de Villiers
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 7.6:
+        non_striker: AB de Villiers
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 8.1:
+        non_striker: AB de Villiers
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 8.2:
+        non_striker: AJ Finch
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 8.3:
+        non_striker: AB de Villiers
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 8.4:
+        non_striker: AJ Finch
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 8.5:
+        non_striker: AB de Villiers
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 8.6:
+        non_striker: AJ Finch
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 9.1:
+        non_striker: AJ Finch
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 9.2:
+        non_striker: AB de Villiers
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Finch
+    - 9.3:
+        non_striker: AB de Villiers
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 9.4:
+        non_striker: AB de Villiers
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 9.5:
+        non_striker: AB de Villiers
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 9.6:
+        non_striker: AJ Finch
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 10.1:
+        non_striker: AJ Finch
+        bowler: S Nadeem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AB de Villiers
+    - 10.2:
+        non_striker: AJ Finch
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 10.3:
+        non_striker: AB de Villiers
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+        wicket:
+          player_out: AJ Finch
+          fielders:
+          - Abdul Samad
+          kind: caught
+    - 10.4:
+        non_striker: MM Ali
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 10.5:
+        non_striker: MM Ali
+        bowler: S Nadeem
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AB de Villiers
+    - 10.6:
+        non_striker: AB de Villiers
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+        wicket:
+          player_out: MM Ali
+          kind: run out
+    - 10.7:
+        non_striker: S Dube
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB de Villiers
+    - 10.8:
+        non_striker: S Dube
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 11.1:
+        non_striker: S Dube
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 11.2:
+        non_striker: AB de Villiers
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 11.3:
+        non_striker: S Dube
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 11.4:
+        non_striker: AB de Villiers
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 11.5:
+        non_striker: AB de Villiers
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 11.6:
+        non_striker: AB de Villiers
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 12.1:
+        non_striker: S Dube
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 12.2:
+        non_striker: S Dube
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 12.3:
+        non_striker: AB de Villiers
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 12.4:
+        non_striker: S Dube
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 12.5:
+        non_striker: AB de Villiers
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 12.6:
+        non_striker: S Dube
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 13.1:
+        non_striker: AB de Villiers
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 13.2:
+        non_striker: S Dube
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 13.3:
+        non_striker: S Dube
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB de Villiers
+    - 13.4:
+        non_striker: S Dube
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 13.5:
+        non_striker: AB de Villiers
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 13.6:
+        non_striker: AB de Villiers
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 14.1:
+        non_striker: AB de Villiers
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 14.2:
+        non_striker: S Dube
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 14.3:
+        non_striker: S Dube
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB de Villiers
+    - 14.4:
+        non_striker: S Dube
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 14.5:
+        non_striker: S Dube
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 14.6:
+        non_striker: AB de Villiers
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 15.1:
+        non_striker: S Dube
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB de Villiers
+    - 15.2:
+        non_striker: S Dube
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 15.3:
+        non_striker: AB de Villiers
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Dube
+    - 15.4:
+        non_striker: AB de Villiers
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Dube
+    - 15.5:
+        non_striker: AB de Villiers
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+        wicket:
+          player_out: S Dube
+          fielders:
+          - DA Warner
+          kind: caught
+    - 15.6:
+        non_striker: AB de Villiers
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 15.7:
+        non_striker: Washington Sundar
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 16.1:
+        non_striker: AB de Villiers
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Washington Sundar
+    - 16.2:
+        non_striker: AB de Villiers
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 16.3:
+        non_striker: AB de Villiers
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 16.4:
+        non_striker: Washington Sundar
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 16.5:
+        non_striker: AB de Villiers
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 16.6:
+        non_striker: Washington Sundar
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB de Villiers
+    - 17.1:
+        non_striker: AB de Villiers
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+        wicket:
+          player_out: Washington Sundar
+          fielders:
+          - Abdul Samad
+          kind: caught
+    - 17.2:
+        non_striker: NA Saini
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 17.3:
+        non_striker: AB de Villiers
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Saini
+    - 17.4:
+        non_striker: AB de Villiers
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Saini
+    - 17.5:
+        non_striker: NA Saini
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+        wicket:
+          player_out: AB de Villiers
+          kind: bowled
+    - 17.6:
+        non_striker: NA Saini
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+    - 18.1:
+        non_striker: Mohammed Siraj
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Saini
+    - 18.2:
+        non_striker: NA Saini
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Siraj
+    - 18.3:
+        non_striker: Mohammed Siraj
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Saini
+    - 18.4:
+        non_striker: NA Saini
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+    - 18.5:
+        non_striker: NA Saini
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Siraj
+    - 18.6:
+        non_striker: Mohammed Siraj
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Saini
+    - 19.1:
+        non_striker: Mohammed Siraj
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Saini
+    - 19.2:
+        non_striker: Mohammed Siraj
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Saini
+    - 19.3:
+        non_striker: Mohammed Siraj
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Saini
+    - 19.4:
+        non_striker: NA Saini
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammed Siraj
+    - 19.5:
+        non_striker: NA Saini
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Siraj
+    - 19.6:
+        non_striker: NA Saini
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammed Siraj
+- 2nd innings:
+    team: Sunrisers Hyderabad
+    deliveries:
+    - 0.1:
+        non_striker: SP Goswami
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Warner
+    - 0.2:
+        non_striker: SP Goswami
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 0.3:
+        non_striker: DA Warner
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Goswami
+    - 0.4:
+        non_striker: DA Warner
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Goswami
+    - 0.5:
+        non_striker: DA Warner
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Goswami
+        wicket:
+          player_out: SP Goswami
+          fielders:
+          - AB de Villiers
+          kind: caught
+    - 0.6:
+        non_striker: DA Warner
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 0.7:
+        non_striker: DA Warner
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 1.1:
+        non_striker: MK Pandey
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 1.2:
+        non_striker: MK Pandey
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 1.3:
+        non_striker: DA Warner
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 1.4:
+        non_striker: MK Pandey
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 1.5:
+        non_striker: MK Pandey
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 1.6:
+        non_striker: MK Pandey
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 2.1:
+        non_striker: DA Warner
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MK Pandey
+    - 2.2:
+        non_striker: DA Warner
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MK Pandey
+    - 2.3:
+        non_striker: DA Warner
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 2.4:
+        non_striker: DA Warner
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 2.5:
+        non_striker: DA Warner
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 2.6:
+        non_striker: DA Warner
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MK Pandey
+    - 2.7:
+        non_striker: DA Warner
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 2.8:
+        non_striker: MK Pandey
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 3.1:
+        non_striker: DA Warner
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Pandey
+    - 3.2:
+        non_striker: DA Warner
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 3.3:
+        non_striker: DA Warner
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 3.4:
+        non_striker: MK Pandey
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 3.5:
+        non_striker: DA Warner
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 3.6:
+        non_striker: DA Warner
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Pandey
+    - 4.1:
+        non_striker: MK Pandey
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 4.2:
+        non_striker: MK Pandey
+        bowler: Washington Sundar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DA Warner
+    - 4.3:
+        non_striker: MK Pandey
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 4.4:
+        non_striker: DA Warner
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Pandey
+    - 4.5:
+        non_striker: DA Warner
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 4.6:
+        non_striker: MK Pandey
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 4.7:
+        non_striker: MK Pandey
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 5.1:
+        non_striker: MK Pandey
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 5.2:
+        non_striker: MK Pandey
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 5.3:
+        non_striker: MK Pandey
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 5.4:
+        non_striker: MK Pandey
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+        wicket:
+          player_out: DA Warner
+          fielders:
+          - AB de Villiers
+          kind: caught
+    - 5.5:
+        non_striker: MK Pandey
+        bowler: Mohammed Siraj
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: KS Williamson
+    - 5.6:
+        non_striker: MK Pandey
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KS Williamson
+    - 6.1:
+        non_striker: MK Pandey
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.2:
+        non_striker: MK Pandey
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.3:
+        non_striker: MK Pandey
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.4:
+        non_striker: MK Pandey
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.5:
+        non_striker: MK Pandey
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 6.6:
+        non_striker: KS Williamson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 7.1:
+        non_striker: MK Pandey
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 7.2:
+        non_striker: KS Williamson
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 7.3:
+        non_striker: MK Pandey
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 7.4:
+        non_striker: KS Williamson
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 7.5:
+        non_striker: KS Williamson
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 7.6:
+        non_striker: MK Pandey
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 8.1:
+        non_striker: MK Pandey
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 8.2:
+        non_striker: KS Williamson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 8.3:
+        non_striker: KS Williamson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+        wicket:
+          player_out: MK Pandey
+          fielders:
+          - AB de Villiers
+          kind: caught
+    - 8.4:
+        non_striker: KS Williamson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Garg
+    - 8.5:
+        non_striker: KS Williamson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Garg
+    - 8.6:
+        non_striker: KS Williamson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Garg
+    - 9.1:
+        non_striker: PK Garg
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 9.2:
+        non_striker: KS Williamson
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Garg
+    - 9.3:
+        non_striker: KS Williamson
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Garg
+    - 9.4:
+        non_striker: KS Williamson
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PK Garg
+    - 9.5:
+        non_striker: KS Williamson
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Garg
+    - 9.6:
+        non_striker: KS Williamson
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PK Garg
+    - 10.1:
+        non_striker: PK Garg
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 10.2:
+        non_striker: PK Garg
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 10.3:
+        non_striker: PK Garg
+        bowler: A Zampa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KS Williamson
+    - 10.4:
+        non_striker: PK Garg
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 10.5:
+        non_striker: KS Williamson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Garg
+    - 10.6:
+        non_striker: KS Williamson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PK Garg
+    - 10.7:
+        non_striker: KS Williamson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Garg
+    - 11.1:
+        non_striker: PK Garg
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 11.2:
+        non_striker: KS Williamson
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Garg
+    - 11.3:
+        non_striker: PK Garg
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 11.4:
+        non_striker: KS Williamson
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Garg
+    - 11.5:
+        non_striker: KS Williamson
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Garg
+        wicket:
+          player_out: PK Garg
+          fielders:
+          - A Zampa
+          kind: caught
+    - 11.6:
+        non_striker: JO Holder
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 12.1:
+        non_striker: JO Holder
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 12.2:
+        non_striker: JO Holder
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 12.3:
+        non_striker: JO Holder
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 12.4:
+        non_striker: JO Holder
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 12.5:
+        non_striker: JO Holder
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 12.6:
+        non_striker: KS Williamson
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 13.1:
+        non_striker: KS Williamson
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 13.2:
+        non_striker: KS Williamson
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 13.3:
+        non_striker: KS Williamson
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 13.4:
+        non_striker: JO Holder
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 13.5:
+        non_striker: JO Holder
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Williamson
+    - 13.6:
+        non_striker: JO Holder
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 14.1:
+        non_striker: KS Williamson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 14.2:
+        non_striker: JO Holder
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 14.3:
+        non_striker: KS Williamson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 14.4:
+        non_striker: JO Holder
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 14.5:
+        non_striker: KS Williamson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 14.6:
+        non_striker: JO Holder
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 15.1:
+        non_striker: JO Holder
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 15.2:
+        non_striker: KS Williamson
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 15.3:
+        non_striker: JO Holder
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 15.4:
+        non_striker: KS Williamson
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 15.5:
+        non_striker: KS Williamson
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 15.6:
+        non_striker: JO Holder
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Williamson
+    - 16.1:
+        non_striker: KS Williamson
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 16.2:
+        non_striker: JO Holder
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 16.3:
+        non_striker: KS Williamson
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 16.4:
+        non_striker: KS Williamson
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 16.5:
+        non_striker: JO Holder
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 16.6:
+        non_striker: JO Holder
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 17.1:
+        non_striker: KS Williamson
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 17.2:
+        non_striker: JO Holder
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 17.3:
+        non_striker: KS Williamson
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 17.4:
+        non_striker: JO Holder
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 17.5:
+        non_striker: JO Holder
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 17.6:
+        non_striker: JO Holder
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 18.1:
+        non_striker: JO Holder
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 18.2:
+        non_striker: KS Williamson
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JO Holder
+    - 18.3:
+        non_striker: KS Williamson
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 18.4:
+        non_striker: JO Holder
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 18.5:
+        non_striker: JO Holder
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 18.6:
+        non_striker: JO Holder
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 19.1:
+        non_striker: JO Holder
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 19.2:
+        non_striker: KS Williamson
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 19.3:
+        non_striker: KS Williamson
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JO Holder
+    - 19.4:
+        non_striker: KS Williamson
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JO Holder

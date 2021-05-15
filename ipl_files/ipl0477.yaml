@@ -1,0 +1,2085 @@
+---
+meta:
+  data_version: 0.9
+  created: 2015-04-23
+  revision: 1
+info:
+  city: Bangalore
+  competition: IPL
+  dates:
+    - 2015-04-22
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      runs: 27
+    winner: Chennai Super Kings
+  overs: 20
+  player_of_match:
+    - SK Raina
+  teams:
+    - Royal Challengers Bangalore
+    - Chennai Super Kings
+  toss:
+    decision: field
+    winner: Royal Challengers Bangalore
+  umpires:
+    - JD Cloete
+    - C Shamshuddin
+  venue: M Chinnaswamy Stadium
+innings:
+  - 1st innings:
+      team: Chennai Super Kings
+      deliveries:
+        - 0.1:
+            batsman: DR Smith
+            bowler: MA Starc
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: DR Smith
+            bowler: MA Starc
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: DR Smith
+            bowler: MA Starc
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.4:
+            batsman: BB McCullum
+            bowler: MA Starc
+            extras:
+              legbyes: 4
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 0.5:
+            batsman: BB McCullum
+            bowler: MA Starc
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: BB McCullum
+            bowler: MA Starc
+            non_striker: DR Smith
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.1:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: BB McCullum
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.2:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.3:
+            batsman: BB McCullum
+            bowler: YS Chahal
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: BB McCullum
+            bowler: YS Chahal
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: BB McCullum
+            bowler: YS Chahal
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RR Rossouw
+              kind: caught
+              player_out: BB McCullum
+        - 1.6:
+            batsman: SK Raina
+            bowler: YS Chahal
+            non_striker: DR Smith
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.1:
+            batsman: DR Smith
+            bowler: MA Starc
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: DR Smith
+            bowler: MA Starc
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: DR Smith
+            bowler: MA Starc
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: DR Smith
+            bowler: MA Starc
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: DR Smith
+            bowler: MA Starc
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.6:
+            batsman: SK Raina
+            bowler: MA Starc
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: SK Raina
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.2:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: SK Raina
+            bowler: YS Chahal
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: DR Smith
+            bowler: YS Chahal
+            non_striker: SK Raina
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 4.1:
+            batsman: SK Raina
+            bowler: HV Patel
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: SK Raina
+            bowler: HV Patel
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: SK Raina
+            bowler: HV Patel
+            non_striker: DR Smith
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.4:
+            batsman: SK Raina
+            bowler: HV Patel
+            non_striker: DR Smith
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.5:
+            batsman: SK Raina
+            bowler: HV Patel
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: SK Raina
+            bowler: HV Patel
+            extras:
+              legbyes: 1
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.1:
+            batsman: SK Raina
+            bowler: D Wiese
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: SK Raina
+            bowler: D Wiese
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: SK Raina
+            bowler: D Wiese
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: SK Raina
+            bowler: D Wiese
+            non_striker: DR Smith
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 5.5:
+            batsman: SK Raina
+            bowler: D Wiese
+            extras:
+              legbyes: 1
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.6:
+            batsman: DR Smith
+            bowler: D Wiese
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: SK Raina
+            bowler: HV Patel
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: SK Raina
+            bowler: HV Patel
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: DR Smith
+            bowler: HV Patel
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: DR Smith
+            bowler: HV Patel
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: DR Smith
+            bowler: HV Patel
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: SK Raina
+            bowler: HV Patel
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: DR Smith
+            bowler: D Wiese
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: DR Smith
+            bowler: D Wiese
+            non_striker: SK Raina
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 7.3:
+            batsman: DR Smith
+            bowler: D Wiese
+            non_striker: SK Raina
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 7.4:
+            batsman: DR Smith
+            bowler: D Wiese
+            non_striker: SK Raina
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.5:
+            batsman: DR Smith
+            bowler: D Wiese
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: DR Smith
+            bowler: D Wiese
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: DR Smith
+            bowler: HV Patel
+            non_striker: SK Raina
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.2:
+            batsman: DR Smith
+            bowler: HV Patel
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: SK Raina
+            bowler: HV Patel
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: DR Smith
+            bowler: HV Patel
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: DR Smith
+            bowler: HV Patel
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KD Karthik
+              kind: caught
+              player_out: DR Smith
+        - 8.6:
+            batsman: MS Dhoni
+            bowler: HV Patel
+            non_striker: SK Raina
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.1:
+            batsman: SK Raina
+            bowler: Iqbal Abdulla
+            non_striker: MS Dhoni
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 9.2:
+            batsman: SK Raina
+            bowler: Iqbal Abdulla
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: MS Dhoni
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: MS Dhoni
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: MS Dhoni
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: MS Dhoni
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: SK Raina
+            bowler: D Wiese
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: MS Dhoni
+            bowler: D Wiese
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: SK Raina
+            bowler: D Wiese
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: MS Dhoni
+            bowler: D Wiese
+            non_striker: SK Raina
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.5:
+            batsman: MS Dhoni
+            bowler: D Wiese
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: SK Raina
+            bowler: D Wiese
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: SK Raina
+            bowler: Iqbal Abdulla
+            non_striker: MS Dhoni
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.2:
+            batsman: SK Raina
+            bowler: Iqbal Abdulla
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: SK Raina
+            bowler: Iqbal Abdulla
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: MS Dhoni
+            bowler: Iqbal Abdulla
+            extras:
+              wides: 1
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 11.5:
+            batsman: MS Dhoni
+            bowler: Iqbal Abdulla
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: SK Raina
+            bowler: Iqbal Abdulla
+            non_striker: MS Dhoni
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 11.7:
+            batsman: SK Raina
+            bowler: Iqbal Abdulla
+            non_striker: MS Dhoni
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.1:
+            batsman: MS Dhoni
+            bowler: YS Chahal
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: SK Raina
+            bowler: YS Chahal
+            non_striker: MS Dhoni
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.3:
+            batsman: SK Raina
+            bowler: YS Chahal
+            non_striker: MS Dhoni
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.4:
+            batsman: SK Raina
+            bowler: YS Chahal
+            non_striker: MS Dhoni
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.5:
+            batsman: SK Raina
+            bowler: YS Chahal
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RR Rossouw
+              kind: caught
+              player_out: SK Raina
+        - 12.6:
+            batsman: MS Dhoni
+            bowler: YS Chahal
+            non_striker: RA Jadeja
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: RA Jadeja
+            bowler: HV Patel
+            non_striker: MS Dhoni
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 13.2:
+            batsman: RA Jadeja
+            bowler: HV Patel
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: RA Jadeja
+            bowler: HV Patel
+            non_striker: MS Dhoni
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.4:
+            batsman: RA Jadeja
+            bowler: HV Patel
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: MS Dhoni
+            bowler: HV Patel
+            non_striker: RA Jadeja
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: RA Jadeja
+            bowler: HV Patel
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: MS Dhoni
+            bowler: YS Chahal
+            non_striker: RA Jadeja
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - AB de Villiers
+              kind: caught
+              player_out: MS Dhoni
+        - 14.2:
+            batsman: RA Jadeja
+            bowler: YS Chahal
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: RA Jadeja
+            bowler: YS Chahal
+            non_striker: F du Plessis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: F du Plessis
+            bowler: YS Chahal
+            non_striker: RA Jadeja
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: F du Plessis
+            bowler: YS Chahal
+            non_striker: RA Jadeja
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: F du Plessis
+            bowler: YS Chahal
+            non_striker: RA Jadeja
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: F du Plessis
+            bowler: Iqbal Abdulla
+            non_striker: RA Jadeja
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: RA Jadeja
+            bowler: Iqbal Abdulla
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - V Kohli
+              kind: caught
+              player_out: RA Jadeja
+        - 15.3:
+            batsman: F du Plessis
+            bowler: Iqbal Abdulla
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: F du Plessis
+            bowler: Iqbal Abdulla
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: F du Plessis
+            bowler: Iqbal Abdulla
+            non_striker: DJ Bravo
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.6:
+            batsman: F du Plessis
+            bowler: Iqbal Abdulla
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: F du Plessis
+            bowler: MA Starc
+            non_striker: DJ Bravo
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.2:
+            batsman: F du Plessis
+            bowler: MA Starc
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: DJ Bravo
+            bowler: MA Starc
+            non_striker: F du Plessis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: F du Plessis
+            bowler: MA Starc
+            non_striker: DJ Bravo
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.5:
+            batsman: F du Plessis
+            bowler: MA Starc
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: DJ Bravo
+            bowler: MA Starc
+            non_striker: F du Plessis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.1:
+            batsman: F du Plessis
+            bowler: Iqbal Abdulla
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: DJ Bravo
+            bowler: Iqbal Abdulla
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: DJ Bravo
+            bowler: Iqbal Abdulla
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - AB de Villiers
+              kind: caught
+              player_out: DJ Bravo
+        - 17.4:
+            batsman: F du Plessis
+            bowler: Iqbal Abdulla
+            extras:
+              wides: 1
+            non_striker: R Ashwin
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 17.5:
+            batsman: F du Plessis
+            bowler: Iqbal Abdulla
+            non_striker: R Ashwin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: R Ashwin
+            bowler: Iqbal Abdulla
+            non_striker: F du Plessis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.7:
+            batsman: F du Plessis
+            bowler: Iqbal Abdulla
+            non_striker: R Ashwin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.1:
+            batsman: R Ashwin
+            bowler: D Wiese
+            non_striker: F du Plessis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.2:
+            batsman: R Ashwin
+            bowler: D Wiese
+            extras:
+              wides: 1
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.3:
+            batsman: R Ashwin
+            bowler: D Wiese
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MS Bisla
+              kind: caught
+              player_out: R Ashwin
+        - 18.4:
+            batsman: MM Sharma
+            bowler: D Wiese
+            non_striker: F du Plessis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.5:
+            batsman: F du Plessis
+            bowler: D Wiese
+            non_striker: MM Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.6:
+            batsman: MM Sharma
+            bowler: D Wiese
+            non_striker: F du Plessis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.7:
+            batsman: F du Plessis
+            bowler: D Wiese
+            non_striker: MM Sharma
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 19.1:
+            batsman: MM Sharma
+            bowler: MA Starc
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.2:
+            batsman: MM Sharma
+            bowler: MA Starc
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: MM Sharma
+            bowler: MA Starc
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.4:
+            batsman: MM Sharma
+            bowler: MA Starc
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: MM Sharma
+        - 19.5:
+            batsman: A Nehra
+            bowler: MA Starc
+            extras:
+              byes: 1
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 19.6:
+            batsman: F du Plessis
+            bowler: MA Starc
+            non_striker: A Nehra
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+  - 2nd innings:
+      team: Royal Challengers Bangalore
+      deliveries:
+        - 0.1:
+            batsman: MS Bisla
+            bowler: IC Pandey
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: MS Bisla
+            bowler: IC Pandey
+            non_striker: RR Rossouw
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.3:
+            batsman: MS Bisla
+            bowler: IC Pandey
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: MS Bisla
+            bowler: IC Pandey
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: MS Bisla
+            bowler: IC Pandey
+            non_striker: RR Rossouw
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.6:
+            batsman: MS Bisla
+            bowler: IC Pandey
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: RR Rossouw
+            bowler: A Nehra
+            non_striker: MS Bisla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.2:
+            batsman: MS Bisla
+            bowler: A Nehra
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: MS Bisla
+            bowler: A Nehra
+            non_striker: RR Rossouw
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.4:
+            batsman: RR Rossouw
+            bowler: A Nehra
+            extras:
+              legbyes: 1
+            non_striker: MS Bisla
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.5:
+            batsman: MS Bisla
+            bowler: A Nehra
+            non_striker: RR Rossouw
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.6:
+            batsman: RR Rossouw
+            bowler: A Nehra
+            non_striker: MS Bisla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: MS Bisla
+            bowler: MM Sharma
+            non_striker: RR Rossouw
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.2:
+            batsman: MS Bisla
+            bowler: MM Sharma
+            non_striker: RR Rossouw
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 2.3:
+            batsman: RR Rossouw
+            bowler: MM Sharma
+            non_striker: MS Bisla
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.4:
+            batsman: RR Rossouw
+            bowler: MM Sharma
+            non_striker: MS Bisla
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 2.5:
+            batsman: RR Rossouw
+            bowler: MM Sharma
+            non_striker: MS Bisla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: RR Rossouw
+            bowler: MM Sharma
+            non_striker: MS Bisla
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.1:
+            batsman: MS Bisla
+            bowler: A Nehra
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: MS Bisla
+            bowler: A Nehra
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: MS Bisla
+            bowler: A Nehra
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - F du Plessis
+              kind: caught
+              player_out: MS Bisla
+        - 3.4:
+            batsman: RR Rossouw
+            bowler: A Nehra
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.5:
+            batsman: V Kohli
+            bowler: A Nehra
+            non_striker: RR Rossouw
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.6:
+            batsman: RR Rossouw
+            bowler: A Nehra
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: RR Rossouw
+        - 4.1:
+            batsman: V Kohli
+            bowler: MM Sharma
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: V Kohli
+            bowler: MM Sharma
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: V Kohli
+            bowler: MM Sharma
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: V Kohli
+            bowler: MM Sharma
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: KD Karthik
+            bowler: MM Sharma
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: KD Karthik
+            bowler: MM Sharma
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: V Kohli
+            bowler: A Nehra
+            non_striker: KD Karthik
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.2:
+            batsman: V Kohli
+            bowler: A Nehra
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: V Kohli
+            bowler: A Nehra
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: V Kohli
+            bowler: A Nehra
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: V Kohli
+            bowler: A Nehra
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: KD Karthik
+            bowler: A Nehra
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: KD Karthik
+            bowler: MM Sharma
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: KD Karthik
+            bowler: MM Sharma
+            non_striker: V Kohli
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.3:
+            batsman: KD Karthik
+            bowler: MM Sharma
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: V Kohli
+            bowler: MM Sharma
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: KD Karthik
+            bowler: MM Sharma
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: V Kohli
+            bowler: MM Sharma
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: V Kohli
+            bowler: R Ashwin
+            non_striker: KD Karthik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: KD Karthik
+            bowler: R Ashwin
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.3:
+            batsman: KD Karthik
+            bowler: R Ashwin
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: V Kohli
+            bowler: R Ashwin
+            non_striker: KD Karthik
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 7.5:
+            batsman: V Kohli
+            bowler: R Ashwin
+            extras:
+              wides: 1
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 7.6:
+            batsman: V Kohli
+            bowler: R Ashwin
+            non_striker: KD Karthik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.7:
+            batsman: V Kohli
+            bowler: R Ashwin
+            non_striker: KD Karthik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: KD Karthik
+            bowler: IC Pandey
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: KD Karthik
+            bowler: IC Pandey
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - DJ Bravo
+              kind: caught
+              player_out: KD Karthik
+        - 8.3:
+            batsman: V Kohli
+            bowler: IC Pandey
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: AB de Villiers
+            bowler: IC Pandey
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: AB de Villiers
+            bowler: IC Pandey
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: AB de Villiers
+            bowler: IC Pandey
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: V Kohli
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.2:
+            batsman: V Kohli
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: AB de Villiers
+            bowler: RA Jadeja
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: AB de Villiers
+            bowler: RA Jadeja
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: V Kohli
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: AB de Villiers
+            bowler: RA Jadeja
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 10.1:
+            batsman: V Kohli
+            bowler: IC Pandey
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: AB de Villiers
+            bowler: IC Pandey
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: AB de Villiers
+            bowler: IC Pandey
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: AB de Villiers
+            bowler: IC Pandey
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.5:
+            batsman: V Kohli
+            bowler: IC Pandey
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: AB de Villiers
+            bowler: IC Pandey
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 11.1:
+            batsman: V Kohli
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: V Kohli
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: V Kohli
+            bowler: RA Jadeja
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+            wicket:
+              fielders:
+                - DR Smith
+                - MS Dhoni
+              kind: run out
+              player_out: AB de Villiers
+        - 11.4:
+            batsman: SN Khan
+            bowler: RA Jadeja
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: SN Khan
+            bowler: RA Jadeja
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: V Kohli
+            bowler: RA Jadeja
+            non_striker: SN Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: SN Khan
+            bowler: IC Pandey
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: V Kohli
+            bowler: IC Pandey
+            non_striker: SN Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: V Kohli
+            bowler: IC Pandey
+            non_striker: SN Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: SN Khan
+            bowler: IC Pandey
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: V Kohli
+            bowler: IC Pandey
+            non_striker: SN Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: V Kohli
+            bowler: IC Pandey
+            non_striker: SN Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: SN Khan
+            bowler: RA Jadeja
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 13.2:
+            batsman: SN Khan
+            bowler: RA Jadeja
+            non_striker: V Kohli
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 13.3:
+            batsman: SN Khan
+            bowler: RA Jadeja
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MM Sharma
+              kind: caught
+              player_out: SN Khan
+        - 13.4:
+            batsman: D Wiese
+            bowler: RA Jadeja
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: V Kohli
+            bowler: RA Jadeja
+            non_striker: D Wiese
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: V Kohli
+            bowler: RA Jadeja
+            non_striker: D Wiese
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.1:
+            batsman: V Kohli
+            bowler: DJ Bravo
+            non_striker: D Wiese
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.2:
+            batsman: V Kohli
+            bowler: DJ Bravo
+            non_striker: D Wiese
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: V Kohli
+            bowler: DJ Bravo
+            non_striker: D Wiese
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.4:
+            batsman: V Kohli
+            bowler: DJ Bravo
+            non_striker: D Wiese
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: D Wiese
+            bowler: DJ Bravo
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: V Kohli
+            bowler: DJ Bravo
+            non_striker: D Wiese
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.1:
+            batsman: D Wiese
+            bowler: RA Jadeja
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: V Kohli
+            bowler: RA Jadeja
+            non_striker: D Wiese
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.3:
+            batsman: V Kohli
+            bowler: RA Jadeja
+            non_striker: D Wiese
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.4:
+            batsman: D Wiese
+            bowler: RA Jadeja
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: V Kohli
+            bowler: RA Jadeja
+            non_striker: D Wiese
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 15.6:
+            batsman: V Kohli
+            bowler: RA Jadeja
+            non_striker: D Wiese
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: V Kohli
+            bowler: A Nehra
+            non_striker: D Wiese
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - DR Smith
+              kind: caught
+              player_out: V Kohli
+        - 16.2:
+            batsman: HV Patel
+            bowler: A Nehra
+            non_striker: D Wiese
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - DJ Bravo
+              kind: caught
+              player_out: HV Patel
+        - 16.3:
+            batsman: D Wiese
+            bowler: A Nehra
+            non_striker: MA Starc
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: D Wiese
+            bowler: A Nehra
+            non_striker: MA Starc
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: D Wiese
+            bowler: A Nehra
+            non_striker: MA Starc
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.6:
+            batsman: D Wiese
+            bowler: A Nehra
+            non_striker: MA Starc
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: D Wiese
+            bowler: DJ Bravo
+            non_striker: MA Starc
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: D Wiese
+            bowler: DJ Bravo
+            non_striker: MA Starc
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: D Wiese
+            bowler: DJ Bravo
+            non_striker: MA Starc
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.4:
+            batsman: D Wiese
+            bowler: DJ Bravo
+            extras:
+              legbyes: 4
+            non_striker: MA Starc
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 17.5:
+            batsman: D Wiese
+            bowler: DJ Bravo
+            non_striker: MA Starc
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: MA Starc
+            bowler: DJ Bravo
+            non_striker: D Wiese
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: MA Starc
+            bowler: MM Sharma
+            non_striker: D Wiese
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.2:
+            batsman: MA Starc
+            bowler: MM Sharma
+            non_striker: D Wiese
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.3:
+            batsman: D Wiese
+            bowler: MM Sharma
+            non_striker: MA Starc
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: D Wiese
+            bowler: MM Sharma
+            non_striker: MA Starc
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.5:
+            batsman: MA Starc
+            bowler: MM Sharma
+            non_striker: D Wiese
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.6:
+            batsman: D Wiese
+            bowler: MM Sharma
+            non_striker: MA Starc
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 19.1:
+            batsman: MA Starc
+            bowler: DJ Bravo
+            non_striker: D Wiese
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.2:
+            batsman: D Wiese
+            bowler: DJ Bravo
+            non_striker: MA Starc
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: MA Starc
+            bowler: DJ Bravo
+            non_striker: D Wiese
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: D Wiese
+            bowler: DJ Bravo
+            non_striker: MA Starc
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: D Wiese
+            bowler: DJ Bravo
+            non_striker: MA Starc
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.6:
+            batsman: D Wiese
+            bowler: DJ Bravo
+            non_striker: MA Starc
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - DR Smith
+              kind: caught
+              player_out: D Wiese

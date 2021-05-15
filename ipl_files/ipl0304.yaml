@@ -1,0 +1,1824 @@
+---
+meta:
+  data_version: 0.9
+  created: 2012-07-14
+  revision: 2
+info:
+  city: Chennai
+  competition: IPL
+  dates:
+    - 2012-05-12
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      wickets: 9
+    winner: Chennai Super Kings
+  overs: 20
+  player_of_match:
+    - BW Hilfenhaus
+  teams:
+    - Chennai Super Kings
+    - Delhi Daredevils
+  toss:
+    decision: field
+    winner: Chennai Super Kings
+  umpires:
+    - S Das
+    - BR Doctrove
+  venue: 'MA Chidambaram Stadium, Chepauk'
+innings:
+  - 1st innings:
+      team: Delhi Daredevils
+      deliveries:
+        - 0.1:
+            batsman: DA Warner
+            bowler: BW Hilfenhaus
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: DA Warner
+            bowler: BW Hilfenhaus
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: DA Warner
+            bowler: BW Hilfenhaus
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.4:
+            batsman: V Sehwag
+            bowler: BW Hilfenhaus
+            non_striker: DA Warner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.5:
+            batsman: V Sehwag
+            bowler: BW Hilfenhaus
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: V Sehwag
+        - 0.6:
+            batsman: NV Ojha
+            bowler: BW Hilfenhaus
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: DA Warner
+            bowler: JA Morkel
+            non_striker: NV Ojha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: DA Warner
+            bowler: JA Morkel
+            non_striker: NV Ojha
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.3:
+            batsman: DA Warner
+            bowler: JA Morkel
+            non_striker: NV Ojha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: DA Warner
+            bowler: JA Morkel
+            non_striker: NV Ojha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: DA Warner
+            bowler: JA Morkel
+            non_striker: NV Ojha
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 1.6:
+            batsman: NV Ojha
+            bowler: JA Morkel
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: DA Warner
+            bowler: BW Hilfenhaus
+            non_striker: NV Ojha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - R Ashwin
+              kind: caught
+              player_out: DA Warner
+        - 2.2:
+            batsman: DPMD Jayawardene
+            bowler: BW Hilfenhaus
+            non_striker: NV Ojha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: DPMD Jayawardene
+            bowler: BW Hilfenhaus
+            non_striker: NV Ojha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: DPMD Jayawardene
+            bowler: BW Hilfenhaus
+            non_striker: NV Ojha
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.5:
+            batsman: DPMD Jayawardene
+            bowler: BW Hilfenhaus
+            non_striker: NV Ojha
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.6:
+            batsman: DPMD Jayawardene
+            bowler: BW Hilfenhaus
+            non_striker: NV Ojha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: NV Ojha
+            bowler: JA Morkel
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: NV Ojha
+            bowler: JA Morkel
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: NV Ojha
+            bowler: JA Morkel
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: DPMD Jayawardene
+            bowler: JA Morkel
+            non_striker: NV Ojha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.5:
+            batsman: NV Ojha
+            bowler: JA Morkel
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.6:
+            batsman: DPMD Jayawardene
+            bowler: JA Morkel
+            non_striker: NV Ojha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: NV Ojha
+            bowler: BW Hilfenhaus
+            extras:
+              wides: 1
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.2:
+            batsman: NV Ojha
+            bowler: BW Hilfenhaus
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: NV Ojha
+            bowler: BW Hilfenhaus
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: NV Ojha
+            bowler: BW Hilfenhaus
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: NV Ojha
+            bowler: BW Hilfenhaus
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: DPMD Jayawardene
+            bowler: BW Hilfenhaus
+            non_striker: NV Ojha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.7:
+            batsman: NV Ojha
+            bowler: BW Hilfenhaus
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MS Dhoni
+              kind: caught
+              player_out: NV Ojha
+        - 5.1:
+            batsman: DPMD Jayawardene
+            bowler: JA Morkel
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: DPMD Jayawardene
+            bowler: JA Morkel
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MEK Hussey
+              kind: caught
+              player_out: DPMD Jayawardene
+        - 5.3:
+            batsman: Y Nagar
+            bowler: JA Morkel
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: Y Venugopal Rao
+            bowler: JA Morkel
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: Y Venugopal Rao
+            bowler: JA Morkel
+            extras:
+              legbyes: 1
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.6:
+            batsman: Y Nagar
+            bowler: JA Morkel
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: Y Nagar
+            bowler: DJ Bravo
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: Y Nagar
+            bowler: DJ Bravo
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: Y Nagar
+            bowler: DJ Bravo
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: Y Venugopal Rao
+            bowler: DJ Bravo
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: Y Nagar
+            bowler: DJ Bravo
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: Y Venugopal Rao
+            bowler: DJ Bravo
+            extras:
+              wides: 1
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 6.7:
+            batsman: Y Venugopal Rao
+            bowler: DJ Bravo
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: Y Venugopal Rao
+            bowler: SB Jakati
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: Y Nagar
+            bowler: SB Jakati
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: Y Nagar
+            bowler: SB Jakati
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: Y Venugopal Rao
+            bowler: SB Jakati
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: Y Nagar
+            bowler: SB Jakati
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: Y Venugopal Rao
+            bowler: SB Jakati
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: Y Venugopal Rao
+            bowler: RA Jadeja
+            non_striker: Y Nagar
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.2:
+            batsman: Y Venugopal Rao
+            bowler: RA Jadeja
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: Y Nagar
+            bowler: RA Jadeja
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: Y Venugopal Rao
+            bowler: RA Jadeja
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: Y Nagar
+            bowler: RA Jadeja
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.6:
+            batsman: Y Venugopal Rao
+            bowler: RA Jadeja
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: Y Venugopal Rao
+            bowler: R Ashwin
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: Y Nagar
+            bowler: R Ashwin
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: Y Venugopal Rao
+            bowler: R Ashwin
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: Y Venugopal Rao
+            bowler: R Ashwin
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: Y Nagar
+            bowler: R Ashwin
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: Y Nagar
+            bowler: R Ashwin
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: Y Nagar
+            bowler: SB Jakati
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: Y Venugopal Rao
+            bowler: SB Jakati
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: Y Nagar
+            bowler: SB Jakati
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: Y Venugopal Rao
+            bowler: SB Jakati
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: Y Venugopal Rao
+            bowler: SB Jakati
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: Y Nagar
+            bowler: SB Jakati
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: Y Venugopal Rao
+            bowler: R Ashwin
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: Y Nagar
+            bowler: R Ashwin
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: Y Venugopal Rao
+            bowler: R Ashwin
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: Y Venugopal Rao
+            bowler: R Ashwin
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.5:
+            batsman: Y Nagar
+            bowler: R Ashwin
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: Y Nagar
+            bowler: R Ashwin
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: Y Nagar
+            bowler: SB Jakati
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: Y Venugopal Rao
+            bowler: SB Jakati
+            non_striker: Y Nagar
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.3:
+            batsman: Y Venugopal Rao
+            bowler: SB Jakati
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: Y Nagar
+            bowler: SB Jakati
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.5:
+            batsman: Y Nagar
+            bowler: SB Jakati
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.6:
+            batsman: Y Venugopal Rao
+            bowler: SB Jakati
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: Y Nagar
+            bowler: R Ashwin
+            non_striker: Y Venugopal Rao
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: Y Venugopal Rao
+            bowler: R Ashwin
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JA Morkel
+              kind: caught
+              player_out: Y Venugopal Rao
+        - 13.3:
+            batsman: IK Pathan
+            bowler: R Ashwin
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: IK Pathan
+            bowler: R Ashwin
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: Y Nagar
+            bowler: R Ashwin
+            non_striker: IK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: Y Nagar
+            bowler: R Ashwin
+            non_striker: IK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.1:
+            batsman: Y Nagar
+            bowler: DJ Bravo
+            non_striker: IK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.2:
+            batsman: Y Nagar
+            bowler: DJ Bravo
+            non_striker: IK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: IK Pathan
+            bowler: DJ Bravo
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: IK Pathan
+            bowler: DJ Bravo
+            non_striker: Y Nagar
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.5:
+            batsman: IK Pathan
+            bowler: DJ Bravo
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: IK Pathan
+            bowler: DJ Bravo
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: IK Pathan
+            bowler: R Ashwin
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: Y Nagar
+            bowler: R Ashwin
+            non_striker: IK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: Y Nagar
+            bowler: R Ashwin
+            non_striker: IK Pathan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.4:
+            batsman: Y Nagar
+            bowler: R Ashwin
+            non_striker: IK Pathan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.5:
+            batsman: Y Nagar
+            bowler: R Ashwin
+            non_striker: IK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: Y Nagar
+            bowler: R Ashwin
+            non_striker: IK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: Y Nagar
+            bowler: JA Morkel
+            non_striker: IK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: IK Pathan
+            bowler: JA Morkel
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: IK Pathan
+            bowler: JA Morkel
+            extras:
+              legbyes: 1
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 16.4:
+            batsman: Y Nagar
+            bowler: JA Morkel
+            non_striker: IK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: Y Nagar
+            bowler: JA Morkel
+            non_striker: IK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: IK Pathan
+            bowler: JA Morkel
+            extras:
+              wides: 1
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 16.7:
+            batsman: IK Pathan
+            bowler: JA Morkel
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.1:
+            batsman: Y Nagar
+            bowler: DJ Bravo
+            non_striker: IK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: Y Nagar
+            bowler: DJ Bravo
+            non_striker: IK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: IK Pathan
+            bowler: DJ Bravo
+            extras:
+              wides: 1
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 17.4:
+            batsman: IK Pathan
+            bowler: DJ Bravo
+            non_striker: Y Nagar
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.5:
+            batsman: IK Pathan
+            bowler: DJ Bravo
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: Y Nagar
+            bowler: DJ Bravo
+            non_striker: IK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.7:
+            batsman: IK Pathan
+            bowler: DJ Bravo
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: Y Nagar
+            bowler: BW Hilfenhaus
+            non_striker: IK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: Y Nagar
+            bowler: BW Hilfenhaus
+            non_striker: IK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.3:
+            batsman: IK Pathan
+            bowler: BW Hilfenhaus
+            extras:
+              wides: 1
+            non_striker: Y Nagar
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.4:
+            batsman: IK Pathan
+            bowler: BW Hilfenhaus
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.5:
+            batsman: Y Nagar
+            bowler: BW Hilfenhaus
+            non_striker: IK Pathan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.6:
+            batsman: Y Nagar
+            bowler: BW Hilfenhaus
+            non_striker: IK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.7:
+            batsman: Y Nagar
+            bowler: BW Hilfenhaus
+            non_striker: IK Pathan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 19.1:
+            batsman: IK Pathan
+            bowler: DJ Bravo
+            non_striker: Y Nagar
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.2:
+            batsman: IK Pathan
+            bowler: DJ Bravo
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: Y Nagar
+            bowler: DJ Bravo
+            non_striker: IK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: IK Pathan
+            bowler: DJ Bravo
+            non_striker: Y Nagar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: Y Nagar
+            bowler: DJ Bravo
+            non_striker: IK Pathan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.6:
+            batsman: Y Nagar
+            bowler: DJ Bravo
+            non_striker: IK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+  - 2nd innings:
+      team: Chennai Super Kings
+      deliveries:
+        - 0.1:
+            batsman: MEK Hussey
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: MEK Hussey
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: MEK Hussey
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 0.4:
+            batsman: MEK Hussey
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: MEK Hussey
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: MEK Hussey
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: M Vijay
+            bowler: UT Yadav
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: M Vijay
+            bowler: UT Yadav
+            non_striker: MEK Hussey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.3:
+            batsman: M Vijay
+            bowler: UT Yadav
+            extras:
+              wides: 1
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.4:
+            batsman: M Vijay
+            bowler: UT Yadav
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: M Vijay
+            bowler: UT Yadav
+            non_striker: MEK Hussey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.6:
+            batsman: M Vijay
+            bowler: UT Yadav
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.7:
+            batsman: MEK Hussey
+            bowler: UT Yadav
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: M Vijay
+            bowler: M Morkel
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: M Vijay
+            bowler: M Morkel
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.3:
+            batsman: MEK Hussey
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: MEK Hussey
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: MEK Hussey
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.6:
+            batsman: MEK Hussey
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: M Vijay
+            bowler: VR Aaron
+            non_striker: MEK Hussey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.2:
+            batsman: M Vijay
+            bowler: VR Aaron
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: M Vijay
+            bowler: VR Aaron
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: M Vijay
+            bowler: VR Aaron
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.5:
+            batsman: MEK Hussey
+            bowler: VR Aaron
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.6:
+            batsman: MEK Hussey
+            bowler: VR Aaron
+            non_striker: M Vijay
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 4.1:
+            batsman: MEK Hussey
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.2:
+            batsman: MEK Hussey
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.3:
+            batsman: MEK Hussey
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: MEK Hussey
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: M Vijay
+            bowler: M Morkel
+            non_striker: MEK Hussey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.6:
+            batsman: M Vijay
+            bowler: M Morkel
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: MEK Hussey
+            bowler: VR Aaron
+            non_striker: M Vijay
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 5.2:
+            batsman: MEK Hussey
+            bowler: VR Aaron
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: MEK Hussey
+            bowler: VR Aaron
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: MEK Hussey
+            bowler: VR Aaron
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: MEK Hussey
+            bowler: VR Aaron
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: M Vijay
+            bowler: VR Aaron
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: MEK Hussey
+            bowler: UT Yadav
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: M Vijay
+            bowler: UT Yadav
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: M Vijay
+            bowler: UT Yadav
+            non_striker: MEK Hussey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.4:
+            batsman: M Vijay
+            bowler: UT Yadav
+            non_striker: MEK Hussey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.5:
+            batsman: M Vijay
+            bowler: UT Yadav
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: M Vijay
+            bowler: UT Yadav
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: M Vijay
+            bowler: RE van der Merwe
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: MEK Hussey
+            bowler: RE van der Merwe
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.3:
+            batsman: MEK Hussey
+            bowler: RE van der Merwe
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: MEK Hussey
+            bowler: RE van der Merwe
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: MEK Hussey
+            bowler: RE van der Merwe
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: M Vijay
+            bowler: RE van der Merwe
+            non_striker: MEK Hussey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.1:
+            batsman: MEK Hussey
+            bowler: IK Pathan
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: MEK Hussey
+            bowler: IK Pathan
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: M Vijay
+            bowler: IK Pathan
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: MEK Hussey
+            bowler: IK Pathan
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: M Vijay
+            bowler: IK Pathan
+            non_striker: MEK Hussey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.6:
+            batsman: M Vijay
+            bowler: IK Pathan
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: MEK Hussey
+            bowler: RE van der Merwe
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: M Vijay
+            bowler: RE van der Merwe
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: M Vijay
+            bowler: RE van der Merwe
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: M Vijay
+            bowler: RE van der Merwe
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: M Vijay
+            bowler: RE van der Merwe
+            non_striker: MEK Hussey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 9.6:
+            batsman: M Vijay
+            bowler: RE van der Merwe
+            non_striker: MEK Hussey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 10.1:
+            batsman: MEK Hussey
+            bowler: IK Pathan
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - DPMD Jayawardene
+              kind: caught
+              player_out: MEK Hussey
+        - 10.2:
+            batsman: SK Raina
+            bowler: IK Pathan
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: M Vijay
+            bowler: IK Pathan
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: SK Raina
+            bowler: IK Pathan
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: SK Raina
+            bowler: IK Pathan
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: SK Raina
+            bowler: IK Pathan
+            non_striker: M Vijay
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 11.1:
+            batsman: M Vijay
+            bowler: RE van der Merwe
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: SK Raina
+            bowler: RE van der Merwe
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: M Vijay
+            bowler: RE van der Merwe
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: SK Raina
+            bowler: RE van der Merwe
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: SK Raina
+            bowler: RE van der Merwe
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: M Vijay
+            bowler: RE van der Merwe
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: SK Raina
+            bowler: UT Yadav
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: SK Raina
+            bowler: UT Yadav
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: SK Raina
+            bowler: UT Yadav
+            non_striker: M Vijay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.4:
+            batsman: SK Raina
+            bowler: UT Yadav
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: M Vijay
+            bowler: UT Yadav
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.6:
+            batsman: SK Raina
+            bowler: UT Yadav
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: M Vijay
+            bowler: VR Aaron
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: M Vijay
+            bowler: VR Aaron
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: SK Raina
+            bowler: VR Aaron
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: SK Raina
+            bowler: VR Aaron
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: M Vijay
+            bowler: VR Aaron
+            non_striker: SK Raina
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 13.6:
+            batsman: M Vijay
+            bowler: VR Aaron
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: SK Raina
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 14.2:
+            batsman: SK Raina
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: M Vijay
+            bowler: M Morkel
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: SK Raina
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.5:
+            batsman: SK Raina
+            bowler: M Morkel
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: M Vijay
+            bowler: M Morkel
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: SK Raina
+            bowler: VR Aaron
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: SK Raina
+            bowler: VR Aaron
+            non_striker: M Vijay
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
