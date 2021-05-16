@@ -1,0 +1,2076 @@
+---
+meta:
+  data_version: 0.9
+  created: 2016-07-06
+  revision: 1
+info:
+  city: Southampton
+  dates:
+    - 2016-07-05
+  gender: female
+  match_type: T20
+  outcome:
+    by:
+      runs: 35
+    winner: England
+  overs: 20
+  player_of_match:
+    - FC Wilson
+  teams:
+    - England
+    - Pakistan
+  toss:
+    decision: bat
+    winner: England
+  umpires:
+    - NGB Cook
+    - RT Robinson
+  venue: The Rose Bowl
+innings:
+  - 1st innings:
+      team: England
+      deliveries:
+        - 0.1:
+            batsman: L Winfield
+            bowler: Aiman Anwer
+            non_striker: TT Beaumont
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.2:
+            batsman: L Winfield
+            bowler: Aiman Anwer
+            non_striker: TT Beaumont
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.3:
+            batsman: L Winfield
+            bowler: Aiman Anwer
+            non_striker: TT Beaumont
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: L Winfield
+            bowler: Aiman Anwer
+            non_striker: TT Beaumont
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.5:
+            batsman: L Winfield
+            bowler: Aiman Anwer
+            non_striker: TT Beaumont
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.6:
+            batsman: TT Beaumont
+            bowler: Aiman Anwer
+            non_striker: L Winfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: L Winfield
+            bowler: Anam Amin
+            non_striker: TT Beaumont
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.2:
+            batsman: TT Beaumont
+            bowler: Anam Amin
+            non_striker: L Winfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: TT Beaumont
+            bowler: Anam Amin
+            non_striker: L Winfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: TT Beaumont
+            bowler: Anam Amin
+            non_striker: L Winfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: TT Beaumont
+            bowler: Anam Amin
+            non_striker: L Winfield
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.6:
+            batsman: L Winfield
+            bowler: Anam Amin
+            non_striker: TT Beaumont
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: TT Beaumont
+            bowler: Aiman Anwer
+            non_striker: L Winfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: TT Beaumont
+            bowler: Aiman Anwer
+            non_striker: L Winfield
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.3:
+            batsman: TT Beaumont
+            bowler: Aiman Anwer
+            non_striker: L Winfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: TT Beaumont
+            bowler: Aiman Anwer
+            non_striker: L Winfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: TT Beaumont
+            bowler: Aiman Anwer
+            non_striker: L Winfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: TT Beaumont
+            bowler: Aiman Anwer
+            non_striker: L Winfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: TT Beaumont
+        - 3.1:
+            batsman: L Winfield
+            bowler: Anam Amin
+            non_striker: HC Knight
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.2:
+            batsman: HC Knight
+            bowler: Anam Amin
+            non_striker: L Winfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: HC Knight
+            bowler: Anam Amin
+            non_striker: L Winfield
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: L Winfield
+            bowler: Anam Amin
+            non_striker: HC Knight
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.5:
+            batsman: L Winfield
+            bowler: Anam Amin
+            non_striker: HC Knight
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.6:
+            batsman: HC Knight
+            bowler: Anam Amin
+            non_striker: L Winfield
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 4.1:
+            batsman: L Winfield
+            bowler: Aiman Anwer
+            non_striker: HC Knight
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.2:
+            batsman: L Winfield
+            bowler: Aiman Anwer
+            non_striker: HC Knight
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: HC Knight
+            bowler: Aiman Anwer
+            non_striker: L Winfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: HC Knight
+            bowler: Aiman Anwer
+            non_striker: L Winfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: HC Knight
+            bowler: Aiman Anwer
+            non_striker: L Winfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: HC Knight
+            bowler: Aiman Anwer
+            non_striker: L Winfield
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.1:
+            batsman: L Winfield
+            bowler: Sana Mir
+            non_striker: HC Knight
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.2:
+            batsman: HC Knight
+            bowler: Sana Mir
+            non_striker: L Winfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: HC Knight
+            bowler: Sana Mir
+            non_striker: L Winfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: HC Knight
+            bowler: Sana Mir
+            non_striker: L Winfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: HC Knight
+            bowler: Sana Mir
+            non_striker: L Winfield
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: L Winfield
+            bowler: Sana Mir
+            non_striker: HC Knight
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: L Winfield
+            bowler: Sadia Yousuf
+            non_striker: HC Knight
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.2:
+            batsman: L Winfield
+            bowler: Sadia Yousuf
+            non_striker: HC Knight
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Aiman Anwer
+              kind: caught
+              player_out: L Winfield
+        - 6.3:
+            batsman: HC Knight
+            bowler: Sadia Yousuf
+            non_striker: NR Sciver
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: NR Sciver
+            bowler: Sadia Yousuf
+            non_striker: HC Knight
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.5:
+            batsman: NR Sciver
+            bowler: Sadia Yousuf
+            non_striker: HC Knight
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: HC Knight
+            bowler: Sadia Yousuf
+            non_striker: NR Sciver
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: HC Knight
+            bowler: Sana Mir
+            non_striker: NR Sciver
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: NR Sciver
+            bowler: Sana Mir
+            non_striker: HC Knight
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.3:
+            batsman: NR Sciver
+            bowler: Sana Mir
+            non_striker: HC Knight
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.4:
+            batsman: NR Sciver
+            bowler: Sana Mir
+            non_striker: HC Knight
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: NR Sciver
+            bowler: Sana Mir
+            non_striker: HC Knight
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: HC Knight
+            bowler: Sana Mir
+            non_striker: NR Sciver
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: HC Knight
+            bowler: Sadia Yousuf
+            non_striker: NR Sciver
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: NR Sciver
+            bowler: Sadia Yousuf
+            non_striker: HC Knight
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: NR Sciver
+            bowler: Sadia Yousuf
+            non_striker: HC Knight
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.4:
+            batsman: NR Sciver
+            bowler: Sadia Yousuf
+            non_striker: HC Knight
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: HC Knight
+            bowler: Sadia Yousuf
+            extras:
+              wides: 1
+            non_striker: NR Sciver
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 8.6:
+            batsman: HC Knight
+            bowler: Sadia Yousuf
+            non_striker: NR Sciver
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.7:
+            batsman: NR Sciver
+            bowler: Sadia Yousuf
+            non_striker: HC Knight
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: NR Sciver
+            bowler: Nida Dar
+            non_striker: HC Knight
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: HC Knight
+            bowler: Nida Dar
+            non_striker: NR Sciver
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Sidra Nawaz
+              kind: stumped
+              player_out: HC Knight
+        - 9.3:
+            batsman: FC Wilson
+            bowler: Nida Dar
+            non_striker: NR Sciver
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 9.4:
+            batsman: FC Wilson
+            bowler: Nida Dar
+            non_striker: NR Sciver
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: NR Sciver
+            bowler: Nida Dar
+            non_striker: FC Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: FC Wilson
+            bowler: Nida Dar
+            non_striker: NR Sciver
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 10.1:
+            batsman: NR Sciver
+            bowler: Sadia Yousuf
+            non_striker: FC Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: FC Wilson
+            bowler: Sadia Yousuf
+            non_striker: NR Sciver
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: NR Sciver
+            bowler: Sadia Yousuf
+            non_striker: FC Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: FC Wilson
+            bowler: Sadia Yousuf
+            extras:
+              wides: 1
+            non_striker: NR Sciver
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 10.5:
+            batsman: FC Wilson
+            bowler: Sadia Yousuf
+            non_striker: NR Sciver
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: NR Sciver
+            bowler: Sadia Yousuf
+            non_striker: FC Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Nida Dar
+              kind: caught
+              player_out: NR Sciver
+        - 10.7:
+            batsman: FC Wilson
+            bowler: Sadia Yousuf
+            non_striker: DN Wyatt
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: FC Wilson
+            bowler: Nida Dar
+            non_striker: DN Wyatt
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: DN Wyatt
+            bowler: Nida Dar
+            non_striker: FC Wilson
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.3:
+            batsman: DN Wyatt
+            bowler: Nida Dar
+            non_striker: FC Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: FC Wilson
+            bowler: Nida Dar
+            non_striker: DN Wyatt
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.5:
+            batsman: DN Wyatt
+            bowler: Nida Dar
+            non_striker: FC Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: FC Wilson
+            bowler: Nida Dar
+            non_striker: DN Wyatt
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: FC Wilson
+            bowler: Anam Amin
+            non_striker: DN Wyatt
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.2:
+            batsman: FC Wilson
+            bowler: Anam Amin
+            non_striker: DN Wyatt
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: DN Wyatt
+            bowler: Anam Amin
+            non_striker: FC Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: FC Wilson
+            bowler: Anam Amin
+            non_striker: DN Wyatt
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: DN Wyatt
+            bowler: Anam Amin
+            non_striker: FC Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.6:
+            batsman: FC Wilson
+            bowler: Anam Amin
+            non_striker: DN Wyatt
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: FC Wilson
+            bowler: Bismah Maroof
+            non_striker: DN Wyatt
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: FC Wilson
+            bowler: Bismah Maroof
+            non_striker: DN Wyatt
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: FC Wilson
+            bowler: Bismah Maroof
+            non_striker: DN Wyatt
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: FC Wilson
+            bowler: Bismah Maroof
+            non_striker: DN Wyatt
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: DN Wyatt
+            bowler: Bismah Maroof
+            non_striker: FC Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: FC Wilson
+            bowler: Bismah Maroof
+            non_striker: DN Wyatt
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.1:
+            batsman: FC Wilson
+            bowler: Sana Mir
+            non_striker: DN Wyatt
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.2:
+            batsman: FC Wilson
+            bowler: Sana Mir
+            extras:
+              wides: 1
+            non_striker: DN Wyatt
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 14.3:
+            batsman: FC Wilson
+            bowler: Sana Mir
+            non_striker: DN Wyatt
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: FC Wilson
+            bowler: Sana Mir
+            non_striker: DN Wyatt
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: FC Wilson
+            bowler: Sana Mir
+            non_striker: DN Wyatt
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: DN Wyatt
+            bowler: Sana Mir
+            non_striker: FC Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.7:
+            batsman: DN Wyatt
+            bowler: Sana Mir
+            non_striker: FC Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: DN Wyatt
+            bowler: Bismah Maroof
+            non_striker: FC Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: DN Wyatt
+            bowler: Bismah Maroof
+            non_striker: FC Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: caught and bowled
+              player_out: DN Wyatt
+        - 15.3:
+            batsman: AE Jones
+            bowler: Bismah Maroof
+            non_striker: FC Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.4:
+            batsman: FC Wilson
+            bowler: Bismah Maroof
+            non_striker: AE Jones
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: AE Jones
+            bowler: Bismah Maroof
+            non_striker: FC Wilson
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.6:
+            batsman: AE Jones
+            bowler: Bismah Maroof
+            non_striker: FC Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: FC Wilson
+            bowler: Sana Mir
+            non_striker: AE Jones
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: FC Wilson
+            bowler: Sana Mir
+            non_striker: AE Jones
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: AE Jones
+            bowler: Sana Mir
+            non_striker: FC Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: FC Wilson
+            bowler: Sana Mir
+            non_striker: AE Jones
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.5:
+            batsman: FC Wilson
+            bowler: Sana Mir
+            non_striker: AE Jones
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: AE Jones
+            bowler: Sana Mir
+            non_striker: FC Wilson
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.1:
+            batsman: FC Wilson
+            bowler: Bismah Maroof
+            non_striker: AE Jones
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: FC Wilson
+            bowler: Bismah Maroof
+            non_striker: AE Jones
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: FC Wilson
+            bowler: Bismah Maroof
+            non_striker: AE Jones
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: AE Jones
+            bowler: Bismah Maroof
+            non_striker: FC Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Sidra Nawaz
+              kind: stumped
+              player_out: AE Jones
+        - 17.5:
+            batsman: FC Wilson
+            bowler: Bismah Maroof
+            non_striker: KH Brunt
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: KH Brunt
+            bowler: Bismah Maroof
+            non_striker: FC Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: FC Wilson
+            bowler: Sadia Yousuf
+            non_striker: KH Brunt
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.2:
+            batsman: FC Wilson
+            bowler: Sadia Yousuf
+            non_striker: KH Brunt
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.3:
+            batsman: KH Brunt
+            bowler: Sadia Yousuf
+            non_striker: FC Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.4:
+            batsman: FC Wilson
+            bowler: Sadia Yousuf
+            non_striker: KH Brunt
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.5:
+            batsman: KH Brunt
+            bowler: Sadia Yousuf
+            non_striker: FC Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.6:
+            batsman: FC Wilson
+            bowler: Sadia Yousuf
+            non_striker: KH Brunt
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.1:
+            batsman: FC Wilson
+            bowler: Bismah Maroof
+            non_striker: KH Brunt
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Sidra Nawaz
+              kind: run out
+              player_out: KH Brunt
+        - 19.2:
+            batsman: JL Gunn
+            bowler: Bismah Maroof
+            non_striker: FC Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: JL Gunn
+            bowler: Bismah Maroof
+            non_striker: FC Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: FC Wilson
+            bowler: Bismah Maroof
+            non_striker: JL Gunn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: FC Wilson
+            bowler: Bismah Maroof
+            non_striker: JL Gunn
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.6:
+            batsman: FC Wilson
+            bowler: Bismah Maroof
+            non_striker: JL Gunn
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+  - 2nd innings:
+      team: Pakistan
+      deliveries:
+        - 0.1:
+            batsman: Sidra Ameen
+            bowler: KH Brunt
+            extras:
+              noballs: 1
+            non_striker: Javeria Khan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.2:
+            batsman: Javeria Khan
+            bowler: KH Brunt
+            non_striker: Sidra Ameen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: Javeria Khan
+            bowler: KH Brunt
+            non_striker: Sidra Ameen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - DN Wyatt
+              kind: run out
+              player_out: Sidra Ameen
+        - 0.4:
+            batsman: Bismah Maroof
+            bowler: KH Brunt
+            non_striker: Javeria Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: Bismah Maroof
+            bowler: KH Brunt
+            non_striker: Javeria Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: Bismah Maroof
+            bowler: KH Brunt
+            non_striker: Javeria Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.7:
+            batsman: Bismah Maroof
+            bowler: KH Brunt
+            extras:
+              wides: 1
+            non_striker: Javeria Khan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.8:
+            batsman: Bismah Maroof
+            bowler: KH Brunt
+            non_striker: Javeria Khan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.1:
+            batsman: Javeria Khan
+            bowler: NR Sciver
+            non_striker: Bismah Maroof
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: Javeria Khan
+            bowler: NR Sciver
+            non_striker: Bismah Maroof
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.3:
+            batsman: Bismah Maroof
+            bowler: NR Sciver
+            non_striker: Javeria Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - AE Jones
+              kind: caught
+              player_out: Bismah Maroof
+        - 1.4:
+            batsman: Nain Abidi
+            bowler: NR Sciver
+            non_striker: Javeria Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: Nain Abidi
+            bowler: NR Sciver
+            non_striker: Javeria Khan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.6:
+            batsman: Nain Abidi
+            bowler: NR Sciver
+            non_striker: Javeria Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: Javeria Khan
+            bowler: KH Brunt
+            non_striker: Nain Abidi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: Javeria Khan
+            bowler: KH Brunt
+            non_striker: Nain Abidi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.3:
+            batsman: Javeria Khan
+            bowler: KH Brunt
+            non_striker: Nain Abidi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.4:
+            batsman: Javeria Khan
+            bowler: KH Brunt
+            non_striker: Nain Abidi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.5:
+            batsman: Nain Abidi
+            bowler: KH Brunt
+            non_striker: Javeria Khan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.6:
+            batsman: Nain Abidi
+            bowler: KH Brunt
+            non_striker: Javeria Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: Javeria Khan
+            bowler: D Hazell
+            non_striker: Nain Abidi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.2:
+            batsman: Javeria Khan
+            bowler: D Hazell
+            non_striker: Nain Abidi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: Javeria Khan
+            bowler: D Hazell
+            non_striker: Nain Abidi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: Javeria Khan
+            bowler: D Hazell
+            non_striker: Nain Abidi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: Javeria Khan
+            bowler: D Hazell
+            non_striker: Nain Abidi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.6:
+            batsman: Nain Abidi
+            bowler: D Hazell
+            non_striker: Javeria Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: Javeria Khan
+            bowler: HC Knight
+            non_striker: Nain Abidi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: Javeria Khan
+            bowler: HC Knight
+            non_striker: Nain Abidi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.3:
+            batsman: Javeria Khan
+            bowler: HC Knight
+            non_striker: Nain Abidi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.4:
+            batsman: Javeria Khan
+            bowler: HC Knight
+            non_striker: Nain Abidi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - AE Jones
+              kind: caught
+              player_out: Javeria Khan
+        - 4.5:
+            batsman: Nain Abidi
+            bowler: HC Knight
+            non_striker: Asmavia Iqbal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: Asmavia Iqbal
+            bowler: HC Knight
+            non_striker: Nain Abidi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: Nain Abidi
+            bowler: D Hazell
+            non_striker: Asmavia Iqbal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: Nain Abidi
+            bowler: D Hazell
+            non_striker: Asmavia Iqbal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.3:
+            batsman: Asmavia Iqbal
+            bowler: D Hazell
+            non_striker: Nain Abidi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: Nain Abidi
+            bowler: D Hazell
+            non_striker: Asmavia Iqbal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: Asmavia Iqbal
+            bowler: D Hazell
+            non_striker: Nain Abidi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: Asmavia Iqbal
+            bowler: D Hazell
+            non_striker: Nain Abidi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: Nain Abidi
+            bowler: JL Gunn
+            non_striker: Asmavia Iqbal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: Nain Abidi
+            bowler: JL Gunn
+            non_striker: Asmavia Iqbal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: Asmavia Iqbal
+            bowler: JL Gunn
+            non_striker: Nain Abidi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: Asmavia Iqbal
+            bowler: JL Gunn
+            non_striker: Nain Abidi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: Asmavia Iqbal
+            bowler: JL Gunn
+            non_striker: Nain Abidi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: Nain Abidi
+            bowler: JL Gunn
+            non_striker: Asmavia Iqbal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KH Brunt
+              kind: caught
+              player_out: Nain Abidi
+        - 7.1:
+            batsman: Sidra Nawaz
+            bowler: S Ecclestone
+            non_striker: Asmavia Iqbal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: Asmavia Iqbal
+            bowler: S Ecclestone
+            non_striker: Sidra Nawaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: Asmavia Iqbal
+            bowler: S Ecclestone
+            non_striker: Sidra Nawaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: Sidra Nawaz
+            bowler: S Ecclestone
+            non_striker: Asmavia Iqbal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: Asmavia Iqbal
+            bowler: S Ecclestone
+            non_striker: Sidra Nawaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: Asmavia Iqbal
+            bowler: S Ecclestone
+            non_striker: Sidra Nawaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: Asmavia Iqbal
+            bowler: JL Gunn
+            non_striker: Sidra Nawaz
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.2:
+            batsman: Asmavia Iqbal
+            bowler: JL Gunn
+            non_striker: Sidra Nawaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: Asmavia Iqbal
+            bowler: JL Gunn
+            non_striker: Sidra Nawaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: Asmavia Iqbal
+            bowler: JL Gunn
+            non_striker: Sidra Nawaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: Asmavia Iqbal
+            bowler: JL Gunn
+            non_striker: Sidra Nawaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: Asmavia Iqbal
+            bowler: JL Gunn
+            non_striker: Sidra Nawaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: Sidra Nawaz
+            bowler: S Ecclestone
+            non_striker: Asmavia Iqbal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: Asmavia Iqbal
+            bowler: S Ecclestone
+            non_striker: Sidra Nawaz
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 9.3:
+            batsman: Asmavia Iqbal
+            bowler: S Ecclestone
+            non_striker: Sidra Nawaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.4:
+            batsman: Sidra Nawaz
+            bowler: S Ecclestone
+            non_striker: Asmavia Iqbal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: Sidra Nawaz
+            bowler: S Ecclestone
+            non_striker: Asmavia Iqbal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: Asmavia Iqbal
+            bowler: S Ecclestone
+            non_striker: Sidra Nawaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: Asmavia Iqbal
+            bowler: NR Sciver
+            non_striker: Sidra Nawaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: Sidra Nawaz
+            bowler: NR Sciver
+            non_striker: Asmavia Iqbal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: Sidra Nawaz
+            bowler: NR Sciver
+            extras:
+              wides: 1
+            non_striker: Asmavia Iqbal
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 10.4:
+            batsman: Sidra Nawaz
+            bowler: NR Sciver
+            non_striker: Asmavia Iqbal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - FC Wilson
+              kind: caught
+              player_out: Sidra Nawaz
+        - 10.5:
+            batsman: Asmavia Iqbal
+            bowler: NR Sciver
+            non_striker: Nida Dar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: Nida Dar
+            bowler: NR Sciver
+            non_striker: Asmavia Iqbal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.7:
+            batsman: Asmavia Iqbal
+            bowler: NR Sciver
+            non_striker: Nida Dar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: Asmavia Iqbal
+            bowler: KH Brunt
+            non_striker: Nida Dar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: Nida Dar
+            bowler: KH Brunt
+            non_striker: Asmavia Iqbal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: Asmavia Iqbal
+            bowler: KH Brunt
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - NR Sciver
+              kind: caught
+              player_out: Asmavia Iqbal
+        - 11.4:
+            batsman: Sana Mir
+            bowler: KH Brunt
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: Sana Mir
+            bowler: KH Brunt
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: Sana Mir
+            bowler: KH Brunt
+            non_striker: Nida Dar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: Sana Mir
+            bowler: NR Sciver
+            non_striker: Nida Dar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: Nida Dar
+            bowler: NR Sciver
+            non_striker: Sana Mir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: Sana Mir
+            bowler: NR Sciver
+            non_striker: Nida Dar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: Nida Dar
+            bowler: NR Sciver
+            non_striker: Sana Mir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: Sana Mir
+            bowler: NR Sciver
+            non_striker: Nida Dar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.6:
+            batsman: Nida Dar
+            bowler: NR Sciver
+            non_striker: Sana Mir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: Nida Dar
+            bowler: S Ecclestone
+            non_striker: Sana Mir
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.2:
+            batsman: Nida Dar
+            bowler: S Ecclestone
+            non_striker: Sana Mir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: Nida Dar
+            bowler: S Ecclestone
+            non_striker: Sana Mir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: Sana Mir
+            bowler: S Ecclestone
+            non_striker: Nida Dar
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.5:
+            batsman: Sana Mir
+            bowler: S Ecclestone
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: Sana Mir
+        - 13.6:
+            batsman: Aiman Anwer
+            bowler: S Ecclestone
+            non_striker: Nida Dar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.1:
+            batsman: Aiman Anwer
+            bowler: JL Gunn
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.2:
+            batsman: Aiman Anwer
+            bowler: JL Gunn
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: Aiman Anwer
+            bowler: JL Gunn
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: Aiman Anwer
+            bowler: JL Gunn
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: Aiman Anwer
+            bowler: JL Gunn
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: Aiman Anwer
+            bowler: JL Gunn
+            non_striker: Nida Dar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: Aiman Anwer
+            bowler: D Hazell
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: Aiman Anwer
+            bowler: D Hazell
+            non_striker: Nida Dar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.3:
+            batsman: Nida Dar
+            bowler: D Hazell
+            non_striker: Aiman Anwer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: Nida Dar
+            bowler: D Hazell
+            non_striker: Aiman Anwer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: Aiman Anwer
+            bowler: D Hazell
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: Aiman Anwer
+            bowler: D Hazell
+            non_striker: Nida Dar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: Aiman Anwer
+            bowler: KH Brunt
+            non_striker: Nida Dar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: Nida Dar
+            bowler: KH Brunt
+            non_striker: Aiman Anwer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: Aiman Anwer
+            bowler: KH Brunt
+            non_striker: Nida Dar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: Nida Dar
+            bowler: KH Brunt
+            non_striker: Aiman Anwer
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.5:
+            batsman: Nida Dar
+            bowler: KH Brunt
+            non_striker: Aiman Anwer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: Aiman Anwer
+            bowler: KH Brunt
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.1:
+            batsman: Nida Dar
+            bowler: S Ecclestone
+            non_striker: Aiman Anwer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: Aiman Anwer
+            bowler: S Ecclestone
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: Aiman Anwer
+        - 17.3:
+            batsman: Sadia Yousuf
+            bowler: S Ecclestone
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: Sadia Yousuf
+            bowler: S Ecclestone
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: Sadia Yousuf
+            bowler: S Ecclestone
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.6:
+            batsman: Sadia Yousuf
+            bowler: S Ecclestone
+            non_striker: Nida Dar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: Sadia Yousuf
+            bowler: JL Gunn
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: Sadia Yousuf
+            bowler: JL Gunn
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - NR Sciver
+              kind: caught
+              player_out: Sadia Yousuf
+        - 18.3:
+            batsman: Anam Amin
+            bowler: JL Gunn
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: Anam Amin
+            bowler: JL Gunn
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: Anam Amin
+            bowler: JL Gunn
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: Anam Amin
+            bowler: JL Gunn
+            non_striker: Nida Dar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: Nida Dar
+            bowler: D Hazell
+            non_striker: Anam Amin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.2:
+            batsman: Nida Dar
+            bowler: D Hazell
+            non_striker: Anam Amin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: Nida Dar
+            bowler: D Hazell
+            non_striker: Anam Amin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.4:
+            batsman: Nida Dar
+            bowler: D Hazell
+            non_striker: Anam Amin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KH Brunt
+              kind: caught
+              player_out: Nida Dar

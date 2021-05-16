@@ -1,0 +1,2056 @@
+---
+meta:
+  data_version: 0.9
+  created: '2021-02-11'
+  revision: 1
+info:
+  city: Lahore
+  dates:
+  - '2021-02-11'
+  gender: male
+  match_type: T20
+  match_type_number: 1120
+  outcome:
+    winner: Pakistan
+    by:
+      runs: 3
+  overs: 20
+  player_of_match:
+  - Mohammad Rizwan
+  teams:
+  - Pakistan
+  - South Africa
+  toss:
+    decision: field
+    winner: South Africa
+  umpires:
+  - Ahsan Raza
+  - Aleem Dar
+  venue: Gaddafi Stadium
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Babar Azam
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 0.2:
+        non_striker: Mohammad Rizwan
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+        wicket:
+          player_out: Babar Azam
+          kind: run out
+    - 0.3:
+        non_striker: Haider Ali
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 0.4:
+        non_striker: Haider Ali
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 0.5:
+        non_striker: Haider Ali
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Mohammad Rizwan
+    - 0.6:
+        non_striker: Mohammad Rizwan
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 1.1:
+        non_striker: Haider Ali
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 1.2:
+        non_striker: Mohammad Rizwan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 1.3:
+        non_striker: Mohammad Rizwan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Ali
+    - 1.4:
+        non_striker: Haider Ali
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 1.5:
+        non_striker: Haider Ali
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 1.6:
+        non_striker: Haider Ali
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 2.1:
+        non_striker: Haider Ali
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 2.2:
+        non_striker: Mohammad Rizwan
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Haider Ali
+    - 2.3:
+        non_striker: Mohammad Rizwan
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 2.4:
+        non_striker: Mohammad Rizwan
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 2.5:
+        non_striker: Mohammad Rizwan
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Haider Ali
+    - 2.6:
+        non_striker: Mohammad Rizwan
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Ali
+    - 3.1:
+        non_striker: Mohammad Rizwan
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Haider Ali
+    - 3.2:
+        non_striker: Haider Ali
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 3.3:
+        non_striker: Haider Ali
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 3.4:
+        non_striker: Haider Ali
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 3.5:
+        non_striker: Haider Ali
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 3.6:
+        non_striker: Haider Ali
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 4.1:
+        non_striker: Mohammad Rizwan
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 4.2:
+        non_striker: Mohammad Rizwan
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 4.3:
+        non_striker: Mohammad Rizwan
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Haider Ali
+    - 4.4:
+        non_striker: Mohammad Rizwan
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 4.5:
+        non_striker: Mohammad Rizwan
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 4.6:
+        non_striker: Mohammad Rizwan
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Ali
+    - 5.1:
+        non_striker: Mohammad Rizwan
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+        wicket:
+          player_out: Haider Ali
+          fielders:
+          - GJ Snyman
+          kind: caught
+    - 5.2:
+        non_striker: Hussain Talat
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizwan
+    - 5.3:
+        non_striker: Hussain Talat
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 5.4:
+        non_striker: Hussain Talat
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 5.5:
+        non_striker: Hussain Talat
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 5.6:
+        non_striker: Mohammad Rizwan
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hussain Talat
+    - 6.1:
+        non_striker: Mohammad Rizwan
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hussain Talat
+    - 6.2:
+        non_striker: Hussain Talat
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 6.3:
+        non_striker: Mohammad Rizwan
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hussain Talat
+    - 6.4:
+        non_striker: Mohammad Rizwan
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hussain Talat
+    - 6.5:
+        non_striker: Mohammad Rizwan
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hussain Talat
+    - 6.6:
+        non_striker: Hussain Talat
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 7.1:
+        non_striker: Hussain Talat
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 7.2:
+        non_striker: Mohammad Rizwan
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hussain Talat
+    - 7.3:
+        non_striker: Hussain Talat
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 7.4:
+        non_striker: Hussain Talat
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 7.5:
+        non_striker: Hussain Talat
+        bowler: CJ Dala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Rizwan
+    - 7.6:
+        non_striker: Hussain Talat
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 7.7:
+        non_striker: Hussain Talat
+        bowler: CJ Dala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammad Rizwan
+    - 8.1:
+        non_striker: Hussain Talat
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 8.2:
+        non_striker: Mohammad Rizwan
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hussain Talat
+    - 8.3:
+        non_striker: Hussain Talat
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 8.4:
+        non_striker: Mohammad Rizwan
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hussain Talat
+    - 8.5:
+        non_striker: Hussain Talat
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 8.6:
+        non_striker: Mohammad Rizwan
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hussain Talat
+    - 9.1:
+        non_striker: Mohammad Rizwan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hussain Talat
+    - 9.2:
+        non_striker: Mohammad Rizwan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hussain Talat
+        wicket:
+          player_out: Hussain Talat
+          fielders:
+          - H Klaasen
+          kind: stumped
+    - 9.3:
+        non_striker: Mohammad Rizwan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 9.4:
+        non_striker: Iftikhar Ahmed
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 9.5:
+        non_striker: Iftikhar Ahmed
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 9.6:
+        non_striker: Mohammad Rizwan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 10.1:
+        non_striker: Iftikhar Ahmed
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 10.2:
+        non_striker: Iftikhar Ahmed
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizwan
+    - 10.3:
+        non_striker: Iftikhar Ahmed
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizwan
+    - 10.4:
+        non_striker: Iftikhar Ahmed
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 10.5:
+        non_striker: Mohammad Rizwan
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 10.6:
+        non_striker: Iftikhar Ahmed
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizwan
+    - 11.1:
+        non_striker: Mohammad Rizwan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 11.2:
+        non_striker: Iftikhar Ahmed
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 11.3:
+        non_striker: Iftikhar Ahmed
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 11.4:
+        non_striker: Mohammad Rizwan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 11.5:
+        non_striker: Mohammad Rizwan
+        bowler: T Shamsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Iftikhar Ahmed
+    - 11.6:
+        non_striker: Mohammad Rizwan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 11.7:
+        non_striker: Iftikhar Ahmed
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 12.1:
+        non_striker: Mohammad Rizwan
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 12.2:
+        non_striker: Mohammad Rizwan
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+        wicket:
+          player_out: Iftikhar Ahmed
+          fielders:
+          - RR Hendricks
+          kind: caught
+    - 12.3:
+        non_striker: Khushdil Shah
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 12.4:
+        non_striker: Mohammad Rizwan
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 12.5:
+        non_striker: Khushdil Shah
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 12.6:
+        non_striker: Khushdil Shah
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 13.1:
+        non_striker: Khushdil Shah
+        bowler: T Shamsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammad Rizwan
+    - 13.2:
+        non_striker: Mohammad Rizwan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 13.3:
+        non_striker: Khushdil Shah
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 13.4:
+        non_striker: Khushdil Shah
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 13.5:
+        non_striker: Mohammad Rizwan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 13.6:
+        non_striker: Mohammad Rizwan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 14.1:
+        non_striker: Khushdil Shah
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 14.2:
+        non_striker: Mohammad Rizwan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 14.3:
+        non_striker: Khushdil Shah
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 14.4:
+        non_striker: Khushdil Shah
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizwan
+    - 14.5:
+        non_striker: Khushdil Shah
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 14.6:
+        non_striker: Mohammad Rizwan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 15.1:
+        non_striker: Mohammad Rizwan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 15.2:
+        non_striker: Khushdil Shah
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 15.3:
+        non_striker: Mohammad Rizwan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 15.4:
+        non_striker: Mohammad Rizwan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 15.5:
+        non_striker: Khushdil Shah
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 15.6:
+        non_striker: Mohammad Rizwan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 16.1:
+        non_striker: Khushdil Shah
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 16.2:
+        non_striker: Mohammad Rizwan
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khushdil Shah
+    - 16.3:
+        non_striker: Mohammad Rizwan
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+        wicket:
+          player_out: Khushdil Shah
+          fielders:
+          - BC Fortuin
+          kind: caught
+    - 16.4:
+        non_striker: Mohammad Rizwan
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Ashraf
+    - 16.5:
+        non_striker: Faheem Ashraf
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 16.6:
+        non_striker: Mohammad Rizwan
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Ashraf
+    - 17.1:
+        non_striker: Mohammad Rizwan
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Ashraf
+    - 17.2:
+        non_striker: Faheem Ashraf
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 17.3:
+        non_striker: Faheem Ashraf
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 17.4:
+        non_striker: Mohammad Rizwan
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Ashraf
+    - 17.5:
+        non_striker: Faheem Ashraf
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 17.6:
+        non_striker: Mohammad Rizwan
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Ashraf
+        wicket:
+          player_out: Faheem Ashraf
+          fielders:
+          - DA Miller
+          kind: caught
+    - 18.1:
+        non_striker: Mohammad Rizwan
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz (3)
+    - 18.2:
+        non_striker: Mohammad Nawaz (3)
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 18.3:
+        non_striker: Mohammad Rizwan
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz (3)
+    - 18.4:
+        non_striker: Mohammad Nawaz (3)
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizwan
+    - 18.5:
+        non_striker: Mohammad Nawaz (3)
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 18.6:
+        non_striker: Mohammad Nawaz (3)
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 19.1:
+        non_striker: Mohammad Nawaz (3)
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 19.2:
+        non_striker: Mohammad Nawaz (3)
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 19.3:
+        non_striker: Mohammad Nawaz (3)
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 19.4:
+        non_striker: Mohammad Nawaz (3)
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizwan
+    - 19.5:
+        non_striker: Mohammad Nawaz (3)
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Mohammad Rizwan
+    - 19.6:
+        non_striker: Mohammad Rizwan
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz (3)
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 0.2:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 0.3:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 0.4:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 0.5:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 0.6:
+        non_striker: JN Malan
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 1.1:
+        non_striker: RR Hendricks
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 1.2:
+        non_striker: RR Hendricks
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 1.3:
+        non_striker: RR Hendricks
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 1.4:
+        non_striker: JN Malan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 1.5:
+        non_striker: JN Malan
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Hendricks
+    - 1.6:
+        non_striker: JN Malan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 1.7:
+        non_striker: JN Malan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 2.1:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 2.2:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 2.3:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 2.4:
+        non_striker: JN Malan
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 2.5:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 2.6:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 3.1:
+        non_striker: JN Malan
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 3.2:
+        non_striker: JN Malan
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 3.3:
+        non_striker: JN Malan
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 3.4:
+        non_striker: RR Hendricks
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 3.5:
+        non_striker: RR Hendricks
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 3.6:
+        non_striker: RR Hendricks
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 4.1:
+        non_striker: JN Malan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 4.2:
+        non_striker: RR Hendricks
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 4.3:
+        non_striker: RR Hendricks
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 4.4:
+        non_striker: RR Hendricks
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 4.5:
+        non_striker: RR Hendricks
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 4.6:
+        non_striker: RR Hendricks
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 5.1:
+        non_striker: RR Hendricks
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JN Malan
+    - 5.2:
+        non_striker: RR Hendricks
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 5.3:
+        non_striker: RR Hendricks
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 5.4:
+        non_striker: RR Hendricks
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 5.5:
+        non_striker: JN Malan
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 5.6:
+        non_striker: JN Malan
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 6.1:
+        non_striker: RR Hendricks
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 6.2:
+        non_striker: JN Malan
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.3:
+        non_striker: RR Hendricks
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 6.4:
+        non_striker: RR Hendricks
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 6.5:
+        non_striker: RR Hendricks
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+        wicket:
+          player_out: JN Malan
+          kind: bowled
+    - 6.6:
+        non_striker: RR Hendricks
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Snyman
+    - 7.1:
+        non_striker: GJ Snyman
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 7.2:
+        non_striker: GJ Snyman
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 7.3:
+        non_striker: GJ Snyman
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 7.4:
+        non_striker: GJ Snyman
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 7.5:
+        non_striker: RR Hendricks
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Snyman
+    - 7.6:
+        non_striker: GJ Snyman
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 8.1:
+        non_striker: RR Hendricks
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Snyman
+    - 8.2:
+        non_striker: RR Hendricks
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Snyman
+    - 8.3:
+        non_striker: RR Hendricks
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Snyman
+    - 8.4:
+        non_striker: GJ Snyman
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 8.5:
+        non_striker: GJ Snyman
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 8.6:
+        non_striker: RR Hendricks
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Snyman
+        wicket:
+          player_out: GJ Snyman
+          kind: bowled
+    - 9.1:
+        non_striker: DA Miller
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 9.2:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 9.3:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 9.4:
+        non_striker: DA Miller
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 9.5:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Miller
+    - 9.6:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 9.7:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 10.1:
+        non_striker: RR Hendricks
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 10.2:
+        non_striker: RR Hendricks
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 10.3:
+        non_striker: DA Miller
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 10.4:
+        non_striker: DA Miller
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 10.5:
+        non_striker: RR Hendricks
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 10.6:
+        non_striker: DA Miller
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 11.1:
+        non_striker: RR Hendricks
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 11.2:
+        non_striker: DA Miller
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 11.3:
+        non_striker: RR Hendricks
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 11.4:
+        non_striker: DA Miller
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 11.5:
+        non_striker: DA Miller
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 11.6:
+        non_striker: RR Hendricks
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+        wicket:
+          player_out: DA Miller
+          fielders:
+          - Mohammad Rizwan
+          kind: caught
+    - 12.1:
+        non_striker: H Klaasen
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 12.2:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 12.3:
+        non_striker: H Klaasen
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 12.4:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 12.5:
+        non_striker: H Klaasen
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 12.6:
+        non_striker: RR Hendricks
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 13.1:
+        non_striker: H Klaasen
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 13.2:
+        non_striker: RR Hendricks
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 13.3:
+        non_striker: H Klaasen
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 13.4:
+        non_striker: H Klaasen
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 13.5:
+        non_striker: H Klaasen
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 13.6:
+        non_striker: H Klaasen
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 14.1:
+        non_striker: RR Hendricks
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 14.2:
+        non_striker: RR Hendricks
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 14.3:
+        non_striker: H Klaasen
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 14.4:
+        non_striker: RR Hendricks
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 14.5:
+        non_striker: RR Hendricks
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 14.6:
+        non_striker: RR Hendricks
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 15.1:
+        non_striker: H Klaasen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 15.2:
+        non_striker: RR Hendricks
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          fielders:
+          - Hussain Talat
+          kind: caught
+    - 15.3:
+        non_striker: RR Hendricks
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 15.4:
+        non_striker: AL Phehlukwayo
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 15.5:
+        non_striker: RR Hendricks
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AL Phehlukwayo
+    - 15.6:
+        non_striker: RR Hendricks
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 16.1:
+        non_striker: RR Hendricks
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Phehlukwayo
+    - 16.2:
+        non_striker: RR Hendricks
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AL Phehlukwayo
+    - 16.3:
+        non_striker: RR Hendricks
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 16.4:
+        non_striker: AL Phehlukwayo
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 16.5:
+        non_striker: AL Phehlukwayo
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 16.6:
+        non_striker: AL Phehlukwayo
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 17.1:
+        non_striker: RR Hendricks
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 17.2:
+        non_striker: AL Phehlukwayo
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+        wicket:
+          player_out: RR Hendricks
+          kind: run out
+    - 17.3:
+        non_striker: AL Phehlukwayo
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Pretorius
+    - 17.4:
+        non_striker: AL Phehlukwayo
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Pretorius
+    - 17.5:
+        non_striker: D Pretorius
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Phehlukwayo
+        wicket:
+          player_out: AL Phehlukwayo
+          fielders:
+          - Haider Ali
+          kind: caught
+    - 17.6:
+        non_striker: BC Fortuin
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Pretorius
+    - 18.1:
+        non_striker: D Pretorius
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Fortuin
+    - 18.2:
+        non_striker: D Pretorius
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BC Fortuin
+    - 18.3:
+        non_striker: D Pretorius
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Fortuin
+    - 18.4:
+        non_striker: D Pretorius
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Fortuin
+    - 18.5:
+        non_striker: D Pretorius
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BC Fortuin
+    - 18.6:
+        non_striker: D Pretorius
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BC Fortuin
+    - 19.1:
+        non_striker: BC Fortuin
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Pretorius
+    - 19.2:
+        non_striker: D Pretorius
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Fortuin
+    - 19.3:
+        non_striker: BC Fortuin
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Pretorius
+    - 19.4:
+        non_striker: BC Fortuin
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Pretorius
+    - 19.5:
+        non_striker: D Pretorius
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BC Fortuin
+    - 19.6:
+        non_striker: D Pretorius
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BC Fortuin

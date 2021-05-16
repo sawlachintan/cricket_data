@@ -1,0 +1,797 @@
+---
+meta:
+  data_version: 0.9
+  created: 2012-09-30
+  revision: 2
+info:
+  city: Hambantota
+  dates:
+    - 2012-09-22
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      runs: 32
+    winner: South Africa
+  overs: 20
+  player_of_match:
+    - AB de Villiers
+  teams:
+    - Sri Lanka
+    - South Africa
+  toss:
+    decision: field
+    winner: Sri Lanka
+  umpires:
+    - RA Kettleborough
+    - RJ Tucker
+  venue: 'Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa'
+innings:
+  - 1st innings:
+      team: South Africa
+      deliveries:
+        - 0.1:
+            batsman: RE Levi
+            bowler: KMDN Kulasekara
+            non_striker: HM Amla
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 0.2:
+            batsman: RE Levi
+            bowler: KMDN Kulasekara
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: RE Levi
+            bowler: KMDN Kulasekara
+            non_striker: HM Amla
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 0.4:
+            batsman: RE Levi
+            bowler: KMDN Kulasekara
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - EMDY Munaweera
+              kind: caught
+              player_out: RE Levi
+        - 0.5:
+            batsman: HM Amla
+            bowler: KMDN Kulasekara
+            non_striker: F du Plessis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.6:
+            batsman: HM Amla
+            bowler: KMDN Kulasekara
+            non_striker: F du Plessis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.1:
+            batsman: HM Amla
+            bowler: SL Malinga
+            non_striker: F du Plessis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.2:
+            batsman: HM Amla
+            bowler: SL Malinga
+            non_striker: F du Plessis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.3:
+            batsman: F du Plessis
+            bowler: SL Malinga
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.4:
+            batsman: HM Amla
+            bowler: SL Malinga
+            non_striker: F du Plessis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.5:
+            batsman: HM Amla
+            bowler: SL Malinga
+            extras:
+              wides: 1
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.6:
+            batsman: HM Amla
+            bowler: SL Malinga
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.7:
+            batsman: HM Amla
+            bowler: SL Malinga
+            non_striker: F du Plessis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.1:
+            batsman: HM Amla
+            bowler: HMRKB Herath
+            non_striker: F du Plessis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.2:
+            batsman: F du Plessis
+            bowler: HMRKB Herath
+            non_striker: HM Amla
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.3:
+            batsman: F du Plessis
+            bowler: HMRKB Herath
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: F du Plessis
+            bowler: HMRKB Herath
+            non_striker: HM Amla
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.5:
+            batsman: F du Plessis
+            bowler: HMRKB Herath
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.6:
+            batsman: HM Amla
+            bowler: HMRKB Herath
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KC Sangakkara
+              kind: stumped
+              player_out: HM Amla
+        - 3.1:
+            batsman: F du Plessis
+            bowler: AD Mathews
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.2:
+            batsman: AB de Villiers
+            bowler: AD Mathews
+            non_striker: F du Plessis
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.3:
+            batsman: AB de Villiers
+            bowler: AD Mathews
+            non_striker: F du Plessis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: F du Plessis
+            bowler: AD Mathews
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: F du Plessis
+            bowler: AD Mathews
+            non_striker: AB de Villiers
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 3.6:
+            batsman: AB de Villiers
+            bowler: AD Mathews
+            non_striker: F du Plessis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: AB de Villiers
+            bowler: HMRKB Herath
+            non_striker: F du Plessis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.2:
+            batsman: AB de Villiers
+            bowler: HMRKB Herath
+            non_striker: F du Plessis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: F du Plessis
+            bowler: HMRKB Herath
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.4:
+            batsman: AB de Villiers
+            bowler: HMRKB Herath
+            non_striker: F du Plessis
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 4.5:
+            batsman: AB de Villiers
+            bowler: HMRKB Herath
+            non_striker: F du Plessis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: F du Plessis
+            bowler: HMRKB Herath
+            non_striker: AB de Villiers
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.1:
+            batsman: AB de Villiers
+            bowler: SL Malinga
+            extras:
+              wides: 1
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.2:
+            batsman: AB de Villiers
+            bowler: SL Malinga
+            non_striker: F du Plessis
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 5.3:
+            batsman: AB de Villiers
+            bowler: SL Malinga
+            non_striker: F du Plessis
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.4:
+            batsman: AB de Villiers
+            bowler: SL Malinga
+            non_striker: F du Plessis
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.5:
+            batsman: AB de Villiers
+            bowler: SL Malinga
+            non_striker: F du Plessis
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.6:
+            batsman: AB de Villiers
+            bowler: SL Malinga
+            non_striker: F du Plessis
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.7:
+            batsman: AB de Villiers
+            bowler: SL Malinga
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - BMAJ Mendis
+              kind: caught
+              player_out: AB de Villiers
+        - 6.1:
+            batsman: JP Duminy
+            bowler: NLTC Perera
+            non_striker: F du Plessis
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.2:
+            batsman: JP Duminy
+            bowler: NLTC Perera
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: JP Duminy
+            bowler: NLTC Perera
+            extras:
+              legbyes: 1
+            non_striker: F du Plessis
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 6.4:
+            batsman: F du Plessis
+            bowler: NLTC Perera
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - BMAJ Mendis
+              kind: caught
+              player_out: F du Plessis
+        - 6.5:
+            batsman: JP Duminy
+            bowler: NLTC Perera
+            non_striker: JA Morkel
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.6:
+            batsman: JP Duminy
+            bowler: NLTC Perera
+            non_striker: JA Morkel
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+  - 2nd innings:
+      team: Sri Lanka
+      deliveries:
+        - 0.1:
+            batsman: DPMD Jayawardene
+            bowler: M Morkel
+            non_striker: TM Dilshan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: DPMD Jayawardene
+            bowler: M Morkel
+            non_striker: TM Dilshan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: DPMD Jayawardene
+            bowler: M Morkel
+            non_striker: TM Dilshan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.4:
+            batsman: DPMD Jayawardene
+            bowler: M Morkel
+            non_striker: TM Dilshan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JA Morkel
+                - AB de Villiers
+              kind: run out
+              player_out: TM Dilshan
+        - 0.5:
+            batsman: EMDY Munaweera
+            bowler: M Morkel
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: EMDY Munaweera
+            bowler: M Morkel
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.1:
+            batsman: EMDY Munaweera
+            bowler: DW Steyn
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.2:
+            batsman: EMDY Munaweera
+            bowler: DW Steyn
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: EMDY Munaweera
+            bowler: DW Steyn
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: EMDY Munaweera
+            bowler: DW Steyn
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.5:
+            batsman: DPMD Jayawardene
+            bowler: DW Steyn
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: DPMD Jayawardene
+            bowler: DW Steyn
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - F Behardien
+              kind: caught
+              player_out: DPMD Jayawardene
+        - 2.1:
+            batsman: KC Sangakkara
+            bowler: M Morkel
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.2:
+            batsman: EMDY Munaweera
+            bowler: M Morkel
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.3:
+            batsman: KC Sangakkara
+            bowler: M Morkel
+            extras:
+              legbyes: 1
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.4:
+            batsman: EMDY Munaweera
+            bowler: M Morkel
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: EMDY Munaweera
+            bowler: M Morkel
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.6:
+            batsman: KC Sangakkara
+            bowler: M Morkel
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.1:
+            batsman: KC Sangakkara
+            bowler: J Botha
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: KC Sangakkara
+            bowler: J Botha
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: EMDY Munaweera
+            bowler: J Botha
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: KC Sangakkara
+            bowler: J Botha
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.5:
+            batsman: KC Sangakkara
+            bowler: J Botha
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.6:
+            batsman: KC Sangakkara
+            bowler: J Botha
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: KC Sangakkara
+            bowler: JH Kallis
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.2:
+            batsman: KC Sangakkara
+            bowler: JH Kallis
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: EMDY Munaweera
+            bowler: JH Kallis
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.4:
+            batsman: EMDY Munaweera
+            bowler: JH Kallis
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: KC Sangakkara
+            bowler: JH Kallis
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - AB de Villiers
+              kind: caught
+              player_out: KC Sangakkara
+        - 4.6:
+            batsman: NLTC Perera
+            bowler: JH Kallis
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.1:
+            batsman: NLTC Perera
+            bowler: DW Steyn
+            extras:
+              wides: 1
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.2:
+            batsman: NLTC Perera
+            bowler: DW Steyn
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: NLTC Perera
+            bowler: DW Steyn
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JP Duminy
+              kind: caught
+              player_out: NLTC Perera
+        - 5.4:
+            batsman: EMDY Munaweera
+            bowler: DW Steyn
+            non_striker: BMAJ Mendis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: BMAJ Mendis
+            bowler: DW Steyn
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: BMAJ Mendis
+            bowler: DW Steyn
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.7:
+            batsman: BMAJ Mendis
+            bowler: DW Steyn
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: BMAJ Mendis
+            bowler: JA Morkel
+            extras:
+              wides: 1
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 6.2:
+            batsman: BMAJ Mendis
+            bowler: JA Morkel
+            non_striker: EMDY Munaweera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: EMDY Munaweera
+            bowler: JA Morkel
+            non_striker: BMAJ Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - F Behardien
+              kind: caught
+              player_out: EMDY Munaweera
+        - 6.4:
+            batsman: BMAJ Mendis
+            bowler: JA Morkel
+            non_striker: HDRL Thirimanne
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: HDRL Thirimanne
+            bowler: JA Morkel
+            non_striker: BMAJ Mendis
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.6:
+            batsman: HDRL Thirimanne
+            bowler: JA Morkel
+            non_striker: BMAJ Mendis
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.7:
+            batsman: HDRL Thirimanne
+            bowler: JA Morkel
+            non_striker: BMAJ Mendis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1

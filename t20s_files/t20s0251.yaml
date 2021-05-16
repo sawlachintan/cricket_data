@@ -1,0 +1,734 @@
+---
+meta:
+  data_version: 0.9
+  created: 2012-09-11
+  revision: 2
+info:
+  city: Manchester
+  dates:
+    - 2012-09-10
+  gender: male
+  match_type: T20
+  outcome:
+    result: no result
+  overs: 20
+  teams:
+    - England
+    - South Africa
+  toss:
+    decision: field
+    winner: England
+  umpires:
+    - RJ Bailey
+    - RK Illingworth
+  venue: Old Trafford
+innings:
+  - 1st innings:
+      team: South Africa
+      deliveries:
+        - 0.1:
+            batsman: RE Levi
+            bowler: ST Finn
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - C Kieswetter
+              kind: caught
+              player_out: RE Levi
+        - 0.2:
+            batsman: AB de Villiers
+            bowler: ST Finn
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.3:
+            batsman: HM Amla
+            bowler: ST Finn
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.4:
+            batsman: HM Amla
+            bowler: ST Finn
+            extras:
+              legbyes: 4
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 0.5:
+            batsman: HM Amla
+            bowler: ST Finn
+            extras:
+              legbyes: 1
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.6:
+            batsman: AB de Villiers
+            bowler: ST Finn
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: HM Amla
+            bowler: SCJ Broad
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: HM Amla
+            bowler: SCJ Broad
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.3:
+            batsman: HM Amla
+            bowler: SCJ Broad
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: HM Amla
+            bowler: SCJ Broad
+            non_striker: AB de Villiers
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 1.5:
+            batsman: AB de Villiers
+            bowler: SCJ Broad
+            extras:
+              legbyes: 1
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.6:
+            batsman: HM Amla
+            bowler: SCJ Broad
+            non_striker: AB de Villiers
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.1:
+            batsman: AB de Villiers
+            bowler: ST Finn
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JW Dernbach
+              kind: caught
+              player_out: AB de Villiers
+        - 2.2:
+            batsman: HM Amla
+            bowler: ST Finn
+            non_striker: JA Morkel
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.3:
+            batsman: HM Amla
+            bowler: ST Finn
+            non_striker: JA Morkel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: HM Amla
+            bowler: ST Finn
+            non_striker: JA Morkel
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.5:
+            batsman: HM Amla
+            bowler: ST Finn
+            non_striker: JA Morkel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: HM Amla
+            bowler: ST Finn
+            non_striker: JA Morkel
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.1:
+            batsman: JA Morkel
+            bowler: GP Swann
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.2:
+            batsman: HM Amla
+            bowler: GP Swann
+            non_striker: JA Morkel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: JA Morkel
+            bowler: GP Swann
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: HM Amla
+            bowler: GP Swann
+            non_striker: JA Morkel
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.5:
+            batsman: JA Morkel
+            bowler: GP Swann
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.6:
+            batsman: HM Amla
+            bowler: GP Swann
+            non_striker: JA Morkel
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: JA Morkel
+            bowler: LJ Wright
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: JA Morkel
+            bowler: LJ Wright
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JM Bairstow
+              kind: caught
+              player_out: JA Morkel
+        - 4.3:
+            batsman: HM Amla
+            bowler: LJ Wright
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.4:
+            batsman: JP Duminy
+            bowler: LJ Wright
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: JP Duminy
+            bowler: LJ Wright
+            non_striker: HM Amla
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.6:
+            batsman: JP Duminy
+            bowler: LJ Wright
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.1:
+            batsman: JP Duminy
+            bowler: GP Swann
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.2:
+            batsman: HM Amla
+            bowler: GP Swann
+            non_striker: JP Duminy
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 5.3:
+            batsman: JP Duminy
+            bowler: GP Swann
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: HM Amla
+            bowler: GP Swann
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: JP Duminy
+            bowler: GP Swann
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: caught and bowled
+              player_out: JP Duminy
+        - 5.6:
+            batsman: HM Amla
+            bowler: GP Swann
+            non_striker: JL Ontong
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: JL Ontong
+            bowler: JW Dernbach
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: HM Amla
+            bowler: JW Dernbach
+            non_striker: JL Ontong
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: JL Ontong
+            bowler: JW Dernbach
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - C Kieswetter
+              kind: caught
+              player_out: JL Ontong
+        - 6.4:
+            batsman: HM Amla
+            bowler: JW Dernbach
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: HM Amla
+            bowler: JW Dernbach
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: JH Kallis
+            bowler: JW Dernbach
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: HM Amla
+            bowler: SCJ Broad
+            non_striker: JH Kallis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.2:
+            batsman: HM Amla
+            bowler: SCJ Broad
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: HM Amla
+            bowler: SCJ Broad
+            non_striker: JH Kallis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.4:
+            batsman: HM Amla
+            bowler: SCJ Broad
+            extras:
+              noballs: 1
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 1
+              total: 2
+        - 7.5:
+            batsman: JH Kallis
+            bowler: SCJ Broad
+            non_striker: HM Amla
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.6:
+            batsman: JH Kallis
+            bowler: SCJ Broad
+            non_striker: HM Amla
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.7:
+            batsman: JH Kallis
+            bowler: SCJ Broad
+            non_striker: HM Amla
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.1:
+            batsman: HM Amla
+            bowler: JW Dernbach
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: JH Kallis
+            bowler: JW Dernbach
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: JH Kallis
+            bowler: JW Dernbach
+            non_striker: HM Amla
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.4:
+            batsman: JH Kallis
+            bowler: JW Dernbach
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: HM Amla
+            bowler: JW Dernbach
+            non_striker: JH Kallis
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.6:
+            batsman: HM Amla
+            bowler: JW Dernbach
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+  - 2nd innings:
+      team: England
+      deliveries:
+        - 0.1:
+            batsman: C Kieswetter
+            bowler: M Morkel
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: C Kieswetter
+            bowler: M Morkel
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: C Kieswetter
+            bowler: M Morkel
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: C Kieswetter
+            bowler: M Morkel
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: C Kieswetter
+            bowler: M Morkel
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.6:
+            batsman: AD Hales
+            bowler: M Morkel
+            non_striker: C Kieswetter
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.1:
+            batsman: AD Hales
+            bowler: DW Steyn
+            non_striker: C Kieswetter
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.2:
+            batsman: C Kieswetter
+            bowler: DW Steyn
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RJ Peterson
+              kind: caught
+              player_out: C Kieswetter
+        - 1.3:
+            batsman: AD Hales
+            bowler: DW Steyn
+            extras:
+              wides: 1
+            non_striker: LJ Wright
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.4:
+            batsman: AD Hales
+            bowler: DW Steyn
+            non_striker: LJ Wright
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.5:
+            batsman: LJ Wright
+            bowler: DW Steyn
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: LJ Wright
+            bowler: DW Steyn
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.7:
+            batsman: AD Hales
+            bowler: DW Steyn
+            non_striker: LJ Wright
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 2.1:
+            batsman: LJ Wright
+            bowler: M Morkel
+            non_striker: AD Hales
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.2:
+            batsman: LJ Wright
+            bowler: M Morkel
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: LJ Wright
+            bowler: M Morkel
+            non_striker: AD Hales
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 2.4:
+            batsman: AD Hales
+            bowler: M Morkel
+            non_striker: LJ Wright
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: AD Hales
+            bowler: M Morkel
+            extras:
+              legbyes: 1
+            non_striker: LJ Wright
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.6:
+            batsman: LJ Wright
+            bowler: M Morkel
+            extras:
+              wides: 1
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.7:
+            batsman: LJ Wright
+            bowler: M Morkel
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: AD Hales
+            bowler: J Botha
+            non_striker: LJ Wright
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.2:
+            batsman: LJ Wright
+            bowler: J Botha
+            non_striker: AD Hales
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.3:
+            batsman: LJ Wright
+            bowler: J Botha
+            non_striker: AD Hales
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.4:
+            batsman: LJ Wright
+            bowler: J Botha
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.5:
+            batsman: AD Hales
+            bowler: J Botha
+            non_striker: LJ Wright
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.6:
+            batsman: LJ Wright
+            bowler: J Botha
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: LJ Wright
+            bowler: JA Morkel
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - M Morkel
+              kind: caught
+              player_out: LJ Wright

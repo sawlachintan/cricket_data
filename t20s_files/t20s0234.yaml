@@ -1,0 +1,2076 @@
+---
+meta:
+  data_version: 0.9
+  created: 2012-07-08
+  revision: 2
+info:
+  city: Nottingham
+  dates:
+    - 2012-06-24
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      wickets: 7
+    winner: England
+  overs: 20
+  player_of_match:
+    - AD Hales
+  teams:
+    - England
+    - West Indies
+  toss:
+    decision: bat
+    winner: West Indies
+  umpires:
+    - RK Illingworth
+    - RA Kettleborough
+  venue: Trent Bridge
+innings:
+  - 1st innings:
+      team: West Indies
+      deliveries:
+        - 0.1:
+            batsman: DR Smith
+            bowler: ST Finn
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.2:
+            batsman: CH Gayle
+            bowler: ST Finn
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: CH Gayle
+            bowler: ST Finn
+            extras:
+              wides: 3
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 3
+              total: 3
+        - 0.4:
+            batsman: CH Gayle
+            bowler: ST Finn
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: CH Gayle
+            bowler: ST Finn
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: CH Gayle
+            bowler: ST Finn
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.7:
+            batsman: DR Smith
+            bowler: ST Finn
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: CH Gayle
+            bowler: JW Dernbach
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: CH Gayle
+            bowler: JW Dernbach
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.3:
+            batsman: DR Smith
+            bowler: JW Dernbach
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: DR Smith
+            bowler: JW Dernbach
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: DR Smith
+            bowler: JW Dernbach
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.6:
+            batsman: DR Smith
+            bowler: JW Dernbach
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: CH Gayle
+            bowler: ST Finn
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: CH Gayle
+            bowler: ST Finn
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JM Bairstow
+              kind: caught
+              player_out: CH Gayle
+        - 2.3:
+            batsman: DR Smith
+            bowler: ST Finn
+            non_striker: LMP Simmons
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.4:
+            batsman: LMP Simmons
+            bowler: ST Finn
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: LMP Simmons
+            bowler: ST Finn
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.6:
+            batsman: DR Smith
+            bowler: ST Finn
+            non_striker: LMP Simmons
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.1:
+            batsman: DR Smith
+            bowler: JW Dernbach
+            non_striker: LMP Simmons
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.2:
+            batsman: DR Smith
+            bowler: JW Dernbach
+            non_striker: LMP Simmons
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: DR Smith
+            bowler: JW Dernbach
+            non_striker: LMP Simmons
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: DR Smith
+            bowler: JW Dernbach
+            non_striker: LMP Simmons
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: DR Smith
+            bowler: JW Dernbach
+            non_striker: LMP Simmons
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: DR Smith
+            bowler: JW Dernbach
+            non_striker: LMP Simmons
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: DR Smith
+            bowler: ST Finn
+            non_striker: LMP Simmons
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: DR Smith
+            bowler: ST Finn
+            non_striker: LMP Simmons
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: LMP Simmons
+            bowler: ST Finn
+            non_striker: DR Smith
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.4:
+            batsman: LMP Simmons
+            bowler: ST Finn
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: DR Smith
+            bowler: ST Finn
+            non_striker: LMP Simmons
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: DR Smith
+            bowler: ST Finn
+            non_striker: LMP Simmons
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: LMP Simmons
+            bowler: SCJ Broad
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JM Bairstow
+              kind: caught
+              player_out: LMP Simmons
+        - 5.2:
+            batsman: DR Smith
+            bowler: SCJ Broad
+            non_striker: MN Samuels
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: DR Smith
+            bowler: SCJ Broad
+            non_striker: MN Samuels
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: MN Samuels
+            bowler: SCJ Broad
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: MN Samuels
+            bowler: SCJ Broad
+            non_striker: DR Smith
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.6:
+            batsman: MN Samuels
+            bowler: SCJ Broad
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: DR Smith
+            bowler: GP Swann
+            non_striker: MN Samuels
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: MN Samuels
+            bowler: GP Swann
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - C Kieswetter
+              kind: caught
+              player_out: MN Samuels
+        - 6.3:
+            batsman: DJ Bravo
+            bowler: GP Swann
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: DJ Bravo
+            bowler: GP Swann
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: DR Smith
+            bowler: GP Swann
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: DJ Bravo
+            bowler: GP Swann
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: DJ Bravo
+            bowler: SR Patel
+            extras:
+              legbyes: 1
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 7.2:
+            batsman: DR Smith
+            bowler: SR Patel
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: DR Smith
+            bowler: SR Patel
+            non_striker: DJ Bravo
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.4:
+            batsman: DR Smith
+            bowler: SR Patel
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: DR Smith
+            bowler: SR Patel
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: DR Smith
+            bowler: SR Patel
+            non_striker: DJ Bravo
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.1:
+            batsman: DJ Bravo
+            bowler: GP Swann
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: DR Smith
+            bowler: GP Swann
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: DR Smith
+            bowler: GP Swann
+            non_striker: DJ Bravo
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.4:
+            batsman: DR Smith
+            bowler: GP Swann
+            non_striker: DJ Bravo
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.5:
+            batsman: DR Smith
+            bowler: GP Swann
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.6:
+            batsman: DJ Bravo
+            bowler: GP Swann
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: DJ Bravo
+            bowler: SR Patel
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: DR Smith
+            bowler: SR Patel
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: DR Smith
+            bowler: SR Patel
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: DR Smith
+            bowler: SR Patel
+            non_striker: DJ Bravo
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 9.5:
+            batsman: DR Smith
+            bowler: SR Patel
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: DR Smith
+            bowler: SR Patel
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: DR Smith
+            bowler: GP Swann
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: DR Smith
+            bowler: GP Swann
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: DJ Bravo
+            bowler: GP Swann
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: DJ Bravo
+            bowler: GP Swann
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: DJ Bravo
+            bowler: GP Swann
+            non_striker: DR Smith
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 10.6:
+            batsman: DJ Bravo
+            bowler: GP Swann
+            non_striker: DR Smith
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 11.1:
+            batsman: DJ Bravo
+            bowler: SCJ Broad
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: DR Smith
+            bowler: SCJ Broad
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: DR Smith
+            bowler: SCJ Broad
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: DR Smith
+            bowler: SCJ Broad
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: DR Smith
+            bowler: SCJ Broad
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: DJ Bravo
+            bowler: SCJ Broad
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: DR Smith
+            bowler: GP Swann
+            extras:
+              legbyes: 1
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 12.2:
+            batsman: DJ Bravo
+            bowler: GP Swann
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: DR Smith
+            bowler: GP Swann
+            non_striker: DJ Bravo
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.4:
+            batsman: DR Smith
+            bowler: GP Swann
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: DJ Bravo
+            bowler: GP Swann
+            non_striker: DR Smith
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.6:
+            batsman: DJ Bravo
+            bowler: GP Swann
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: DJ Bravo
+            bowler: SCJ Broad
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: DR Smith
+            bowler: SCJ Broad
+            non_striker: DJ Bravo
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 13.3:
+            batsman: DR Smith
+            bowler: SCJ Broad
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: DJ Bravo
+            bowler: SCJ Broad
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: DR Smith
+            bowler: SCJ Broad
+            extras:
+              wides: 1
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.6:
+            batsman: DR Smith
+            bowler: SCJ Broad
+            non_striker: DJ Bravo
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 13.7:
+            batsman: DR Smith
+            bowler: SCJ Broad
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: DJ Bravo
+            bowler: SR Patel
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: DR Smith
+            bowler: SR Patel
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: DJ Bravo
+            bowler: SR Patel
+            non_striker: DR Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: DJ Bravo
+            bowler: SR Patel
+            non_striker: DR Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: DR Smith
+            bowler: SR Patel
+            non_striker: DJ Bravo
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.6:
+            batsman: DR Smith
+            bowler: SR Patel
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: DR Smith
+            bowler: ST Finn
+            non_striker: DJ Bravo
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 15.2:
+            batsman: DR Smith
+            bowler: ST Finn
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - C Kieswetter
+              kind: caught
+              player_out: DR Smith
+        - 15.3:
+            batsman: KA Pollard
+            bowler: ST Finn
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: KA Pollard
+            bowler: ST Finn
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: KA Pollard
+            bowler: ST Finn
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: DJ Bravo
+            bowler: ST Finn
+            non_striker: KA Pollard
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: DJ Bravo
+            bowler: SR Patel
+            non_striker: KA Pollard
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: KA Pollard
+            bowler: SR Patel
+            non_striker: DJ Bravo
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.3:
+            batsman: KA Pollard
+            bowler: SR Patel
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: DJ Bravo
+            bowler: SR Patel
+            non_striker: KA Pollard
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.5:
+            batsman: KA Pollard
+            bowler: SR Patel
+            non_striker: DJ Bravo
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 16.6:
+            batsman: KA Pollard
+            bowler: SR Patel
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: KA Pollard
+            bowler: JW Dernbach
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: DJ Bravo
+            bowler: JW Dernbach
+            non_striker: KA Pollard
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 17.3:
+            batsman: DJ Bravo
+            bowler: JW Dernbach
+            non_striker: KA Pollard
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 17.4:
+            batsman: DJ Bravo
+            bowler: JW Dernbach
+            extras:
+              wides: 1
+            non_striker: KA Pollard
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 17.5:
+            batsman: DJ Bravo
+            bowler: JW Dernbach
+            non_striker: KA Pollard
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: KA Pollard
+            bowler: JW Dernbach
+            non_striker: DJ Bravo
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.7:
+            batsman: DJ Bravo
+            bowler: JW Dernbach
+            non_striker: KA Pollard
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.1:
+            batsman: KA Pollard
+            bowler: SCJ Broad
+            extras:
+              legbyes: 1
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.2:
+            batsman: DJ Bravo
+            bowler: SCJ Broad
+            non_striker: KA Pollard
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: DJ Bravo
+            bowler: SCJ Broad
+            non_striker: KA Pollard
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.4:
+            batsman: DJ Bravo
+            bowler: SCJ Broad
+            extras:
+              legbyes: 1
+            non_striker: KA Pollard
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.5:
+            batsman: KA Pollard
+            bowler: SCJ Broad
+            non_striker: DJ Bravo
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 18.6:
+            batsman: KA Pollard
+            bowler: SCJ Broad
+            non_striker: DJ Bravo
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.1:
+            batsman: DJ Bravo
+            bowler: JW Dernbach
+            non_striker: KA Pollard
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.2:
+            batsman: DJ Bravo
+            bowler: JW Dernbach
+            non_striker: KA Pollard
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 19.3:
+            batsman: DJ Bravo
+            bowler: JW Dernbach
+            extras:
+              wides: 1
+            non_striker: KA Pollard
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 19.4:
+            batsman: DJ Bravo
+            bowler: JW Dernbach
+            non_striker: KA Pollard
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: KA Pollard
+            bowler: JW Dernbach
+            extras:
+              byes: 1
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 19.6:
+            batsman: DJ Bravo
+            bowler: JW Dernbach
+            non_striker: KA Pollard
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.7:
+            batsman: KA Pollard
+            bowler: JW Dernbach
+            extras:
+              wides: 2
+            non_striker: DJ Bravo
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 19.8:
+            batsman: DJ Bravo
+            bowler: JW Dernbach
+            non_striker: KA Pollard
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+  - 2nd innings:
+      team: England
+      deliveries:
+        - 0.1:
+            batsman: C Kieswetter
+            bowler: R Rampaul
+            extras:
+              wides: 1
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.2:
+            batsman: C Kieswetter
+            bowler: R Rampaul
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: C Kieswetter
+            bowler: R Rampaul
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: C Kieswetter
+            bowler: R Rampaul
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.5:
+            batsman: AD Hales
+            bowler: R Rampaul
+            non_striker: C Kieswetter
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.6:
+            batsman: C Kieswetter
+            bowler: R Rampaul
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.7:
+            batsman: AD Hales
+            bowler: R Rampaul
+            non_striker: C Kieswetter
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.1:
+            batsman: AD Hales
+            bowler: FH Edwards
+            non_striker: C Kieswetter
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: AD Hales
+            bowler: FH Edwards
+            extras:
+              noballs: 1
+            non_striker: C Kieswetter
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.3:
+            batsman: AD Hales
+            bowler: FH Edwards
+            non_striker: C Kieswetter
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: AD Hales
+            bowler: FH Edwards
+            non_striker: C Kieswetter
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: AD Hales
+            bowler: FH Edwards
+            non_striker: C Kieswetter
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 1.6:
+            batsman: C Kieswetter
+            bowler: FH Edwards
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.7:
+            batsman: C Kieswetter
+            bowler: FH Edwards
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.1:
+            batsman: C Kieswetter
+            bowler: R Rampaul
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - DR Smith
+              kind: caught
+              player_out: C Kieswetter
+        - 2.2:
+            batsman: RS Bopara
+            bowler: R Rampaul
+            extras:
+              wides: 1
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.3:
+            batsman: RS Bopara
+            bowler: R Rampaul
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: RS Bopara
+            bowler: R Rampaul
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.5:
+            batsman: AD Hales
+            bowler: R Rampaul
+            non_striker: RS Bopara
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 2.6:
+            batsman: AD Hales
+            bowler: R Rampaul
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.7:
+            batsman: AD Hales
+            bowler: R Rampaul
+            non_striker: RS Bopara
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.1:
+            batsman: RS Bopara
+            bowler: FH Edwards
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.2:
+            batsman: AD Hales
+            bowler: FH Edwards
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: RS Bopara
+            bowler: FH Edwards
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: AD Hales
+            bowler: FH Edwards
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: AD Hales
+            bowler: FH Edwards
+            non_striker: RS Bopara
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.6:
+            batsman: AD Hales
+            bowler: FH Edwards
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: AD Hales
+            bowler: R Rampaul
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.2:
+            batsman: RS Bopara
+            bowler: R Rampaul
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: AD Hales
+            bowler: R Rampaul
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: AD Hales
+            bowler: R Rampaul
+            non_striker: RS Bopara
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 4.5:
+            batsman: AD Hales
+            bowler: R Rampaul
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: AD Hales
+            bowler: R Rampaul
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.1:
+            batsman: AD Hales
+            bowler: SP Narine
+            non_striker: RS Bopara
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.2:
+            batsman: AD Hales
+            bowler: SP Narine
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.3:
+            batsman: RS Bopara
+            bowler: SP Narine
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: RS Bopara
+            bowler: SP Narine
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: RS Bopara
+            bowler: SP Narine
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: AD Hales
+            bowler: SP Narine
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: AD Hales
+            bowler: DJ Bravo
+            non_striker: RS Bopara
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.2:
+            batsman: AD Hales
+            bowler: DJ Bravo
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: AD Hales
+            bowler: DJ Bravo
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: RS Bopara
+            bowler: DJ Bravo
+            non_striker: AD Hales
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.5:
+            batsman: RS Bopara
+            bowler: DJ Bravo
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: AD Hales
+            bowler: DJ Bravo
+            non_striker: RS Bopara
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.1:
+            batsman: RS Bopara
+            bowler: SP Narine
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: AD Hales
+            bowler: SP Narine
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: AD Hales
+            bowler: SP Narine
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: RS Bopara
+            bowler: SP Narine
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: AD Hales
+            bowler: SP Narine
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: AD Hales
+            bowler: SP Narine
+            non_striker: RS Bopara
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.1:
+            batsman: RS Bopara
+            bowler: DJ Bravo
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: AD Hales
+            bowler: DJ Bravo
+            non_striker: RS Bopara
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.3:
+            batsman: AD Hales
+            bowler: DJ Bravo
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: RS Bopara
+            bowler: DJ Bravo
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: AD Hales
+            bowler: DJ Bravo
+            non_striker: RS Bopara
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.6:
+            batsman: AD Hales
+            bowler: DJ Bravo
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: RS Bopara
+            bowler: DJG Sammy
+            extras:
+              legbyes: 1
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.2:
+            batsman: AD Hales
+            bowler: DJG Sammy
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: AD Hales
+            bowler: DJG Sammy
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.4:
+            batsman: RS Bopara
+            bowler: DJG Sammy
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: AD Hales
+            bowler: DJG Sammy
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: AD Hales
+            bowler: DJG Sammy
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: AD Hales
+            bowler: KA Pollard
+            non_striker: RS Bopara
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 10.2:
+            batsman: AD Hales
+            bowler: KA Pollard
+            non_striker: RS Bopara
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.3:
+            batsman: AD Hales
+            bowler: KA Pollard
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: RS Bopara
+            bowler: KA Pollard
+            non_striker: AD Hales
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 10.5:
+            batsman: RS Bopara
+            bowler: KA Pollard
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: AD Hales
+            bowler: KA Pollard
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: AD Hales
+            bowler: DJG Sammy
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: RS Bopara
+            bowler: DJG Sammy
+            non_striker: AD Hales
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.3:
+            batsman: RS Bopara
+            bowler: DJG Sammy
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: AD Hales
+            bowler: DJG Sammy
+            non_striker: RS Bopara
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.5:
+            batsman: AD Hales
+            bowler: DJG Sammy
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: RS Bopara
+            bowler: DJG Sammy
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: AD Hales
+            bowler: SP Narine
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: RS Bopara
+            bowler: SP Narine
+            non_striker: AD Hales
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.3:
+            batsman: RS Bopara
+            bowler: SP Narine
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: AD Hales
+            bowler: SP Narine
+            non_striker: RS Bopara
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.5:
+            batsman: AD Hales
+            bowler: SP Narine
+            non_striker: RS Bopara
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.6:
+            batsman: AD Hales
+            bowler: SP Narine
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: RS Bopara
+            bowler: DJG Sammy
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: AD Hales
+            bowler: DJG Sammy
+            non_striker: RS Bopara
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.3:
+            batsman: AD Hales
+            bowler: DJG Sammy
+            non_striker: RS Bopara
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 13.4:
+            batsman: AD Hales
+            bowler: DJG Sammy
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: RS Bopara
+            bowler: DJG Sammy
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: AD Hales
+            bowler: DJG Sammy
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.1:
+            batsman: AD Hales
+            bowler: FH Edwards
+            extras:
+              legbyes: 1
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 14.2:
+            batsman: RS Bopara
+            bowler: FH Edwards
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: AD Hales
+            bowler: FH Edwards
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: AD Hales
+            bowler: FH Edwards
+            non_striker: RS Bopara
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.5:
+            batsman: AD Hales
+            bowler: FH Edwards
+            non_striker: RS Bopara
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 14.6:
+            batsman: AD Hales
+            bowler: FH Edwards
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: AD Hales
+            bowler: MN Samuels
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: RS Bopara
+            bowler: MN Samuels
+            non_striker: AD Hales
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.3:
+            batsman: RS Bopara
+            bowler: MN Samuels
+            non_striker: AD Hales
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.4:
+            batsman: RS Bopara
+            bowler: MN Samuels
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: RS Bopara
+            bowler: MN Samuels
+            non_striker: AD Hales
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.6:
+            batsman: RS Bopara
+            bowler: MN Samuels
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: AD Hales
+            bowler: FH Edwards
+            extras:
+              noballs: 5
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 5
+              total: 5
+        - 16.2:
+            batsman: AD Hales
+            bowler: FH Edwards
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: RS Bopara
+            bowler: FH Edwards
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: AD Hales
+            bowler: FH Edwards
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.5:
+            batsman: RS Bopara
+            bowler: FH Edwards
+            non_striker: AD Hales
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.6:
+            batsman: RS Bopara
+            bowler: FH Edwards
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.7:
+            batsman: RS Bopara
+            bowler: FH Edwards
+            non_striker: AD Hales
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.1:
+            batsman: AD Hales
+            bowler: SP Narine
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: RS Bopara
+            bowler: SP Narine
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: AD Hales
+            bowler: SP Narine
+            non_striker: RS Bopara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: RS Bopara
+            bowler: SP Narine
+            non_striker: AD Hales
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.5:
+            batsman: RS Bopara
+            bowler: SP Narine
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: AD Hales
+            bowler: SP Narine
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: RS Bopara
+            bowler: R Rampaul
+            non_striker: AD Hales
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.2:
+            batsman: RS Bopara
+            bowler: R Rampaul
+            non_striker: AD Hales
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.3:
+            batsman: RS Bopara
+            bowler: R Rampaul
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.4:
+            batsman: AD Hales
+            bowler: R Rampaul
+            non_striker: RS Bopara
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.5:
+            batsman: AD Hales
+            bowler: R Rampaul
+            non_striker: RS Bopara
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.6:
+            batsman: AD Hales
+            bowler: R Rampaul
+            non_striker: RS Bopara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: AD Hales
+        - 19.1:
+            batsman: RS Bopara
+            bowler: MN Samuels
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.2:
+            batsman: RS Bopara
+            bowler: MN Samuels
+            non_striker: EJG Morgan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.3:
+            batsman: RS Bopara
+            bowler: MN Samuels
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - FH Edwards
+              kind: caught
+              player_out: RS Bopara
+        - 19.4:
+            batsman: EJG Morgan
+            bowler: MN Samuels
+            non_striker: JC Buttler
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2

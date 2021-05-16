@@ -1,0 +1,883 @@
+---
+meta:
+  data_version: 0.9
+  created: 2016-01-30
+  revision: 2
+info:
+  city: Hong Kong
+  dates:
+    - 2016-01-30
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      wickets: 9
+    winner: Hong Kong
+  overs: 20
+  player_of_match:
+    - Babar Hayat
+  teams:
+    - Hong Kong
+    - Scotland
+  toss:
+    decision: field
+    winner: Hong Kong
+  umpires:
+    - Sarika Prasad
+    - Tabarak Dar
+  venue: 'Mission Road Ground, Mong Kok'
+innings:
+  - 1st innings:
+      team: Scotland
+      deliveries:
+        - 0.1:
+            batsman: HG Munsey
+            bowler: Haseeb Amjad
+            extras:
+              noballs: 1
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.2:
+            batsman: HG Munsey
+            bowler: Haseeb Amjad
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.3:
+            batsman: KJ Coetzer
+            bowler: Haseeb Amjad
+            non_striker: HG Munsey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: KJ Coetzer
+            bowler: Haseeb Amjad
+            non_striker: HG Munsey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: KJ Coetzer
+            bowler: Haseeb Amjad
+            non_striker: HG Munsey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JJ Atkinson
+              kind: caught
+              player_out: KJ Coetzer
+        - 0.6:
+            batsman: HG Munsey
+            bowler: Haseeb Amjad
+            non_striker: MH Cross
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.7:
+            batsman: HG Munsey
+            bowler: Haseeb Amjad
+            non_striker: MH Cross
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: MH Cross
+            bowler: Tanwir Afzal
+            non_striker: HG Munsey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.2:
+            batsman: MH Cross
+            bowler: Tanwir Afzal
+            non_striker: HG Munsey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: MH Cross
+            bowler: Tanwir Afzal
+            non_striker: HG Munsey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.4:
+            batsman: MH Cross
+            bowler: Tanwir Afzal
+            non_striker: HG Munsey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.5:
+            batsman: HG Munsey
+            bowler: Tanwir Afzal
+            non_striker: MH Cross
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.6:
+            batsman: HG Munsey
+            bowler: Tanwir Afzal
+            non_striker: MH Cross
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 2.1:
+            batsman: MH Cross
+            bowler: Aizaz Khan
+            non_striker: HG Munsey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JJ Atkinson
+              kind: caught
+              player_out: MH Cross
+        - 2.2:
+            batsman: MW Machan
+            bowler: Aizaz Khan
+            non_striker: HG Munsey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.3:
+            batsman: MW Machan
+            bowler: Aizaz Khan
+            non_striker: HG Munsey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.4:
+            batsman: HG Munsey
+            bowler: Aizaz Khan
+            non_striker: MW Machan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.5:
+            batsman: MW Machan
+            bowler: Aizaz Khan
+            non_striker: HG Munsey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.6:
+            batsman: HG Munsey
+            bowler: Aizaz Khan
+            non_striker: MW Machan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.1:
+            batsman: MW Machan
+            bowler: Tanwir Afzal
+            non_striker: HG Munsey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: MW Machan
+            bowler: Tanwir Afzal
+            non_striker: HG Munsey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: HG Munsey
+            bowler: Tanwir Afzal
+            non_striker: MW Machan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: MW Machan
+            bowler: Tanwir Afzal
+            non_striker: HG Munsey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.5:
+            batsman: HG Munsey
+            bowler: Tanwir Afzal
+            non_striker: MW Machan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Babar Hayat
+              kind: caught
+              player_out: HG Munsey
+        - 3.6:
+            batsman: MW Machan
+            bowler: Tanwir Afzal
+            non_striker: RD Berrington
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.1:
+            batsman: RD Berrington
+            bowler: Nadeem Ahmed
+            non_striker: MW Machan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: RD Berrington
+            bowler: Nadeem Ahmed
+            non_striker: MW Machan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: RD Berrington
+            bowler: Nadeem Ahmed
+            non_striker: MW Machan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+            wicket:
+              fielders:
+                - KD Shah
+              kind: run out
+              player_out: MW Machan
+        - 4.4:
+            batsman: PL Mommsen
+            bowler: Nadeem Ahmed
+            non_striker: RD Berrington
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: RD Berrington
+            bowler: Nadeem Ahmed
+            non_striker: PL Mommsen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: PL Mommsen
+            bowler: Nadeem Ahmed
+            non_striker: RD Berrington
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: RD Berrington
+            bowler: Anshuman Rath
+            non_striker: PL Mommsen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: RD Berrington
+            bowler: Anshuman Rath
+            non_striker: PL Mommsen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: RD Berrington
+            bowler: Anshuman Rath
+            non_striker: PL Mommsen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: PL Mommsen
+            bowler: Anshuman Rath
+            non_striker: RD Berrington
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: PL Mommsen
+            bowler: Anshuman Rath
+            non_striker: RD Berrington
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: RD Berrington
+            bowler: Anshuman Rath
+            non_striker: PL Mommsen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: RD Berrington
+            bowler: Nadeem Ahmed
+            non_striker: PL Mommsen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Waqas Barkat
+              kind: caught
+              player_out: RD Berrington
+        - 6.2:
+            batsman: CS MacLeod
+            bowler: Nadeem Ahmed
+            non_striker: PL Mommsen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: PL Mommsen
+            bowler: Nadeem Ahmed
+            non_striker: CS MacLeod
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: CS MacLeod
+            bowler: Nadeem Ahmed
+            non_striker: PL Mommsen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: PL Mommsen
+            bowler: Nadeem Ahmed
+            non_striker: CS MacLeod
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: CS MacLeod
+            bowler: Nadeem Ahmed
+            non_striker: PL Mommsen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: CS MacLeod
+            bowler: Anshuman Rath
+            non_striker: PL Mommsen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: PL Mommsen
+            bowler: Anshuman Rath
+            non_striker: CS MacLeod
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JJ Atkinson
+              kind: run out
+              player_out: PL Mommsen
+        - 7.3:
+            batsman: CS MacLeod
+            bowler: Anshuman Rath
+            non_striker: RML Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: CS MacLeod
+            bowler: Anshuman Rath
+            non_striker: RML Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: RML Taylor
+            bowler: Anshuman Rath
+            non_striker: CS MacLeod
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: CS MacLeod
+            bowler: Anshuman Rath
+            non_striker: RML Taylor
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.1:
+            batsman: RML Taylor
+            bowler: Haseeb Amjad
+            non_striker: CS MacLeod
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: CS MacLeod
+            bowler: Haseeb Amjad
+            non_striker: RML Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: RML Taylor
+            bowler: Haseeb Amjad
+            non_striker: CS MacLeod
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: CS MacLeod
+            bowler: Haseeb Amjad
+            non_striker: RML Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: RML Taylor
+            bowler: Haseeb Amjad
+            non_striker: CS MacLeod
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.6:
+            batsman: RML Taylor
+            bowler: Haseeb Amjad
+            non_striker: CS MacLeod
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: CS MacLeod
+            bowler: Aizaz Khan
+            non_striker: RML Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.2:
+            batsman: CS MacLeod
+            bowler: Aizaz Khan
+            non_striker: RML Taylor
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 9.3:
+            batsman: CS MacLeod
+            bowler: Aizaz Khan
+            non_striker: RML Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: CS MacLeod
+            bowler: Aizaz Khan
+            non_striker: RML Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: RML Taylor
+            bowler: Aizaz Khan
+            non_striker: CS MacLeod
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: CS MacLeod
+            bowler: Aizaz Khan
+            non_striker: RML Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Aizaz Khan
+              kind: run out
+              player_out: CS MacLeod
+  - 2nd innings:
+      team: Hong Kong
+      deliveries:
+        - 0.1:
+            batsman: JJ Atkinson
+            bowler: RML Taylor
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.2:
+            batsman: JJ Atkinson
+            bowler: RML Taylor
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.3:
+            batsman: Anshuman Rath
+            bowler: RML Taylor
+            non_striker: JJ Atkinson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: Anshuman Rath
+            bowler: RML Taylor
+            non_striker: JJ Atkinson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: Anshuman Rath
+            bowler: RML Taylor
+            non_striker: JJ Atkinson
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.6:
+            batsman: Anshuman Rath
+            bowler: RML Taylor
+            non_striker: JJ Atkinson
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.1:
+            batsman: JJ Atkinson
+            bowler: BTJ Wheal
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 1.2:
+            batsman: Anshuman Rath
+            bowler: BTJ Wheal
+            non_striker: JJ Atkinson
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.3:
+            batsman: Anshuman Rath
+            bowler: BTJ Wheal
+            non_striker: JJ Atkinson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: Anshuman Rath
+            bowler: BTJ Wheal
+            extras:
+              legbyes: 4
+            non_striker: JJ Atkinson
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 1.5:
+            batsman: Anshuman Rath
+            bowler: BTJ Wheal
+            non_striker: JJ Atkinson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: Anshuman Rath
+            bowler: BTJ Wheal
+            non_striker: JJ Atkinson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.1:
+            batsman: Anshuman Rath
+            bowler: SM Sharif
+            non_striker: JJ Atkinson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.2:
+            batsman: JJ Atkinson
+            bowler: SM Sharif
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.3:
+            batsman: JJ Atkinson
+            bowler: SM Sharif
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 2.4:
+            batsman: JJ Atkinson
+            bowler: SM Sharif
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.5:
+            batsman: JJ Atkinson
+            bowler: SM Sharif
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MW Machan
+              kind: caught
+              player_out: JJ Atkinson
+        - 2.6:
+            batsman: Anshuman Rath
+            bowler: SM Sharif
+            non_striker: Babar Hayat
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.1:
+            batsman: Babar Hayat
+            bowler: MRJ Watt
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.2:
+            batsman: Anshuman Rath
+            bowler: MRJ Watt
+            non_striker: Babar Hayat
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: Babar Hayat
+            bowler: MRJ Watt
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: Anshuman Rath
+            bowler: MRJ Watt
+            extras:
+              byes: 1
+            non_striker: Babar Hayat
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.5:
+            batsman: Babar Hayat
+            bowler: MRJ Watt
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: Babar Hayat
+            bowler: MRJ Watt
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: Babar Hayat
+            bowler: CS MacLeod
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 4.2:
+            batsman: Babar Hayat
+            bowler: CS MacLeod
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: Babar Hayat
+            bowler: CS MacLeod
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.4:
+            batsman: Babar Hayat
+            bowler: CS MacLeod
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: Babar Hayat
+            bowler: CS MacLeod
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.6:
+            batsman: Babar Hayat
+            bowler: CS MacLeod
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.1:
+            batsman: Babar Hayat
+            bowler: MRJ Watt
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.2:
+            batsman: Anshuman Rath
+            bowler: MRJ Watt
+            non_striker: Babar Hayat
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.3:
+            batsman: Anshuman Rath
+            bowler: MRJ Watt
+            non_striker: Babar Hayat
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: Babar Hayat
+            bowler: MRJ Watt
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: Anshuman Rath
+            bowler: MRJ Watt
+            non_striker: Babar Hayat
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: Babar Hayat
+            bowler: MRJ Watt
+            extras:
+              wides: 1
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.7:
+            batsman: Babar Hayat
+            bowler: MRJ Watt
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: Anshuman Rath
+            bowler: BTJ Wheal
+            non_striker: Babar Hayat
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: Babar Hayat
+            bowler: BTJ Wheal
+            non_striker: Anshuman Rath
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6

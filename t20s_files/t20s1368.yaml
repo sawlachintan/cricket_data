@@ -1,0 +1,1806 @@
+---
+meta:
+  data_version: 0.9
+  created: '2020-03-01'
+  revision: 1
+info:
+  city: Melbourne
+  dates:
+  - '2020-02-29'
+  gender: female
+  match_type: T20
+  match_type_number: 859
+  outcome:
+    winner: India
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - RP Yadav
+  teams:
+  - India
+  - Sri Lanka
+  toss:
+    decision: bat
+    winner: Sri Lanka
+  umpires:
+  - S Redfern
+  - S George
+  venue: Junction Oval
+innings:
+- 1st innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: AC Jayangani
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Thimashini
+    - 0.2:
+        non_striker: AC Jayangani
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Thimashini
+    - 0.3:
+        non_striker: U Thimashini
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 0.4:
+        non_striker: U Thimashini
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 0.5:
+        non_striker: U Thimashini
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 0.6:
+        non_striker: U Thimashini
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 1.1:
+        non_striker: U Thimashini
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.2:
+        non_striker: U Thimashini
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.3:
+        non_striker: U Thimashini
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 1.4:
+        non_striker: AC Jayangani
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Thimashini
+    - 1.5:
+        non_striker: AC Jayangani
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Thimashini
+    - 1.6:
+        non_striker: U Thimashini
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 2.1:
+        non_striker: AC Jayangani
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Thimashini
+        wicket:
+          player_out: U Thimashini
+          fielders:
+          - RS Gayakwad
+          kind: caught
+    - 2.2:
+        non_striker: H Madavi
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 2.3:
+        non_striker: AC Jayangani
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 2.4:
+        non_striker: AC Jayangani
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 2.5:
+        non_striker: AC Jayangani
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 2.6:
+        non_striker: H Madavi
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 3.1:
+        non_striker: AC Jayangani
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Madavi
+    - 3.2:
+        non_striker: AC Jayangani
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 3.3:
+        non_striker: AC Jayangani
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 3.4:
+        non_striker: H Madavi
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 3.5:
+        non_striker: AC Jayangani
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 3.6:
+        non_striker: H Madavi
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 4.1:
+        non_striker: AC Jayangani
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 4.2:
+        non_striker: H Madavi
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.3:
+        non_striker: H Madavi
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 4.4:
+        non_striker: H Madavi
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.5:
+        non_striker: H Madavi
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Jayangani
+    - 4.6:
+        non_striker: H Madavi
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 5.1:
+        non_striker: AC Jayangani
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 5.2:
+        non_striker: AC Jayangani
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Madavi
+    - 5.3:
+        non_striker: AC Jayangani
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 5.4:
+        non_striker: AC Jayangani
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 5.5:
+        non_striker: AC Jayangani
+        bowler: DB Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Madavi
+    - 5.6:
+        non_striker: H Madavi
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 6.1:
+        non_striker: AC Jayangani
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 6.2:
+        non_striker: H Madavi
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 6.3:
+        non_striker: AC Jayangani
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 6.4:
+        non_striker: AC Jayangani
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 6.5:
+        non_striker: H Madavi
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 6.6:
+        non_striker: H Madavi
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 7.1:
+        non_striker: AC Jayangani
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+        wicket:
+          player_out: H Madavi
+          kind: bowled
+    - 7.2:
+        non_striker: AC Jayangani
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 7.3:
+        non_striker: AC Jayangani
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 7.4:
+        non_striker: AC Jayangani
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 7.5:
+        non_striker: AC Jayangani
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 7.6:
+        non_striker: AC Jayangani
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 8.1:
+        non_striker: H Karunaratne
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 8.2:
+        non_striker: H Karunaratne
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Jayangani
+    - 8.3:
+        non_striker: H Karunaratne
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+        wicket:
+          player_out: AC Jayangani
+          fielders:
+          - S Pandey
+          kind: caught
+    - 8.4:
+        non_striker: GWHM Perera
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 8.5:
+        non_striker: GWHM Perera
+        bowler: RP Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Karunaratne
+    - 8.6:
+        non_striker: GWHM Perera
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Karunaratne
+    - 8.7:
+        non_striker: H Karunaratne
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 9.1:
+        non_striker: GWHM Perera
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Karunaratne
+    - 9.2:
+        non_striker: H Karunaratne
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 9.3:
+        non_striker: H Karunaratne
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 9.4:
+        non_striker: H Karunaratne
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 9.5:
+        non_striker: H Karunaratne
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 9.6:
+        non_striker: H Karunaratne
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 10.1:
+        non_striker: H Karunaratne
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GWHM Perera
+    - 10.2:
+        non_striker: H Karunaratne
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GWHM Perera
+    - 10.3:
+        non_striker: H Karunaratne
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+        wicket:
+          player_out: GWHM Perera
+          fielders:
+          - T Bhatia
+          kind: caught
+    - 10.4:
+        non_striker: H Karunaratne
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HASD Siriwardene
+    - 10.5:
+        non_striker: HASD Siriwardene
+        bowler: RP Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Karunaratne
+    - 10.6:
+        non_striker: HASD Siriwardene
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 10.7:
+        non_striker: HASD Siriwardene
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 11.1:
+        non_striker: H Karunaratne
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HASD Siriwardene
+    - 11.2:
+        non_striker: H Karunaratne
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HASD Siriwardene
+    - 11.3:
+        non_striker: H Karunaratne
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HASD Siriwardene
+    - 11.4:
+        non_striker: H Karunaratne
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HASD Siriwardene
+    - 11.5:
+        non_striker: HASD Siriwardene
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 11.6:
+        non_striker: HASD Siriwardene
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Karunaratne
+    - 12.1:
+        non_striker: HASD Siriwardene
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 12.2:
+        non_striker: HASD Siriwardene
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Karunaratne
+    - 12.3:
+        non_striker: HASD Siriwardene
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 12.4:
+        non_striker: HASD Siriwardene
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Karunaratne
+    - 12.5:
+        non_striker: H Karunaratne
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HASD Siriwardene
+    - 12.6:
+        non_striker: H Karunaratne
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HASD Siriwardene
+    - 13.1:
+        non_striker: HASD Siriwardene
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Karunaratne
+    - 13.2:
+        non_striker: H Karunaratne
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HASD Siriwardene
+    - 13.3:
+        non_striker: HASD Siriwardene
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 13.4:
+        non_striker: HASD Siriwardene
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+        wicket:
+          player_out: H Karunaratne
+          fielders:
+          - V Krishnamurthy
+          kind: caught
+    - 13.5:
+        non_striker: NND de Silva
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HASD Siriwardene
+    - 13.6:
+        non_striker: HASD Siriwardene
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 14.1:
+        non_striker: NND de Silva
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HASD Siriwardene
+    - 14.2:
+        non_striker: NND de Silva
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HASD Siriwardene
+    - 14.3:
+        non_striker: HASD Siriwardene
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 14.4:
+        non_striker: NND de Silva
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HASD Siriwardene
+        wicket:
+          player_out: HASD Siriwardene
+          fielders:
+          - V Krishnamurthy
+          kind: caught
+    - 14.5:
+        non_striker: MAA Sanjeewani
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 14.6:
+        non_striker: NND de Silva
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 15.1:
+        non_striker: NND de Silva
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 15.2:
+        non_striker: NND de Silva
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+        wicket:
+          player_out: MAA Sanjeewani
+          kind: lbw
+    - 15.3:
+        non_striker: NND de Silva
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 15.4:
+        non_striker: NND de Silva
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 15.5:
+        non_striker: WK Dilhari
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 15.6:
+        non_striker: NND de Silva
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 16.1:
+        non_striker: WK Dilhari
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 16.2:
+        non_striker: NND de Silva
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Dilhari
+    - 16.3:
+        non_striker: NND de Silva
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 16.4:
+        non_striker: NND de Silva
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 16.5:
+        non_striker: WK Dilhari
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 16.6:
+        non_striker: NND de Silva
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 17.1:
+        non_striker: WK Dilhari
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 17.2:
+        non_striker: WK Dilhari
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 17.3:
+        non_striker: NND de Silva
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 17.4:
+        non_striker: NND de Silva
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 17.5:
+        non_striker: WK Dilhari
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 17.6:
+        non_striker: NND de Silva
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 18.1:
+        non_striker: NND de Silva
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 18.2:
+        non_striker: WK Dilhari
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 18.3:
+        non_striker: NND de Silva
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 18.4:
+        non_striker: NND de Silva
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 18.5:
+        non_striker: WK Dilhari
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 18.6:
+        non_striker: WK Dilhari
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+        wicket:
+          player_out: NND de Silva
+          fielders:
+          - H Kaur
+          kind: caught
+    - 19.1:
+        non_striker: WK Dilhari
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sandeepani
+        wicket:
+          player_out: S Sandeepani
+          kind: bowled
+    - 19.2:
+        non_striker: WK Dilhari
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDU Prabodhani
+    - 19.3:
+        non_striker: KDU Prabodhani
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 19.4:
+        non_striker: WK Dilhari
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDU Prabodhani
+    - 19.5:
+        non_striker: KDU Prabodhani
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 19.6:
+        non_striker: KDU Prabodhani
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Dilhari
+- 2nd innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: S Mandhana
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 0.2:
+        non_striker: S Mandhana
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 0.3:
+        non_striker: S Mandhana
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 0.4:
+        non_striker: S Mandhana
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 0.5:
+        non_striker: Shafali Verma
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.6:
+        non_striker: Shafali Verma
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 1.1:
+        non_striker: Shafali Verma
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.2:
+        non_striker: Shafali Verma
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 1.3:
+        non_striker: S Mandhana
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 1.4:
+        non_striker: S Mandhana
+        bowler: HASD Siriwardene
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafali Verma
+    - 1.5:
+        non_striker: S Mandhana
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 1.6:
+        non_striker: S Mandhana
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 1.7:
+        non_striker: S Mandhana
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 2.1:
+        non_striker: Shafali Verma
+        bowler: S Sandeepani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 2.2:
+        non_striker: S Mandhana
+        bowler: S Sandeepani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 2.3:
+        non_striker: S Mandhana
+        bowler: S Sandeepani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 2.4:
+        non_striker: Shafali Verma
+        bowler: S Sandeepani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 2.5:
+        non_striker: Shafali Verma
+        bowler: S Sandeepani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 2.6:
+        non_striker: Shafali Verma
+        bowler: S Sandeepani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 3.1:
+        non_striker: Shafali Verma
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 3.2:
+        non_striker: S Mandhana
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 3.3:
+        non_striker: S Mandhana
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 3.4:
+        non_striker: S Mandhana
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 3.5:
+        non_striker: S Mandhana
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 3.6:
+        non_striker: Shafali Verma
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 4.1:
+        non_striker: S Mandhana
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 4.2:
+        non_striker: S Mandhana
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 4.3:
+        non_striker: Shafali Verma
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.4:
+        non_striker: Shafali Verma
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          fielders:
+          - WK Dilhari
+          kind: caught
+    - 4.5:
+        non_striker: Shafali Verma
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 4.6:
+        non_striker: Shafali Verma
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 5.1:
+        non_striker: H Kaur
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 5.2:
+        non_striker: H Kaur
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 5.3:
+        non_striker: H Kaur
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shafali Verma
+    - 5.4:
+        non_striker: H Kaur
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 5.5:
+        non_striker: H Kaur
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 5.6:
+        non_striker: Shafali Verma
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 6.1:
+        non_striker: H Kaur
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 6.2:
+        non_striker: Shafali Verma
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 6.3:
+        non_striker: Shafali Verma
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 6.4:
+        non_striker: Shafali Verma
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 6.5:
+        non_striker: H Kaur
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 6.6:
+        non_striker: Shafali Verma
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 7.1:
+        non_striker: H Kaur
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 7.2:
+        non_striker: H Kaur
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 7.3:
+        non_striker: Shafali Verma
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 7.4:
+        non_striker: Shafali Verma
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Kaur
+    - 7.5:
+        non_striker: Shafali Verma
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 7.6:
+        non_striker: Shafali Verma
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 8.1:
+        non_striker: H Kaur
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 8.2:
+        non_striker: H Kaur
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shafali Verma
+    - 8.3:
+        non_striker: H Kaur
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 8.4:
+        non_striker: H Kaur
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 8.5:
+        non_striker: H Kaur
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 8.6:
+        non_striker: Shafali Verma
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 9.1:
+        non_striker: H Kaur
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 9.2:
+        non_striker: H Kaur
+        bowler: HASD Siriwardene
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafali Verma
+    - 9.3:
+        non_striker: H Kaur
+        bowler: HASD Siriwardene
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafali Verma
+    - 9.4:
+        non_striker: H Kaur
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 9.5:
+        non_striker: Shafali Verma
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 9.6:
+        non_striker: Shafali Verma
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+        wicket:
+          player_out: H Kaur
+          fielders:
+          - H Karunaratne
+          kind: caught
+    - 9.7:
+        non_striker: Shafali Verma
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 9.8:
+        non_striker: JI Rodrigues
+        bowler: HASD Siriwardene
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Shafali Verma
+    - 10.1:
+        non_striker: Shafali Verma
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 10.2:
+        non_striker: JI Rodrigues
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 10.3:
+        non_striker: Shafali Verma
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 10.4:
+        non_striker: Shafali Verma
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+        wicket:
+          player_out: Shafali Verma
+          kind: run out
+    - 10.5:
+        non_striker: JI Rodrigues
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 10.6:
+        non_striker: JI Rodrigues
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 11.1:
+        non_striker: JI Rodrigues
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 11.2:
+        non_striker: JI Rodrigues
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 11.3:
+        non_striker: DB Sharma
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 11.4:
+        non_striker: JI Rodrigues
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 11.5:
+        non_striker: JI Rodrigues
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 11.6:
+        non_striker: JI Rodrigues
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 12.1:
+        non_striker: DB Sharma
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 12.2:
+        non_striker: JI Rodrigues
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 12.3:
+        non_striker: DB Sharma
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 12.4:
+        non_striker: DB Sharma
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 12.5:
+        non_striker: JI Rodrigues
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 12.6:
+        non_striker: DB Sharma
+        bowler: HASD Siriwardene
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 13.1:
+        non_striker: DB Sharma
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 13.2:
+        non_striker: JI Rodrigues
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 13.3:
+        non_striker: DB Sharma
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 13.4:
+        non_striker: DB Sharma
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 13.5:
+        non_striker: JI Rodrigues
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 13.6:
+        non_striker: DB Sharma
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 14.1:
+        non_striker: DB Sharma
+        bowler: U Thimashini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 14.2:
+        non_striker: JI Rodrigues
+        bowler: U Thimashini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 14.3:
+        non_striker: DB Sharma
+        bowler: U Thimashini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 14.4:
+        non_striker: JI Rodrigues
+        bowler: U Thimashini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma

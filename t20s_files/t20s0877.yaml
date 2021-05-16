@@ -1,0 +1,2041 @@
+---
+meta:
+  data_version: 0.9
+  created: '2020-06-29'
+  revision: 1
+info:
+  city: Utrecht
+  dates:
+  - '2018-07-14'
+  gender: female
+  match_type: T20
+  match_type_number: 460
+  outcome:
+    winner: Scotland
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - KE Bryce
+  teams:
+  - Papua New Guinea
+  - Scotland
+  toss:
+    decision: field
+    winner: Scotland
+  umpires:
+  - CA Polosak
+  - JM Williams
+  venue: Sportpark Maarschalkerweerd
+innings:
+- 1st innings:
+    team: Papua New Guinea
+    deliveries:
+    - 0.1:
+        bowler: RV Scholes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: K John
+        batsman: S Jimmy
+    - 0.2:
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K John
+        batsman: S Jimmy
+    - 0.3:
+        bowler: RV Scholes
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: K John
+        batsman: S Jimmy
+    - 0.4:
+        non_striker: S Jimmy
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K John
+    - 0.5:
+        non_striker: S Jimmy
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K John
+    - 0.6:
+        non_striker: K John
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 0.7:
+        non_striker: S Jimmy
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K John
+    - 0.8:
+        non_striker: S Jimmy
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K John
+        wicket:
+          player_out: K John
+          kind: lbw
+    - 1.1:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tau
+        batsman: S Jimmy
+    - 1.2:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tau
+        batsman: S Jimmy
+    - 1.3:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Tau
+        batsman: S Jimmy
+    - 1.4:
+        non_striker: S Jimmy
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Tau
+    - 1.5:
+        non_striker: S Jimmy
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 1.6:
+        non_striker: S Jimmy
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 2.1:
+        non_striker: S Jimmy
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 2.2:
+        non_striker: B Tau
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jimmy
+    - 2.3:
+        non_striker: B Tau
+        bowler: RV Scholes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jimmy
+    - 2.4:
+        non_striker: B Tau
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 2.5:
+        non_striker: B Tau
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 2.6:
+        non_striker: S Jimmy
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 2.7:
+        non_striker: S Jimmy
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 3.1:
+        non_striker: S Jimmy
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.2:
+        non_striker: S Jimmy
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 3.3:
+        non_striker: B Tau
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 3.4:
+        non_striker: S Jimmy
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.5:
+        non_striker: S Jimmy
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+        wicket:
+          player_out: B Tau
+          fielders:
+          - SJ Bryce
+          kind: stumped
+    - 3.6:
+        non_striker: S Jimmy
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 4.1:
+        non_striker: P Siaka
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 4.2:
+        non_striker: P Siaka
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 4.3:
+        non_striker: P Siaka
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jimmy
+    - 4.4:
+        non_striker: P Siaka
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 4.5:
+        non_striker: P Siaka
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 4.6:
+        non_striker: S Jimmy
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 5.1:
+        non_striker: P Siaka
+        bowler: HRA Rainey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jimmy
+    - 5.2:
+        non_striker: P Siaka
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 5.3:
+        non_striker: P Siaka
+        bowler: HRA Rainey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jimmy
+    - 5.4:
+        non_striker: P Siaka
+        bowler: HRA Rainey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jimmy
+    - 5.5:
+        non_striker: P Siaka
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 5.6:
+        non_striker: S Jimmy
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 5.7:
+        non_striker: S Jimmy
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 5.8:
+        non_striker: P Siaka
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 5.9:
+        non_striker: S Jimmy
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 6.1:
+        non_striker: P Siaka
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 6.2:
+        non_striker: S Jimmy
+        bowler: PA Chatterji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Siaka
+    - 6.3:
+        non_striker: S Jimmy
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 6.4:
+        non_striker: P Siaka
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 6.5:
+        non_striker: P Siaka
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 6.6:
+        non_striker: S Jimmy
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 6.7:
+        non_striker: S Jimmy
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 7.1:
+        non_striker: S Jimmy
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+        wicket:
+          player_out: P Siaka
+          fielders:
+          - SJ Bryce
+          kind: caught
+    - 7.2:
+        non_striker: S Jimmy
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 7.3:
+        non_striker: S Jimmy
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 7.4:
+        non_striker: S Jimmy
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 7.5:
+        non_striker: S Jimmy
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 7.6:
+        non_striker: T Ruma
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 8.1:
+        non_striker: S Jimmy
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 8.2:
+        non_striker: S Jimmy
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 8.3:
+        non_striker: S Jimmy
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 8.4:
+        non_striker: S Jimmy
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 8.5:
+        non_striker: T Ruma
+        bowler: PA Chatterji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Jimmy
+    - 8.6:
+        non_striker: S Jimmy
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 9.1:
+        non_striker: T Ruma
+        bowler: K McGill
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: S Jimmy
+    - 9.2:
+        non_striker: T Ruma
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 9.3:
+        non_striker: T Ruma
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 9.4:
+        non_striker: S Jimmy
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 9.5:
+        non_striker: T Ruma
+        bowler: K McGill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jimmy
+    - 9.6:
+        non_striker: T Ruma
+        bowler: K McGill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Jimmy
+    - 9.7:
+        non_striker: S Jimmy
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Ruma
+    - 9.8:
+        non_striker: S Jimmy
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 10.1:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 10.2:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 10.3:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jimmy
+    - 10.4:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 10.5:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 10.6:
+        non_striker: S Jimmy
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 11.1:
+        non_striker: T Ruma
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jimmy
+    - 11.2:
+        non_striker: T Ruma
+        bowler: HRA Rainey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jimmy
+    - 11.3:
+        non_striker: T Ruma
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 11.4:
+        non_striker: T Ruma
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 11.5:
+        non_striker: S Jimmy
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+        wicket:
+          player_out: T Ruma
+          fielders:
+          - SJ Bryce
+          kind: caught
+    - 11.6:
+        non_striker: S Jimmy
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Arua
+    - 11.7:
+        non_striker: K Arua
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 12.1:
+        non_striker: K Arua
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+        wicket:
+          player_out: S Jimmy
+          kind: bowled
+    - 12.2:
+        non_striker: K Arua
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Frank
+    - 12.3:
+        non_striker: K Arua
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Frank
+    - 12.4:
+        non_striker: K Arua
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Frank
+    - 12.5:
+        non_striker: K Arua
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Frank
+    - 12.6:
+        non_striker: K Arua
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Frank
+    - 12.7:
+        non_striker: K Arua
+        bowler: AH Maqsood
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: V Frank
+    - 12.8:
+        non_striker: K Arua
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Frank
+    - 13.1:
+        non_striker: K Arua
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Frank
+    - 13.2:
+        non_striker: K Arua
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Frank
+    - 13.3:
+        non_striker: K Arua
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Frank
+    - 13.4:
+        non_striker: K Arua
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Frank
+    - 13.5:
+        non_striker: K Arua
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Frank
+    - 13.6:
+        non_striker: V Frank
+        bowler: RV Scholes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Arua
+    - 14.1:
+        non_striker: V Frank
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Arua
+    - 14.2:
+        non_striker: V Frank
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Arua
+    - 14.3:
+        non_striker: V Frank
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Arua
+    - 14.4:
+        non_striker: K Arua
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Frank
+    - 14.5:
+        non_striker: K Arua
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Frank
+    - 14.6:
+        non_striker: V Frank
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Arua
+    - 15.1:
+        non_striker: V Frank
+        bowler: HRA Rainey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Arua
+    - 15.2:
+        non_striker: V Frank
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Arua
+    - 15.3:
+        non_striker: K Arua
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Frank
+    - 15.4:
+        non_striker: K Arua
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Frank
+    - 15.5:
+        non_striker: K Arua
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Frank
+    - 15.6:
+        non_striker: K Arua
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Frank
+    - 15.7:
+        non_striker: K Arua
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Frank
+    - 16.1:
+        non_striker: K Arua
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Frank
+    - 16.2:
+        non_striker: K Arua
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Frank
+    - 16.3:
+        non_striker: K Arua
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Frank
+    - 16.4:
+        non_striker: K Arua
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Frank
+    - 16.5:
+        non_striker: K Arua
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Frank
+    - 16.6:
+        non_striker: V Frank
+        bowler: K McGill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Arua
+    - 16.7:
+        non_striker: V Frank
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Arua
+    - 17.1:
+        non_striker: K Arua
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Frank
+    - 17.2:
+        non_striker: V Frank
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Arua
+    - 17.3:
+        non_striker: K Arua
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Frank
+    - 17.4:
+        non_striker: V Frank
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Arua
+    - 17.5:
+        non_striker: V Frank
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Arua
+    - 17.6:
+        non_striker: K Arua
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Frank
+    - 18.1:
+        non_striker: V Frank
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Arua
+    - 18.2:
+        non_striker: V Frank
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Arua
+    - 18.3:
+        non_striker: K Arua
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Frank
+    - 18.4:
+        non_striker: V Frank
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Arua
+    - 18.5:
+        non_striker: K Arua
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Frank
+    - 18.6:
+        non_striker: V Frank
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Arua
+    - 19.1:
+        non_striker: V Frank
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Arua
+    - 19.2:
+        non_striker: V Frank
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Arua
+    - 19.3:
+        non_striker: V Frank
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Arua
+        wicket:
+          player_out: K Arua
+          kind: run out
+    - 19.4:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Vare
+        batsman: V Frank
+    - 19.5:
+        non_striker: V Frank
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 19.6:
+        non_striker: V Frank
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+- 2nd innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KE Bryce
+        batsman: SJ Bryce
+    - 0.2:
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KE Bryce
+        batsman: SJ Bryce
+    - 0.3:
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KE Bryce
+        batsman: SJ Bryce
+    - 0.4:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 0.5:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 0.6:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 1.1:
+        non_striker: KE Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 1.2:
+        non_striker: KE Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 1.3:
+        non_striker: SJ Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 1.4:
+        non_striker: SJ Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 1.5:
+        non_striker: SJ Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 1.6:
+        non_striker: SJ Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 2.1:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 2.2:
+        non_striker: KE Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 2.3:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 2.4:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 2.5:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 2.6:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 3.1:
+        non_striker: KE Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 3.2:
+        non_striker: KE Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 3.3:
+        non_striker: KE Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 3.4:
+        non_striker: KE Bryce
+        bowler: R Oa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Bryce
+    - 3.5:
+        non_striker: KE Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 3.6:
+        non_striker: KE Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 3.7:
+        non_striker: KE Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 4.1:
+        non_striker: SJ Bryce
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 4.2:
+        non_striker: KE Bryce
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 4.3:
+        non_striker: SJ Bryce
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 4.4:
+        non_striker: SJ Bryce
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 4.5:
+        non_striker: KE Bryce
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 4.6:
+        non_striker: KE Bryce
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 5.1:
+        non_striker: KE Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 5.2:
+        non_striker: KE Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 5.3:
+        non_striker: KE Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 5.4:
+        non_striker: KE Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 5.5:
+        non_striker: SJ Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 5.6:
+        non_striker: SJ Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 6.1:
+        non_striker: SJ Bryce
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 6.2:
+        non_striker: SJ Bryce
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 6.3:
+        non_striker: KE Bryce
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 6.4:
+        non_striker: KE Bryce
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 6.5:
+        non_striker: SJ Bryce
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 6.6:
+        non_striker: SJ Bryce
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 7.1:
+        non_striker: SJ Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 7.2:
+        non_striker: KE Bryce
+        bowler: K Arua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Bryce
+    - 7.3:
+        non_striker: KE Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 7.4:
+        non_striker: KE Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 7.5:
+        non_striker: KE Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 7.6:
+        non_striker: KE Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 7.7:
+        non_striker: SJ Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 8.1:
+        non_striker: KE Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 8.2:
+        non_striker: KE Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 8.3:
+        non_striker: SJ Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 8.4:
+        non_striker: SJ Bryce
+        bowler: P Siaka
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: KE Bryce
+    - 8.5:
+        non_striker: KE Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 8.6:
+        non_striker: SJ Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 8.7:
+        non_striker: SJ Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 9.1:
+        non_striker: KE Bryce
+        bowler: K Arua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Bryce
+    - 9.2:
+        non_striker: KE Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 9.3:
+        non_striker: SJ Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 9.4:
+        non_striker: KE Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 9.5:
+        non_striker: KE Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 9.6:
+        non_striker: KE Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 9.7:
+        non_striker: SJ Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 10.1:
+        non_striker: KE Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 10.2:
+        non_striker: KE Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 10.3:
+        non_striker: SJ Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 10.4:
+        non_striker: SJ Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 10.5:
+        non_striker: SJ Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 10.6:
+        non_striker: SJ Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 11.1:
+        non_striker: SJ Bryce
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 11.2:
+        non_striker: SJ Bryce
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 11.3:
+        non_striker: SJ Bryce
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 11.4:
+        non_striker: SJ Bryce
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 11.5:
+        non_striker: SJ Bryce
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 11.6:
+        non_striker: SJ Bryce
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 12.1:
+        non_striker: KE Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 12.2:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 12.3:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 12.4:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 12.5:
+        non_striker: KE Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 12.6:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 13.1:
+        non_striker: KE Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 13.2:
+        non_striker: KE Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 13.3:
+        non_striker: SJ Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 13.4:
+        non_striker: SJ Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 13.5:
+        non_striker: SJ Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 13.6:
+        non_striker: KE Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 14.1:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 14.2:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 14.3:
+        non_striker: KE Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 14.4:
+        non_striker: KE Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 14.5:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 14.6:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        batsman: KE Bryce
+    - 14.7:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 15.1:
+        non_striker: KE Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 15.2:
+        non_striker: KE Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 15.3:
+        non_striker: KE Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 15.4:
+        non_striker: SJ Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 15.5:
+        non_striker: SJ Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 15.6:
+        non_striker: SJ Bryce
+        bowler: K Arua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KE Bryce
+    - 15.7:
+        non_striker: SJ Bryce
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 16.1:
+        non_striker: KE Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 16.2:
+        non_striker: KE Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 16.3:
+        non_striker: KE Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 16.4:
+        non_striker: SJ Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 16.5:
+        non_striker: SJ Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 16.6:
+        non_striker: SJ Bryce
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce

@@ -1,0 +1,2092 @@
+---
+meta:
+  data_version: 0.9
+  created: 2011-01-09
+  revision: 2
+info:
+  city: Durban
+  dates:
+    - 2011-01-09
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      runs: 21
+    winner: India
+  overs: 20
+  player_of_match:
+    - RG Sharma
+  teams:
+    - South Africa
+    - India
+  toss:
+    decision: bat
+    winner: India
+  umpires:
+    - M Erasmus
+    - BG Jerling
+  venue: Moses Mabhida Stadium
+innings:
+  - 1st innings:
+      team: India
+      deliveries:
+        - 0.1:
+            batsman: V Kohli
+            bowler: WD Parnell
+            extras:
+              legbyes: 1
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.2:
+            batsman: M Vijay
+            bowler: WD Parnell
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: M Vijay
+            bowler: WD Parnell
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: M Vijay
+            bowler: WD Parnell
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.5:
+            batsman: M Vijay
+            bowler: WD Parnell
+            extras:
+              wides: 1
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.6:
+            batsman: M Vijay
+            bowler: WD Parnell
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.7:
+            batsman: M Vijay
+            bowler: WD Parnell
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.1:
+            batsman: M Vijay
+            bowler: M Ntini
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: M Vijay
+            bowler: M Ntini
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: M Vijay
+            bowler: M Ntini
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.4:
+            batsman: M Vijay
+            bowler: M Ntini
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: M Vijay
+            bowler: M Ntini
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.6:
+            batsman: V Kohli
+            bowler: M Ntini
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.1:
+            batsman: V Kohli
+            bowler: WD Parnell
+            non_striker: M Vijay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: V Kohli
+            bowler: WD Parnell
+            non_striker: M Vijay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.3:
+            batsman: M Vijay
+            bowler: WD Parnell
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: M Vijay
+            bowler: WD Parnell
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MN van Wyk
+              kind: caught
+              player_out: M Vijay
+        - 2.5:
+            batsman: V Kohli
+            bowler: WD Parnell
+            non_striker: RG Sharma
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.6:
+            batsman: V Kohli
+            bowler: WD Parnell
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: RG Sharma
+            bowler: J Theron
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: RG Sharma
+            bowler: J Theron
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: RG Sharma
+            bowler: J Theron
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: V Kohli
+            bowler: J Theron
+            non_striker: RG Sharma
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.5:
+            batsman: V Kohli
+            bowler: J Theron
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.6:
+            batsman: RG Sharma
+            bowler: J Theron
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: RG Sharma
+            bowler: M Ntini
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.2:
+            batsman: RG Sharma
+            bowler: M Ntini
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: V Kohli
+            bowler: M Ntini
+            non_striker: RG Sharma
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.4:
+            batsman: V Kohli
+            bowler: M Ntini
+            non_striker: RG Sharma
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.5:
+            batsman: V Kohli
+            bowler: M Ntini
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: RG Sharma
+            bowler: M Ntini
+            non_striker: V Kohli
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 5.1:
+            batsman: V Kohli
+            bowler: J Theron
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.2:
+            batsman: RG Sharma
+            bowler: J Theron
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: RG Sharma
+            bowler: J Theron
+            non_striker: V Kohli
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.4:
+            batsman: RG Sharma
+            bowler: J Theron
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: V Kohli
+            bowler: J Theron
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: RG Sharma
+            bowler: J Theron
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: RG Sharma
+            bowler: RJ Peterson
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: V Kohli
+            bowler: RJ Peterson
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: RG Sharma
+            bowler: RJ Peterson
+            non_striker: V Kohli
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.4:
+            batsman: RG Sharma
+            bowler: RJ Peterson
+            non_striker: V Kohli
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: V Kohli
+            bowler: RJ Peterson
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: V Kohli
+            bowler: RJ Peterson
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: V Kohli
+            bowler: J Botha
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: V Kohli
+            bowler: J Botha
+            non_striker: RG Sharma
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.3:
+            batsman: V Kohli
+            bowler: J Botha
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: V Kohli
+        - 7.4:
+            batsman: Yuvraj Singh
+            bowler: J Botha
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: RG Sharma
+            bowler: J Botha
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: Yuvraj Singh
+            bowler: J Botha
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: RG Sharma
+            bowler: RJ Peterson
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: Yuvraj Singh
+            bowler: RJ Peterson
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: RG Sharma
+            bowler: RJ Peterson
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: Yuvraj Singh
+            bowler: RJ Peterson
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: RG Sharma
+            bowler: RJ Peterson
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.6:
+            batsman: Yuvraj Singh
+            bowler: RJ Peterson
+            non_striker: RG Sharma
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.1:
+            batsman: RG Sharma
+            bowler: J Botha
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.2:
+            batsman: RG Sharma
+            bowler: J Botha
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: Yuvraj Singh
+            bowler: J Botha
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: Yuvraj Singh
+            bowler: J Botha
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: RG Sharma
+            bowler: J Botha
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: RG Sharma
+            bowler: J Botha
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: RG Sharma
+            bowler: JP Duminy
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: Yuvraj Singh
+            bowler: JP Duminy
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: RG Sharma
+            bowler: JP Duminy
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 10.4:
+            batsman: RG Sharma
+            bowler: JP Duminy
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: RG Sharma
+            bowler: JP Duminy
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: Yuvraj Singh
+            bowler: JP Duminy
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: RG Sharma
+            bowler: J Botha
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: RG Sharma
+            bowler: J Botha
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: Yuvraj Singh
+            bowler: J Botha
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: RG Sharma
+            bowler: J Botha
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.5:
+            batsman: RG Sharma
+            bowler: J Botha
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.6:
+            batsman: RG Sharma
+            bowler: J Botha
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.1:
+            batsman: Yuvraj Singh
+            bowler: JP Duminy
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: RG Sharma
+            bowler: JP Duminy
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.3:
+            batsman: RG Sharma
+            bowler: JP Duminy
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: Yuvraj Singh
+            bowler: JP Duminy
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: RG Sharma
+            bowler: JP Duminy
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - M Ntini
+              kind: caught
+              player_out: RG Sharma
+        - 12.6:
+            batsman: Yuvraj Singh
+            bowler: JP Duminy
+            non_striker: YK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: YK Pathan
+            bowler: RJ Peterson
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: YK Pathan
+            bowler: RJ Peterson
+            extras:
+              wides: 1
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+            wicket:
+              fielders:
+                - DA Miller
+                - RJ Peterson
+              kind: run out
+              player_out: Yuvraj Singh
+        - 13.3:
+            batsman: YK Pathan
+            bowler: RJ Peterson
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: SK Raina
+            bowler: RJ Peterson
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: YK Pathan
+            bowler: RJ Peterson
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: SK Raina
+            bowler: RJ Peterson
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.7:
+            batsman: YK Pathan
+            bowler: RJ Peterson
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: SK Raina
+            bowler: M Ntini
+            non_striker: YK Pathan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.2:
+            batsman: SK Raina
+            bowler: M Ntini
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: YK Pathan
+            bowler: M Ntini
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: SK Raina
+            bowler: M Ntini
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: YK Pathan
+            bowler: M Ntini
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: SK Raina
+            bowler: M Ntini
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: SK Raina
+            bowler: J Theron
+            non_striker: YK Pathan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: SK Raina
+            bowler: J Theron
+            non_striker: YK Pathan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.3:
+            batsman: SK Raina
+            bowler: J Theron
+            non_striker: YK Pathan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 15.4:
+            batsman: SK Raina
+            bowler: J Theron
+            non_striker: YK Pathan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: YK Pathan
+            bowler: J Theron
+            non_striker: SK Raina
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.6:
+            batsman: YK Pathan
+            bowler: J Theron
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: YK Pathan
+        - 16.1:
+            batsman: SK Raina
+            bowler: WD Parnell
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: MS Dhoni
+            bowler: WD Parnell
+            non_striker: SK Raina
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.3:
+            batsman: MS Dhoni
+            bowler: WD Parnell
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: MS Dhoni
+            bowler: WD Parnell
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.5:
+            batsman: SK Raina
+            bowler: WD Parnell
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: MS Dhoni
+            bowler: WD Parnell
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: MS Dhoni
+            bowler: M Ntini
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: SK Raina
+            bowler: M Ntini
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: MS Dhoni
+            bowler: M Ntini
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: SK Raina
+            bowler: M Ntini
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: SK Raina
+            bowler: M Ntini
+            non_striker: MS Dhoni
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 17.6:
+            batsman: SK Raina
+            bowler: M Ntini
+            non_striker: MS Dhoni
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.1:
+            batsman: MS Dhoni
+            bowler: WD Parnell
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: SK Raina
+            bowler: WD Parnell
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: SK Raina
+            bowler: WD Parnell
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.4:
+            batsman: MS Dhoni
+            bowler: WD Parnell
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.5:
+            batsman: SK Raina
+            bowler: WD Parnell
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.6:
+            batsman: MS Dhoni
+            bowler: WD Parnell
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: SK Raina
+            bowler: J Theron
+            extras:
+              wides: 1
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 19.2:
+            batsman: SK Raina
+            bowler: J Theron
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: MS Dhoni
+            bowler: J Theron
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: SK Raina
+            bowler: J Theron
+            non_striker: MS Dhoni
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 19.5:
+            batsman: SK Raina
+            bowler: J Theron
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: MS Dhoni
+            bowler: J Theron
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.7:
+            batsman: SK Raina
+            bowler: J Theron
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - DA Miller
+              kind: caught
+              player_out: SK Raina
+  - 2nd innings:
+      team: South Africa
+      deliveries:
+        - 0.1:
+            batsman: MN van Wyk
+            bowler: P Kumar
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: MN van Wyk
+            bowler: P Kumar
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.3:
+            batsman: HM Amla
+            bowler: P Kumar
+            non_striker: MN van Wyk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.4:
+            batsman: MN van Wyk
+            bowler: P Kumar
+            extras:
+              byes: 4
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 0.5:
+            batsman: MN van Wyk
+            bowler: P Kumar
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: MN van Wyk
+            bowler: P Kumar
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: HM Amla
+            bowler: A Nehra
+            non_striker: MN van Wyk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: HM Amla
+            bowler: A Nehra
+            non_striker: MN van Wyk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: HM Amla
+        - 1.3:
+            batsman: CA Ingram
+            bowler: A Nehra
+            non_striker: MN van Wyk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: CA Ingram
+            bowler: A Nehra
+            non_striker: MN van Wyk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.5:
+            batsman: MN van Wyk
+            bowler: A Nehra
+            non_striker: CA Ingram
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: MN van Wyk
+            bowler: A Nehra
+            extras:
+              legbyes: 1
+            non_striker: CA Ingram
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.1:
+            batsman: MN van Wyk
+            bowler: MM Patel
+            non_striker: CA Ingram
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 2.2:
+            batsman: MN van Wyk
+            bowler: MM Patel
+            non_striker: CA Ingram
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.3:
+            batsman: MN van Wyk
+            bowler: MM Patel
+            non_striker: CA Ingram
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.4:
+            batsman: MN van Wyk
+            bowler: MM Patel
+            non_striker: CA Ingram
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.5:
+            batsman: CA Ingram
+            bowler: MM Patel
+            non_striker: MN van Wyk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: CA Ingram
+            bowler: MM Patel
+            non_striker: MN van Wyk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: MN van Wyk
+            bowler: A Nehra
+            non_striker: CA Ingram
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 3.2:
+            batsman: MN van Wyk
+            bowler: A Nehra
+            non_striker: CA Ingram
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: CA Ingram
+            bowler: A Nehra
+            non_striker: MN van Wyk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: CA Ingram
+            bowler: A Nehra
+            non_striker: MN van Wyk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.5:
+            batsman: MN van Wyk
+            bowler: A Nehra
+            non_striker: CA Ingram
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: MN van Wyk
+            bowler: A Nehra
+            non_striker: CA Ingram
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: CA Ingram
+            bowler: MM Patel
+            non_striker: MN van Wyk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: CA Ingram
+            bowler: MM Patel
+            non_striker: MN van Wyk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - P Kumar
+              kind: caught
+              player_out: CA Ingram
+        - 4.3:
+            batsman: AB de Villiers
+            bowler: MM Patel
+            non_striker: MN van Wyk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: AB de Villiers
+            bowler: MM Patel
+            non_striker: MN van Wyk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: MN van Wyk
+            bowler: MM Patel
+            non_striker: AB de Villiers
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 4.6:
+            batsman: MN van Wyk
+            bowler: MM Patel
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.1:
+            batsman: AB de Villiers
+            bowler: R Ashwin
+            non_striker: MN van Wyk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.2:
+            batsman: MN van Wyk
+            bowler: R Ashwin
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.3:
+            batsman: MN van Wyk
+            bowler: R Ashwin
+            extras:
+              wides: 1
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.4:
+            batsman: MN van Wyk
+            bowler: R Ashwin
+            non_striker: AB de Villiers
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 5.5:
+            batsman: MN van Wyk
+            bowler: R Ashwin
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: AB de Villiers
+            bowler: R Ashwin
+            non_striker: MN van Wyk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.7:
+            batsman: MN van Wyk
+            bowler: R Ashwin
+            non_striker: AB de Villiers
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 6.1:
+            batsman: MN van Wyk
+            bowler: Yuvraj Singh
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: AB de Villiers
+            bowler: Yuvraj Singh
+            non_striker: MN van Wyk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: AB de Villiers
+            bowler: Yuvraj Singh
+            non_striker: MN van Wyk
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.4:
+            batsman: AB de Villiers
+            bowler: Yuvraj Singh
+            non_striker: MN van Wyk
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.5:
+            batsman: AB de Villiers
+            bowler: Yuvraj Singh
+            non_striker: MN van Wyk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: MN van Wyk
+            bowler: Yuvraj Singh
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: AB de Villiers
+            bowler: R Ashwin
+            non_striker: MN van Wyk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: MN van Wyk
+            bowler: R Ashwin
+            non_striker: AB de Villiers
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 7.3:
+            batsman: MN van Wyk
+            bowler: R Ashwin
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: MN van Wyk
+            bowler: R Ashwin
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: AB de Villiers
+            bowler: R Ashwin
+            non_striker: MN van Wyk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: MN van Wyk
+            bowler: R Ashwin
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: MN van Wyk
+            bowler: P Kumar
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: MN van Wyk
+            bowler: P Kumar
+            extras:
+              wides: 1
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 8.3:
+            batsman: MN van Wyk
+            bowler: P Kumar
+            non_striker: AB de Villiers
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.4:
+            batsman: MN van Wyk
+            bowler: P Kumar
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.5:
+            batsman: MN van Wyk
+            bowler: P Kumar
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: MN van Wyk
+            bowler: P Kumar
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.7:
+            batsman: MN van Wyk
+            bowler: P Kumar
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: MN van Wyk
+            bowler: Yuvraj Singh
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+            wicket:
+              fielders:
+                - A Nehra
+                - SK Raina
+              kind: run out
+              player_out: AB de Villiers
+        - 9.2:
+            batsman: MN van Wyk
+            bowler: Yuvraj Singh
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: JP Duminy
+            bowler: Yuvraj Singh
+            non_striker: MN van Wyk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: JP Duminy
+            bowler: Yuvraj Singh
+            non_striker: MN van Wyk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: JP Duminy
+        - 9.5:
+            batsman: DA Miller
+            bowler: Yuvraj Singh
+            non_striker: MN van Wyk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: MN van Wyk
+            bowler: Yuvraj Singh
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: MN van Wyk
+            bowler: P Kumar
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: DA Miller
+            bowler: P Kumar
+            non_striker: MN van Wyk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: MN van Wyk
+            bowler: P Kumar
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: MN van Wyk
+            bowler: P Kumar
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - A Nehra
+              kind: caught
+              player_out: MN van Wyk
+        - 10.5:
+            batsman: J Botha
+            bowler: P Kumar
+            non_striker: DA Miller
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.6:
+            batsman: J Botha
+            bowler: P Kumar
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: J Botha
+            bowler: Yuvraj Singh
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: J Botha
+            bowler: Yuvraj Singh
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: J Botha
+            bowler: Yuvraj Singh
+            extras:
+              legbyes: 1
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 11.4:
+            batsman: DA Miller
+            bowler: Yuvraj Singh
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: DA Miller
+            bowler: Yuvraj Singh
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: DA Miller
+            bowler: Yuvraj Singh
+            non_striker: J Botha
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.1:
+            batsman: J Botha
+            bowler: YK Pathan
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: J Botha
+            bowler: YK Pathan
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: DA Miller
+            bowler: YK Pathan
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: DA Miller
+            bowler: YK Pathan
+            non_striker: J Botha
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.5:
+            batsman: DA Miller
+            bowler: YK Pathan
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: DA Miller
+        - 12.6:
+            batsman: RJ Peterson
+            bowler: YK Pathan
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: RJ Peterson
+            bowler: Yuvraj Singh
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: RJ Peterson
+            bowler: Yuvraj Singh
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: RJ Peterson
+            bowler: Yuvraj Singh
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: J Botha
+            bowler: Yuvraj Singh
+            non_striker: RJ Peterson
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 13.5:
+            batsman: J Botha
+            bowler: Yuvraj Singh
+            non_striker: RJ Peterson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: RJ Peterson
+            bowler: Yuvraj Singh
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: J Botha
+            bowler: YK Pathan
+            non_striker: RJ Peterson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.2:
+            batsman: J Botha
+            bowler: YK Pathan
+            non_striker: RJ Peterson
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 14.3:
+            batsman: J Botha
+            bowler: YK Pathan
+            non_striker: RJ Peterson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: RJ Peterson
+            bowler: YK Pathan
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - V Kohli
+              kind: caught
+              player_out: RJ Peterson
+        - 14.5:
+            batsman: WD Parnell
+            bowler: YK Pathan
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: J Botha
+            bowler: YK Pathan
+            non_striker: WD Parnell
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: WD Parnell
+            bowler: R Ashwin
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: WD Parnell
+            bowler: R Ashwin
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: WD Parnell
+            bowler: R Ashwin
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.4:
+            batsman: J Botha
+            bowler: R Ashwin
+            non_striker: WD Parnell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: WD Parnell
+            bowler: R Ashwin
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: J Botha
+            bowler: R Ashwin
+            non_striker: WD Parnell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: J Botha
+            bowler: YK Pathan
+            non_striker: WD Parnell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: WD Parnell
+            bowler: YK Pathan
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: WD Parnell
+            bowler: YK Pathan
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: WD Parnell
+            bowler: YK Pathan
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.5:
+            batsman: J Botha
+            bowler: YK Pathan
+            non_striker: WD Parnell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: WD Parnell
+            bowler: YK Pathan
+            non_striker: J Botha
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 17.1:
+            batsman: WD Parnell
+            bowler: A Nehra
+            non_striker: J Botha
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.2:
+            batsman: WD Parnell
+            bowler: A Nehra
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: J Botha
+            bowler: A Nehra
+            non_striker: WD Parnell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: WD Parnell
+            bowler: A Nehra
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: J Botha
+            bowler: A Nehra
+            non_striker: WD Parnell
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: WD Parnell
+            bowler: A Nehra
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: WD Parnell
+            bowler: R Ashwin
+            extras:
+              wides: 1
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.2:
+            batsman: WD Parnell
+            bowler: R Ashwin
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: WD Parnell
+            bowler: R Ashwin
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: WD Parnell
+            bowler: R Ashwin
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - YK Pathan
+              kind: caught
+              player_out: WD Parnell
+        - 18.5:
+            batsman: J Botha
+            bowler: R Ashwin
+            non_striker: J Theron
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.6:
+            batsman: J Theron
+            bowler: R Ashwin
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.7:
+            batsman: J Theron
+            bowler: R Ashwin
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: J Botha
+            bowler: A Nehra
+            non_striker: J Theron
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.2:
+            batsman: J Botha
+            bowler: A Nehra
+            non_striker: J Theron
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RG Sharma
+              kind: caught
+              player_out: J Botha
+        - 19.3:
+            batsman: J Theron
+            bowler: A Nehra
+            extras:
+              legbyes: 1
+            non_striker: M Ntini
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 19.4:
+            batsman: M Ntini
+            bowler: A Nehra
+            non_striker: J Theron
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: M Ntini
+            bowler: A Nehra
+            non_striker: J Theron
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: J Theron
+            bowler: A Nehra
+            non_striker: M Ntini
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1

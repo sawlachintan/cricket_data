@@ -1,0 +1,2246 @@
+---
+meta:
+  data_version: 0.9
+  created: '2020-02-09'
+  revision: 1
+info:
+  city: Wellington
+  dates:
+  - '2020-01-31'
+  gender: male
+  match_type: T20
+  match_type_number: 1036
+  outcome:
+    result: tie
+    eliminator: India
+  overs: 20
+  player_of_match:
+  - SN Thakur
+  teams:
+  - New Zealand
+  - India
+  toss:
+    decision: field
+    winner: New Zealand
+  umpires:
+  - CM Brown
+  - SB Haig
+  venue: Westpac Stadium
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: SV Samson
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL Rahul
+    - 0.2:
+        non_striker: SV Samson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 0.3:
+        non_striker: SV Samson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 0.4:
+        non_striker: KL Rahul
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 0.5:
+        non_striker: SV Samson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 0.6:
+        non_striker: SV Samson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 0.7:
+        non_striker: KL Rahul
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 1.1:
+        non_striker: KL Rahul
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 1.2:
+        non_striker: KL Rahul
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SV Samson
+    - 1.3:
+        non_striker: KL Rahul
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 1.4:
+        non_striker: KL Rahul
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+        wicket:
+          player_out: SV Samson
+          fielders:
+          - MJ Santner
+          kind: caught
+    - 1.5:
+        non_striker: V Kohli
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.6:
+        non_striker: V Kohli
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: KL Rahul
+    - 1.7:
+        non_striker: V Kohli
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL Rahul
+    - 1.8:
+        non_striker: V Kohli
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 1.9:
+        non_striker: V Kohli
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 2.1:
+        non_striker: KL Rahul
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 2.2:
+        non_striker: V Kohli
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 2.3:
+        non_striker: KL Rahul
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 2.4:
+        non_striker: KL Rahul
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 2.5:
+        non_striker: V Kohli
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 2.6:
+        non_striker: V Kohli
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 3.1:
+        non_striker: KL Rahul
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 3.2:
+        non_striker: KL Rahul
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 3.3:
+        non_striker: V Kohli
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 3.4:
+        non_striker: V Kohli
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 3.5:
+        non_striker: KL Rahul
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: V Kohli
+    - 3.6:
+        non_striker: V Kohli
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 4.1:
+        non_striker: KL Rahul
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 4.2:
+        non_striker: KL Rahul
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 4.3:
+        non_striker: KL Rahul
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+        wicket:
+          player_out: V Kohli
+          fielders:
+          - MJ Santner
+          kind: caught
+    - 4.4:
+        non_striker: KL Rahul
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 4.5:
+        non_striker: SS Iyer
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 4.6:
+        non_striker: KL Rahul
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 5.1:
+        non_striker: SS Iyer
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.2:
+        non_striker: SS Iyer
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.3:
+        non_striker: SS Iyer
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 5.4:
+        non_striker: KL Rahul
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 5.5:
+        non_striker: KL Rahul
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 5.6:
+        non_striker: KL Rahul
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 6.1:
+        non_striker: SS Iyer
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 6.2:
+        non_striker: KL Rahul
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 6.3:
+        non_striker: KL Rahul
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+        wicket:
+          player_out: SS Iyer
+          fielders:
+          - TL Seifert
+          kind: caught
+    - 6.4:
+        non_striker: KL Rahul
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 6.5:
+        non_striker: S Dube
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 6.6:
+        non_striker: S Dube
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 7.1:
+        non_striker: KL Rahul
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 7.2:
+        non_striker: S Dube
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 7.3:
+        non_striker: S Dube
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 7.4:
+        non_striker: KL Rahul
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+    - 7.5:
+        non_striker: KL Rahul
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 7.6:
+        non_striker: KL Rahul
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+    - 8.1:
+        non_striker: S Dube
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 8.2:
+        non_striker: S Dube
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 8.3:
+        non_striker: KL Rahul
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 8.4:
+        non_striker: S Dube
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+        wicket:
+          player_out: KL Rahul
+          fielders:
+          - MJ Santner
+          kind: caught
+    - 8.5:
+        non_striker: S Dube
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Pandey
+    - 8.6:
+        non_striker: S Dube
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 9.1:
+        non_striker: S Dube
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 9.2:
+        non_striker: MK Pandey
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 9.3:
+        non_striker: MK Pandey
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 9.4:
+        non_striker: S Dube
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 9.5:
+        non_striker: S Dube
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 9.6:
+        non_striker: S Dube
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MK Pandey
+    - 10.1:
+        non_striker: S Dube
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 10.2:
+        non_striker: MK Pandey
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+        wicket:
+          player_out: S Dube
+          fielders:
+          - TC Bruce
+          kind: caught
+    - 10.3:
+        non_striker: Washington Sundar
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Pandey
+    - 10.4:
+        non_striker: Washington Sundar
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 10.5:
+        non_striker: Washington Sundar
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 10.6:
+        non_striker: MK Pandey
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 11.1:
+        non_striker: Washington Sundar
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 11.2:
+        non_striker: MK Pandey
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 11.3:
+        non_striker: MK Pandey
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+        wicket:
+          player_out: Washington Sundar
+          kind: bowled
+    - 11.4:
+        non_striker: MK Pandey
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Thakur
+    - 11.5:
+        non_striker: MK Pandey
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Thakur
+    - 11.6:
+        non_striker: MK Pandey
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Thakur
+    - 12.1:
+        non_striker: SN Thakur
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 12.2:
+        non_striker: MK Pandey
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Thakur
+    - 12.3:
+        non_striker: MK Pandey
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Thakur
+    - 12.4:
+        non_striker: SN Thakur
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 12.5:
+        non_striker: MK Pandey
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SN Thakur
+    - 12.6:
+        non_striker: MK Pandey
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SN Thakur
+    - 13.1:
+        non_striker: SN Thakur
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MK Pandey
+    - 13.2:
+        non_striker: MK Pandey
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Thakur
+    - 13.3:
+        non_striker: SN Thakur
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 13.4:
+        non_striker: SN Thakur
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 13.5:
+        non_striker: SN Thakur
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 13.6:
+        non_striker: MK Pandey
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SN Thakur
+    - 14.1:
+        non_striker: SN Thakur
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 14.2:
+        non_striker: MK Pandey
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Thakur
+    - 14.3:
+        non_striker: SN Thakur
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Pandey
+    - 14.4:
+        non_striker: SN Thakur
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 14.5:
+        non_striker: SN Thakur
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Pandey
+    - 14.6:
+        non_striker: SN Thakur
+        bowler: HK Bennett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MK Pandey
+    - 14.7:
+        non_striker: SN Thakur
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 15.1:
+        non_striker: SN Thakur
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 15.2:
+        non_striker: MK Pandey
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SN Thakur
+    - 15.3:
+        non_striker: SN Thakur
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Pandey
+    - 15.4:
+        non_striker: SN Thakur
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Pandey
+    - 15.5:
+        non_striker: SN Thakur
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MK Pandey
+    - 15.6:
+        non_striker: SN Thakur
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MK Pandey
+    - 15.7:
+        non_striker: MK Pandey
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SN Thakur
+    - 16.1:
+        non_striker: MK Pandey
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SN Thakur
+    - 16.2:
+        non_striker: MK Pandey
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SN Thakur
+    - 16.3:
+        non_striker: MK Pandey
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Thakur
+        wicket:
+          player_out: SN Thakur
+          fielders:
+          - TG Southee
+          kind: caught
+    - 16.4:
+        non_striker: YS Chahal
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Pandey
+    - 16.5:
+        non_striker: YS Chahal
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Pandey
+    - 16.6:
+        non_striker: YS Chahal
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 17.1:
+        non_striker: YS Chahal
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 17.2:
+        non_striker: MK Pandey
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chahal
+    - 17.3:
+        non_striker: YS Chahal
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Pandey
+    - 17.4:
+        non_striker: YS Chahal
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 17.5:
+        non_striker: MK Pandey
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+        wicket:
+          player_out: YS Chahal
+          fielders:
+          - TL Seifert
+          kind: caught
+    - 17.6:
+        non_striker: MK Pandey
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Saini
+    - 18.1:
+        non_striker: MK Pandey
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Saini
+    - 18.2:
+        non_striker: MK Pandey
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Saini
+    - 18.3:
+        non_striker: MK Pandey
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Saini
+    - 18.4:
+        non_striker: MK Pandey
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Saini
+    - 18.5:
+        non_striker: MK Pandey
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Saini
+    - 18.6:
+        non_striker: MK Pandey
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Saini
+    - 19.1:
+        non_striker: NA Saini
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Pandey
+    - 19.2:
+        non_striker: NA Saini
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 19.3:
+        non_striker: MK Pandey
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: NA Saini
+    - 19.4:
+        non_striker: NA Saini
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MK Pandey
+    - 19.5:
+        non_striker: NA Saini
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Pandey
+    - 19.6:
+        non_striker: NA Saini
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 19.7:
+        non_striker: MK Pandey
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: NA Saini
+- 2nd innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: C Munro
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 0.2:
+        non_striker: MJ Guptill
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 0.3:
+        non_striker: MJ Guptill
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 0.4:
+        non_striker: C Munro
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 0.5:
+        non_striker: C Munro
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 0.6:
+        non_striker: MJ Guptill
+        bowler: SN Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Munro
+    - 1.1:
+        non_striker: MJ Guptill
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 1.2:
+        non_striker: MJ Guptill
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 1.3:
+        non_striker: MJ Guptill
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 1.4:
+        non_striker: MJ Guptill
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 1.5:
+        non_striker: MJ Guptill
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 1.6:
+        non_striker: MJ Guptill
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 2.1:
+        non_striker: MJ Guptill
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 2.2:
+        non_striker: MJ Guptill
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 2.3:
+        non_striker: C Munro
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJ Guptill
+    - 2.4:
+        non_striker: MJ Guptill
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 2.5:
+        non_striker: MJ Guptill
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 2.6:
+        non_striker: C Munro
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 3.1:
+        non_striker: MJ Guptill
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 3.2:
+        non_striker: MJ Guptill
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 3.3:
+        non_striker: MJ Guptill
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 3.4:
+        non_striker: MJ Guptill
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 3.5:
+        non_striker: C Munro
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 3.6:
+        non_striker: C Munro
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 4.1:
+        non_striker: MJ Guptill
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 4.2:
+        non_striker: C Munro
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+        wicket:
+          player_out: MJ Guptill
+          fielders:
+          - KL Rahul
+          kind: caught
+    - 4.3:
+        non_striker: TL Seifert
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 4.4:
+        non_striker: TL Seifert
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 4.5:
+        non_striker: TL Seifert
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 4.6:
+        non_striker: C Munro
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 5.1:
+        non_striker: TL Seifert
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 5.2:
+        non_striker: TL Seifert
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 5.3:
+        non_striker: TL Seifert
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 5.4:
+        non_striker: TL Seifert
+        bowler: SN Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Munro
+    - 5.5:
+        non_striker: TL Seifert
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 5.6:
+        non_striker: C Munro
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 5.7:
+        non_striker: C Munro
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 6.1:
+        non_striker: TL Seifert
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 6.2:
+        non_striker: TL Seifert
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 6.3:
+        non_striker: C Munro
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 6.4:
+        non_striker: TL Seifert
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 6.5:
+        non_striker: TL Seifert
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 6.6:
+        non_striker: C Munro
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 7.1:
+        non_striker: C Munro
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 7.2:
+        non_striker: C Munro
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 7.3:
+        non_striker: TL Seifert
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 7.4:
+        non_striker: TL Seifert
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 7.5:
+        non_striker: TL Seifert
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 7.6:
+        non_striker: C Munro
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 8.1:
+        non_striker: C Munro
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 8.2:
+        non_striker: TL Seifert
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 8.3:
+        non_striker: TL Seifert
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 8.4:
+        non_striker: TL Seifert
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 8.5:
+        non_striker: TL Seifert
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 8.6:
+        non_striker: C Munro
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 9.1:
+        non_striker: TL Seifert
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 9.2:
+        non_striker: TL Seifert
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 9.3:
+        non_striker: TL Seifert
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 9.4:
+        non_striker: TL Seifert
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 9.5:
+        non_striker: TL Seifert
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 9.6:
+        non_striker: TL Seifert
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 10.1:
+        non_striker: TL Seifert
+        bowler: NA Saini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Munro
+    - 10.2:
+        non_striker: TL Seifert
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 10.3:
+        non_striker: C Munro
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 10.4:
+        non_striker: C Munro
+        bowler: NA Saini
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: TL Seifert
+    - 10.5:
+        non_striker: C Munro
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 10.6:
+        non_striker: TL Seifert
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 10.7:
+        non_striker: TL Seifert
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 11.1:
+        non_striker: C Munro
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 11.2:
+        non_striker: TL Seifert
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 11.3:
+        non_striker: C Munro
+        bowler: S Dube
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TL Seifert
+    - 11.4:
+        non_striker: TL Seifert
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          kind: run out
+    - 11.5:
+        non_striker: TL Seifert
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 11.6:
+        non_striker: TL Seifert
+        bowler: S Dube
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TC Bruce
+    - 12.1:
+        non_striker: TL Seifert
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+        wicket:
+          player_out: TC Bruce
+          kind: bowled
+    - 12.2:
+        non_striker: TL Seifert
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 12.3:
+        non_striker: LRPL Taylor
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 12.4:
+        non_striker: TL Seifert
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 12.5:
+        non_striker: LRPL Taylor
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 12.6:
+        non_striker: TL Seifert
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 13.1:
+        non_striker: TL Seifert
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 13.2:
+        non_striker: LRPL Taylor
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 13.3:
+        non_striker: TL Seifert
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 13.4:
+        non_striker: LRPL Taylor
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 13.5:
+        non_striker: TL Seifert
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 13.6:
+        non_striker: LRPL Taylor
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 14.1:
+        non_striker: TL Seifert
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 14.2:
+        non_striker: LRPL Taylor
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 14.3:
+        non_striker: LRPL Taylor
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 14.4:
+        non_striker: TL Seifert
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LRPL Taylor
+    - 14.5:
+        non_striker: TL Seifert
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LRPL Taylor
+    - 14.6:
+        non_striker: TL Seifert
+        bowler: YS Chahal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LRPL Taylor
+    - 14.7:
+        non_striker: TL Seifert
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LRPL Taylor
+    - 15.1:
+        non_striker: LRPL Taylor
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 15.2:
+        non_striker: TL Seifert
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LRPL Taylor
+    - 15.3:
+        non_striker: LRPL Taylor
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 15.4:
+        non_striker: LRPL Taylor
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 15.5:
+        non_striker: LRPL Taylor
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 15.6:
+        non_striker: TL Seifert
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 16.1:
+        non_striker: TL Seifert
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LRPL Taylor
+    - 16.2:
+        non_striker: TL Seifert
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 16.3:
+        non_striker: LRPL Taylor
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 16.4:
+        non_striker: TL Seifert
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 16.5:
+        non_striker: LRPL Taylor
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 16.6:
+        non_striker: LRPL Taylor
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 17.1:
+        non_striker: LRPL Taylor
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 17.2:
+        non_striker: LRPL Taylor
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 17.3:
+        non_striker: TL Seifert
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 17.4:
+        non_striker: LRPL Taylor
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 17.5:
+        non_striker: LRPL Taylor
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 17.6:
+        non_striker: LRPL Taylor
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 18.1:
+        non_striker: LRPL Taylor
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 18.2:
+        non_striker: LRPL Taylor
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 18.3:
+        non_striker: LRPL Taylor
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 18.4:
+        non_striker: LRPL Taylor
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 18.5:
+        non_striker: LRPL Taylor
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 18.6:
+        non_striker: TL Seifert
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 19.1:
+        non_striker: TL Seifert
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+        wicket:
+          player_out: LRPL Taylor
+          fielders:
+          - SS Iyer
+          kind: caught
+    - 19.2:
+        non_striker: TL Seifert
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 19.3:
+        non_striker: TL Seifert
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+        wicket:
+          player_out: TL Seifert
+          kind: run out
+    - 19.4:
+        non_striker: DJ Mitchell
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 19.5:
+        non_striker: MJ Santner
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+        wicket:
+          player_out: DJ Mitchell
+          fielders:
+          - S Dube
+          kind: caught
+    - 19.6:
+        non_striker: SC Kuggeleijn
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+        wicket:
+          player_out: MJ Santner
+          kind: run out
+- New Zealand Super Over:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: C Munro
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 0.2:
+        non_striker: C Munro
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 0.3:
+        non_striker: C Munro
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 0.4:
+        non_striker: C Munro
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          fielders:
+          - Washington Sundar
+          kind: caught
+    - 0.5:
+        non_striker: SC Kuggeleijn
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 0.6:
+        non_striker: SC Kuggeleijn
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+- India Super Over:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: V Kohli
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 0.2:
+        non_striker: V Kohli
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 0.3:
+        non_striker: V Kohli
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+        wicket:
+          player_out: KL Rahul
+          fielders:
+          - SC Kuggeleijn
+          kind: caught
+    - 0.4:
+        non_striker: SV Samson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 0.5:
+        non_striker: SV Samson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli

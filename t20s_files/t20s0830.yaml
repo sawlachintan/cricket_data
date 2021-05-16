@@ -1,0 +1,2138 @@
+---
+meta:
+  data_version: 0.9
+  created: '2020-07-06'
+  revision: 1
+info:
+  city: Rotterdam
+  dates:
+  - '2018-06-12'
+  gender: male
+  match_type: T20
+  match_type_number: 670
+  outcome:
+    winner: Netherlands
+    by:
+      runs: 4
+  overs: 20
+  teams:
+  - Netherlands
+  - Ireland
+  toss:
+    decision: field
+    winner: Ireland
+  umpires:
+  - AJ Neill
+  - Rizwan Akram
+  venue: Hazelaarweg
+innings:
+- 1st innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        bowler: JNK Shannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MP O'Dowd
+        batsman: TP Visee
+    - 0.2:
+        non_striker: TP Visee
+        bowler: JNK Shannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 0.3:
+        non_striker: MP O'Dowd
+        bowler: JNK Shannon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Visee
+    - 0.4:
+        non_striker: MP O'Dowd
+        bowler: JNK Shannon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Visee
+    - 0.5:
+        non_striker: MP O'Dowd
+        bowler: JNK Shannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Visee
+    - 0.6:
+        non_striker: TP Visee
+        bowler: JNK Shannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 1.1:
+        non_striker: MP O'Dowd
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Visee
+    - 1.2:
+        non_striker: TP Visee
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP O'Dowd
+    - 1.3:
+        non_striker: TP Visee
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 1.4:
+        non_striker: TP Visee
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 1.5:
+        non_striker: TP Visee
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 1.6:
+        non_striker: TP Visee
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 1.7:
+        non_striker: MP O'Dowd
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Visee
+    - 2.1:
+        non_striker: TP Visee
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 2.2:
+        non_striker: MP O'Dowd
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Visee
+    - 2.3:
+        non_striker: MP O'Dowd
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Visee
+        wicket:
+          player_out: TP Visee
+          fielders:
+          - SR Thompson
+          kind: caught
+    - 2.4:
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BN Cooper
+        batsman: MP O'Dowd
+    - 2.5:
+        non_striker: MP O'Dowd
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 2.6:
+        non_striker: MP O'Dowd
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 3.1:
+        non_striker: MP O'Dowd
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 3.2:
+        non_striker: MP O'Dowd
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 3.3:
+        non_striker: MP O'Dowd
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BN Cooper
+    - 3.4:
+        non_striker: MP O'Dowd
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 3.5:
+        non_striker: MP O'Dowd
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 3.6:
+        non_striker: BN Cooper
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 4.1:
+        non_striker: MP O'Dowd
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BN Cooper
+    - 4.2:
+        non_striker: MP O'Dowd
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 4.3:
+        non_striker: BN Cooper
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 4.4:
+        non_striker: MP O'Dowd
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 4.5:
+        non_striker: MP O'Dowd
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 4.6:
+        non_striker: BN Cooper
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 5.1:
+        non_striker: MP O'Dowd
+        bowler: SR Thompson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BN Cooper
+    - 5.2:
+        non_striker: MP O'Dowd
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+        wicket:
+          player_out: BN Cooper
+          fielders:
+          - SW Poynter
+          kind: caught
+    - 5.3:
+        non_striker: MP O'Dowd
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Zulfiqar
+    - 5.4:
+        non_striker: MP O'Dowd
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqib Zulfiqar
+    - 5.5:
+        non_striker: Saqib Zulfiqar
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 5.6:
+        non_striker: Saqib Zulfiqar
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 5.7:
+        non_striker: MP O'Dowd
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Zulfiqar
+    - 6.1:
+        non_striker: Saqib Zulfiqar
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+        wicket:
+          player_out: MP O'Dowd
+          kind: run out
+    - 6.2:
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BFW de Leede
+        batsman: Saqib Zulfiqar
+    - 6.3:
+        non_striker: BFW de Leede
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Zulfiqar
+        wicket:
+          player_out: Saqib Zulfiqar
+          kind: bowled
+    - 6.4:
+        non_striker: BFW de Leede
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Seelaar
+    - 6.5:
+        non_striker: BFW de Leede
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Seelaar
+    - 6.6:
+        non_striker: PM Seelaar
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 7.1:
+        non_striker: BFW de Leede
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Seelaar
+    - 7.2:
+        non_striker: BFW de Leede
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Seelaar
+    - 7.3:
+        non_striker: PM Seelaar
+        bowler: SR Thompson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BFW de Leede
+    - 7.4:
+        non_striker: PM Seelaar
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 7.5:
+        non_striker: PM Seelaar
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 7.6:
+        non_striker: BFW de Leede
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Seelaar
+    - 7.7:
+        non_striker: PM Seelaar
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 8.1:
+        non_striker: BFW de Leede
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Seelaar
+    - 8.2:
+        non_striker: PM Seelaar
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 8.3:
+        non_striker: PM Seelaar
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 8.4:
+        non_striker: BFW de Leede
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Seelaar
+    - 8.5:
+        non_striker: PM Seelaar
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 8.6:
+        non_striker: PM Seelaar
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 9.1:
+        non_striker: PM Seelaar
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 9.2:
+        non_striker: BFW de Leede
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Seelaar
+    - 9.3:
+        non_striker: BFW de Leede
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Seelaar
+    - 9.4:
+        non_striker: BFW de Leede
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Seelaar
+    - 9.5:
+        non_striker: PM Seelaar
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 9.6:
+        non_striker: PM Seelaar
+        bowler: SR Thompson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BFW de Leede
+    - 9.7:
+        non_striker: PM Seelaar
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 10.1:
+        non_striker: PM Seelaar
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 10.2:
+        non_striker: PM Seelaar
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 10.3:
+        non_striker: BFW de Leede
+        bowler: GH Dockrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: PM Seelaar
+    - 10.4:
+        non_striker: PM Seelaar
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 10.5:
+        non_striker: PM Seelaar
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 10.6:
+        non_striker: BFW de Leede
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Seelaar
+    - 11.1:
+        non_striker: PM Seelaar
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 11.2:
+        non_striker: BFW de Leede
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Seelaar
+    - 11.3:
+        non_striker: BFW de Leede
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Seelaar
+    - 11.4:
+        non_striker: BFW de Leede
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Seelaar
+    - 11.5:
+        non_striker: BFW de Leede
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Seelaar
+    - 11.6:
+        non_striker: BFW de Leede
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Seelaar
+    - 12.1:
+        non_striker: PM Seelaar
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 12.2:
+        non_striker: PM Seelaar
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BFW de Leede
+    - 12.3:
+        non_striker: PM Seelaar
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 12.4:
+        non_striker: BFW de Leede
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PM Seelaar
+    - 12.5:
+        non_striker: BFW de Leede
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Seelaar
+    - 12.6:
+        non_striker: PM Seelaar
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 12.7:
+        non_striker: PM Seelaar
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BFW de Leede
+    - 13.1:
+        non_striker: BFW de Leede
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Seelaar
+    - 13.2:
+        non_striker: BFW de Leede
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Seelaar
+    - 13.3:
+        non_striker: BFW de Leede
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Seelaar
+    - 13.4:
+        non_striker: BFW de Leede
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Seelaar
+    - 13.5:
+        non_striker: PM Seelaar
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 13.6:
+        non_striker: BFW de Leede
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Seelaar
+    - 14.1:
+        non_striker: BFW de Leede
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Seelaar
+    - 14.2:
+        non_striker: BFW de Leede
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Seelaar
+    - 14.3:
+        non_striker: BFW de Leede
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Seelaar
+    - 14.4:
+        non_striker: BFW de Leede
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Seelaar
+    - 14.5:
+        non_striker: PM Seelaar
+        bowler: SR Thompson
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: BFW de Leede
+    - 14.6:
+        non_striker: PM Seelaar
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 15.1:
+        non_striker: PM Seelaar
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BFW de Leede
+    - 15.2:
+        non_striker: PM Seelaar
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 15.3:
+        non_striker: BFW de Leede
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Seelaar
+        wicket:
+          player_out: PM Seelaar
+          fielders:
+          - PR Stirling
+          kind: caught
+    - 15.4:
+        non_striker: BFW de Leede
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikander Zulfiqar
+    - 15.5:
+        non_striker: BFW de Leede
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikander Zulfiqar
+    - 15.6:
+        non_striker: BFW de Leede
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikander Zulfiqar
+    - 16.1:
+        non_striker: BFW de Leede
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikander Zulfiqar
+        wicket:
+          player_out: Sikander Zulfiqar
+          kind: lbw
+    - 16.2:
+        non_striker: BFW de Leede
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 16.3:
+        non_striker: SA Edwards
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BFW de Leede
+    - 16.4:
+        non_striker: SA Edwards
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 16.5:
+        non_striker: BFW de Leede
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 16.6:
+        non_striker: SA Edwards
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BFW de Leede
+    - 17.1:
+        non_striker: BFW de Leede
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 17.2:
+        non_striker: SA Edwards
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 17.3:
+        non_striker: BFW de Leede
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 17.4:
+        non_striker: SA Edwards
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 17.5:
+        non_striker: BFW de Leede
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 17.6:
+        non_striker: SA Edwards
+        bowler: Simi Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BFW de Leede
+    - 18.1:
+        non_striker: SA Edwards
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BFW de Leede
+    - 18.2:
+        non_striker: SA Edwards
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 18.3:
+        non_striker: SA Edwards
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+        wicket:
+          player_out: BFW de Leede
+          kind: bowled
+    - 18.4:
+        non_striker: SA Edwards
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Snater
+    - 18.5:
+        non_striker: S Snater
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 18.6:
+        non_striker: SA Edwards
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Snater
+        wicket:
+          player_out: S Snater
+          kind: run out
+    - 19.1:
+        non_striker: FJ Klaassen
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+        wicket:
+          player_out: SA Edwards
+          fielders:
+          - GH Dockrell
+          kind: caught
+    - 19.2:
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PA van Meekeren
+        batsman: FJ Klaassen
+    - 19.3:
+        non_striker: FJ Klaassen
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA van Meekeren
+    - 19.4:
+        non_striker: FJ Klaassen
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA van Meekeren
+    - 19.5:
+        non_striker: FJ Klaassen
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA van Meekeren
+        wicket:
+          player_out: PA van Meekeren
+          fielders:
+          - SR Thompson
+          kind: caught
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: PR Stirling
+        batsman: SR Thompson
+    - 0.2:
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PR Stirling
+        batsman: SR Thompson
+    - 0.3:
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PR Stirling
+        batsman: SR Thompson
+    - 0.4:
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: PR Stirling
+        batsman: SR Thompson
+    - 0.5:
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PR Stirling
+        batsman: SR Thompson
+    - 0.6:
+        non_striker: PR Stirling
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 1.1:
+        non_striker: SR Thompson
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.2:
+        non_striker: PR Stirling
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Thompson
+    - 1.3:
+        non_striker: SR Thompson
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.4:
+        non_striker: SR Thompson
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.5:
+        non_striker: PR Stirling
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Thompson
+    - 1.6:
+        non_striker: PR Stirling
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Thompson
+    - 2.1:
+        non_striker: SR Thompson
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 2.2:
+        non_striker: PR Stirling
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 2.3:
+        non_striker: PR Stirling
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+        wicket:
+          player_out: SR Thompson
+          fielders:
+          - SA Edwards
+          kind: caught
+    - 2.4:
+        non_striker: PR Stirling
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 2.5:
+        non_striker: WTS Porterfield
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.6:
+        non_striker: WTS Porterfield
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.1:
+        non_striker: PR Stirling
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 3.2:
+        non_striker: WTS Porterfield
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.3:
+        non_striker: WTS Porterfield
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.4:
+        non_striker: WTS Porterfield
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.5:
+        non_striker: WTS Porterfield
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.6:
+        non_striker: WTS Porterfield
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 4.1:
+        non_striker: PR Stirling
+        bowler: FJ Klaassen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WTS Porterfield
+    - 4.2:
+        non_striker: PR Stirling
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 4.3:
+        non_striker: PR Stirling
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+        wicket:
+          player_out: WTS Porterfield
+          fielders:
+          - BN Cooper
+          kind: caught
+    - 4.4:
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GC Wilson
+        batsman: PR Stirling
+    - 4.5:
+        non_striker: PR Stirling
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 4.6:
+        non_striker: PR Stirling
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 4.7:
+        non_striker: PR Stirling
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 5.1:
+        non_striker: GC Wilson
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.2:
+        non_striker: GC Wilson
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 5.3:
+        non_striker: GC Wilson
+        bowler: S Snater
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: PR Stirling
+    - 5.4:
+        non_striker: GC Wilson
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 5.5:
+        non_striker: GC Wilson
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.6:
+        non_striker: GC Wilson
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.7:
+        non_striker: GC Wilson
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 6.1:
+        non_striker: GC Wilson
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 6.2:
+        non_striker: PR Stirling
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 6.3:
+        non_striker: GC Wilson
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 6.4:
+        non_striker: PR Stirling
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 6.5:
+        non_striker: GC Wilson
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 6.6:
+        non_striker: GC Wilson
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - SA Edwards
+          kind: stumped
+    - 7.1:
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KJ O'Brien
+        batsman: GC Wilson
+    - 7.2:
+        non_striker: GC Wilson
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 7.3:
+        non_striker: KJ O'Brien
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 7.4:
+        non_striker: GC Wilson
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 7.5:
+        non_striker: GC Wilson
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 7.6:
+        non_striker: GC Wilson
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 8.1:
+        non_striker: GC Wilson
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 8.2:
+        non_striker: KJ O'Brien
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 8.3:
+        non_striker: GC Wilson
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 8.4:
+        non_striker: KJ O'Brien
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 8.5:
+        non_striker: KJ O'Brien
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 8.6:
+        non_striker: KJ O'Brien
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+        wicket:
+          player_out: GC Wilson
+          kind: bowled
+    - 9.1:
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JNK Shannon
+        batsman: KJ O'Brien
+    - 9.2:
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JNK Shannon
+        batsman: KJ O'Brien
+    - 9.3:
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JNK Shannon
+        batsman: KJ O'Brien
+    - 9.4:
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: JNK Shannon
+        batsman: KJ O'Brien
+    - 9.5:
+        non_striker: JNK Shannon
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+        wicket:
+          player_out: KJ O'Brien
+          fielders:
+          - PM Seelaar
+          kind: caught
+    - 9.6:
+        non_striker: SW Poynter
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JNK Shannon
+    - 10.1:
+        non_striker: JNK Shannon
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Poynter
+    - 10.2:
+        non_striker: JNK Shannon
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Poynter
+    - 10.3:
+        non_striker: SW Poynter
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JNK Shannon
+    - 10.4:
+        non_striker: SW Poynter
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JNK Shannon
+    - 10.5:
+        non_striker: SW Poynter
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JNK Shannon
+    - 10.6:
+        non_striker: JNK Shannon
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Poynter
+    - 11.1:
+        non_striker: JNK Shannon
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Poynter
+    - 11.2:
+        non_striker: SW Poynter
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JNK Shannon
+        wicket:
+          player_out: JNK Shannon
+          fielders:
+          - PM Seelaar
+          kind: caught
+    - 11.3:
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Simi Singh
+        batsman: SW Poynter
+    - 11.4:
+        non_striker: SW Poynter
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simi Singh
+    - 11.5:
+        non_striker: SW Poynter
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 11.6:
+        non_striker: Simi Singh
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Poynter
+    - 12.1:
+        non_striker: Simi Singh
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Poynter
+    - 12.2:
+        non_striker: Simi Singh
+        bowler: FJ Klaassen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Poynter
+    - 12.3:
+        non_striker: Simi Singh
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Poynter
+    - 12.4:
+        non_striker: Simi Singh
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Poynter
+    - 12.5:
+        non_striker: Simi Singh
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Poynter
+    - 12.6:
+        non_striker: SW Poynter
+        bowler: FJ Klaassen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Simi Singh
+    - 12.7:
+        non_striker: SW Poynter
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 12.8:
+        non_striker: Simi Singh
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Poynter
+    - 13.1:
+        non_striker: Simi Singh
+        bowler: MP O'Dowd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Poynter
+        wicket:
+          player_out: SW Poynter
+          kind: bowled
+    - 13.2:
+        non_striker: Simi Singh
+        bowler: MP O'Dowd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 13.3:
+        non_striker: GH Dockrell
+        bowler: MP O'Dowd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 13.4:
+        non_striker: Simi Singh
+        bowler: MP O'Dowd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 13.5:
+        non_striker: GH Dockrell
+        bowler: MP O'Dowd
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Simi Singh
+    - 13.6:
+        non_striker: GH Dockrell
+        bowler: MP O'Dowd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 14.1:
+        non_striker: GH Dockrell
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 14.2:
+        non_striker: Simi Singh
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 14.3:
+        non_striker: GH Dockrell
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Simi Singh
+    - 14.4:
+        non_striker: GH Dockrell
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 14.5:
+        non_striker: Simi Singh
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 14.6:
+        non_striker: GH Dockrell
+        bowler: Saqib Zulfiqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 15.1:
+        non_striker: GH Dockrell
+        bowler: S Snater
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Simi Singh
+    - 15.2:
+        non_striker: GH Dockrell
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 15.3:
+        non_striker: Simi Singh
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 15.4:
+        non_striker: Simi Singh
+        bowler: S Snater
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: GH Dockrell
+    - 15.5:
+        non_striker: Simi Singh
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 15.6:
+        non_striker: GH Dockrell
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simi Singh
+    - 15.7:
+        non_striker: GH Dockrell
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 15.8:
+        non_striker: Simi Singh
+        bowler: S Snater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 16.1:
+        non_striker: GH Dockrell
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Simi Singh
+    - 16.2:
+        non_striker: GH Dockrell
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 16.3:
+        non_striker: Simi Singh
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 16.4:
+        non_striker: Simi Singh
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+        wicket:
+          player_out: GH Dockrell
+          fielders:
+          - S Snater
+          kind: caught
+    - 16.5:
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: BJ McCarthy
+        batsman: Simi Singh
+    - 16.6:
+        non_striker: BJ McCarthy
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 17.1:
+        non_striker: BJ McCarthy
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Simi Singh
+    - 17.2:
+        non_striker: BJ McCarthy
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Simi Singh
+    - 17.3:
+        non_striker: BJ McCarthy
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simi Singh
+    - 17.4:
+        non_striker: BJ McCarthy
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 17.5:
+        non_striker: Simi Singh
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ McCarthy
+    - 17.6:
+        non_striker: Simi Singh
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McCarthy
+    - 18.1:
+        non_striker: Simi Singh
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McCarthy
+    - 18.2:
+        non_striker: BJ McCarthy
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Simi Singh
+    - 18.3:
+        non_striker: BJ McCarthy
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Simi Singh
+    - 18.4:
+        non_striker: BJ McCarthy
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Simi Singh
+    - 18.5:
+        non_striker: BJ McCarthy
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 18.6:
+        non_striker: Simi Singh
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ McCarthy
+    - 19.1:
+        non_striker: BJ McCarthy
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Simi Singh
+    - 19.2:
+        non_striker: BJ McCarthy
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Simi Singh
+    - 19.3:
+        non_striker: BJ McCarthy
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 19.4:
+        non_striker: Simi Singh
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McCarthy
+    - 19.5:
+        non_striker: Simi Singh
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McCarthy
+    - 19.6:
+        non_striker: BJ McCarthy
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh

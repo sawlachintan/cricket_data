@@ -42,8 +42,9 @@ readme = readme[4:]
 
 table = list()
 for x in readme:
-    if x[0] == '|':
-        table.append(x)
+    if x[0] != '|':
+        break
+    table.append(x)
 
 table = [x.split('| ') for x in table]
 
@@ -240,6 +241,11 @@ for type_cric in input_list:
                 zipObj.extract(filename, './')
 
     files_list = list()
+
+    if type_cric == 't20s':
+        with open('./README.txt','a') as file_obj:
+            file_obj.write('\n')
+            file_obj.write('2019-05-05 - international - T20 - female - 1182643 - Kenya vs Namibia')
 
     with open('./README.txt', 'r') as readme:
         for line in readme:

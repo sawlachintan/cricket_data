@@ -1,0 +1,49 @@
+---
+meta:
+  data_version: 0.9
+  created: 2013-06-28
+  revision: 2
+info:
+  city: London
+  dates:
+    - 2013-06-27
+  gender: male
+  match_type: T20
+  outcome:
+    result: no result
+  overs: 20
+  teams:
+    - England
+    - New Zealand
+  toss:
+    decision: field
+    winner: New Zealand
+  umpires:
+    - RK Illingworth
+    - RT Robinson
+  venue: Kennington Oval
+innings:
+  - 1st innings:
+      team: England
+      deliveries:
+        - 0.1:
+            batsman: MJ Lumb
+            bowler: MJ McClenaghan
+            non_striker: AD Hales
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 0.2:
+            batsman: MJ Lumb
+            bowler: MJ McClenaghan
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - BB McCullum
+              kind: caught
+              player_out: MJ Lumb
