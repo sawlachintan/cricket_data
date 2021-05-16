@@ -434,12 +434,12 @@ for type_cric in input_list:
                 supersub_dict['team'] = key
                 supersub_dict['player'] = temp_info['supersubs'][key]
                 supersub_df = supersub_df.append(supersub_dict, ignore_index=True)
-                supersub_dict = None
+                supersub_dict.clear()
         else:
             supersub_dict = {'key_id': type_cric +
                              str(format(i, '04d')), 'team': np.nan, 'player': np.nan}
             supersub_df = supersub_df.append(supersub_dict, ignore_index=True)
-            supersub_dict = np.nan
+            supersub_dict.clear()
 
         if 'bowl_out' in temp_info.keys():
             bo_dict = dict()
