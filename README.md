@@ -21,10 +21,10 @@ The 6 files are: <br>
 
 ### Game types available <br>
 
-| Game Type             | Abbreviation | Link |
-| --------------------- | ------------ | ---- |
-| Indian Premier League | IPL          | xyz  |
-| Pakistan Super League | PSL          | klm  |
+| Game Type             | Abbreviation | Link                                                             |
+| --------------------- | ------------ | ---------------------------------------------------------------- |
+| Indian Premier League | IPL          | [IPL Data](https://sawlachintan.github.io/cricket_data/ipl_data) |
+| Pakistan Super League | PSL          | [PSL Data](https://sawlachintan.github.io/cricket_data/psl_data) |
 
 ### Strucutre of the dataframes
 
@@ -81,8 +81,6 @@ The 6 files are: <br>
 | Key_ID        | string | A common ID to relate info across dataframes    |
 | Toss winner   | string | Name of the team winning the toss for the match |
 | Toss decision | string | Choice of team winning the toss                 |
-
----
 
 **Innings**
 
