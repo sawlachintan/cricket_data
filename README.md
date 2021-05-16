@@ -21,10 +21,10 @@ The 6 files are: <br>
 
 ### Game types available <br>
 
-| Game Type             | Abbreviation | Link                                                             |
-| --------------------- | ------------ | ---------------------------------------------------------------- |
-| Indian Premier League | IPL          | [IPL Data](https://sawlachintan.github.io/cricket_data/ipl_data) |
-| Pakistan Super League | PSL          | [PSL Data](https://sawlachintan.github.io/cricket_data/psl_data) |
+| Game Type             | Abbreviation | Link                   |
+| --------------------- | ------------ | ---------------------- |
+| Indian Premier League | IPL          | [IPL Data](./ipl_data) |
+| Pakistan Super League | PSL          | [PSL Data](./psl_data) |
 
 ### Strucutre of the dataframes
 
