@@ -600,105 +600,105 @@ for type_cric in input_list:
 
     #code for innings
 
-    # for i in range(1, len(files_list)+1):
-    #     path = './' + type_cric + '_files/' + type_cric + str(format(i,'04d')) + '.yaml'
-    #     key_id = type_cric + str(format(i,'04d'))
-    #     if key_id in list(innings_df['key_id']):
-    #         continue
-    #     else:
-    #         print(i,'lol')
+    for i in range(1, len(files_list)+1):
+        path = './' + type_cric + '_files/' + type_cric + str(format(i,'04d')) + '.yaml'
+        key_id = type_cric + str(format(i,'04d'))
+        if key_id in list(innings_df['key_id']):
+            continue
+        else:
+            print(i,'lol')
         
-    #     with open(path) as f:
-    #         cric_dict = yaml.load(f)
-    #     temp_info = cric_dict['innings']
-    #     #loop over list
-    #     for x in temp_info:
-    #         # print(x)
-    #         #loop over dictionary
-    #         for y in x:
-    #             if 'super over' in y.lower():
-    #                 innings_no += 1
-    #             else:
-    #                 innings_no = int(y[0])
-    #             # print(innings_no)
-    #             # print(x[y])
-    #             team_name = x[y]['team']
-    #             # print(team_name)
-    #             all_deliveries = x[y]['deliveries']
-    #             for z in all_deliveries:
-    #                 delivery_no = list(z.keys())[0]
-    #                 non_striker = z[delivery_no]['non_striker']
-    #                 bowler = z[delivery_no]['bowler']
-    #                 batsman = z[delivery_no]['batsman']
-    #                 runs_batsman = z[delivery_no]['runs']['batsman']
-    #                 runs_extras = z[delivery_no]['runs']['extras']
-    #                 if 'non_boundary' in z[delivery_no]['runs'].keys():
-    #                     runs_non_boundary = z[delivery_no]['runs']['non_boundary']
-    #                 else:
-    #                     runs_non_boundary = 0
-    #                 runs_total = z[delivery_no]['runs']['total']
+        with open(path) as f:
+            cric_dict = yaml.load(f)
+        temp_info = cric_dict['innings']
+        #loop over list
+        for x in temp_info:
+            # print(x)
+            #loop over dictionary
+            for y in x:
+                if 'super over' in y.lower():
+                    innings_no += 1
+                else:
+                    innings_no = int(y[0])
+                # print(innings_no)
+                # print(x[y])
+                team_name = x[y]['team']
+                # print(team_name)
+                all_deliveries = x[y]['deliveries']
+                for z in all_deliveries:
+                    delivery_no = list(z.keys())[0]
+                    non_striker = z[delivery_no]['non_striker']
+                    bowler = z[delivery_no]['bowler']
+                    batsman = z[delivery_no]['batsman']
+                    runs_batsman = z[delivery_no]['runs']['batsman']
+                    runs_extras = z[delivery_no]['runs']['extras']
+                    if 'non_boundary' in z[delivery_no]['runs'].keys():
+                        runs_non_boundary = z[delivery_no]['runs']['non_boundary']
+                    else:
+                        runs_non_boundary = 0
+                    runs_total = z[delivery_no]['runs']['total']
 
-    #                 # This is not the accurate way, only the first wicket has to be taken, 
-    #                 # coz of the one instance where 2 wickets took place in the same ball
-    #                 if 'wicket' in z[delivery_no].keys():
-    #                     # print(z[delivery_no]['wicket'])
-    #                     if 'fielders' in z[delivery_no]['wicket'].keys():
-    #                         wicket_fielder = z[delivery_no]['wicket']['fielders'][0]
-    #                     else:
-    #                         wicket_fielder = np.nan
-    #                     wicket_kind = z[delivery_no]['wicket']['kind']
-    #                     wicket_player_out = z[delivery_no]['wicket']['player_out']
-    #                 else:
-    #                     wicket_fielder = np.nan
-    #                     wicket_kind = np.nan
-    #                     wicket_player_out = np.nan
+                    # This is not the accurate way, only the first wicket has to be taken, 
+                    # coz of the one instance where 2 wickets took place in the same ball
+                    if 'wicket' in z[delivery_no].keys():
+                        # print(z[delivery_no]['wicket'])
+                        if 'fielders' in z[delivery_no]['wicket'].keys():
+                            wicket_fielder = z[delivery_no]['wicket']['fielders'][0]
+                        else:
+                            wicket_fielder = np.nan
+                        wicket_kind = z[delivery_no]['wicket']['kind']
+                        wicket_player_out = z[delivery_no]['wicket']['player_out']
+                    else:
+                        wicket_fielder = np.nan
+                        wicket_kind = np.nan
+                        wicket_player_out = np.nan
 
-    #                 if 'extras' in z[delivery_no].keys():
-    #                     extras_type = list(z[delivery_no]['extras'].keys())[0]
-    #                     extras_runs = z[delivery_no]['extras'][extras_type]
-    #                 else:
-    #                     extras_type = np.nan
-    #                     extras_runs = np.nan
+                    if 'extras' in z[delivery_no].keys():
+                        extras_type = list(z[delivery_no]['extras'].keys())[0]
+                        extras_runs = z[delivery_no]['extras'][extras_type]
+                    else:
+                        extras_type = np.nan
+                        extras_runs = np.nan
 
-    #                 innings_dict = dict()
-    #                 innings_dict['key_id'] = type_cric + str(format(i,'04d'))
-    #                 innings_dict['innings_no'] = innings_no
-    #                 innings_dict['team'] = team_name
-    #                 innings_dict['ball'] = delivery_no
-    #                 innings_dict['batsman'] = batsman
-    #                 innings_dict['bowler'] = bowler
-    #                 innings_dict['non_striker'] = non_striker
-    #                 innings_dict['runs_batsman'] = runs_batsman
-    #                 innings_dict['runs_extras'] = runs_extras
-    #                 innings_dict['runs_non_boundary'] = runs_non_boundary
-    #                 innings_dict['runs_total'] = runs_total
+                    innings_dict = dict()
+                    innings_dict['key_id'] = type_cric + str(format(i,'04d'))
+                    innings_dict['innings_no'] = innings_no
+                    innings_dict['team'] = team_name
+                    innings_dict['ball'] = delivery_no
+                    innings_dict['batsman'] = batsman
+                    innings_dict['bowler'] = bowler
+                    innings_dict['non_striker'] = non_striker
+                    innings_dict['runs_batsman'] = runs_batsman
+                    innings_dict['runs_extras'] = runs_extras
+                    innings_dict['runs_non_boundary'] = runs_non_boundary
+                    innings_dict['runs_total'] = runs_total
                     
-    #                 innings_dict['wicket_fielder'] = wicket_fielder
-    #                 innings_dict['wicket_kind'] = wicket_kind
-    #                 innings_dict['wicket_player_out'] = wicket_player_out
-    #                 innings_dict['extras_type'] = extras_type
-    #                 innings_dict['extras_runs'] = extras_runs
-    #                 # print(z[delivery_no])
+                    innings_dict['wicket_fielder'] = wicket_fielder
+                    innings_dict['wicket_kind'] = wicket_kind
+                    innings_dict['wicket_player_out'] = wicket_player_out
+                    innings_dict['extras_type'] = extras_type
+                    innings_dict['extras_runs'] = extras_runs
+                    # print(z[delivery_no])
 
-    #                 # for x in innings_dict:
-    #                 #     print(x,':',innings_dict[x])
-    #                 innings_df = innings_df.append(innings_dict, ignore_index=True)
+                    # for x in innings_dict:
+                    #     print(x,':',innings_dict[x])
+                    innings_df = innings_df.append(innings_dict, ignore_index=True)
                     
-    #                 innings_dict = None
-    #     print(i)
-    #     innings_no = None
+                    innings_dict = None
+        print(i)
+        innings_no = None
 
-    # innings_df['team'] = innings_df.team.replace('Rising Pune Supergiant','Rising Pune Supergiants')
-    # innings_df['team'] = innings_df.team.replace('Delhi Daredevils','Delhi Capitals')
-    # innings_df['team'] = innings_df.team.replace('Pune Warriors','Pune Warriors India')
-    # innings_df['team'] = innings_df.team.replace('Kings XI Punjab','Punjab Kings')
+    innings_df['team'] = innings_df.team.replace('Rising Pune Supergiant','Rising Pune Supergiants')
+    innings_df['team'] = innings_df.team.replace('Delhi Daredevils','Delhi Capitals')
+    innings_df['team'] = innings_df.team.replace('Pune Warriors','Pune Warriors India')
+    innings_df['team'] = innings_df.team.replace('Kings XI Punjab','Punjab Kings')
 
-    # if 'Unnamed: 0' in list(innings_df.columns):
-    #     innings_df = innings_df.drop(columns='Unnamed: 0')
+    if 'Unnamed: 0' in list(innings_df.columns):
+        innings_df = innings_df.drop(columns='Unnamed: 0')
 
-    # for x in innings_columns:
-    #     if x in innings_df.columns:
-    #         if innings_df[x].isnull().all():
-    #             innings_df = innings_df.drop(columns=[x])
+    for x in innings_columns:
+        if x in innings_df.columns:
+            if innings_df[x].isnull().all():
+                innings_df = innings_df.drop(columns=[x])
 
-    # innings_df.to_csv(data_path + 'innings_df.csv', index=False)
+    innings_df.to_csv(data_path + 'innings_df.csv', index=False)
