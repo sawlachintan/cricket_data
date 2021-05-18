@@ -1,5 +1,6 @@
 # load required packages
 
+from scraper import file_process
 import yaml
 import shutil
 from zipfile import ZipFile
@@ -8,46 +9,10 @@ import os
 from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
+from scraper import *
 
-# url of the source
-main_url = 'https://cricsheet.org/'
-
-# requesting website for data with BS4
-page = requests.get(main_url)
-soup = BeautifulSoup(page.content, 'html.parser')
-tag_dt = soup.find_all('dt')
-
-# storing required links and their wrapped text in a dictionary called data_url
-data_url = dict()
-for tag in tag_dt:
-    temp_text = tag.a['href']
-    match_type = tag.a.contents[0]
-    link = main_url + temp_text  # link of the match types
-    key = temp_text.split('/')[2][:-4]  # abbreivated match_type stored as key
-
-    # magical part of this cell :)
-    data_url[key] = [link, match_type]
-
-# printing the dictionary for reference
-# for key in data_url:
-    # print(key,':',data_url[key][1], data_url[key][0])
-
-with open('./README.md', 'r') as f:
-    readme = f.readlines()
-
-readme = readme[readme.index('### Game types available <br>\n'):]
-readme = readme[4:]
-
-table = list()
-for x in readme:
-    if x[0] != '|':
-        break
-    table.append(x)
-
-table = [x.split('| ') for x in table]
-
-input_list = [table[x][2].strip().lower() for x in range(0, len(table))]
-print(input_list)
+input_list = game_types()[1]
+data_url = game_types()[0]
 
 # functions to process dictionary
 
@@ -223,81 +188,35 @@ def outcome_func(temp_info, type_cric, i):
     return outcome_dict
 
 
-type_cric = 'ipl'
+# columns
+meta_columns = ['key_id', 'data_version', 'created', 'revision']
+toss_columns = ['key_id', 'toss_winner', 'toss_decision']
+team_columns = ['key_id', 'team']
+umpires_columns = ['key_id', 'umpires']
+info_columns = ['key_id', 'city', 'competition', 'date', 'gender', 'match_type',
+                'match_type_number', 'neutral_venue', 'overs', 'player_of_match',
+                'venue']
+dates_columns = ['key_id', 'date']
+outcome_columns = ['key_id', 'by_innings', 'by_type', 'by_margin', 'bowl_out',
+                   'eliminator', 'method', 'result', 'winner']
+pom_columns = ['key_id', 'player_of_match']
+bowl_out_columns = ['key_id', 'bowler', 'outcome']
+supersub_columns = ['key_id', 'team', 'player']
+
+innings_columns = ['key_id', 'innings_no', 'team', 'ball', 'batsman', 'bowler',
+                   'non_striker', 'runs_batsman', 'runs_extras', 'runs_non_boundary',
+                   'runs_total', 'wicket_fielder', 'wicket_kind', 'wicket_player_out',
+                   'extras_type', 'extras_run']
+
+input_list = game_types()[1]
+data_url = game_types()[0]
+
+# type_cric = 'ipl'
+file_process()
+
 for type_cric in input_list:
-    r = requests.get(data_url[type_cric][0])
 
-    with open('./'+type_cric+'.zip', 'wb') as zip:
-        zip.write(r.content)
-
-    with ZipFile('./'+type_cric+'.zip', 'r') as zipObj:
-        listofFileNames = zipObj.namelist()
-        for filename in listofFileNames:
-            if filename.endswith('.yaml'):
-                zipObj.extract(filename, './' + type_cric + '_files')
-            if filename.endswith('.txt'):
-                zipObj.extract(filename, './')
-
-    files_list = list()
-
-    if type_cric == 't20s':
-        with open('./README.txt','a') as file_obj:
-            file_obj.write('\n')
-            file_obj.write('2019-05-05 - international - T20 - female - 1182643 - Kenya vs Namibia')
-
-    with open('./README.txt', 'r') as readme:
-        for line in readme:
-            if line[0] == '2':
-                readme_list = line.split('-')
-                readme_list = [x.strip(' ') for x in readme_list]
-                readme_list = [x.strip('\n') for x in readme_list]
-                files_list.append(str(readme_list[6]))
-
-    # instead of printing this, log it in a txt file with the time it was processed on
-    print(len(files_list))
-
-    count = 1
-    for i in range(len(files_list)-1, -1, -1):
-        for filename in enumerate(os.listdir('./' + type_cric + '_files')):
-            new_name = filename[1][:-5]
-            if files_list[i] == new_name:
-                dst = './' + type_cric + '_files/' + type_cric + \
-                    str(format(count, '04d')) + '.yaml'
-                src = './' + type_cric + '_files/' + filename[1]
-
-                os.rename(src, dst)
-
-        count += 1
-    
-    try:
-        os.remove(type_cric + '.zip')
-    except OSError as e:
-        print('Error: %s : %s' % (type_cric + '.zip',e.strerror))
-
-    # code to delete the zip file and readme
-
-    # dataframe initialization
-
-    # columns
-    meta_columns = ['key_id', 'data_version', 'created', 'revision']
-    toss_columns = ['key_id', 'toss_winner', 'toss_decision']
-    team_columns = ['key_id', 'team']
-    umpires_columns = ['key_id', 'umpires']
-    info_columns = ['key_id', 'city', 'competition', 'date', 'gender', 'match_type',
-                    'match_type_number', 'neutral_venue', 'overs', 'player_of_match',
-                    'venue']
-    dates_columns = ['key_id', 'date']
-    outcome_columns = ['key_id', 'by_innings', 'by_type', 'by_margin', 'bowl_out',
-                    'eliminator', 'method', 'result', 'winner']
-    pom_columns = ['key_id', 'player_of_match']
-    bowl_out_columns = ['key_id', 'bowler', 'outcome']
-    supersub_columns = ['key_id', 'team', 'player']
-
-    innings_columns = ['key_id', 'innings_no', 'team', 'ball', 'batsman', 'bowler',
-                    'non_striker', 'runs_batsman', 'runs_extras', 'runs_non_boundary',
-                    'runs_total', 'wicket_fielder', 'wicket_kind', 'wicket_player_out',
-                    'extras_type', 'extras_run']
-
+    files_list = os.listdir(type_cric + '_files')
     # checking if path exists or not
     if not os.path.exists(type_cric + '_data'):
         os.makedirs(type_cric+'_data')
@@ -370,7 +289,7 @@ for type_cric in input_list:
 
     # log a random info dictionary in a txt file
     # it is printed in the terminal for now
-    with open('./'+ type_cric + '_files/' + type_cric + '0001.yaml') as f:
+    with open('./' + type_cric + '_files/' + type_cric + '0001.yaml') as f:
         cric_dict = yaml.load(f)
     temp_info = cric_dict['info']
     print(temp_info)
@@ -436,7 +355,8 @@ for type_cric in input_list:
                 supersub_dict['key_id'] = type_cric + str(format(i, '04d'))
                 supersub_dict['team'] = key
                 supersub_dict['player'] = temp_info['supersubs'][key]
-                supersub_df = supersub_df.append(supersub_dict, ignore_index=True)
+                supersub_df = supersub_df.append(
+                    supersub_dict, ignore_index=True)
                 supersub_dict.clear()
         else:
             supersub_dict = {'key_id': type_cric +
@@ -573,22 +493,27 @@ for type_cric in input_list:
         'Delhi Daredevils', 'Delhi Capitals')
     toss_df['winner'] = toss_df.winner.replace(
         'Pune Warriors', 'Pune Warriors India')
-    toss_df['winner'] = toss_df.winner.replace('Kings XI Punjab', 'Punjab Kings')
+    toss_df['winner'] = toss_df.winner.replace(
+        'Kings XI Punjab', 'Punjab Kings')
 
     team_df['teams'] = team_df.teams.replace(
         'Rising Pune Supergiant', 'Rising Pune Supergiants')
-    team_df['teams'] = team_df.teams.replace('Delhi Daredevils', 'Delhi Capitals')
+    team_df['teams'] = team_df.teams.replace(
+        'Delhi Daredevils', 'Delhi Capitals')
     team_df['teams'] = team_df.teams.replace(
         'Pune Warriors', 'Pune Warriors India')
     team_df['teams'] = team_df.teams.replace('Kings XI Punjab', 'Punjab Kings')
 
-    outcome_df['winner'] = outcome_df.winner.replace('Rising Pune Supergiant', 'Rising Pune Supergiants')
-    outcome_df['winner'] = outcome_df.winner.replace('Delhi Daredevils', 'Delhi Capitals')
-    outcome_df['winner'] = outcome_df.winner.replace('Pune Warriors', 'Pune Warriors India')
-    outcome_df['winner'] = outcome_df.winner.replace('Kings XI Punjab', 'Punjab Kings')
+    outcome_df['winner'] = outcome_df.winner.replace(
+        'Rising Pune Supergiant', 'Rising Pune Supergiants')
+    outcome_df['winner'] = outcome_df.winner.replace(
+        'Delhi Daredevils', 'Delhi Capitals')
+    outcome_df['winner'] = outcome_df.winner.replace(
+        'Pune Warriors', 'Pune Warriors India')
+    outcome_df['winner'] = outcome_df.winner.replace(
+        'Kings XI Punjab', 'Punjab Kings')
 
     data_path = './' + type_cric + '_data/'
-
 
     meta_df.to_csv(data_path + 'meta_df.csv', index=False)
     toss_df.to_csv(data_path + 'toss_df.csv', index=False)
@@ -601,23 +526,24 @@ for type_cric in input_list:
     bowl_out_df.to_csv(data_path + 'bowl_out_df.csv', index=False)
     supersub_df.to_csv(data_path + 'supersub_df.csv', index=False)
 
-    #code for innings
+    # code for innings
 
     for i in range(1, len(files_list)+1):
-        path = './' + type_cric + '_files/' + type_cric + str(format(i,'04d')) + '.yaml'
-        key_id = type_cric + str(format(i,'04d'))
+        path = './' + type_cric + '_files/' + \
+            type_cric + str(format(i, '04d')) + '.yaml'
+        key_id = type_cric + str(format(i, '04d'))
         if key_id in list(innings_df['key_id']):
             continue
         else:
-            print(i,'lol')
-        
+            print(i, 'lol')
+
         with open(path) as f:
             cric_dict = yaml.load(f)
         temp_info = cric_dict['innings']
-        #loop over list
+        # loop over list
         for x in temp_info:
             # print(x)
-            #loop over dictionary
+            # loop over dictionary
             for y in x:
                 if 'super over' in y.lower():
                     innings_no += 1
@@ -641,7 +567,7 @@ for type_cric in input_list:
                         runs_non_boundary = 0
                     runs_total = z[delivery_no]['runs']['total']
 
-                    # This is not the accurate way, only the first wicket has to be taken, 
+                    # This is not the accurate way, only the first wicket has to be taken,
                     # coz of the one instance where 2 wickets took place in the same ball
                     if 'wicket' in z[delivery_no].keys():
                         # print(z[delivery_no]['wicket'])
@@ -664,7 +590,7 @@ for type_cric in input_list:
                         extras_runs = np.nan
 
                     innings_dict = dict()
-                    innings_dict['key_id'] = type_cric + str(format(i,'04d'))
+                    innings_dict['key_id'] = type_cric + str(format(i, '04d'))
                     innings_dict['innings_no'] = innings_no
                     innings_dict['team'] = team_name
                     innings_dict['ball'] = delivery_no
@@ -675,7 +601,7 @@ for type_cric in input_list:
                     innings_dict['runs_extras'] = runs_extras
                     innings_dict['runs_non_boundary'] = runs_non_boundary
                     innings_dict['runs_total'] = runs_total
-                    
+
                     innings_dict['wicket_fielder'] = wicket_fielder
                     innings_dict['wicket_kind'] = wicket_kind
                     innings_dict['wicket_player_out'] = wicket_player_out
@@ -685,16 +611,21 @@ for type_cric in input_list:
 
                     # for x in innings_dict:
                     #     print(x,':',innings_dict[x])
-                    innings_df = innings_df.append(innings_dict, ignore_index=True)
-                    
+                    innings_df = innings_df.append(
+                        innings_dict, ignore_index=True)
+
                     innings_dict = None
         print(i)
         innings_no = None
 
-    innings_df['team'] = innings_df.team.replace('Rising Pune Supergiant','Rising Pune Supergiants')
-    innings_df['team'] = innings_df.team.replace('Delhi Daredevils','Delhi Capitals')
-    innings_df['team'] = innings_df.team.replace('Pune Warriors','Pune Warriors India')
-    innings_df['team'] = innings_df.team.replace('Kings XI Punjab','Punjab Kings')
+    innings_df['team'] = innings_df.team.replace(
+        'Rising Pune Supergiant', 'Rising Pune Supergiants')
+    innings_df['team'] = innings_df.team.replace(
+        'Delhi Daredevils', 'Delhi Capitals')
+    innings_df['team'] = innings_df.team.replace(
+        'Pune Warriors', 'Pune Warriors India')
+    innings_df['team'] = innings_df.team.replace(
+        'Kings XI Punjab', 'Punjab Kings')
 
     if 'Unnamed: 0' in list(innings_df.columns):
         innings_df = innings_df.drop(columns='Unnamed: 0')
@@ -708,9 +639,9 @@ for type_cric in input_list:
     try:
         shutil.rmtree(type_cric + '_files')
     except OSError as e:
-        print('Error: %s : %s' % (type_cric + '_files',e.strerror))
+        print('Error: %s : %s' % (type_cric + '_files', e.strerror))
 
 try:
     os.remove('README.txt')
 except OSError as e:
-    print('Error: %s : %s' % ('README.txt',e.strerror))
+    print('Error: %s : %s' % ('README.txt', e.strerror))
