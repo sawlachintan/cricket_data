@@ -1,7 +1,7 @@
 # load required packages
 
 import yaml
-import zipfile
+import shutil
 from zipfile import ZipFile
 import requests
 import os
@@ -31,8 +31,6 @@ for tag in tag_dt:
 # printing the dictionary for reference
 # for key in data_url:
     # print(key,':',data_url[key][1], data_url[key][0])
-
-# there is a change in this part. The main goal is to read from the markdown. For now, it will be manually done
 
 with open('./README.md', 'r') as f:
     readme = f.readlines()
@@ -270,6 +268,11 @@ for type_cric in input_list:
                 os.rename(src, dst)
 
         count += 1
+    
+    try:
+        os.remove(type_cric + '.zip')
+    except OSError as e:
+        print('Error: %s : %s' % (type_cric + '.zip',e.strerror))
 
     # code to delete the zip file and readme
 
@@ -367,7 +370,7 @@ for type_cric in input_list:
 
     # log a random info dictionary in a txt file
     # it is printed in the terminal for now
-    with open('./ipl_files/ipl0845.yaml') as f:
+    with open('./'+ type_cric + '_files/' + type_cric + '0001.yaml') as f:
         cric_dict = yaml.load(f)
     temp_info = cric_dict['info']
     print(temp_info)
@@ -702,3 +705,12 @@ for type_cric in input_list:
                 innings_df = innings_df.drop(columns=[x])
 
     innings_df.to_csv(data_path + 'innings_df.csv', index=False)
+    try:
+        shutil.rmtree(type_cric + '_files')
+    except OSError as e:
+        print('Error: %s : %s' % (type_cric + '_files',e.strerror))
+
+try:
+    os.remove('README.txt')
+except OSError as e:
+    print('Error: %s : %s' % ('README.txt',e.strerror))
