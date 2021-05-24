@@ -5,19 +5,19 @@ This repository will act as a backend for the cricket data processed from [Crics
 ### General format of each game type
 
 Each game type has a folder with 11 files in it. These files contain ball by ball data, meta information about the game and meta information about the file itself.
-The 6 files are: <br>
+The 11 files are: <br>
 
-1. **Bowl out Dataframe** - information about who participated in the Bowl out if it occurred for a match
-2. **Dates dataframe** - date or dates of when each match was played
-3. **Info Dataframe** - information about where and when each match occurs. It also contains the player of the match
-4. **Innings Dataframe** - ball by ball information on each match
-5. **Meta Dataframe** - meta information about the file containing match details
-6. **Outcome Dataframe** - information about which team won the match and by what margin
-7. **Player of match Dataframe** - information about the player or players of the match. There have been matches where there were more than 1 player of the match
-8. **Supersub Dataframe** - information about who participates in the supersub format.
-9. **Team Dataframe** - information about which teams are participating in the match
-10. **Toss Dataframe** - information about which team won the toss and whether they chose to bat or field
-11. **Umpires Dataframe** - information about who were on field umpires in each match
+1. **Bowl out Dataframe** - information about who participated in the Bowl out if it occurred for a match - _bowl_out_cf.csv_
+2. **Dates dataframe** - date or dates of when each match was played - _dates_df.csv_
+3. **Info Dataframe** - information about where and when each match occurs. It also contains the player of the match - _info_df.csv_
+4. **Innings Dataframe** - ball by ball information on each match - _innings_df.csv_
+5. **Meta Dataframe** - meta information about the file containing match details - _meta_df.csv_
+6. **Outcome Dataframe** - information about which team won the match and by what margin - _outcome_df.csv_
+7. **Player of match Dataframe** - information about the player or players of the match. There have been matches where there were more than 1 player of the match - _pom_df.csv_
+8. **Supersub Dataframe** - information about who participates in the supersub format. - _supersub_df.csv_
+9. **Team Dataframe** - information about which teams are participating in the match - _team_df.csv_
+10. **Toss Dataframe** - information about which team won the toss and whether they chose to bat or field - _toss_df.csv_
+11. **Umpires Dataframe** - information about who were on field umpires in each match - _umpires_df.csv_
 
 ### Game types available <br>
 
@@ -27,16 +27,24 @@ The 6 files are: <br>
 | Pakistan Super League | PSL          | [PSL Data](./psl_data)   |
 | T20 Internationals    | t20s         | [T20I Data](./t20s_data) |
 
+### How to use the API to fetch data
+
+1. The base url for a dataframe of any game type is "https://sawlachintan.github.io/cricket_data/"
+2. If the game type required is "IPL" and the dataframe required is toss, then append "ipl_data/toss_df.csv" to the base url.
+
+#### Note
+For any issues with the files, raise an issue in the repo.
+
 ### Strucutre of the dataframes
 
 **Meta**
 
-| Name     | Type   | Desc                                         |
-| -------- | ------ | -------------------------------------------- |
-| Key_ID   | string | A common ID to relate info across dataframes |
-| Version  | float  | lorem                                        |
-| Created  | date   | lorem                                        |
-| Revision | float  | lorem                                        |
+| Name     | Type   | Desc                                           |
+| -------- | ------ | ---------------------------------------------- |
+| Key_ID   | string | A common ID to relate info across dataframes   |
+| Version  | float  | version of the file from where data is fetched |
+| Created  | date   | date on which the file was created             |
+| Revision | float  | number of times the file was revised.          |
 
 ---
 
