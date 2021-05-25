@@ -33,6 +33,7 @@ The 11 files are: <br>
 2. If the game type required is "IPL" and the dataframe required is toss, then append "ipl_data/toss_df.csv" to the base url.
 
 #### Note
+
 For any issues with the files, raise an issue in the repo.
 
 ### Strucutre of the dataframes
@@ -98,7 +99,6 @@ For any issues with the files, raise an issue in the repo.
 | Key_ID            | string | A common ID to relate info across dataframes          |
 | innings_no        | int    | Innings number of the particular match                |
 | team              | string | name of the team batting in that innings              |
-| ball              | float  | over and ball number of that innings                  |
 | batsman           | string | name of the batsman facing the ball                   |
 | bowler            | string | name of the bowler bowling the ball                   |
 | non_striker       | string | name of the person on the other end of the pitch      |
@@ -110,4 +110,6 @@ For any issues with the files, raise an issue in the repo.
 | wicket_kind       | string | manner in which batsman/non_striker lost the wicket   |
 | wicket_player_out | string | name of the player who got out in that delivery       |
 | extras_type       | string | name of the way in which the extra runs were rewarded |
-| extras_runs       | int    | runs rewarded from the type of extras                 |
+| extras_run        | int    | runs rewarded from the type of extras                 |
+| over              | int    | over number of the innings                            |
+| n_ball              | int    | ball of the over                            |
