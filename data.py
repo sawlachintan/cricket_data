@@ -688,8 +688,8 @@ for type_cric in input_list:
     innings_df['team'] = innings_df.team.replace(
         'Kings XI Punjab', 'Punjab Kings')
 
-    innings_df['over'] = innings_df['over'].dtypes('int8')
-    innings_df['n_ball'] = innings_df['n_ball'].dtypes('int8')
+    innings_df['over'] = innings_df['over'].astype('int8')
+    innings_df['n_ball'] = innings_df['n_ball'].astype('int8')
 
     if 'Unnamed: 0' in list(innings_df.columns):
         innings_df = innings_df.drop(columns='Unnamed: 0')
