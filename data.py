@@ -229,7 +229,7 @@ def innings_func(i, type_cric):
                     except KeyError:
                         runs_batter = np.nan
                         print('Code change for runs_batter')
-                
+
                 runs_extras = delivery[delivery_no]['runs']['extras']
                 runs_total = delivery[delivery_no]['runs']['total']
 
