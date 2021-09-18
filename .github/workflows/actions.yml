@@ -24,7 +24,7 @@ jobs:
           pip install bs4
           pip install pandas
           pip install numpy
-          pip install yaml
+          pip install pyyaml
       
       - name: Executing Scraper Script
         run: python3 scraper.py
