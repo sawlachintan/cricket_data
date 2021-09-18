@@ -1,0 +1,1740 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-09-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: North Sound
+  dates:
+  - '2021-09-04'
+  gender: female
+  match_type: T20
+  match_type_number: 947
+  outcome:
+    winner: West Indies
+    by:
+      wickets: 5
+  overs: 20
+  players:
+    South Africa:
+    - L Lee
+    - D van Niekerk
+    - M Kapp
+    - L Wolvaardt
+    - T Brits
+    - S Luus
+    - CL Tryon
+    - T Chetty
+    - M Klaas
+    - A Khaka
+    - N Mlaba
+    West Indies:
+    - DJS Dottin
+    - HK Matthews
+    - Kyshona A Knight
+    - CN Nation
+    - Kycia A Knight
+    - B Cooper
+    - CA Henry
+    - AA Alleyne
+    - A Mohammed
+    - Q Joseph
+    - K Ramharack
+  registry:
+    people:
+      A Khaka: 0d518f89
+      A Mohammed: a49985e6
+      AA Alleyne: 4b0e3049
+      B Cooper: ac0edb42
+      CA Henry: '75820733'
+      CL Tryon: 4d4605e6
+      CN Nation: 639000b6
+      D van Niekerk: 8c5775f3
+      DJS Dottin: 53bee17f
+      Danesh Ramdhanie: d09891ad
+      HK Matthews: d32cf49a
+      JS Wilson: d7f3b72f
+      Jonathan Blades: ef9a3298
+      K Ramharack: 321c980e
+      Kycia A Knight: 552f664a
+      Kyshona A Knight: d85a1960
+      L Lee: 7b01ce83
+      L Wolvaardt: e60f81c9
+      M Kapp: 63e3b6b3
+      M Klaas: ce85fcaf
+      N Mlaba: 686362af
+      Q Joseph: d6164dc0
+      Reon King: 20fbf68c
+      S Luus: 6d76bc23
+      T Brits: '06659caa'
+      T Chetty: 53a5767d
+  teams:
+  - South Africa
+  - West Indies
+  toss:
+    decision: bat
+    winner: South Africa
+  umpires:
+  - Danesh Ramdhanie
+  - JS Wilson
+  venue: Sir Vivian Richards Stadium, North Sound, Antigua
+innings:
+- 1st innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D van Niekerk
+        batsman: L Lee
+    - 0.2:
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: D van Niekerk
+        batsman: L Lee
+    - 0.3:
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D van Niekerk
+        batsman: L Lee
+    - 0.4:
+        non_striker: L Lee
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+        wicket:
+          player_out: D van Niekerk
+          fielders:
+          - HK Matthews
+          kind: caught
+    - 0.5:
+        non_striker: L Lee
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 0.6:
+        non_striker: L Lee
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 1.1:
+        non_striker: M Kapp
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 1.2:
+        non_striker: M Kapp
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 1.3:
+        non_striker: M Kapp
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 1.4:
+        non_striker: M Kapp
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+        wicket:
+          player_out: L Lee
+          fielders:
+          - B Cooper
+          kind: caught
+    - 1.5:
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Wolvaardt
+        batsman: M Kapp
+    - 1.6:
+        non_striker: L Wolvaardt
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+        wicket:
+          player_out: M Kapp
+          fielders:
+          - Kycia A Knight
+          kind: caught
+    - 2.1:
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: T Brits
+        batsman: L Wolvaardt
+    - 2.2:
+        non_striker: L Wolvaardt
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 2.3:
+        non_striker: L Wolvaardt
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 2.4:
+        non_striker: L Wolvaardt
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+        wicket:
+          player_out: L Wolvaardt
+          kind: run out
+    - 2.5:
+        non_striker: T Brits
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 2.6:
+        non_striker: T Brits
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 3.1:
+        non_striker: S Luus
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Brits
+    - 3.2:
+        non_striker: S Luus
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 3.3:
+        non_striker: S Luus
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 3.4:
+        non_striker: T Brits
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 3.5:
+        non_striker: S Luus
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 3.6:
+        non_striker: S Luus
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 4.1:
+        non_striker: T Brits
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 4.2:
+        non_striker: S Luus
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 4.3:
+        non_striker: S Luus
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 4.4:
+        non_striker: S Luus
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 4.5:
+        non_striker: S Luus
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 4.6:
+        non_striker: S Luus
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 5.1:
+        non_striker: T Brits
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 5.2:
+        non_striker: T Brits
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 5.3:
+        non_striker: T Brits
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 5.4:
+        non_striker: T Brits
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 5.5:
+        non_striker: S Luus
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 5.6:
+        non_striker: S Luus
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 6.1:
+        non_striker: T Brits
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 6.2:
+        non_striker: T Brits
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 6.3:
+        non_striker: T Brits
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 6.4:
+        non_striker: T Brits
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 6.5:
+        non_striker: T Brits
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Luus
+    - 6.6:
+        non_striker: T Brits
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 7.1:
+        non_striker: S Luus
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 7.2:
+        non_striker: T Brits
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 7.3:
+        non_striker: T Brits
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 7.4:
+        non_striker: T Brits
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 7.5:
+        non_striker: S Luus
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+        wicket:
+          player_out: T Brits
+          fielders:
+          - CN Nation
+          kind: caught
+    - 7.6:
+        non_striker: CL Tryon
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 8.1:
+        non_striker: CL Tryon
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 8.2:
+        non_striker: S Luus
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 8.3:
+        non_striker: CL Tryon
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 8.4:
+        non_striker: CL Tryon
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 8.5:
+        non_striker: S Luus
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 8.6:
+        non_striker: S Luus
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 9.1:
+        non_striker: CL Tryon
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 9.2:
+        non_striker: CL Tryon
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 9.3:
+        non_striker: CL Tryon
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 9.4:
+        non_striker: S Luus
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 9.5:
+        non_striker: S Luus
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 9.6:
+        non_striker: S Luus
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 10.1:
+        non_striker: CL Tryon
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 10.2:
+        non_striker: CL Tryon
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 10.3:
+        non_striker: S Luus
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL Tryon
+    - 10.4:
+        non_striker: S Luus
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 10.5:
+        non_striker: S Luus
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 10.6:
+        non_striker: S Luus
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 11.1:
+        non_striker: CL Tryon
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 11.2:
+        non_striker: CL Tryon
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 11.3:
+        non_striker: S Luus
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 11.4:
+        non_striker: CL Tryon
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 11.5:
+        non_striker: S Luus
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 11.6:
+        non_striker: CL Tryon
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 12.1:
+        non_striker: S Luus
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 12.2:
+        non_striker: CL Tryon
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 12.3:
+        non_striker: CL Tryon
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 12.4:
+        non_striker: S Luus
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 12.5:
+        non_striker: CL Tryon
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 12.6:
+        non_striker: CL Tryon
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 13.1:
+        non_striker: S Luus
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 13.2:
+        non_striker: S Luus
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 13.3:
+        non_striker: CL Tryon
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 13.4:
+        non_striker: CL Tryon
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 13.5:
+        non_striker: S Luus
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 13.6:
+        non_striker: CL Tryon
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+        wicket:
+          player_out: S Luus
+          fielders:
+          - AA Alleyne
+          kind: caught
+    - 14.1:
+        non_striker: CL Tryon
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Chetty
+    - 14.2:
+        non_striker: CL Tryon
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Chetty
+    - 14.3:
+        non_striker: T Chetty
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+        wicket:
+          player_out: CL Tryon
+          fielders:
+          - CN Nation
+          kind: caught
+    - 14.4:
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: M Klaas
+        batsman: T Chetty
+    - 14.5:
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Klaas
+        batsman: T Chetty
+    - 14.6:
+        non_striker: M Klaas
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Chetty
+    - 15.1:
+        non_striker: T Chetty
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Klaas
+    - 15.2:
+        non_striker: M Klaas
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Chetty
+    - 15.3:
+        non_striker: M Klaas
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Chetty
+    - 15.4:
+        non_striker: M Klaas
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Chetty
+    - 15.5:
+        non_striker: M Klaas
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Chetty
+    - 15.6:
+        non_striker: T Chetty
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Klaas
+    - 16.1:
+        non_striker: T Chetty
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 16.2:
+        non_striker: T Chetty
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Klaas
+    - 16.3:
+        non_striker: M Klaas
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Chetty
+    - 16.4:
+        non_striker: M Klaas
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Chetty
+        wicket:
+          player_out: T Chetty
+          fielders:
+          - Kyshona A Knight
+          kind: caught
+    - 16.5:
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Khaka
+        batsman: M Klaas
+    - 16.6:
+        non_striker: A Khaka
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Klaas
+    - 17.1:
+        non_striker: A Khaka
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 17.2:
+        non_striker: A Khaka
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 17.3:
+        non_striker: A Khaka
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Klaas
+    - 17.4:
+        non_striker: M Klaas
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Khaka
+    - 17.5:
+        non_striker: A Khaka
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Klaas
+    - 17.6:
+        non_striker: M Klaas
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Khaka
+    - 18.1:
+        non_striker: A Khaka
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Klaas
+    - 18.2:
+        non_striker: M Klaas
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Khaka
+    - 18.3:
+        non_striker: M Klaas
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Khaka
+        wicket:
+          player_out: A Khaka
+          kind: bowled
+    - 18.4:
+        non_striker: M Klaas
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mlaba
+    - 18.5:
+        non_striker: M Klaas
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mlaba
+    - 18.6:
+        non_striker: M Klaas
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mlaba
+    - 19.1:
+        non_striker: N Mlaba
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 19.2:
+        non_striker: N Mlaba
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Klaas
+    - 19.3:
+        non_striker: M Klaas
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mlaba
+    - 19.4:
+        non_striker: M Klaas
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mlaba
+    - 19.5:
+        non_striker: N Mlaba
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Klaas
+    - 19.6:
+        non_striker: N Mlaba
+        bowler: A Mohammed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Klaas
+- 2nd innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HK Matthews
+        batsman: DJS Dottin
+    - 0.2:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 0.3:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 0.4:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Matthews
+    - 0.5:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 0.6:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.7:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 1.1:
+        non_striker: DJS Dottin
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          fielders:
+          - L Lee
+          kind: caught
+    - 1.2:
+        non_striker: DJS Dottin
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 1.3:
+        non_striker: DJS Dottin
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 1.4:
+        non_striker: DJS Dottin
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyshona A Knight
+    - 1.5:
+        non_striker: Kyshona A Knight
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DJS Dottin
+    - 1.6:
+        non_striker: DJS Dottin
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 2.1:
+        non_striker: Kyshona A Knight
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 2.2:
+        non_striker: Kyshona A Knight
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 2.3:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyshona A Knight
+    - 2.4:
+        non_striker: Kyshona A Knight
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 2.5:
+        non_striker: Kyshona A Knight
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 2.6:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 3.1:
+        non_striker: Kyshona A Knight
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 3.2:
+        non_striker: DJS Dottin
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kyshona A Knight
+    - 3.3:
+        non_striker: DJS Dottin
+        bowler: A Khaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kyshona A Knight
+    - 3.4:
+        non_striker: DJS Dottin
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kyshona A Knight
+    - 3.5:
+        non_striker: DJS Dottin
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 3.6:
+        non_striker: DJS Dottin
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyshona A Knight
+    - 3.7:
+        non_striker: Kyshona A Knight
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 4.1:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 4.2:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyshona A Knight
+    - 4.3:
+        non_striker: Kyshona A Knight
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJS Dottin
+    - 4.4:
+        non_striker: Kyshona A Knight
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 4.5:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyshona A Knight
+    - 4.6:
+        non_striker: Kyshona A Knight
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 5.1:
+        non_striker: DJS Dottin
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyshona A Knight
+    - 5.2:
+        non_striker: Kyshona A Knight
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 5.3:
+        non_striker: Kyshona A Knight
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 5.4:
+        non_striker: Kyshona A Knight
+        bowler: N Mlaba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DJS Dottin
+    - 5.5:
+        non_striker: Kyshona A Knight
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 5.6:
+        non_striker: DJS Dottin
+        bowler: N Mlaba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Kyshona A Knight
+    - 5.7:
+        non_striker: DJS Dottin
+        bowler: N Mlaba
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Kyshona A Knight
+    - 5.8:
+        non_striker: Kyshona A Knight
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJS Dottin
+    - 5.9:
+        non_striker: Kyshona A Knight
+        bowler: N Mlaba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DJS Dottin
+    - 6.1:
+        non_striker: Kyshona A Knight
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 6.2:
+        non_striker: Kyshona A Knight
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 6.3:
+        non_striker: DJS Dottin
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyshona A Knight
+    - 6.4:
+        non_striker: Kyshona A Knight
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 6.5:
+        non_striker: DJS Dottin
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyshona A Knight
+    - 6.6:
+        non_striker: Kyshona A Knight
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 7.1:
+        non_striker: DJS Dottin
+        bowler: D van Niekerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kyshona A Knight
+    - 7.2:
+        non_striker: DJS Dottin
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+        wicket:
+          player_out: DJS Dottin
+          kind: run out
+    - 7.3:
+        non_striker: Kyshona A Knight
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 7.4:
+        non_striker: Kyshona A Knight
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 7.5:
+        non_striker: Kyshona A Knight
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 7.6:
+        non_striker: Kyshona A Knight
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Nation
+    - 7.7:
+        non_striker: CN Nation
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyshona A Knight
+    - 8.1:
+        non_striker: CN Nation
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kyshona A Knight
+    - 8.2:
+        non_striker: CN Nation
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kyshona A Knight
+    - 8.3:
+        non_striker: CN Nation
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 8.4:
+        non_striker: CN Nation
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 8.5:
+        non_striker: CN Nation
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 8.6:
+        non_striker: CN Nation
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyshona A Knight
+    - 9.1:
+        non_striker: CN Nation
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 9.2:
+        non_striker: CN Nation
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+        wicket:
+          player_out: Kyshona A Knight
+          fielders:
+          - T Chetty
+          kind: caught
+    - 9.3:
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kycia A Knight
+        batsman: CN Nation
+    - 9.4:
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Kycia A Knight
+        batsman: CN Nation
+    - 9.5:
+        non_striker: CN Nation
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kycia A Knight
+    - 9.6:
+        non_striker: CN Nation
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kycia A Knight
+    - 10.1:
+        non_striker: Kycia A Knight
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 10.2:
+        non_striker: Kycia A Knight
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Nation
+    - 10.3:
+        non_striker: Kycia A Knight
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 10.4:
+        non_striker: Kycia A Knight
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+        wicket:
+          player_out: Kycia A Knight
+          kind: run out
+    - 10.5:
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Cooper
+        batsman: CN Nation
+    - 10.6:
+        non_striker: CN Nation
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 11.1:
+        non_striker: B Cooper
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 11.2:
+        non_striker: B Cooper
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Nation
+    - 11.3:
+        non_striker: CN Nation
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+        wicket:
+          player_out: B Cooper
+          fielders:
+          - L Lee
+          kind: caught
+    - 11.4:
+        non_striker: CN Nation
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 11.5:
+        non_striker: CA Henry
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Nation

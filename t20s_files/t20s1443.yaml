@@ -1,0 +1,1995 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-03-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Wellington
+  dates:
+  - '2021-03-03'
+  gender: male
+  match_type: T20
+  match_type_number: 1125
+  outcome:
+    winner: Australia
+    by:
+      runs: 64
+  overs: 20
+  player_of_match:
+  - AC Agar
+  players:
+    Australia:
+    - MS Wade
+    - AJ Finch
+    - JR Philippe
+    - GJ Maxwell
+    - MP Stoinis
+    - MR Marsh
+    - AC Agar
+    - JA Richardson
+    - KW Richardson
+    - A Zampa
+    - RP Meredith
+    New Zealand:
+    - MJ Guptill
+    - TL Seifert
+    - KS Williamson
+    - DP Conway
+    - GD Phillips
+    - JDS Neesham
+    - MS Chapman
+    - TG Southee
+    - KA Jamieson
+    - IS Sodhi
+    - TA Boult
+  registry:
+    people:
+      A Zampa: 14f96089
+      AC Agar: a2421394
+      AJ Finch: b8d490fd
+      CB Gaffaney: d5ac41d8
+      CM Brown: 448f4f1c
+      DP Conway: df5a6881
+      GD Phillips: 9a46c4e5
+      GJ Maxwell: b681e71e
+      IS Sodhi: 641ac5ff
+      JA Richardson: 1ee08e9a
+      JDS Neesham: 9219eff0
+      JJ Crowe: 2e760301
+      JR Philippe: '39086549'
+      KA Jamieson: 68c56d09
+      KS Williamson: d027ba9f
+      KW Richardson: dfc4d8b5
+      MJ Guptill: 2be41edb
+      MP Stoinis: d9273ee7
+      MR Marsh: 3d8feaf8
+      MS Chapman: 7fa12533
+      MS Wade: afa7e784
+      RP Meredith: '64775749'
+      SB Haig: 811655b3
+      TA Boult: a818c1be
+      TG Southee: 13c35c9e
+      TL Seifert: 4663bd23
+      WR Knights: 63cbf8d8
+  teams:
+  - Australia
+  - New Zealand
+  toss:
+    decision: field
+    winner: New Zealand
+  umpires:
+  - CB Gaffaney
+  - WR Knights
+  venue: Westpac Stadium
+innings:
+- 1st innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: AJ Finch
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Wade
+    - 0.2:
+        non_striker: AJ Finch
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Wade
+    - 0.3:
+        non_striker: AJ Finch
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Wade
+    - 0.4:
+        non_striker: AJ Finch
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Wade
+    - 0.5:
+        non_striker: MS Wade
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 0.6:
+        non_striker: MS Wade
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 0.7:
+        non_striker: MS Wade
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 1.1:
+        non_striker: AJ Finch
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Wade
+    - 1.2:
+        non_striker: AJ Finch
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Wade
+    - 1.3:
+        non_striker: AJ Finch
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Wade
+        wicket:
+          player_out: MS Wade
+          fielders:
+          - MJ Guptill
+          kind: caught
+    - 1.4:
+        non_striker: AJ Finch
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 1.5:
+        non_striker: AJ Finch
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 1.6:
+        non_striker: JR Philippe
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 2.1:
+        non_striker: AJ Finch
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 2.2:
+        non_striker: AJ Finch
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 2.3:
+        non_striker: AJ Finch
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 2.4:
+        non_striker: JR Philippe
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 2.5:
+        non_striker: JR Philippe
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 2.6:
+        non_striker: AJ Finch
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 3.1:
+        non_striker: AJ Finch
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JR Philippe
+    - 3.2:
+        non_striker: AJ Finch
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JR Philippe
+    - 3.3:
+        non_striker: AJ Finch
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 3.4:
+        non_striker: AJ Finch
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JR Philippe
+    - 3.5:
+        non_striker: AJ Finch
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 3.6:
+        non_striker: AJ Finch
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 4.1:
+        non_striker: JR Philippe
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Finch
+    - 4.2:
+        non_striker: JR Philippe
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 4.3:
+        non_striker: JR Philippe
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 4.4:
+        non_striker: JR Philippe
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 4.5:
+        non_striker: JR Philippe
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 4.6:
+        non_striker: JR Philippe
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 5.1:
+        non_striker: AJ Finch
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JR Philippe
+    - 5.2:
+        non_striker: JR Philippe
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 5.3:
+        non_striker: JR Philippe
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 5.4:
+        non_striker: JR Philippe
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 5.5:
+        non_striker: AJ Finch
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 5.6:
+        non_striker: JR Philippe
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 6.1:
+        non_striker: AJ Finch
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 6.2:
+        non_striker: JR Philippe
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 6.3:
+        non_striker: JR Philippe
+        bowler: JDS Neesham
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AJ Finch
+    - 6.4:
+        non_striker: AJ Finch
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JR Philippe
+    - 6.5:
+        non_striker: AJ Finch
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 6.6:
+        non_striker: AJ Finch
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 6.7:
+        non_striker: AJ Finch
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JR Philippe
+    - 7.1:
+        non_striker: JR Philippe
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 7.2:
+        non_striker: AJ Finch
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 7.3:
+        non_striker: JR Philippe
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 7.4:
+        non_striker: AJ Finch
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 7.5:
+        non_striker: JR Philippe
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Finch
+    - 7.6:
+        non_striker: JR Philippe
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 8.1:
+        non_striker: JR Philippe
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 8.2:
+        non_striker: JR Philippe
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 8.3:
+        non_striker: JR Philippe
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Finch
+    - 8.4:
+        non_striker: JR Philippe
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 8.5:
+        non_striker: AJ Finch
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JR Philippe
+    - 8.6:
+        non_striker: AJ Finch
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JR Philippe
+    - 9.1:
+        non_striker: JR Philippe
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 9.2:
+        non_striker: AJ Finch
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 9.3:
+        non_striker: JR Philippe
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 9.4:
+        non_striker: AJ Finch
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 9.5:
+        non_striker: AJ Finch
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JR Philippe
+    - 9.6:
+        non_striker: AJ Finch
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+        wicket:
+          player_out: JR Philippe
+          fielders:
+          - MJ Guptill
+          kind: caught
+    - 10.1:
+        non_striker: AJ Finch
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 10.2:
+        non_striker: GJ Maxwell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 10.3:
+        non_striker: AJ Finch
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 10.4:
+        non_striker: AJ Finch
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 10.5:
+        non_striker: GJ Maxwell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Finch
+    - 10.6:
+        non_striker: GJ Maxwell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 11.1:
+        non_striker: GJ Maxwell
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 11.2:
+        non_striker: AJ Finch
+        bowler: IS Sodhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: GJ Maxwell
+    - 11.3:
+        non_striker: GJ Maxwell
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 11.4:
+        non_striker: AJ Finch
+        bowler: IS Sodhi
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: GJ Maxwell
+    - 11.5:
+        non_striker: GJ Maxwell
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Finch
+    - 11.6:
+        non_striker: GJ Maxwell
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Finch
+    - 11.7:
+        non_striker: GJ Maxwell
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 12.1:
+        non_striker: GJ Maxwell
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 12.2:
+        non_striker: AJ Finch
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Maxwell
+    - 12.3:
+        non_striker: AJ Finch
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 12.4:
+        non_striker: AJ Finch
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 12.5:
+        non_striker: AJ Finch
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 12.6:
+        non_striker: AJ Finch
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 13.1:
+        non_striker: GJ Maxwell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 13.2:
+        non_striker: GJ Maxwell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 13.3:
+        non_striker: GJ Maxwell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 13.4:
+        non_striker: GJ Maxwell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 13.5:
+        non_striker: AJ Finch
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 13.6:
+        non_striker: GJ Maxwell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 14.1:
+        non_striker: AJ Finch
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 14.2:
+        non_striker: AJ Finch
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 14.3:
+        non_striker: AJ Finch
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 14.4:
+        non_striker: AJ Finch
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 14.5:
+        non_striker: AJ Finch
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GJ Maxwell
+    - 14.6:
+        non_striker: AJ Finch
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 14.7:
+        non_striker: AJ Finch
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 15.1:
+        non_striker: GJ Maxwell
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 15.2:
+        non_striker: AJ Finch
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 15.3:
+        non_striker: AJ Finch
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 15.4:
+        non_striker: AJ Finch
+        bowler: IS Sodhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GJ Maxwell
+    - 15.5:
+        non_striker: GJ Maxwell
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+        wicket:
+          player_out: AJ Finch
+          fielders:
+          - KA Jamieson
+          kind: caught
+    - 15.6:
+        non_striker: GJ Maxwell
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 16.1:
+        non_striker: MP Stoinis
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 16.2:
+        non_striker: MP Stoinis
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 16.3:
+        non_striker: MP Stoinis
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 16.4:
+        non_striker: MP Stoinis
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 16.5:
+        non_striker: MP Stoinis
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 16.6:
+        non_striker: MP Stoinis
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 17.1:
+        non_striker: GJ Maxwell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 17.2:
+        non_striker: MP Stoinis
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 17.3:
+        non_striker: MP Stoinis
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Maxwell
+    - 17.4:
+        non_striker: MP Stoinis
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 17.5:
+        non_striker: MP Stoinis
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 17.6:
+        non_striker: MP Stoinis
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+        wicket:
+          player_out: GJ Maxwell
+          fielders:
+          - TL Seifert
+          kind: caught
+    - 18.1:
+        non_striker: MR Marsh
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 18.2:
+        non_striker: MP Stoinis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 18.3:
+        non_striker: MP Stoinis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 18.4:
+        non_striker: MP Stoinis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MR Marsh
+    - 18.5:
+        non_striker: MR Marsh
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 18.6:
+        non_striker: MP Stoinis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 19.1:
+        non_striker: MP Stoinis
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 19.2:
+        non_striker: MR Marsh
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 19.3:
+        non_striker: MR Marsh
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 19.4:
+        non_striker: MP Stoinis
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 19.5:
+        non_striker: MR Marsh
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 19.6:
+        non_striker: MR Marsh
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+- 2nd innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: TL Seifert
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 0.2:
+        non_striker: TL Seifert
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 0.3:
+        non_striker: TL Seifert
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 0.4:
+        non_striker: TL Seifert
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 0.5:
+        non_striker: TL Seifert
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 0.6:
+        non_striker: TL Seifert
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 1.1:
+        non_striker: MJ Guptill
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.2:
+        non_striker: MJ Guptill
+        bowler: RP Meredith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TL Seifert
+    - 1.3:
+        non_striker: TL Seifert
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 1.4:
+        non_striker: TL Seifert
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 1.5:
+        non_striker: MJ Guptill
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 1.6:
+        non_striker: MJ Guptill
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          fielders:
+          - MP Stoinis
+          kind: caught
+    - 2.1:
+        non_striker: MJ Guptill
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 2.2:
+        non_striker: KS Williamson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 2.3:
+        non_striker: MJ Guptill
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Williamson
+    - 2.4:
+        non_striker: MJ Guptill
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 2.5:
+        non_striker: KS Williamson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 2.6:
+        non_striker: KS Williamson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 3.1:
+        non_striker: MJ Guptill
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 3.2:
+        non_striker: KS Williamson
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 3.3:
+        non_striker: KS Williamson
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 3.4:
+        non_striker: KS Williamson
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 3.5:
+        non_striker: KS Williamson
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 3.6:
+        non_striker: KS Williamson
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 4.1:
+        non_striker: KS Williamson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 4.2:
+        non_striker: KS Williamson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 4.3:
+        non_striker: MJ Guptill
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 4.4:
+        non_striker: MJ Guptill
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+        wicket:
+          player_out: KS Williamson
+          kind: lbw
+    - 4.5:
+        non_striker: MJ Guptill
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 4.6:
+        non_striker: MJ Guptill
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 5.1:
+        non_striker: DP Conway
+        bowler: KW Richardson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Guptill
+    - 5.2:
+        non_striker: DP Conway
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 5.3:
+        non_striker: MJ Guptill
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 5.4:
+        non_striker: DP Conway
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 5.5:
+        non_striker: MJ Guptill
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 5.6:
+        non_striker: DP Conway
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 5.7:
+        non_striker: MJ Guptill
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 6.1:
+        non_striker: MJ Guptill
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 6.2:
+        non_striker: MJ Guptill
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 6.3:
+        non_striker: MJ Guptill
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 6.4:
+        non_striker: MJ Guptill
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 6.5:
+        non_striker: MJ Guptill
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 6.6:
+        non_striker: MJ Guptill
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 7.1:
+        non_striker: DP Conway
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 7.2:
+        non_striker: DP Conway
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 7.3:
+        non_striker: DP Conway
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 7.4:
+        non_striker: DP Conway
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 7.5:
+        non_striker: DP Conway
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 7.6:
+        non_striker: MJ Guptill
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.1:
+        non_striker: MJ Guptill
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.2:
+        non_striker: DP Conway
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 8.3:
+        non_striker: MJ Guptill
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.4:
+        non_striker: DP Conway
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+        wicket:
+          player_out: MJ Guptill
+          fielders:
+          - AC Agar
+          kind: caught
+    - 8.5:
+        non_striker: GD Phillips
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.6:
+        non_striker: DP Conway
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 9.1:
+        non_striker: GD Phillips
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 9.2:
+        non_striker: GD Phillips
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 9.3:
+        non_striker: DP Conway
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 9.4:
+        non_striker: DP Conway
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 9.5:
+        non_striker: DP Conway
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.6:
+        non_striker: GD Phillips
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 10.1:
+        non_striker: GD Phillips
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 10.2:
+        non_striker: GD Phillips
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 10.3:
+        non_striker: DP Conway
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 10.4:
+        non_striker: GD Phillips
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 10.5:
+        non_striker: GD Phillips
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 10.6:
+        non_striker: DP Conway
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 11.1:
+        non_striker: GD Phillips
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 11.2:
+        non_striker: GD Phillips
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 11.3:
+        non_striker: GD Phillips
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 11.4:
+        non_striker: DP Conway
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 11.5:
+        non_striker: DP Conway
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 11.6:
+        non_striker: DP Conway
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.1:
+        non_striker: DP Conway
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          fielders:
+          - KW Richardson
+          kind: caught
+    - 12.2:
+        non_striker: JDS Neesham
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 12.3:
+        non_striker: JDS Neesham
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+        wicket:
+          player_out: DP Conway
+          fielders:
+          - MP Stoinis
+          kind: caught
+    - 12.4:
+        non_striker: JDS Neesham
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 12.5:
+        non_striker: MS Chapman
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+        wicket:
+          player_out: JDS Neesham
+          fielders:
+          - MS Wade
+          kind: caught
+    - 12.6:
+        non_striker: MS Chapman
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 13.1:
+        non_striker: MS Chapman
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 13.2:
+        non_striker: MS Chapman
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TG Southee
+    - 13.3:
+        non_striker: MS Chapman
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 13.4:
+        non_striker: TG Southee
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 13.5:
+        non_striker: TG Southee
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 13.6:
+        non_striker: MS Chapman
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 14.1:
+        non_striker: MS Chapman
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+        wicket:
+          player_out: TG Southee
+          fielders:
+          - GJ Maxwell
+          kind: caught
+    - 14.2:
+        non_striker: KA Jamieson
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 14.3:
+        non_striker: KA Jamieson
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 14.4:
+        non_striker: MS Chapman
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 14.5:
+        non_striker: MS Chapman
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 14.6:
+        non_striker: MS Chapman
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 15.1:
+        non_striker: MS Chapman
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Jamieson
+    - 15.2:
+        non_striker: MS Chapman
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 15.3:
+        non_striker: MS Chapman
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 15.4:
+        non_striker: KA Jamieson
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 15.5:
+        non_striker: KA Jamieson
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 15.6:
+        non_striker: KA Jamieson
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 16.1:
+        non_striker: KA Jamieson
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 16.2:
+        non_striker: KA Jamieson
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          fielders:
+          - A Zampa
+          kind: caught
+    - 16.3:
+        non_striker: IS Sodhi
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 16.4:
+        non_striker: KA Jamieson
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 16.5:
+        non_striker: IS Sodhi
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Jamieson
+    - 16.6:
+        non_striker: IS Sodhi
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+        wicket:
+          player_out: KA Jamieson
+          kind: lbw
+    - 17.1:
+        non_striker: TA Boult
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+        wicket:
+          player_out: IS Sodhi
+          kind: caught and bowled

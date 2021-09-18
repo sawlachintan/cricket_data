@@ -1,0 +1,2115 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-04-19'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Hyderabad
+  competition: IPL
+  dates:
+  - '2018-04-22'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Chennai Super Kings
+    by:
+      runs: 4
+  overs: 20
+  player_of_match:
+  - AT Rayudu
+  players:
+    Chennai Super Kings:
+    - SR Watson
+    - F du Plessis
+    - SK Raina
+    - AT Rayudu
+    - MS Dhoni
+    - SW Billings
+    - DJ Bravo
+    - RA Jadeja
+    - DL Chahar
+    - KV Sharma
+    - SN Thakur
+    Sunrisers Hyderabad:
+    - RK Bhui
+    - KS Williamson
+    - MK Pandey
+    - DJ Hooda
+    - Shakib Al Hasan
+    - YK Pathan
+    - WP Saha
+    - Rashid Khan
+    - B Kumar
+    - B Stanlake
+    - S Kaul
+  registry:
+    people:
+      AK Chaudhary: fdcc6236
+      AT Rayudu: 70d205c9
+      B Kumar: 2e81a32d
+      B Stanlake: 6834d1f2
+      DJ Bravo: 87e562a9
+      DJ Hooda: 73ad96ed
+      DL Chahar: 23eeb873
+      F du Plessis: 3355b542
+      KS Williamson: d027ba9f
+      KV Sharma: 119678fd
+      MK Pandey: 93b4fc78
+      MS Dhoni: 4a8a2e3b
+      NJ Llong: 573fb985
+      R Pandit: 8a604384
+      RA Jadeja: fe93fd9d
+      RK Bhui: b63e358a
+      Rashid Khan: 5f547c8b
+      S Chaturvedi: c8ec02e1
+      S Kaul: dcf81436
+      SK Raina: 1dc12ab9
+      SN Thakur: 1abb78f8
+      SR Watson: 4329fbb5
+      SW Billings: c16d4035
+      Shakib Al Hasan: 7dc35884
+      VA Kulkarni: 8fe0c4f8
+      WP Saha: fe11caa6
+      YK Pathan: 3c6ffae8
+  teams:
+  - Chennai Super Kings
+  - Sunrisers Hyderabad
+  toss:
+    decision: field
+    winner: Sunrisers Hyderabad
+  umpires:
+  - AK Chaudhary
+  - VA Kulkarni
+  venue: Rajiv Gandhi International Stadium
+innings:
+- 1st innings:
+    team: Chennai Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: F du Plessis
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 0.2:
+        non_striker: F du Plessis
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 0.3:
+        non_striker: SR Watson
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.4:
+        non_striker: SR Watson
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 0.5:
+        non_striker: F du Plessis
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 0.6:
+        non_striker: F du Plessis
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 1.1:
+        non_striker: SR Watson
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.2:
+        non_striker: F du Plessis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 1.3:
+        non_striker: F du Plessis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 1.4:
+        non_striker: F du Plessis
+        bowler: B Stanlake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Watson
+    - 1.5:
+        non_striker: F du Plessis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 1.6:
+        non_striker: F du Plessis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 1.7:
+        non_striker: F du Plessis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 2.1:
+        non_striker: SR Watson
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 2.2:
+        non_striker: SR Watson
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 2.3:
+        non_striker: F du Plessis
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 2.4:
+        non_striker: SR Watson
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 2.5:
+        non_striker: F du Plessis
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 2.6:
+        non_striker: F du Plessis
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 3.1:
+        non_striker: F du Plessis
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 3.2:
+        non_striker: F du Plessis
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Watson
+    - 3.3:
+        non_striker: F du Plessis
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+        wicket:
+          player_out: SR Watson
+          fielders:
+          - DJ Hooda
+          kind: caught
+    - 3.4:
+        non_striker: F du Plessis
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 3.5:
+        non_striker: F du Plessis
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 3.6:
+        non_striker: F du Plessis
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 4.1:
+        non_striker: F du Plessis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 4.2:
+        non_striker: F du Plessis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 4.3:
+        non_striker: F du Plessis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Raina
+    - 4.4:
+        non_striker: F du Plessis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 4.5:
+        non_striker: F du Plessis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SK Raina
+    - 4.6:
+        non_striker: F du Plessis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 5.1:
+        non_striker: SK Raina
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 5.2:
+        non_striker: SK Raina
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 5.3:
+        non_striker: SK Raina
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 5.4:
+        non_striker: SK Raina
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 5.5:
+        non_striker: F du Plessis
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 5.6:
+        non_striker: F du Plessis
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 6.1:
+        non_striker: F du Plessis
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 6.2:
+        non_striker: F du Plessis
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 6.3:
+        non_striker: SK Raina
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 6.4:
+        non_striker: F du Plessis
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 6.5:
+        non_striker: F du Plessis
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SK Raina
+    - 6.6:
+        non_striker: F du Plessis
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 6.7:
+        non_striker: SK Raina
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 7.1:
+        non_striker: SK Raina
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          fielders:
+          - WP Saha
+          kind: stumped
+    - 7.2:
+        non_striker: SK Raina
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 7.3:
+        non_striker: SK Raina
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 7.4:
+        non_striker: SK Raina
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 7.5:
+        non_striker: SK Raina
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 7.6:
+        non_striker: AT Rayudu
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 8.1:
+        non_striker: SK Raina
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 8.2:
+        non_striker: AT Rayudu
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 8.3:
+        non_striker: AT Rayudu
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 8.4:
+        non_striker: AT Rayudu
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 8.5:
+        non_striker: AT Rayudu
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 8.6:
+        non_striker: SK Raina
+        bowler: S Kaul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AT Rayudu
+    - 8.7:
+        non_striker: SK Raina
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 9.1:
+        non_striker: SK Raina
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 9.2:
+        non_striker: SK Raina
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AT Rayudu
+    - 9.3:
+        non_striker: SK Raina
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 9.4:
+        non_striker: AT Rayudu
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 9.5:
+        non_striker: SK Raina
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 9.6:
+        non_striker: AT Rayudu
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Raina
+    - 10.1:
+        non_striker: SK Raina
+        bowler: DJ Hooda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 10.2:
+        non_striker: SK Raina
+        bowler: DJ Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 10.3:
+        non_striker: AT Rayudu
+        bowler: DJ Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 10.4:
+        non_striker: AT Rayudu
+        bowler: DJ Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 10.5:
+        non_striker: SK Raina
+        bowler: DJ Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 10.6:
+        non_striker: AT Rayudu
+        bowler: DJ Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 11.1:
+        non_striker: AT Rayudu
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 11.2:
+        non_striker: SK Raina
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 11.3:
+        non_striker: AT Rayudu
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 11.4:
+        non_striker: SK Raina
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 11.5:
+        non_striker: AT Rayudu
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SK Raina
+    - 11.6:
+        non_striker: AT Rayudu
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SK Raina
+    - 12.1:
+        non_striker: SK Raina
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Rayudu
+    - 12.2:
+        non_striker: SK Raina
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 12.3:
+        non_striker: AT Rayudu
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 12.4:
+        non_striker: SK Raina
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 12.5:
+        non_striker: SK Raina
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 12.6:
+        non_striker: SK Raina
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 13.1:
+        non_striker: SK Raina
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 13.2:
+        non_striker: SK Raina
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 13.3:
+        non_striker: SK Raina
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 13.4:
+        non_striker: SK Raina
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 13.5:
+        non_striker: SK Raina
+        bowler: B Stanlake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AT Rayudu
+    - 13.6:
+        non_striker: SK Raina
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AT Rayudu
+    - 13.7:
+        non_striker: SK Raina
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 14.1:
+        non_striker: AT Rayudu
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 14.2:
+        non_striker: SK Raina
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 14.3:
+        non_striker: AT Rayudu
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 14.4:
+        non_striker: SK Raina
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AT Rayudu
+    - 14.5:
+        non_striker: SK Raina
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 14.6:
+        non_striker: SK Raina
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 15.1:
+        non_striker: SK Raina
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 15.2:
+        non_striker: AT Rayudu
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 15.3:
+        non_striker: SK Raina
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 15.4:
+        non_striker: SK Raina
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AT Rayudu
+    - 15.5:
+        non_striker: SK Raina
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 15.6:
+        non_striker: AT Rayudu
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Raina
+    - 16.1:
+        non_striker: SK Raina
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 16.2:
+        non_striker: AT Rayudu
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 16.3:
+        non_striker: SK Raina
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 16.4:
+        non_striker: SK Raina
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+        wicket:
+          player_out: AT Rayudu
+          kind: run out
+    - 16.5:
+        non_striker: MS Dhoni
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 16.6:
+        non_striker: SK Raina
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 17.1:
+        non_striker: SK Raina
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 17.2:
+        non_striker: SK Raina
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Dhoni
+    - 17.3:
+        non_striker: SK Raina
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 17.4:
+        non_striker: MS Dhoni
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 17.5:
+        non_striker: SK Raina
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 17.6:
+        non_striker: MS Dhoni
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Raina
+    - 18.1:
+        non_striker: SK Raina
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Dhoni
+    - 18.2:
+        non_striker: SK Raina
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 18.3:
+        non_striker: MS Dhoni
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Raina
+    - 18.4:
+        non_striker: MS Dhoni
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 18.5:
+        non_striker: SK Raina
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Dhoni
+    - 18.6:
+        non_striker: SK Raina
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 19.1:
+        non_striker: MS Dhoni
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 19.2:
+        non_striker: SK Raina
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Dhoni
+    - 19.3:
+        non_striker: SK Raina
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 19.4:
+        non_striker: MS Dhoni
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 19.5:
+        non_striker: MS Dhoni
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 19.6:
+        non_striker: SK Raina
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Dhoni
+- 2nd innings:
+    team: Sunrisers Hyderabad
+    deliveries:
+    - 0.1:
+        non_striker: KS Williamson
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Bhui
+    - 0.2:
+        non_striker: KS Williamson
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Bhui
+    - 0.3:
+        non_striker: KS Williamson
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Bhui
+    - 0.4:
+        non_striker: KS Williamson
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Bhui
+    - 0.5:
+        non_striker: KS Williamson
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Bhui
+        wicket:
+          player_out: RK Bhui
+          fielders:
+          - SR Watson
+          kind: caught
+    - 0.6:
+        non_striker: KS Williamson
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 1.1:
+        non_striker: MK Pandey
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 1.2:
+        non_striker: MK Pandey
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 1.3:
+        non_striker: MK Pandey
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 1.4:
+        non_striker: MK Pandey
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 1.5:
+        non_striker: MK Pandey
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 1.6:
+        non_striker: MK Pandey
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 2.1:
+        non_striker: KS Williamson
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+        wicket:
+          player_out: MK Pandey
+          fielders:
+          - KV Sharma
+          kind: caught
+    - 2.2:
+        non_striker: DJ Hooda
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 2.3:
+        non_striker: KS Williamson
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hooda
+    - 2.4:
+        non_striker: KS Williamson
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hooda
+    - 2.5:
+        non_striker: KS Williamson
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hooda
+    - 2.6:
+        non_striker: KS Williamson
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hooda
+    - 3.1:
+        non_striker: DJ Hooda
+        bowler: SN Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KS Williamson
+    - 3.2:
+        non_striker: DJ Hooda
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 3.3:
+        non_striker: KS Williamson
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hooda
+    - 3.4:
+        non_striker: DJ Hooda
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 3.5:
+        non_striker: DJ Hooda
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 3.6:
+        non_striker: DJ Hooda
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 3.7:
+        non_striker: DJ Hooda
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 4.1:
+        non_striker: KS Williamson
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hooda
+    - 4.2:
+        non_striker: KS Williamson
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hooda
+        wicket:
+          player_out: DJ Hooda
+          fielders:
+          - RA Jadeja
+          kind: caught
+    - 4.3:
+        non_striker: Shakib Al Hasan
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 4.4:
+        non_striker: Shakib Al Hasan
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Williamson
+    - 4.5:
+        non_striker: Shakib Al Hasan
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 4.6:
+        non_striker: Shakib Al Hasan
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 5.1:
+        non_striker: KS Williamson
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 5.2:
+        non_striker: KS Williamson
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 5.3:
+        non_striker: KS Williamson
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 5.4:
+        non_striker: Shakib Al Hasan
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 5.5:
+        non_striker: KS Williamson
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 5.6:
+        non_striker: KS Williamson
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shakib Al Hasan
+    - 6.1:
+        non_striker: Shakib Al Hasan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 6.2:
+        non_striker: KS Williamson
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 6.3:
+        non_striker: Shakib Al Hasan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.4:
+        non_striker: Shakib Al Hasan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.5:
+        non_striker: Shakib Al Hasan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 6.6:
+        non_striker: KS Williamson
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 7.1:
+        non_striker: Shakib Al Hasan
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 7.2:
+        non_striker: KS Williamson
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 7.3:
+        non_striker: Shakib Al Hasan
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 7.4:
+        non_striker: KS Williamson
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 7.5:
+        non_striker: KS Williamson
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 7.6:
+        non_striker: KS Williamson
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 8.1:
+        non_striker: KS Williamson
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 8.2:
+        non_striker: Shakib Al Hasan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 8.3:
+        non_striker: Shakib Al Hasan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 8.4:
+        non_striker: Shakib Al Hasan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 8.5:
+        non_striker: Shakib Al Hasan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 8.6:
+        non_striker: KS Williamson
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 9.1:
+        non_striker: KS Williamson
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 9.2:
+        non_striker: Shakib Al Hasan
+        bowler: SR Watson
+        runs:
+          extras: 0
+          non_boundary: 1
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 9.3:
+        non_striker: Shakib Al Hasan
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 9.4:
+        non_striker: Shakib Al Hasan
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 9.5:
+        non_striker: KS Williamson
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shakib Al Hasan
+    - 9.6:
+        non_striker: KS Williamson
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 10.1:
+        non_striker: KS Williamson
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 10.2:
+        non_striker: KS Williamson
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 10.3:
+        non_striker: KS Williamson
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+        wicket:
+          player_out: Shakib Al Hasan
+          fielders:
+          - SK Raina
+          kind: caught
+    - 10.4:
+        non_striker: KS Williamson
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 10.5:
+        non_striker: KS Williamson
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 10.6:
+        non_striker: YK Pathan
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 11.1:
+        non_striker: YK Pathan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 11.2:
+        non_striker: KS Williamson
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 11.3:
+        non_striker: YK Pathan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 11.4:
+        non_striker: KS Williamson
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 11.5:
+        non_striker: YK Pathan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 11.6:
+        non_striker: KS Williamson
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 12.1:
+        non_striker: YK Pathan
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 12.2:
+        non_striker: KS Williamson
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 12.3:
+        non_striker: KS Williamson
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 12.4:
+        non_striker: YK Pathan
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 12.5:
+        non_striker: KS Williamson
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YK Pathan
+    - 12.6:
+        non_striker: KS Williamson
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 13.1:
+        non_striker: KS Williamson
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 13.2:
+        non_striker: YK Pathan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 13.3:
+        non_striker: KS Williamson
+        bowler: RA Jadeja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YK Pathan
+    - 13.4:
+        non_striker: KS Williamson
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 13.5:
+        non_striker: YK Pathan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 13.6:
+        non_striker: YK Pathan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Williamson
+    - 13.7:
+        non_striker: YK Pathan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 14.1:
+        non_striker: YK Pathan
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 14.2:
+        non_striker: YK Pathan
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Williamson
+    - 14.3:
+        non_striker: YK Pathan
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 14.4:
+        non_striker: KS Williamson
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 14.5:
+        non_striker: YK Pathan
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Williamson
+    - 14.6:
+        non_striker: YK Pathan
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Williamson
+    - 15.1:
+        non_striker: KS Williamson
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 15.2:
+        non_striker: YK Pathan
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 15.3:
+        non_striker: KS Williamson
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 15.4:
+        non_striker: KS Williamson
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YK Pathan
+    - 15.5:
+        non_striker: KS Williamson
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 15.6:
+        non_striker: KS Williamson
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YK Pathan
+    - 16.1:
+        non_striker: YK Pathan
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 16.2:
+        non_striker: YK Pathan
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 16.3:
+        non_striker: KS Williamson
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YK Pathan
+    - 16.4:
+        non_striker: KS Williamson
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 16.5:
+        non_striker: YK Pathan
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 16.6:
+        non_striker: YK Pathan
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 17.1:
+        non_striker: KS Williamson
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YK Pathan
+    - 17.2:
+        non_striker: KS Williamson
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 17.3:
+        non_striker: KS Williamson
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YK Pathan
+    - 17.4:
+        non_striker: KS Williamson
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YK Pathan
+    - 17.5:
+        non_striker: KS Williamson
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 17.6:
+        non_striker: YK Pathan
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+        wicket:
+          player_out: KS Williamson
+          fielders:
+          - RA Jadeja
+          kind: caught
+    - 18.1:
+        non_striker: YK Pathan
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Saha
+    - 18.2:
+        non_striker: WP Saha
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YK Pathan
+    - 18.3:
+        non_striker: WP Saha
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 18.4:
+        non_striker: WP Saha
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+        wicket:
+          player_out: YK Pathan
+          fielders:
+          - SK Raina
+          kind: caught
+    - 18.5:
+        non_striker: Rashid Khan
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Saha
+    - 18.6:
+        non_striker: WP Saha
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rashid Khan
+    - 19.1:
+        non_striker: Rashid Khan
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 19.2:
+        non_striker: Rashid Khan
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WP Saha
+    - 19.3:
+        non_striker: Rashid Khan
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Saha
+    - 19.4:
+        non_striker: WP Saha
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rashid Khan
+    - 19.5:
+        non_striker: WP Saha
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rashid Khan
+    - 19.6:
+        non_striker: WP Saha
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan

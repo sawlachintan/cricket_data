@@ -1,0 +1,2030 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-04-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mumbai
+  competition: IPL
+  dates:
+  - '2018-04-24'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sunrisers Hyderabad
+    by:
+      runs: 31
+  overs: 20
+  player_of_match:
+  - Rashid Khan
+  players:
+    Sunrisers Hyderabad:
+    - S Dhawan
+    - KS Williamson
+    - WP Saha
+    - MK Pandey
+    - Shakib Al Hasan
+    - YK Pathan
+    - Mohammad Nabi
+    - Rashid Khan
+    - Basil Thampi
+    - S Kaul
+    - Sandeep Sharma
+    Mumbai Indians:
+    - SA Yadav
+    - E Lewis
+    - Ishan Kishan
+    - RG Sharma
+    - KH Pandya
+    - KA Pollard
+    - HH Pandya
+    - MJ McClenaghan
+    - M Markande
+    - JJ Bumrah
+    - Mustafizur Rahman
+  registry:
+    people:
+      A Deshmukh: 6fda55cc
+      Basil Thampi: 871e9faf
+      C Shamshuddin: 0f9d921b
+      DJ Hooda: 73ad96ed
+      E Lewis: 0ebfb1ad
+      HH Pandya: dbe50b21
+      Ishan Kishan: 752f7486
+      JJ Bumrah: 462411b3
+      K Srinath: 8ab5da97
+      KA Pollard: a757b0d8
+      KH Pandya: 5b8c830e
+      KS Williamson: d027ba9f
+      M Markande: a9fd84fb
+      MJ McClenaghan: 51a3c5ef
+      MK Pandey: 93b4fc78
+      Mohammad Nabi: 62af8546
+      Mustafizur Rahman: 0a8fce53
+      RG Sharma: 740742ef
+      Rashid Khan: 5f547c8b
+      S Dhawan: 0a476045
+      S Kaul: dcf81436
+      S Ravi: 9b9ee0df
+      SA Yadav: 271f83cd
+      Sandeep Sharma: ce820073
+      Shakib Al Hasan: 7dc35884
+      V Narayan Kutty: 4bacee3d
+      WP Saha: fe11caa6
+      YK Pathan: 3c6ffae8
+  teams:
+  - Sunrisers Hyderabad
+  - Mumbai Indians
+  toss:
+    decision: field
+    winner: Mumbai Indians
+  umpires:
+  - C Shamshuddin
+  - S Ravi
+  venue: Wankhede Stadium
+innings:
+- 1st innings:
+    team: Sunrisers Hyderabad
+    deliveries:
+    - 0.1:
+        non_striker: KS Williamson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 0.2:
+        non_striker: KS Williamson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 0.3:
+        non_striker: S Dhawan
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 0.4:
+        non_striker: S Dhawan
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 0.5:
+        non_striker: S Dhawan
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 0.6:
+        non_striker: KS Williamson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 1.1:
+        non_striker: S Dhawan
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 1.2:
+        non_striker: KS Williamson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: S Dhawan
+    - 1.3:
+        non_striker: KS Williamson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 1.4:
+        non_striker: KS Williamson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 1.5:
+        non_striker: KS Williamson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+        wicket:
+          player_out: S Dhawan
+          kind: bowled
+    - 1.6:
+        non_striker: KS Williamson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 1.7:
+        non_striker: KS Williamson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+        wicket:
+          player_out: WP Saha
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 2.1:
+        non_striker: MK Pandey
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 2.2:
+        non_striker: MK Pandey
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 2.3:
+        non_striker: KS Williamson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Pandey
+    - 2.4:
+        non_striker: KS Williamson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 2.5:
+        non_striker: MK Pandey
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 2.6:
+        non_striker: KS Williamson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 3.1:
+        non_striker: KS Williamson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 3.2:
+        non_striker: KS Williamson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Pandey
+    - 3.3:
+        non_striker: KS Williamson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 3.4:
+        non_striker: KS Williamson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 3.5:
+        non_striker: KS Williamson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Pandey
+    - 3.6:
+        non_striker: KS Williamson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Pandey
+    - 4.1:
+        non_striker: MK Pandey
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 4.2:
+        non_striker: MK Pandey
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KS Williamson
+    - 4.3:
+        non_striker: MK Pandey
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 4.4:
+        non_striker: KS Williamson
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 4.5:
+        non_striker: KS Williamson
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+        wicket:
+          player_out: MK Pandey
+          fielders:
+          - RG Sharma
+          kind: caught
+    - 4.6:
+        non_striker: KS Williamson
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 4.7:
+        non_striker: KS Williamson
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 5.1:
+        non_striker: KS Williamson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 5.2:
+        non_striker: KS Williamson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 5.3:
+        non_striker: Shakib Al Hasan
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+        wicket:
+          player_out: Shakib Al Hasan
+          kind: run out
+    - 5.4:
+        non_striker: YK Pathan
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 5.5:
+        non_striker: KS Williamson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 5.6:
+        non_striker: KS Williamson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: YK Pathan
+    - 6.1:
+        non_striker: YK Pathan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.2:
+        non_striker: YK Pathan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 6.3:
+        non_striker: YK Pathan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.4:
+        non_striker: YK Pathan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.5:
+        non_striker: YK Pathan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 6.6:
+        non_striker: KS Williamson
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 7.1:
+        non_striker: YK Pathan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 7.2:
+        non_striker: YK Pathan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 7.3:
+        non_striker: YK Pathan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 7.4:
+        non_striker: KS Williamson
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 7.5:
+        non_striker: KS Williamson
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 7.6:
+        non_striker: YK Pathan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 8.1:
+        non_striker: YK Pathan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+        wicket:
+          player_out: KS Williamson
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 8.2:
+        non_striker: YK Pathan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 8.3:
+        non_striker: Mohammad Nabi
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 8.4:
+        non_striker: YK Pathan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 8.5:
+        non_striker: YK Pathan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 8.6:
+        non_striker: Mohammad Nabi
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YK Pathan
+    - 8.7:
+        non_striker: Mohammad Nabi
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 9.1:
+        non_striker: YK Pathan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 9.2:
+        non_striker: YK Pathan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 9.3:
+        non_striker: Mohammad Nabi
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YK Pathan
+    - 9.4:
+        non_striker: Mohammad Nabi
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 9.5:
+        non_striker: YK Pathan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 9.6:
+        non_striker: Mohammad Nabi
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 10.1:
+        non_striker: YK Pathan
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 10.2:
+        non_striker: Mohammad Nabi
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 10.3:
+        non_striker: YK Pathan
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 10.4:
+        non_striker: YK Pathan
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 10.5:
+        non_striker: Mohammad Nabi
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 10.6:
+        non_striker: Mohammad Nabi
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 11.1:
+        non_striker: YK Pathan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+        wicket:
+          player_out: Mohammad Nabi
+          kind: bowled
+    - 11.2:
+        non_striker: YK Pathan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 11.3:
+        non_striker: YK Pathan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 11.4:
+        non_striker: YK Pathan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 11.5:
+        non_striker: YK Pathan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 11.6:
+        non_striker: Rashid Khan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 12.1:
+        non_striker: Rashid Khan
+        bowler: KH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YK Pathan
+    - 12.2:
+        non_striker: Rashid Khan
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 12.3:
+        non_striker: YK Pathan
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rashid Khan
+    - 12.4:
+        non_striker: YK Pathan
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 12.5:
+        non_striker: Rashid Khan
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YK Pathan
+    - 12.6:
+        non_striker: Rashid Khan
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 12.7:
+        non_striker: YK Pathan
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 13.1:
+        non_striker: YK Pathan
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 13.2:
+        non_striker: Rashid Khan
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 13.3:
+        non_striker: YK Pathan
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+        wicket:
+          player_out: Rashid Khan
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 13.4:
+        non_striker: YK Pathan
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basil Thampi
+    - 13.5:
+        non_striker: Basil Thampi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 13.6:
+        non_striker: YK Pathan
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basil Thampi
+    - 14.1:
+        non_striker: Basil Thampi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 14.2:
+        non_striker: YK Pathan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basil Thampi
+    - 14.3:
+        non_striker: Basil Thampi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 14.4:
+        non_striker: YK Pathan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basil Thampi
+    - 14.5:
+        non_striker: YK Pathan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basil Thampi
+    - 14.6:
+        non_striker: Basil Thampi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 15.1:
+        non_striker: YK Pathan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basil Thampi
+        wicket:
+          player_out: Basil Thampi
+          kind: bowled
+    - 15.2:
+        non_striker: YK Pathan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kaul
+    - 15.3:
+        non_striker: YK Pathan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kaul
+    - 15.4:
+        non_striker: YK Pathan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kaul
+    - 15.5:
+        non_striker: YK Pathan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kaul
+    - 15.6:
+        non_striker: YK Pathan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kaul
+    - 16.1:
+        non_striker: S Kaul
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 16.2:
+        non_striker: YK Pathan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kaul
+    - 16.3:
+        non_striker: YK Pathan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kaul
+    - 16.4:
+        non_striker: YK Pathan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kaul
+    - 16.5:
+        non_striker: YK Pathan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kaul
+        wicket:
+          player_out: S Kaul
+          kind: run out
+    - 16.6:
+        non_striker: YK Pathan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sandeep Sharma
+    - 17.1:
+        non_striker: Sandeep Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 17.2:
+        non_striker: Sandeep Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 17.3:
+        non_striker: Sandeep Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 17.4:
+        non_striker: Sandeep Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YK Pathan
+    - 17.5:
+        non_striker: Sandeep Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 17.6:
+        non_striker: Sandeep Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 18.1:
+        non_striker: Sandeep Sharma
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 18.2:
+        non_striker: Sandeep Sharma
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 18.3:
+        non_striker: Sandeep Sharma
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YK Pathan
+    - 18.4:
+        non_striker: Sandeep Sharma
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+        wicket:
+          player_out: YK Pathan
+          fielders:
+          - HH Pandya
+          kind: caught
+- 2nd innings:
+    team: Mumbai Indians
+    deliveries:
+    - 0.1:
+        non_striker: E Lewis
+        bowler: Sandeep Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Yadav
+    - 0.2:
+        non_striker: E Lewis
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 0.3:
+        non_striker: E Lewis
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 0.4:
+        non_striker: E Lewis
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 0.5:
+        non_striker: SA Yadav
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 0.6:
+        non_striker: SA Yadav
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 0.7:
+        non_striker: SA Yadav
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 1.1:
+        non_striker: E Lewis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 1.2:
+        non_striker: E Lewis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 1.3:
+        non_striker: SA Yadav
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 1.4:
+        non_striker: E Lewis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 1.5:
+        non_striker: E Lewis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 1.6:
+        non_striker: E Lewis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 2.1:
+        non_striker: SA Yadav
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Lewis
+    - 2.2:
+        non_striker: SA Yadav
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 2.3:
+        non_striker: SA Yadav
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 2.4:
+        non_striker: SA Yadav
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 2.5:
+        non_striker: SA Yadav
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+        wicket:
+          player_out: E Lewis
+          fielders:
+          - MK Pandey
+          kind: caught
+    - 2.6:
+        non_striker: SA Yadav
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 3.1:
+        non_striker: Ishan Kishan
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 3.2:
+        non_striker: Ishan Kishan
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 3.3:
+        non_striker: Ishan Kishan
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 3.4:
+        non_striker: Ishan Kishan
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 3.5:
+        non_striker: SA Yadav
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 3.6:
+        non_striker: SA Yadav
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+        wicket:
+          player_out: Ishan Kishan
+          fielders:
+          - DJ Hooda (sub)
+          kind: caught
+    - 4.1:
+        non_striker: RG Sharma
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 4.2:
+        non_striker: SA Yadav
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 4.3:
+        non_striker: SA Yadav
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 4.4:
+        non_striker: SA Yadav
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 4.5:
+        non_striker: SA Yadav
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Sharma
+    - 4.6:
+        non_striker: SA Yadav
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 5.1:
+        non_striker: RG Sharma
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 5.2:
+        non_striker: SA Yadav
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+        wicket:
+          player_out: RG Sharma
+          fielders:
+          - S Dhawan
+          kind: caught
+    - 5.3:
+        non_striker: SA Yadav
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 5.4:
+        non_striker: KH Pandya
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 5.5:
+        non_striker: KH Pandya
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 5.6:
+        non_striker: KH Pandya
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 6.1:
+        non_striker: SA Yadav
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 6.2:
+        non_striker: KH Pandya
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 6.3:
+        non_striker: SA Yadav
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 6.4:
+        non_striker: KH Pandya
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 6.5:
+        non_striker: KH Pandya
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 6.6:
+        non_striker: SA Yadav
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+    - 7.1:
+        non_striker: KH Pandya
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 7.2:
+        non_striker: KH Pandya
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 7.3:
+        non_striker: SA Yadav
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 7.4:
+        non_striker: KH Pandya
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 7.5:
+        non_striker: KH Pandya
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 7.6:
+        non_striker: KH Pandya
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 8.1:
+        non_striker: SA Yadav
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Pandya
+    - 8.2:
+        non_striker: SA Yadav
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+    - 8.3:
+        non_striker: SA Yadav
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+    - 8.4:
+        non_striker: SA Yadav
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+    - 8.5:
+        non_striker: SA Yadav
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Pandya
+    - 8.6:
+        non_striker: SA Yadav
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Pandya
+    - 9.1:
+        non_striker: KH Pandya
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 9.2:
+        non_striker: KH Pandya
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 9.3:
+        non_striker: KH Pandya
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 9.4:
+        non_striker: KH Pandya
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 9.5:
+        non_striker: KH Pandya
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.6:
+        non_striker: SA Yadav
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 10.1:
+        non_striker: SA Yadav
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 10.2:
+        non_striker: KH Pandya
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 10.3:
+        non_striker: KH Pandya
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 10.4:
+        non_striker: SA Yadav
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+    - 10.5:
+        non_striker: SA Yadav
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+    - 10.6:
+        non_striker: SA Yadav
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 11.1:
+        non_striker: SA Yadav
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 11.2:
+        non_striker: KH Pandya
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 11.3:
+        non_striker: SA Yadav
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Pandya
+    - 11.4:
+        non_striker: SA Yadav
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+    - 11.5:
+        non_striker: SA Yadav
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+        wicket:
+          player_out: KH Pandya
+          kind: lbw
+    - 11.6:
+        non_striker: SA Yadav
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 12.1:
+        non_striker: SA Yadav
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 12.2:
+        non_striker: SA Yadav
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 12.3:
+        non_striker: SA Yadav
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 12.4:
+        non_striker: KA Pollard
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 12.5:
+        non_striker: SA Yadav
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 12.6:
+        non_striker: KA Pollard
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 13.1:
+        non_striker: SA Yadav
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+        wicket:
+          player_out: KA Pollard
+          fielders:
+          - S Dhawan
+          kind: caught
+    - 13.2:
+        non_striker: SA Yadav
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 13.3:
+        non_striker: SA Yadav
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 13.4:
+        non_striker: HH Pandya
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 13.5:
+        non_striker: SA Yadav
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 13.6:
+        non_striker: SA Yadav
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 14.1:
+        non_striker: HH Pandya
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 14.2:
+        non_striker: SA Yadav
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 14.3:
+        non_striker: SA Yadav
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 14.4:
+        non_striker: SA Yadav
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 14.5:
+        non_striker: HH Pandya
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+        wicket:
+          player_out: SA Yadav
+          fielders:
+          - Rashid Khan
+          kind: caught
+    - 14.6:
+        non_striker: HH Pandya
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ McClenaghan
+    - 15.1:
+        non_striker: MJ McClenaghan
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 15.2:
+        non_striker: HH Pandya
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ McClenaghan
+        wicket:
+          player_out: MJ McClenaghan
+          kind: lbw
+    - 15.3:
+        non_striker: HH Pandya
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Markande
+    - 15.4:
+        non_striker: M Markande
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 15.5:
+        non_striker: M Markande
+        bowler: S Kaul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HH Pandya
+    - 15.6:
+        non_striker: HH Pandya
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Markande
+        wicket:
+          player_out: M Markande
+          kind: lbw
+    - 16.1:
+        non_striker: JJ Bumrah
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 16.2:
+        non_striker: JJ Bumrah
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 16.3:
+        non_striker: JJ Bumrah
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 16.4:
+        non_striker: JJ Bumrah
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 16.5:
+        non_striker: JJ Bumrah
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 16.6:
+        non_striker: JJ Bumrah
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 17.1:
+        non_striker: HH Pandya
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Bumrah
+    - 17.2:
+        non_striker: JJ Bumrah
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 17.3:
+        non_striker: JJ Bumrah
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 17.4:
+        non_striker: JJ Bumrah
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+        wicket:
+          player_out: HH Pandya
+          fielders:
+          - Basil Thampi
+          kind: caught
+    - 17.5:
+        non_striker: Mustafizur Rahman
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Bumrah
+    - 17.6:
+        non_striker: Mustafizur Rahman
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+    - 18.1:
+        non_striker: JJ Bumrah
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 18.2:
+        non_striker: JJ Bumrah
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mustafizur Rahman
+    - 18.3:
+        non_striker: Mustafizur Rahman
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+    - 18.4:
+        non_striker: Mustafizur Rahman
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Bumrah
+    - 18.5:
+        non_striker: JJ Bumrah
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+        wicket:
+          player_out: Mustafizur Rahman
+          fielders:
+          - DJ Hooda (sub)
+          kind: caught

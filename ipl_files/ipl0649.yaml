@@ -1,0 +1,1900 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-04-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kolkata
+  competition: IPL
+  dates:
+  - '2018-04-16'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Kolkata Knight Riders
+    by:
+      runs: 71
+  overs: 20
+  player_of_match:
+  - N Rana
+  players:
+    Kolkata Knight Riders:
+    - CA Lynn
+    - SP Narine
+    - RV Uthappa
+    - N Rana
+    - KD Karthik
+    - AD Russell
+    - Shubman Gill
+    - TK Curran
+    - PP Chawla
+    - Shivam Mavi
+    - Kuldeep Yadav
+    Delhi Daredevils:
+    - G Gambhir
+    - JJ Roy
+    - SS Iyer
+    - RR Pant
+    - GJ Maxwell
+    - R Tewatia
+    - V Shankar
+    - CH Morris
+    - Mohammed Shami
+    - S Nadeem
+    - TA Boult
+  registry:
+    people:
+      A Nand Kishore: 84424f4f
+      AD Russell: bbd41817
+      AK Chaudhary: fdcc6236
+      CA Lynn: 45eda7c8
+      CB Gaffaney: d5ac41d8
+      CH Morris: fb66ce1f
+      G Gambhir: bb345e0b
+      GJ Maxwell: b681e71e
+      JJ Roy: d1c36f5c
+      KD Karthik: c03f1114
+      Kuldeep Yadav: 8d2c70ad
+      Mohammed Shami: 8cf9814c
+      N Rana: fb2d1dda
+      PP Chawla: 98ae73b1
+      R Tewatia: 39a2dfa8
+      RB Richardson: 410e2f12
+      RR Pant: 919a3be2
+      RV Uthappa: 1c17e270
+      S Nadeem: 9d80c5e1
+      SP Narine: 9d430b40
+      SS Iyer: 85ec8e33
+      Shivam Mavi: c38d3503
+      Shubman Gill: b4b99816
+      TA Boult: a818c1be
+      TK Curran: e86754b2
+      UV Gandhe: 43dd4011
+      V Shankar: '0994d0ae'
+  teams:
+  - Kolkata Knight Riders
+  - Delhi Daredevils
+  toss:
+    decision: field
+    winner: Delhi Daredevils
+  umpires:
+  - AK Chaudhary
+  - A Nand Kishore
+  venue: Eden Gardens
+innings:
+- 1st innings:
+    team: Kolkata Knight Riders
+    deliveries:
+    - 0.1:
+        non_striker: SP Narine
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 0.2:
+        non_striker: SP Narine
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 0.3:
+        non_striker: SP Narine
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 0.4:
+        non_striker: SP Narine
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 0.5:
+        non_striker: SP Narine
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 0.6:
+        non_striker: SP Narine
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 1.1:
+        non_striker: CA Lynn
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Narine
+    - 1.2:
+        non_striker: SP Narine
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 1.3:
+        non_striker: SP Narine
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 1.4:
+        non_striker: SP Narine
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Lynn
+    - 1.5:
+        non_striker: SP Narine
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 1.6:
+        non_striker: SP Narine
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 2.1:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 2.2:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 2.3:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+        wicket:
+          player_out: SP Narine
+          fielders:
+          - GJ Maxwell
+          kind: caught
+    - 2.4:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 2.5:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 2.6:
+        non_striker: RV Uthappa
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 3.1:
+        non_striker: CA Lynn
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 3.2:
+        non_striker: RV Uthappa
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 3.3:
+        non_striker: RV Uthappa
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 3.4:
+        non_striker: RV Uthappa
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 3.5:
+        non_striker: CA Lynn
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 3.6:
+        non_striker: RV Uthappa
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 4.1:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 4.2:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 4.3:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RV Uthappa
+    - 4.4:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 4.5:
+        non_striker: RV Uthappa
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 4.6:
+        non_striker: RV Uthappa
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 5.1:
+        non_striker: CA Lynn
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 5.2:
+        non_striker: CA Lynn
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RV Uthappa
+    - 5.3:
+        non_striker: CA Lynn
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RV Uthappa
+    - 5.4:
+        non_striker: CA Lynn
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RV Uthappa
+    - 5.5:
+        non_striker: CA Lynn
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RV Uthappa
+    - 5.6:
+        non_striker: CA Lynn
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 6.1:
+        non_striker: RV Uthappa
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 6.2:
+        non_striker: CA Lynn
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RV Uthappa
+    - 6.3:
+        non_striker: CA Lynn
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 6.4:
+        non_striker: RV Uthappa
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 6.5:
+        non_striker: CA Lynn
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 6.6:
+        non_striker: RV Uthappa
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 7.1:
+        non_striker: CA Lynn
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 7.2:
+        non_striker: RV Uthappa
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 7.3:
+        non_striker: CA Lynn
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+        wicket:
+          player_out: RV Uthappa
+          kind: caught and bowled
+    - 7.4:
+        non_striker: N Rana
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 7.5:
+        non_striker: N Rana
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 7.6:
+        non_striker: CA Lynn
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 8.1:
+        non_striker: CA Lynn
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 8.2:
+        non_striker: CA Lynn
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 8.3:
+        non_striker: CA Lynn
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 8.4:
+        non_striker: CA Lynn
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Rana
+    - 8.5:
+        non_striker: CA Lynn
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 8.6:
+        non_striker: CA Lynn
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 9.1:
+        non_striker: CA Lynn
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Rana
+    - 9.2:
+        non_striker: CA Lynn
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Rana
+    - 9.3:
+        non_striker: CA Lynn
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 9.4:
+        non_striker: CA Lynn
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 9.5:
+        non_striker: N Rana
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 9.6:
+        non_striker: CA Lynn
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 10.1:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 10.2:
+        non_striker: CA Lynn
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 10.3:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Lynn
+    - 10.4:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 10.5:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+        wicket:
+          player_out: CA Lynn
+          fielders:
+          - JJ Roy
+          kind: caught
+    - 10.6:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Karthik
+    - 10.7:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 11.1:
+        non_striker: KD Karthik
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 11.2:
+        non_striker: KD Karthik
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 11.3:
+        non_striker: KD Karthik
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 11.4:
+        non_striker: N Rana
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KD Karthik
+    - 11.5:
+        non_striker: N Rana
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Karthik
+    - 11.6:
+        non_striker: KD Karthik
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 12.1:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 12.2:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KD Karthik
+    - 12.3:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Karthik
+    - 12.4:
+        non_striker: KD Karthik
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 12.5:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Karthik
+    - 12.6:
+        non_striker: KD Karthik
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 13.1:
+        non_striker: KD Karthik
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 13.2:
+        non_striker: N Rana
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Karthik
+    - 13.3:
+        non_striker: N Rana
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Karthik
+    - 13.4:
+        non_striker: N Rana
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+        wicket:
+          player_out: KD Karthik
+          fielders:
+          - TA Boult
+          kind: caught
+    - 13.5:
+        non_striker: AD Russell
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Rana
+    - 13.6:
+        non_striker: AD Russell
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 14.1:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 14.2:
+        non_striker: AD Russell
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 14.3:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 14.4:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Russell
+    - 14.5:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 14.6:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 15.1:
+        non_striker: AD Russell
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Rana
+    - 15.2:
+        non_striker: AD Russell
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 15.3:
+        non_striker: AD Russell
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 15.4:
+        non_striker: AD Russell
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 15.5:
+        non_striker: N Rana
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 15.6:
+        non_striker: N Rana
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 16.1:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 16.2:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 16.3:
+        non_striker: AD Russell
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 16.4:
+        non_striker: AD Russell
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 16.5:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 16.6:
+        non_striker: N Rana
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 17.1:
+        non_striker: AD Russell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 17.2:
+        non_striker: N Rana
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+        wicket:
+          player_out: AD Russell
+          kind: bowled
+    - 17.3:
+        non_striker: N Rana
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 17.4:
+        non_striker: N Rana
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 17.5:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 17.6:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 18.1:
+        non_striker: Shubman Gill
+        bowler: CH Morris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Rana
+    - 18.2:
+        non_striker: Shubman Gill
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 18.3:
+        non_striker: Shubman Gill
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 18.4:
+        non_striker: Shubman Gill
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+        wicket:
+          player_out: N Rana
+          fielders:
+          - G Gambhir
+          kind: caught
+    - 18.5:
+        non_striker: TK Curran
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 18.6:
+        non_striker: Shubman Gill
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 18.7:
+        non_striker: TK Curran
+        bowler: CH Morris
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Shubman Gill
+    - 19.1:
+        non_striker: Shubman Gill
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 19.2:
+        non_striker: TK Curran
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+        wicket:
+          player_out: Shubman Gill
+          fielders:
+          - CH Morris
+          kind: caught
+    - 19.3:
+        non_striker: TK Curran
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Chawla
+    - 19.4:
+        non_striker: TK Curran
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Chawla
+    - 19.5:
+        non_striker: TK Curran
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Chawla
+        wicket:
+          player_out: PP Chawla
+          fielders:
+          - RR Pant
+          kind: caught
+    - 19.6:
+        non_striker: Shivam Mavi
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+        wicket:
+          player_out: TK Curran
+          fielders:
+          - GJ Maxwell
+          kind: caught
+- 2nd innings:
+    team: Delhi Daredevils
+    deliveries:
+    - 0.1:
+        non_striker: JJ Roy
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gambhir
+    - 0.2:
+        non_striker: G Gambhir
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 0.3:
+        non_striker: G Gambhir
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 0.4:
+        non_striker: JJ Roy
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gambhir
+    - 0.5:
+        non_striker: G Gambhir
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 0.6:
+        non_striker: G Gambhir
+        bowler: PP Chawla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Roy
+        wicket:
+          player_out: JJ Roy
+          fielders:
+          - KD Karthik
+          kind: stumped
+    - 0.7:
+        non_striker: G Gambhir
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 1.1:
+        non_striker: SS Iyer
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gambhir
+    - 1.2:
+        non_striker: SS Iyer
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Gambhir
+    - 1.3:
+        non_striker: SS Iyer
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gambhir
+    - 1.4:
+        non_striker: G Gambhir
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 1.5:
+        non_striker: G Gambhir
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+        wicket:
+          player_out: SS Iyer
+          fielders:
+          - N Rana
+          kind: caught
+    - 1.6:
+        non_striker: G Gambhir
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Pant
+    - 1.7:
+        non_striker: G Gambhir
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Pant
+    - 1.8:
+        non_striker: G Gambhir
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 2.1:
+        non_striker: RR Pant
+        bowler: Shivam Mavi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gambhir
+    - 2.2:
+        non_striker: G Gambhir
+        bowler: Shivam Mavi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 2.3:
+        non_striker: G Gambhir
+        bowler: Shivam Mavi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Pant
+    - 2.4:
+        non_striker: G Gambhir
+        bowler: Shivam Mavi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Pant
+    - 2.5:
+        non_striker: G Gambhir
+        bowler: Shivam Mavi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 2.6:
+        non_striker: G Gambhir
+        bowler: Shivam Mavi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 2.7:
+        non_striker: RR Pant
+        bowler: Shivam Mavi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gambhir
+        wicket:
+          player_out: G Gambhir
+          kind: bowled
+    - 3.1:
+        non_striker: GJ Maxwell
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 3.2:
+        non_striker: GJ Maxwell
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 3.3:
+        non_striker: GJ Maxwell
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Pant
+    - 3.4:
+        non_striker: GJ Maxwell
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 3.5:
+        non_striker: GJ Maxwell
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 3.6:
+        non_striker: RR Pant
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 3.7:
+        non_striker: RR Pant
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 4.1:
+        non_striker: GJ Maxwell
+        bowler: Shivam Mavi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 4.2:
+        non_striker: GJ Maxwell
+        bowler: Shivam Mavi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RR Pant
+    - 4.3:
+        non_striker: RR Pant
+        bowler: Shivam Mavi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GJ Maxwell
+    - 4.4:
+        non_striker: GJ Maxwell
+        bowler: Shivam Mavi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 4.5:
+        non_striker: RR Pant
+        bowler: Shivam Mavi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 4.6:
+        non_striker: RR Pant
+        bowler: Shivam Mavi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 5.1:
+        non_striker: GJ Maxwell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 5.2:
+        non_striker: RR Pant
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 5.3:
+        non_striker: GJ Maxwell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 5.4:
+        non_striker: GJ Maxwell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 5.5:
+        non_striker: GJ Maxwell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 5.6:
+        non_striker: GJ Maxwell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 6.1:
+        non_striker: GJ Maxwell
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Pant
+    - 6.2:
+        non_striker: GJ Maxwell
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 6.3:
+        non_striker: GJ Maxwell
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 6.4:
+        non_striker: GJ Maxwell
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 6.5:
+        non_striker: RR Pant
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 6.6:
+        non_striker: GJ Maxwell
+        bowler: PP Chawla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RR Pant
+    - 7.1:
+        non_striker: GJ Maxwell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 7.2:
+        non_striker: GJ Maxwell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 7.3:
+        non_striker: RR Pant
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 7.4:
+        non_striker: RR Pant
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 7.5:
+        non_striker: RR Pant
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 7.6:
+        non_striker: GJ Maxwell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 8.1:
+        non_striker: RR Pant
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 8.2:
+        non_striker: RR Pant
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 8.3:
+        non_striker: GJ Maxwell
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+        wicket:
+          player_out: RR Pant
+          fielders:
+          - PP Chawla
+          kind: caught
+    - 8.4:
+        non_striker: GJ Maxwell
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 8.5:
+        non_striker: R Tewatia
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Maxwell
+    - 8.6:
+        non_striker: R Tewatia
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 9.1:
+        non_striker: R Tewatia
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 9.2:
+        non_striker: R Tewatia
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 9.3:
+        non_striker: GJ Maxwell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+        wicket:
+          player_out: R Tewatia
+          fielders:
+          - AD Russell
+          kind: caught
+    - 9.4:
+        non_striker: GJ Maxwell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar
+    - 9.5:
+        non_striker: V Shankar
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 9.6:
+        non_striker: GJ Maxwell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shankar
+    - 10.1:
+        non_striker: V Shankar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Maxwell
+    - 10.2:
+        non_striker: V Shankar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 10.3:
+        non_striker: V Shankar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 10.4:
+        non_striker: V Shankar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 10.5:
+        non_striker: V Shankar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+        wicket:
+          player_out: GJ Maxwell
+          fielders:
+          - RV Uthappa
+          kind: caught
+    - 10.6:
+        non_striker: V Shankar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Morris
+    - 11.1:
+        non_striker: V Shankar
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Morris
+    - 11.2:
+        non_striker: CH Morris
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar
+    - 11.3:
+        non_striker: V Shankar
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Morris
+        wicket:
+          player_out: CH Morris
+          kind: bowled
+    - 11.4:
+        non_striker: V Shankar
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Shami
+    - 11.5:
+        non_striker: Mohammed Shami
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shankar
+        wicket:
+          player_out: V Shankar
+          kind: lbw
+    - 11.6:
+        non_striker: Mohammed Shami
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadeem
+    - 12.1:
+        non_striker: Mohammed Shami
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadeem
+    - 12.2:
+        non_striker: S Nadeem
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Shami
+    - 12.3:
+        non_striker: Mohammed Shami
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadeem
+    - 12.4:
+        non_striker: Mohammed Shami
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadeem
+    - 12.5:
+        non_striker: S Nadeem
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Shami
+    - 12.6:
+        non_striker: S Nadeem
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Shami
+    - 13.1:
+        non_striker: Mohammed Shami
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadeem
+    - 13.2:
+        non_striker: Mohammed Shami
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadeem
+    - 13.3:
+        non_striker: S Nadeem
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Shami
+    - 13.4:
+        non_striker: Mohammed Shami
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadeem
+    - 13.5:
+        non_striker: S Nadeem
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Shami
+        wicket:
+          player_out: Mohammed Shami
+          fielders:
+          - AD Russell
+          kind: caught
+    - 13.6:
+        non_striker: S Nadeem
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Boult
+    - 14.1:
+        non_striker: TA Boult
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadeem
+    - 14.2:
+        non_striker: S Nadeem
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Boult
+        wicket:
+          player_out: TA Boult
+          kind: caught and bowled

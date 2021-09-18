@@ -1,0 +1,2087 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-04-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Harare
+  dates:
+  - '2021-04-25'
+  gender: male
+  match_type: T20
+  match_type_number: 1158
+  outcome:
+    winner: Pakistan
+    by:
+      runs: 24
+  overs: 20
+  player_of_match:
+  - Hasan Ali
+  players:
+    Pakistan:
+    - Mohammad Rizwan
+    - Sharjeel Khan
+    - Babar Azam
+    - Fakhar Zaman
+    - Hasan Ali
+    - Mohammad Hafeez
+    - Sarfraz Ahmed
+    - Faheem Ashraf
+    - Usman Qadir
+    - Mohammad Hasnain
+    - Haris Rauf
+    Zimbabwe:
+    - W Madhevere
+    - TK Musakanda
+    - T Marumani
+    - BRM Taylor
+    - RW Chakabva
+    - SC Williams
+    - LM Jongwe
+    - WP Masakadza
+    - B Muzarabani
+    - RP Burl
+    - R Ngarava
+  registry:
+    people:
+      AJ Pycroft: 685d3f80
+      B Muzarabani: 449f4e3c
+      BRM Taylor: 53597be1
+      Babar Azam: 8a75e999
+      C Phiri: ade73404
+      F Mutizwa: d3e83eef
+      Faheem Ashraf: bd4ea627
+      Fakhar Zaman: 1777c020
+      Haris Rauf: 24bb1c2f
+      Hasan Ali: 2911de16
+      I Chabi: 5e39110e
+      L Rusere: 6a4734ae
+      LM Jongwe: b8704508
+      Mohammad Hafeez: 9ab63e7b
+      Mohammad Hasnain: 8596fe80
+      Mohammad Rizwan: 2f26ac1a
+      R Ngarava: 6e3f5a5c
+      RP Burl: b08252b8
+      RW Chakabva: 2f0d7e4a
+      SC Williams: afe57f7a
+      Sarfraz Ahmed: 2254ab79
+      Sharjeel Khan: 193ef196
+      T Marumani: 3d5d51a5
+      TK Musakanda: 9f9b903e
+      Usman Qadir: 33742f04
+      W Madhevere: a879b92c
+      WP Masakadza: 4bc0a378
+  teams:
+  - Pakistan
+  - Zimbabwe
+  toss:
+    decision: bat
+    winner: Pakistan
+  umpires:
+  - I Chabi
+  - L Rusere
+  venue: Harare Sports Club
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Sharjeel Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 0.2:
+        non_striker: Mohammad Rizwan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 0.3:
+        non_striker: Mohammad Rizwan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 0.4:
+        non_striker: Mohammad Rizwan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 0.5:
+        non_striker: Mohammad Rizwan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 0.6:
+        non_striker: Mohammad Rizwan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharjeel Khan
+    - 1.1:
+        non_striker: Sharjeel Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 1.2:
+        non_striker: Sharjeel Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 1.3:
+        non_striker: Sharjeel Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 1.4:
+        non_striker: Mohammad Rizwan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharjeel Khan
+    - 1.5:
+        non_striker: Sharjeel Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 1.6:
+        non_striker: Sharjeel Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 2.1:
+        non_striker: Mohammad Rizwan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharjeel Khan
+    - 2.2:
+        non_striker: Sharjeel Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 2.3:
+        non_striker: Sharjeel Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 2.4:
+        non_striker: Mohammad Rizwan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharjeel Khan
+    - 2.5:
+        non_striker: Sharjeel Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 2.6:
+        non_striker: Mohammad Rizwan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 3.1:
+        non_striker: Sharjeel Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 3.2:
+        non_striker: Sharjeel Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 3.3:
+        non_striker: Mohammad Rizwan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharjeel Khan
+    - 3.4:
+        non_striker: Mohammad Rizwan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharjeel Khan
+    - 3.5:
+        non_striker: Mohammad Rizwan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharjeel Khan
+    - 3.6:
+        non_striker: Sharjeel Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 4.1:
+        non_striker: Sharjeel Khan
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 4.2:
+        non_striker: Sharjeel Khan
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 4.3:
+        non_striker: Sharjeel Khan
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 4.4:
+        non_striker: Mohammad Rizwan
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sharjeel Khan
+    - 4.5:
+        non_striker: Mohammad Rizwan
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 4.6:
+        non_striker: Mohammad Rizwan
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+        wicket:
+          player_out: Sharjeel Khan
+          fielders:
+          - B Muzarabani
+          kind: caught
+    - 5.1:
+        non_striker: Mohammad Rizwan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 5.2:
+        non_striker: Mohammad Rizwan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 5.3:
+        non_striker: Babar Azam
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 5.4:
+        non_striker: Babar Azam
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 5.5:
+        non_striker: Mohammad Rizwan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 5.6:
+        non_striker: Babar Azam
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 6.1:
+        non_striker: Babar Azam
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Mohammad Rizwan
+    - 6.2:
+        non_striker: Mohammad Rizwan
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 6.3:
+        non_striker: Babar Azam
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 6.4:
+        non_striker: Babar Azam
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 6.5:
+        non_striker: Babar Azam
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 6.6:
+        non_striker: Babar Azam
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 7.1:
+        non_striker: Mohammad Rizwan
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 7.2:
+        non_striker: Mohammad Rizwan
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 7.3:
+        non_striker: Babar Azam
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 7.4:
+        non_striker: Babar Azam
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 7.5:
+        non_striker: Mohammad Rizwan
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 7.6:
+        non_striker: Mohammad Rizwan
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.1:
+        non_striker: Mohammad Rizwan
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.2:
+        non_striker: Babar Azam
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 8.3:
+        non_striker: Mohammad Rizwan
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.4:
+        non_striker: Babar Azam
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 8.5:
+        non_striker: Babar Azam
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 8.6:
+        non_striker: Mohammad Rizwan
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 9.1:
+        non_striker: Mohammad Rizwan
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 9.2:
+        non_striker: Mohammad Rizwan
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 9.3:
+        non_striker: Mohammad Rizwan
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 9.4:
+        non_striker: Babar Azam
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 9.5:
+        non_striker: Babar Azam
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 9.6:
+        non_striker: Mohammad Rizwan
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.1:
+        non_striker: Mohammad Rizwan
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 10.2:
+        non_striker: Mohammad Rizwan
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.3:
+        non_striker: Babar Azam
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 10.4:
+        non_striker: Mohammad Rizwan
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.5:
+        non_striker: Babar Azam
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 10.6:
+        non_striker: Mohammad Rizwan
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 11.1:
+        non_striker: Babar Azam
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 11.2:
+        non_striker: Babar Azam
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 11.3:
+        non_striker: Babar Azam
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 11.4:
+        non_striker: Mohammad Rizwan
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 11.5:
+        non_striker: Babar Azam
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 11.6:
+        non_striker: Babar Azam
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 12.1:
+        non_striker: Babar Azam
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 12.2:
+        non_striker: Mohammad Rizwan
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 12.3:
+        non_striker: Mohammad Rizwan
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 12.4:
+        non_striker: Mohammad Rizwan
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 12.5:
+        non_striker: Babar Azam
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 12.6:
+        non_striker: Mohammad Rizwan
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 13.1:
+        non_striker: Mohammad Rizwan
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 13.2:
+        non_striker: Babar Azam
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 13.3:
+        non_striker: Mohammad Rizwan
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 13.4:
+        non_striker: Mohammad Rizwan
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 13.5:
+        non_striker: Babar Azam
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 13.6:
+        non_striker: Mohammad Rizwan
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 14.1:
+        non_striker: Mohammad Rizwan
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 14.2:
+        non_striker: Babar Azam
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 14.3:
+        non_striker: Babar Azam
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 14.4:
+        non_striker: Babar Azam
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 14.5:
+        non_striker: Mohammad Rizwan
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 14.6:
+        non_striker: Mohammad Rizwan
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 15.1:
+        non_striker: Mohammad Rizwan
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Babar Azam
+    - 15.2:
+        non_striker: Mohammad Rizwan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 15.3:
+        non_striker: Babar Azam
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 15.4:
+        non_striker: Babar Azam
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 15.5:
+        non_striker: Mohammad Rizwan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 15.6:
+        non_striker: Mohammad Rizwan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 15.7:
+        non_striker: Mohammad Rizwan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 16.1:
+        non_striker: Babar Azam
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 16.2:
+        non_striker: Babar Azam
+        bowler: LM Jongwe
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: Mohammad Rizwan
+    - 16.3:
+        non_striker: Babar Azam
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 16.4:
+        non_striker: Babar Azam
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 16.5:
+        non_striker: Mohammad Rizwan
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 16.6:
+        non_striker: Mohammad Rizwan
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 16.7:
+        non_striker: Mohammad Rizwan
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 17.1:
+        non_striker: Babar Azam
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 17.2:
+        non_striker: Babar Azam
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizwan
+    - 17.3:
+        non_striker: Babar Azam
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 17.4:
+        non_striker: Mohammad Rizwan
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Babar Azam
+    - 17.5:
+        non_striker: Babar Azam
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 17.6:
+        non_striker: Mohammad Rizwan
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Babar Azam
+    - 18.1:
+        non_striker: Mohammad Rizwan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 18.2:
+        non_striker: Mohammad Rizwan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 18.3:
+        non_striker: Mohammad Rizwan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 18.4:
+        non_striker: Babar Azam
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 18.5:
+        non_striker: Babar Azam
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizwan
+    - 18.6:
+        non_striker: Babar Azam
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 19.1:
+        non_striker: Babar Azam
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 19.2:
+        non_striker: Mohammad Rizwan
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 19.3:
+        non_striker: Mohammad Rizwan
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+        wicket:
+          player_out: Babar Azam
+          fielders:
+          - RP Burl
+          kind: caught
+    - 19.4:
+        non_striker: Mohammad Rizwan
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+        wicket:
+          player_out: Fakhar Zaman
+          fielders:
+          - RP Burl
+          kind: caught
+    - 19.5:
+        non_striker: Hasan Ali
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 19.6:
+        non_striker: Hasan Ali
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+- 2nd innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: TK Musakanda
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Madhevere
+    - 0.2:
+        non_striker: TK Musakanda
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 0.3:
+        non_striker: TK Musakanda
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 0.4:
+        non_striker: TK Musakanda
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 0.5:
+        non_striker: TK Musakanda
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 0.6:
+        non_striker: TK Musakanda
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 1.1:
+        non_striker: TK Musakanda
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 1.2:
+        non_striker: TK Musakanda
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 1.3:
+        non_striker: W Madhevere
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Musakanda
+    - 1.4:
+        non_striker: TK Musakanda
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 1.5:
+        non_striker: W Madhevere
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TK Musakanda
+    - 1.6:
+        non_striker: W Madhevere
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TK Musakanda
+    - 2.1:
+        non_striker: TK Musakanda
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 2.2:
+        non_striker: TK Musakanda
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 2.3:
+        non_striker: TK Musakanda
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 2.4:
+        non_striker: TK Musakanda
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 2.5:
+        non_striker: W Madhevere
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Musakanda
+    - 2.6:
+        non_striker: W Madhevere
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Musakanda
+    - 3.1:
+        non_striker: TK Musakanda
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Madhevere
+    - 3.2:
+        non_striker: TK Musakanda
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 3.3:
+        non_striker: TK Musakanda
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 3.4:
+        non_striker: TK Musakanda
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 3.5:
+        non_striker: TK Musakanda
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 3.6:
+        non_striker: W Madhevere
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Musakanda
+    - 4.1:
+        non_striker: W Madhevere
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Musakanda
+    - 4.2:
+        non_striker: W Madhevere
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Musakanda
+    - 4.3:
+        non_striker: W Madhevere
+        bowler: Hasan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TK Musakanda
+    - 4.4:
+        non_striker: TK Musakanda
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 4.5:
+        non_striker: W Madhevere
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Musakanda
+    - 4.6:
+        non_striker: W Madhevere
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Musakanda
+        wicket:
+          player_out: TK Musakanda
+          kind: lbw
+    - 5.1:
+        non_striker: T Marumani
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 5.2:
+        non_striker: T Marumani
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 5.3:
+        non_striker: W Madhevere
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 5.4:
+        non_striker: T Marumani
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 5.5:
+        non_striker: T Marumani
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 5.6:
+        non_striker: W Madhevere
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 6.1:
+        non_striker: T Marumani
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 6.2:
+        non_striker: W Madhevere
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 6.3:
+        non_striker: W Madhevere
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: T Marumani
+    - 6.4:
+        non_striker: T Marumani
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 6.5:
+        non_striker: W Madhevere
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 6.6:
+        non_striker: W Madhevere
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 7.1:
+        non_striker: T Marumani
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 7.2:
+        non_striker: W Madhevere
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 7.3:
+        non_striker: T Marumani
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 7.4:
+        non_striker: T Marumani
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 7.5:
+        non_striker: W Madhevere
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 7.6:
+        non_striker: W Madhevere
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 8.1:
+        non_striker: W Madhevere
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 8.2:
+        non_striker: T Marumani
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Madhevere
+    - 8.3:
+        non_striker: T Marumani
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 8.4:
+        non_striker: T Marumani
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 8.5:
+        non_striker: T Marumani
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 8.6:
+        non_striker: W Madhevere
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 9.1:
+        non_striker: T Marumani
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 9.2:
+        non_striker: W Madhevere
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 9.3:
+        non_striker: W Madhevere
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 9.4:
+        non_striker: T Marumani
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 9.5:
+        non_striker: W Madhevere
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 9.6:
+        non_striker: T Marumani
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 10.1:
+        non_striker: T Marumani
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 10.2:
+        non_striker: W Madhevere
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 10.3:
+        non_striker: T Marumani
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 10.4:
+        non_striker: T Marumani
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 10.5:
+        non_striker: W Madhevere
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 10.6:
+        non_striker: T Marumani
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 11.1:
+        non_striker: W Madhevere
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Marumani
+    - 11.2:
+        non_striker: W Madhevere
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 11.3:
+        non_striker: W Madhevere
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 11.4:
+        non_striker: T Marumani
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 11.5:
+        non_striker: W Madhevere
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 11.6:
+        non_striker: W Madhevere
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Marumani
+    - 12.1:
+        non_striker: T Marumani
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 12.2:
+        non_striker: W Madhevere
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 12.3:
+        non_striker: W Madhevere
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 12.4:
+        non_striker: W Madhevere
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 12.5:
+        non_striker: T Marumani
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 12.6:
+        non_striker: W Madhevere
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Marumani
+    - 13.1:
+        non_striker: T Marumani
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 13.2:
+        non_striker: T Marumani
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 13.3:
+        non_striker: W Madhevere
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+        wicket:
+          player_out: T Marumani
+          kind: bowled
+    - 13.4:
+        non_striker: W Madhevere
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 13.5:
+        non_striker: W Madhevere
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 13.6:
+        non_striker: W Madhevere
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 14.1:
+        non_striker: W Madhevere
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 14.2:
+        non_striker: W Madhevere
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 14.3:
+        non_striker: BRM Taylor
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Madhevere
+    - 14.4:
+        non_striker: BRM Taylor
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 14.5:
+        non_striker: W Madhevere
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 14.6:
+        non_striker: W Madhevere
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 15.1:
+        non_striker: W Madhevere
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 15.2:
+        non_striker: BRM Taylor
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+        wicket:
+          player_out: W Madhevere
+          fielders:
+          - Sarfraz Ahmed
+          kind: caught
+    - 15.3:
+        non_striker: RW Chakabva
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 15.4:
+        non_striker: RW Chakabva
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 15.5:
+        non_striker: BRM Taylor
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+        wicket:
+          player_out: RW Chakabva
+          fielders:
+          - Sharjeel Khan
+          kind: caught
+    - 15.6:
+        non_striker: BRM Taylor
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 16.1:
+        non_striker: SC Williams
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 16.2:
+        non_striker: BRM Taylor
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 16.3:
+        non_striker: BRM Taylor
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 16.4:
+        non_striker: SC Williams
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BRM Taylor
+    - 16.5:
+        non_striker: SC Williams
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 16.6:
+        non_striker: SC Williams
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 17.1:
+        non_striker: BRM Taylor
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 17.2:
+        non_striker: SC Williams
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 17.3:
+        non_striker: BRM Taylor
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 17.4:
+        non_striker: BRM Taylor
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 17.5:
+        non_striker: SC Williams
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 17.6:
+        non_striker: SC Williams
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 18.1:
+        non_striker: SC Williams
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 18.2:
+        non_striker: BRM Taylor
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+        wicket:
+          player_out: SC Williams
+          fielders:
+          - Faheem Ashraf
+          kind: caught
+    - 18.3:
+        non_striker: LM Jongwe
+        bowler: Hasan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BRM Taylor
+    - 18.4:
+        non_striker: BRM Taylor
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Jongwe
+    - 18.5:
+        non_striker: BRM Taylor
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Jongwe
+    - 18.6:
+        non_striker: LM Jongwe
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 19.1:
+        non_striker: BRM Taylor
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Jongwe
+    - 19.2:
+        non_striker: BRM Taylor
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Jongwe
+        wicket:
+          player_out: LM Jongwe
+          fielders:
+          - Hasan Ali
+          kind: caught
+    - 19.3:
+        non_striker: WP Masakadza
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 19.4:
+        non_striker: BRM Taylor
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WP Masakadza
+    - 19.5:
+        non_striker: WP Masakadza
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+        wicket:
+          player_out: BRM Taylor
+          fielders:
+          - Mohammad Rizwan
+          kind: caught
+    - 19.6:
+        non_striker: B Muzarabani
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Masakadza

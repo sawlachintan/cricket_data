@@ -1,0 +1,2172 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-05-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Prague
+  dates:
+  - '2021-05-22'
+  gender: male
+  match_type: T20
+  match_type_number: 1162
+  outcome:
+    winner: Luxembourg
+    by:
+      wickets: 6
+  overs: 20
+  players:
+    Czech Republic:
+    - S Davizi
+    - Hilal Ahmad
+    - EB Knowles
+    - S Wickramasekara
+    - A Ashokan
+    - K Mendon
+    - Ali Waqar
+    - S Sengupta
+    - Naveed Ahmed
+    - P Taylor
+    - SMK Waththage
+    Luxembourg:
+    - TC Barker
+    - G Venkateswaran
+    - J Mees
+    - T Whiteman
+    - V Vijh
+    - WJ Cope
+    - Aanand Pandey
+    - R Vishwanath
+    - S Vats
+    - Atif Kamal
+    - P Malav
+  registry:
+    people:
+      A Ashokan: 9244df4b
+      Aanand Pandey: 528a37ce
+      Ali Waqar: 89e17934
+      Atif Kamal: f8bd71c9
+      EB Knowles: e141fddd
+      G Venkateswaran: a4bcaba7
+      Hilal Ahmad: f78aa227
+      J Foster: 2a1bc1b0
+      J Mees: ab1445ea
+      K Mendon: 015dc0cd
+      Naveed Ahmed: 87609cbb
+      P Malav: 02b078b1
+      P Taylor: d3016d75
+      P Vincent: afb1787b
+      R Vishwanath: 02fa5417
+      S Davizi: 5787be00
+      S Sengupta: da39f141
+      S Tripp: 6626e257
+      S Vats: 1afd4f89
+      S Wickramasekara: a9a09cb8
+      SMK Waththage: 0fc88c2a
+      T Whiteman: 472455a3
+      TC Barker: c31adb5c
+      V Vijh: b857468a
+      WJ Cope: fb34b0ec
+  teams:
+  - Czech Republic
+  - Luxembourg
+  toss:
+    decision: field
+    winner: Luxembourg
+  umpires:
+  - P Vincent
+  - S Tripp
+  venue: Scott Page Field, Vinor
+innings:
+- 1st innings:
+    team: Czech Republic
+    deliveries:
+    - 0.1:
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Hilal Ahmad
+        batsman: S Davizi
+    - 0.2:
+        non_striker: S Davizi
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hilal Ahmad
+    - 0.3:
+        non_striker: S Davizi
+        bowler: WJ Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hilal Ahmad
+    - 0.4:
+        non_striker: S Davizi
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hilal Ahmad
+    - 0.5:
+        non_striker: Hilal Ahmad
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Davizi
+    - 0.6:
+        non_striker: S Davizi
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hilal Ahmad
+        wicket:
+          player_out: Hilal Ahmad
+          kind: bowled
+    - 0.7:
+        non_striker: S Davizi
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EB Knowles
+    - 1.1:
+        non_striker: EB Knowles
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Davizi
+    - 1.2:
+        non_striker: EB Knowles
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Davizi
+    - 1.3:
+        non_striker: EB Knowles
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Davizi
+    - 1.4:
+        non_striker: EB Knowles
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Davizi
+    - 1.5:
+        non_striker: EB Knowles
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Davizi
+    - 1.6:
+        non_striker: EB Knowles
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Davizi
+    - 2.1:
+        non_striker: S Davizi
+        bowler: WJ Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EB Knowles
+    - 2.2:
+        non_striker: S Davizi
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EB Knowles
+    - 2.3:
+        non_striker: S Davizi
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EB Knowles
+    - 2.4:
+        non_striker: S Davizi
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EB Knowles
+    - 2.5:
+        non_striker: S Davizi
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EB Knowles
+    - 2.6:
+        non_striker: EB Knowles
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Davizi
+    - 2.7:
+        non_striker: EB Knowles
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Davizi
+    - 3.1:
+        non_striker: S Davizi
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EB Knowles
+    - 3.2:
+        non_striker: S Davizi
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EB Knowles
+    - 3.3:
+        non_striker: EB Knowles
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Davizi
+    - 3.4:
+        non_striker: EB Knowles
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Davizi
+    - 3.5:
+        non_striker: EB Knowles
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Davizi
+    - 3.6:
+        non_striker: EB Knowles
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Davizi
+    - 4.1:
+        non_striker: S Davizi
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EB Knowles
+    - 4.2:
+        non_striker: S Davizi
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EB Knowles
+    - 4.3:
+        non_striker: S Davizi
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EB Knowles
+    - 4.4:
+        non_striker: EB Knowles
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Davizi
+    - 4.5:
+        non_striker: EB Knowles
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Davizi
+    - 4.6:
+        non_striker: EB Knowles
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Davizi
+    - 5.1:
+        non_striker: S Davizi
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EB Knowles
+    - 5.2:
+        non_striker: S Davizi
+        bowler: P Malav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EB Knowles
+    - 5.3:
+        non_striker: S Davizi
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EB Knowles
+    - 5.4:
+        non_striker: EB Knowles
+        bowler: P Malav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Davizi
+    - 5.5:
+        non_striker: EB Knowles
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Davizi
+    - 5.6:
+        non_striker: EB Knowles
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Davizi
+    - 5.7:
+        non_striker: EB Knowles
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Davizi
+    - 5.8:
+        non_striker: S Davizi
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EB Knowles
+    - 6.1:
+        non_striker: EB Knowles
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Davizi
+    - 6.2:
+        non_striker: S Davizi
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EB Knowles
+    - 6.3:
+        non_striker: EB Knowles
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Davizi
+    - 6.4:
+        non_striker: S Davizi
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EB Knowles
+    - 6.5:
+        non_striker: S Davizi
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EB Knowles
+    - 6.6:
+        non_striker: S Davizi
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EB Knowles
+    - 7.1:
+        non_striker: EB Knowles
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Davizi
+    - 7.2:
+        non_striker: EB Knowles
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Davizi
+    - 7.3:
+        non_striker: EB Knowles
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Davizi
+    - 7.4:
+        non_striker: EB Knowles
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Davizi
+    - 7.5:
+        non_striker: S Davizi
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EB Knowles
+    - 7.6:
+        non_striker: S Davizi
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EB Knowles
+    - 8.1:
+        non_striker: S Davizi
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EB Knowles
+    - 8.2:
+        non_striker: S Davizi
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EB Knowles
+    - 8.3:
+        non_striker: S Davizi
+        bowler: S Vats
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EB Knowles
+    - 8.4:
+        non_striker: EB Knowles
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Davizi
+    - 8.5:
+        non_striker: EB Knowles
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Davizi
+    - 8.6:
+        non_striker: EB Knowles
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Davizi
+    - 9.1:
+        non_striker: S Davizi
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EB Knowles
+    - 9.2:
+        non_striker: S Davizi
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EB Knowles
+    - 9.3:
+        non_striker: EB Knowles
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Davizi
+    - 9.4:
+        non_striker: EB Knowles
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Davizi
+        wicket:
+          player_out: S Davizi
+          kind: lbw
+    - 9.5:
+        non_striker: EB Knowles
+        bowler: Atif Kamal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Wickramasekara
+    - 9.6:
+        non_striker: EB Knowles
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wickramasekara
+    - 9.7:
+        non_striker: S Wickramasekara
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EB Knowles
+        wicket:
+          player_out: EB Knowles
+          kind: bowled
+    - 10.1:
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Ashokan
+        batsman: S Wickramasekara
+    - 10.2:
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Ashokan
+        batsman: S Wickramasekara
+    - 10.3:
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Ashokan
+        batsman: S Wickramasekara
+    - 10.4:
+        non_striker: S Wickramasekara
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ashokan
+    - 10.5:
+        non_striker: A Ashokan
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wickramasekara
+    - 10.6:
+        non_striker: S Wickramasekara
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ashokan
+    - 11.1:
+        non_striker: A Ashokan
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wickramasekara
+    - 11.2:
+        non_striker: S Wickramasekara
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ashokan
+    - 11.3:
+        non_striker: A Ashokan
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wickramasekara
+    - 11.4:
+        non_striker: S Wickramasekara
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ashokan
+    - 11.5:
+        non_striker: A Ashokan
+        bowler: P Malav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Wickramasekara
+    - 11.6:
+        non_striker: A Ashokan
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wickramasekara
+        wicket:
+          player_out: A Ashokan
+          kind: run out
+    - 11.7:
+        non_striker: K Mendon
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wickramasekara
+    - 12.1:
+        non_striker: K Mendon
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wickramasekara
+    - 12.2:
+        non_striker: S Wickramasekara
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mendon
+    - 12.3:
+        non_striker: S Wickramasekara
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mendon
+    - 12.4:
+        non_striker: S Wickramasekara
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mendon
+    - 12.5:
+        non_striker: S Wickramasekara
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mendon
+    - 12.6:
+        non_striker: S Wickramasekara
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mendon
+    - 13.1:
+        non_striker: K Mendon
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wickramasekara
+        wicket:
+          player_out: S Wickramasekara
+          fielders:
+          - J Mees
+          kind: caught
+    - 13.2:
+        non_striker: K Mendon
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Waqar
+    - 13.3:
+        non_striker: K Mendon
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Waqar
+    - 13.4:
+        non_striker: K Mendon
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Waqar
+    - 13.5:
+        non_striker: Ali Waqar
+        bowler: P Malav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Mendon
+    - 13.6:
+        non_striker: Ali Waqar
+        bowler: P Malav
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: K Mendon
+    - 13.7:
+        non_striker: K Mendon
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Waqar
+    - 13.8:
+        non_striker: Ali Waqar
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mendon
+    - 14.1:
+        non_striker: Ali Waqar
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Mendon
+    - 14.2:
+        non_striker: Ali Waqar
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Mendon
+    - 14.3:
+        non_striker: Ali Waqar
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mendon
+    - 14.4:
+        non_striker: K Mendon
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Waqar
+    - 14.5:
+        non_striker: Ali Waqar
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mendon
+    - 14.6:
+        non_striker: K Mendon
+        bowler: S Vats
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Waqar
+    - 15.1:
+        non_striker: K Mendon
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Waqar
+        wicket:
+          player_out: Ali Waqar
+          kind: run out
+    - 15.2:
+        non_striker: K Mendon
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sengupta
+    - 15.3:
+        non_striker: K Mendon
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sengupta
+    - 15.4:
+        non_striker: S Sengupta
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Mendon
+    - 15.5:
+        non_striker: S Sengupta
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mendon
+    - 15.6:
+        non_striker: K Mendon
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sengupta
+    - 16.1:
+        non_striker: S Sengupta
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Mendon
+    - 16.2:
+        non_striker: S Sengupta
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Mendon
+    - 16.3:
+        non_striker: S Sengupta
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mendon
+    - 16.4:
+        non_striker: K Mendon
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sengupta
+    - 16.5:
+        non_striker: K Mendon
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sengupta
+    - 16.6:
+        non_striker: S Sengupta
+        bowler: V Vijh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Mendon
+    - 16.7:
+        non_striker: S Sengupta
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mendon
+    - 17.1:
+        non_striker: K Mendon
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sengupta
+    - 17.2:
+        non_striker: S Sengupta
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mendon
+    - 17.3:
+        non_striker: K Mendon
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sengupta
+        wicket:
+          player_out: S Sengupta
+          kind: bowled
+    - 17.4:
+        non_striker: K Mendon
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naveed Ahmed
+    - 17.5:
+        non_striker: K Mendon
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naveed Ahmed
+    - 17.6:
+        non_striker: Naveed Ahmed
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mendon
+    - 18.1:
+        non_striker: K Mendon
+        bowler: V Vijh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Naveed Ahmed
+    - 18.2:
+        non_striker: K Mendon
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naveed Ahmed
+    - 18.3:
+        non_striker: Naveed Ahmed
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Mendon
+    - 18.4:
+        non_striker: Naveed Ahmed
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Mendon
+    - 18.5:
+        non_striker: Naveed Ahmed
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mendon
+    - 18.6:
+        non_striker: K Mendon
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naveed Ahmed
+    - 18.7:
+        non_striker: Naveed Ahmed
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Mendon
+    - 19.1:
+        non_striker: K Mendon
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naveed Ahmed
+    - 19.2:
+        non_striker: K Mendon
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naveed Ahmed
+    - 19.3:
+        non_striker: K Mendon
+        bowler: WJ Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Naveed Ahmed
+    - 19.4:
+        non_striker: K Mendon
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naveed Ahmed
+    - 19.5:
+        non_striker: Naveed Ahmed
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mendon
+    - 19.6:
+        non_striker: Naveed Ahmed
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mendon
+    - 19.7:
+        non_striker: Naveed Ahmed
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Mendon
+- 2nd innings:
+    team: Luxembourg
+    deliveries:
+    - 0.1:
+        bowler: Ali Waqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Venkateswaran
+        batsman: TC Barker
+    - 0.2:
+        non_striker: TC Barker
+        bowler: Ali Waqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 0.3:
+        non_striker: G Venkateswaran
+        bowler: Ali Waqar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Barker
+    - 0.4:
+        non_striker: G Venkateswaran
+        bowler: Ali Waqar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TC Barker
+    - 0.5:
+        non_striker: G Venkateswaran
+        bowler: Ali Waqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Barker
+    - 0.6:
+        non_striker: TC Barker
+        bowler: Ali Waqar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Venkateswaran
+    - 1.1:
+        non_striker: G Venkateswaran
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TC Barker
+    - 1.2:
+        non_striker: G Venkateswaran
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Barker
+    - 1.3:
+        non_striker: TC Barker
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 1.4:
+        non_striker: G Venkateswaran
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Barker
+    - 1.5:
+        non_striker: TC Barker
+        bowler: SMK Waththage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Venkateswaran
+    - 1.6:
+        non_striker: TC Barker
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 1.7:
+        non_striker: G Venkateswaran
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Barker
+    - 2.1:
+        non_striker: TC Barker
+        bowler: Ali Waqar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Venkateswaran
+    - 2.2:
+        non_striker: TC Barker
+        bowler: Ali Waqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 2.3:
+        non_striker: G Venkateswaran
+        bowler: Ali Waqar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+    - 2.4:
+        non_striker: G Venkateswaran
+        bowler: Ali Waqar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Barker
+    - 2.5:
+        non_striker: G Venkateswaran
+        bowler: Ali Waqar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Barker
+    - 2.6:
+        non_striker: G Venkateswaran
+        bowler: Ali Waqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Barker
+    - 2.7:
+        non_striker: TC Barker
+        bowler: Ali Waqar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 3.1:
+        non_striker: TC Barker
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 3.2:
+        non_striker: G Venkateswaran
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Barker
+    - 3.3:
+        non_striker: TC Barker
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Venkateswaran
+    - 3.4:
+        non_striker: TC Barker
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 3.5:
+        non_striker: G Venkateswaran
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Barker
+    - 3.6:
+        non_striker: G Venkateswaran
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Barker
+    - 4.1:
+        non_striker: G Venkateswaran
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+    - 4.2:
+        non_striker: G Venkateswaran
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+    - 4.3:
+        non_striker: G Venkateswaran
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+        wicket:
+          player_out: G Venkateswaran
+          kind: run out
+    - 4.4:
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Mees
+        batsman: TC Barker
+    - 4.5:
+        non_striker: TC Barker
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mees
+    - 4.6:
+        non_striker: TC Barker
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 5.1:
+        non_striker: J Mees
+        bowler: A Ashokan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TC Barker
+    - 5.2:
+        non_striker: J Mees
+        bowler: A Ashokan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Barker
+    - 5.3:
+        non_striker: TC Barker
+        bowler: A Ashokan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 5.4:
+        non_striker: J Mees
+        bowler: A Ashokan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+    - 5.5:
+        non_striker: J Mees
+        bowler: A Ashokan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Barker
+    - 5.6:
+        non_striker: TC Barker
+        bowler: A Ashokan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 6.1:
+        non_striker: TC Barker
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 6.2:
+        non_striker: J Mees
+        bowler: Naveed Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TC Barker
+    - 6.3:
+        non_striker: J Mees
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TC Barker
+    - 6.4:
+        non_striker: J Mees
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Barker
+    - 6.5:
+        non_striker: TC Barker
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 6.6:
+        non_striker: TC Barker
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 6.7:
+        non_striker: J Mees
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Barker
+    - 7.1:
+        non_striker: J Mees
+        bowler: A Ashokan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Barker
+    - 7.2:
+        non_striker: J Mees
+        bowler: A Ashokan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Barker
+    - 7.3:
+        non_striker: TC Barker
+        bowler: A Ashokan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 7.4:
+        non_striker: TC Barker
+        bowler: A Ashokan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mees
+    - 7.5:
+        non_striker: TC Barker
+        bowler: A Ashokan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 7.6:
+        non_striker: TC Barker
+        bowler: A Ashokan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mees
+    - 8.1:
+        non_striker: J Mees
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Barker
+    - 8.2:
+        non_striker: TC Barker
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 8.3:
+        non_striker: TC Barker
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Mees
+    - 8.4:
+        non_striker: TC Barker
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 8.5:
+        non_striker: TC Barker
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 8.6:
+        non_striker: TC Barker
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Mees
+    - 9.1:
+        non_striker: J Mees
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Barker
+    - 9.2:
+        non_striker: TC Barker
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 9.3:
+        non_striker: J Mees
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+        wicket:
+          player_out: TC Barker
+          kind: bowled
+    - 9.4:
+        non_striker: J Mees
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Whiteman
+    - 9.5:
+        non_striker: T Whiteman
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mees
+    - 9.6:
+        non_striker: T Whiteman
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mees
+    - 10.1:
+        non_striker: J Mees
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Whiteman
+    - 10.2:
+        non_striker: J Mees
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Whiteman
+    - 10.3:
+        non_striker: J Mees
+        bowler: S Wickramasekara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: T Whiteman
+    - 10.4:
+        non_striker: T Whiteman
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 10.5:
+        non_striker: T Whiteman
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 10.6:
+        non_striker: T Whiteman
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mees
+    - 11.1:
+        non_striker: J Mees
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Whiteman
+    - 11.2:
+        non_striker: T Whiteman
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mees
+    - 11.3:
+        non_striker: T Whiteman
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 11.4:
+        non_striker: J Mees
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Whiteman
+    - 11.5:
+        non_striker: T Whiteman
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+        wicket:
+          player_out: J Mees
+          kind: lbw
+    - 11.6:
+        non_striker: T Whiteman
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 12.1:
+        non_striker: T Whiteman
+        bowler: Naveed Ahmed
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: V Vijh
+    - 12.2:
+        non_striker: T Whiteman
+        bowler: Naveed Ahmed
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: V Vijh
+    - 12.3:
+        non_striker: V Vijh
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Whiteman
+    - 12.4:
+        non_striker: V Vijh
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Whiteman
+    - 12.5:
+        non_striker: T Whiteman
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 12.6:
+        non_striker: V Vijh
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Whiteman
+    - 12.7:
+        non_striker: V Vijh
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Whiteman
+    - 12.8:
+        non_striker: V Vijh
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Whiteman
+    - 13.1:
+        non_striker: V Vijh
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Whiteman
+    - 13.2:
+        non_striker: V Vijh
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Whiteman
+    - 13.3:
+        non_striker: V Vijh
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Whiteman
+    - 13.4:
+        non_striker: V Vijh
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Whiteman
+    - 13.5:
+        non_striker: T Whiteman
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 13.6:
+        non_striker: V Vijh
+        bowler: P Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Whiteman
+    - 14.1:
+        non_striker: T Whiteman
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: V Vijh
+    - 14.2:
+        non_striker: V Vijh
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Whiteman
+    - 14.3:
+        non_striker: V Vijh
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Whiteman
+    - 14.4:
+        non_striker: V Vijh
+        bowler: Naveed Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: T Whiteman
+    - 14.5:
+        non_striker: T Whiteman
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Vijh
+    - 14.6:
+        non_striker: T Whiteman
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 15.1:
+        non_striker: T Whiteman
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 15.2:
+        non_striker: V Vijh
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Whiteman
+    - 15.3:
+        non_striker: V Vijh
+        bowler: SMK Waththage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Whiteman
+    - 15.4:
+        non_striker: V Vijh
+        bowler: SMK Waththage
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: T Whiteman
+    - 15.5:
+        non_striker: V Vijh
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Whiteman
+    - 15.6:
+        non_striker: V Vijh
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Whiteman
+    - 15.7:
+        non_striker: T Whiteman
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 16.1:
+        non_striker: V Vijh
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Whiteman
+    - 16.2:
+        non_striker: T Whiteman
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 16.3:
+        non_striker: T Whiteman
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Vijh
+    - 16.4:
+        non_striker: T Whiteman
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 16.5:
+        non_striker: V Vijh
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Whiteman
+    - 16.6:
+        non_striker: V Vijh
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Whiteman
+    - 17.1:
+        non_striker: T Whiteman
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+        wicket:
+          player_out: V Vijh
+          fielders:
+          - EB Knowles
+          kind: caught
+    - 17.2:
+        non_striker: T Whiteman
+        bowler: SMK Waththage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WJ Cope
+    - 17.3:
+        non_striker: T Whiteman
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Cope
+    - 17.4:
+        non_striker: WJ Cope
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Whiteman
+    - 17.5:
+        non_striker: WJ Cope
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Whiteman
+    - 17.6:
+        non_striker: T Whiteman
+        bowler: SMK Waththage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WJ Cope
+    - 17.7:
+        non_striker: WJ Cope
+        bowler: SMK Waththage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Whiteman
+    - 18.1:
+        non_striker: T Whiteman
+        bowler: S Wickramasekara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WJ Cope
+    - 18.2:
+        non_striker: WJ Cope
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Whiteman
+    - 18.3:
+        non_striker: WJ Cope
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Whiteman
+    - 18.4:
+        non_striker: WJ Cope
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Whiteman

@@ -1,0 +1,2160 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-03-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hamilton
+  dates:
+  - '2021-03-28'
+  gender: male
+  match_type: T20
+  match_type_number: 1139
+  outcome:
+    winner: New Zealand
+    by:
+      runs: 66
+  overs: 20
+  player_of_match:
+  - DP Conway
+  players:
+    New Zealand:
+    - MJ Guptill
+    - FH Allen
+    - DP Conway
+    - WA Young
+    - GD Phillips
+    - MS Chapman
+    - DJ Mitchell
+    - TG Southee
+    - IS Sodhi
+    - LH Ferguson
+    - HK Bennett
+    Bangladesh:
+    - Mohammad Naim
+    - Liton Das
+    - Soumya Sarkar
+    - Mohammad Mithun
+    - Mahmudullah
+    - Afif Hossain
+    - Mahedi Hasan
+    - Mohammad Saifuddin
+    - Shoriful Islam
+    - Nasum Ahmed
+    - Mustafizur Rahman
+  registry:
+    people:
+      Afif Hossain: '37138918'
+      CB Gaffaney: d5ac41d8
+      CM Brown: 448f4f1c
+      DJ Mitchell: eade4650
+      DP Conway: df5a6881
+      FH Allen: bf74b130
+      GD Phillips: 9a46c4e5
+      HK Bennett: '94238673'
+      IS Sodhi: 641ac5ff
+      JJ Crowe: 2e760301
+      LH Ferguson: 2f9d0389
+      Liton Das: 0404d43c
+      MJ Guptill: 2be41edb
+      MS Chapman: 7fa12533
+      Mahedi Hasan: 9dad0f2e
+      Mahmudullah: bf1d7d3e
+      Mohammad Mithun: '77191792'
+      Mohammad Naim: 7923a51d
+      Mohammad Saifuddin: b3a28446
+      Mustafizur Rahman: 0a8fce53
+      Nasum Ahmed: 37654b75
+      SB Haig: 811655b3
+      Shoriful Islam: bb34fd31
+      Soumya Sarkar: 4d9f9686
+      TG Southee: 13c35c9e
+      WA Young: 8afe73e2
+      WR Knights: 63cbf8d8
+  teams:
+  - New Zealand
+  - Bangladesh
+  toss:
+    decision: bat
+    winner: New Zealand
+  umpires:
+  - CB Gaffaney
+  - SB Haig
+  venue: Seddon Park
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: FH Allen
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 0.2:
+        non_striker: FH Allen
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 0.3:
+        non_striker: FH Allen
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 0.4:
+        non_striker: FH Allen
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 0.5:
+        non_striker: FH Allen
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 0.6:
+        non_striker: MJ Guptill
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          kind: bowled
+    - 1.1:
+        non_striker: DP Conway
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 1.2:
+        non_striker: MJ Guptill
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.3:
+        non_striker: MJ Guptill
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.4:
+        non_striker: MJ Guptill
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DP Conway
+    - 1.5:
+        non_striker: DP Conway
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 1.6:
+        non_striker: DP Conway
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJ Guptill
+    - 2.1:
+        non_striker: DP Conway
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 2.2:
+        non_striker: DP Conway
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 2.3:
+        non_striker: MJ Guptill
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 2.4:
+        non_striker: DP Conway
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 2.5:
+        non_striker: DP Conway
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 2.6:
+        non_striker: DP Conway
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 3.1:
+        non_striker: DP Conway
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 3.2:
+        non_striker: DP Conway
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 3.3:
+        non_striker: MJ Guptill
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 3.4:
+        non_striker: MJ Guptill
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 3.5:
+        non_striker: MJ Guptill
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 3.6:
+        non_striker: MJ Guptill
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 4.1:
+        non_striker: DP Conway
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 4.2:
+        non_striker: DP Conway
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 4.3:
+        non_striker: DP Conway
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 4.4:
+        non_striker: MJ Guptill
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 4.5:
+        non_striker: DP Conway
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 4.6:
+        non_striker: DP Conway
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 5.1:
+        non_striker: MJ Guptill
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 5.2:
+        non_striker: MJ Guptill
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 5.3:
+        non_striker: MJ Guptill
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 5.4:
+        non_striker: MJ Guptill
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 5.5:
+        non_striker: DP Conway
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 5.6:
+        non_striker: DP Conway
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 5.7:
+        non_striker: DP Conway
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 5.8:
+        non_striker: DP Conway
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 6.1:
+        non_striker: DP Conway
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 6.2:
+        non_striker: MJ Guptill
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 6.3:
+        non_striker: DP Conway
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 6.4:
+        non_striker: MJ Guptill
+        bowler: Nasum Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 6.5:
+        non_striker: MJ Guptill
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 6.6:
+        non_striker: DP Conway
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+        wicket:
+          player_out: MJ Guptill
+          fielders:
+          - Soumya Sarkar
+          kind: caught
+    - 6.7:
+        non_striker: WA Young
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 7.1:
+        non_striker: WA Young
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 7.2:
+        non_striker: WA Young
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 7.3:
+        non_striker: DP Conway
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 7.4:
+        non_striker: WA Young
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 7.5:
+        non_striker: DP Conway
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 7.6:
+        non_striker: WA Young
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.1:
+        non_striker: WA Young
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 8.2:
+        non_striker: WA Young
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.3:
+        non_striker: DP Conway
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 8.4:
+        non_striker: DP Conway
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 8.5:
+        non_striker: WA Young
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 8.6:
+        non_striker: WA Young
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 9.1:
+        non_striker: WA Young
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 9.2:
+        non_striker: DP Conway
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 9.3:
+        non_striker: DP Conway
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 9.4:
+        non_striker: WA Young
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 9.5:
+        non_striker: DP Conway
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 9.6:
+        non_striker: WA Young
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 10.1:
+        non_striker: DP Conway
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 10.2:
+        non_striker: WA Young
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 10.3:
+        non_striker: WA Young
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 10.4:
+        non_striker: DP Conway
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 10.5:
+        non_striker: DP Conway
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 10.6:
+        non_striker: DP Conway
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 11.1:
+        non_striker: DP Conway
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 11.2:
+        non_striker: WA Young
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 11.3:
+        non_striker: DP Conway
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 11.4:
+        non_striker: DP Conway
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 11.5:
+        non_striker: WA Young
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 11.6:
+        non_striker: DP Conway
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 12.1:
+        non_striker: DP Conway
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WA Young
+    - 12.2:
+        non_striker: DP Conway
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 12.3:
+        non_striker: WA Young
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 12.4:
+        non_striker: DP Conway
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 12.5:
+        non_striker: WA Young
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 12.6:
+        non_striker: WA Young
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 13.1:
+        non_striker: DP Conway
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Young
+    - 13.2:
+        non_striker: DP Conway
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 13.3:
+        non_striker: WA Young
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 13.4:
+        non_striker: DP Conway
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 13.5:
+        non_striker: DP Conway
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 13.6:
+        non_striker: WA Young
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 14.1:
+        non_striker: WA Young
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 14.2:
+        non_striker: DP Conway
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 14.3:
+        non_striker: WA Young
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 14.4:
+        non_striker: DP Conway
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 14.5:
+        non_striker: WA Young
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 14.6:
+        non_striker: WA Young
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 15.1:
+        non_striker: DP Conway
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 15.2:
+        non_striker: WA Young
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 15.3:
+        non_striker: DP Conway
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 15.4:
+        non_striker: DP Conway
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 15.5:
+        non_striker: WA Young
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 15.6:
+        non_striker: WA Young
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 16.1:
+        non_striker: DP Conway
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Young
+    - 16.2:
+        non_striker: DP Conway
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 16.3:
+        non_striker: WA Young
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 16.4:
+        non_striker: WA Young
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 16.5:
+        non_striker: DP Conway
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+        wicket:
+          player_out: WA Young
+          fielders:
+          - Afif Hossain
+          kind: caught
+    - 16.6:
+        non_striker: GD Phillips
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 17.1:
+        non_striker: DP Conway
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 17.2:
+        non_striker: DP Conway
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 17.3:
+        non_striker: DP Conway
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 17.4:
+        non_striker: DP Conway
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 17.5:
+        non_striker: DP Conway
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 17.6:
+        non_striker: DP Conway
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 18.1:
+        non_striker: GD Phillips
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 18.2:
+        non_striker: DP Conway
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 18.3:
+        non_striker: GD Phillips
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 18.4:
+        non_striker: GD Phillips
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 18.5:
+        non_striker: GD Phillips
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 18.6:
+        non_striker: GD Phillips
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 19.1:
+        non_striker: DP Conway
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GD Phillips
+    - 19.2:
+        non_striker: DP Conway
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 19.3:
+        non_striker: DP Conway
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 19.4:
+        non_striker: DP Conway
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 19.5:
+        non_striker: GD Phillips
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 19.6:
+        non_striker: GD Phillips
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 19.7:
+        non_striker: GD Phillips
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+- 2nd innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Naim
+    - 0.2:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 0.3:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Naim
+    - 0.4:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 0.5:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 0.6:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 1.1:
+        non_striker: Liton Das
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Naim
+    - 1.2:
+        non_striker: Liton Das
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 1.3:
+        non_striker: Liton Das
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 1.4:
+        non_striker: Liton Das
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 1.5:
+        non_striker: Mohammad Naim
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 1.6:
+        non_striker: Mohammad Naim
+        bowler: HK Bennett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Liton Das
+    - 1.7:
+        non_striker: Mohammad Naim
+        bowler: HK Bennett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Liton Das
+    - 2.1:
+        non_striker: Mohammad Naim
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 2.2:
+        non_striker: Mohammad Naim
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 2.3:
+        non_striker: Mohammad Naim
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+        wicket:
+          player_out: Liton Das
+          fielders:
+          - IS Sodhi
+          kind: caught
+    - 2.4:
+        non_striker: Soumya Sarkar
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Naim
+    - 2.5:
+        non_striker: Soumya Sarkar
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 2.6:
+        non_striker: Mohammad Naim
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Soumya Sarkar
+    - 2.7:
+        non_striker: Mohammad Naim
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 3.1:
+        non_striker: Soumya Sarkar
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Naim
+    - 3.2:
+        non_striker: Soumya Sarkar
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 3.3:
+        non_striker: Soumya Sarkar
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Naim
+    - 3.4:
+        non_striker: Soumya Sarkar
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 3.5:
+        non_striker: Mohammad Naim
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 3.6:
+        non_striker: Soumya Sarkar
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 4.1:
+        non_striker: Soumya Sarkar
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Naim
+    - 4.2:
+        non_striker: Soumya Sarkar
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+        wicket:
+          player_out: Mohammad Naim
+          kind: lbw
+    - 4.3:
+        non_striker: Soumya Sarkar
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 4.4:
+        non_striker: Soumya Sarkar
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 4.5:
+        non_striker: Soumya Sarkar
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Mithun
+    - 4.6:
+        non_striker: Soumya Sarkar
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 5.1:
+        non_striker: Soumya Sarkar
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 5.2:
+        non_striker: Mohammad Mithun
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 5.3:
+        non_striker: Mohammad Mithun
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 5.4:
+        non_striker: Mohammad Mithun
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+        wicket:
+          player_out: Soumya Sarkar
+          kind: caught and bowled
+    - 5.5:
+        non_striker: Mohammad Mithun
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 5.6:
+        non_striker: Mahmudullah
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+        wicket:
+          player_out: Mohammad Mithun
+          kind: bowled
+    - 6.1:
+        non_striker: Afif Hossain
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 6.2:
+        non_striker: Mahmudullah
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 6.3:
+        non_striker: Afif Hossain
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 6.4:
+        non_striker: Afif Hossain
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmudullah
+    - 6.5:
+        non_striker: Afif Hossain
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 6.6:
+        non_striker: Mahmudullah
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Afif Hossain
+    - 7.1:
+        non_striker: Afif Hossain
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 7.2:
+        non_striker: Afif Hossain
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmudullah
+    - 7.3:
+        non_striker: Afif Hossain
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 7.4:
+        non_striker: Afif Hossain
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+        wicket:
+          player_out: Mahmudullah
+          kind: bowled
+    - 7.5:
+        non_striker: Afif Hossain
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+        wicket:
+          player_out: Mahedi Hasan
+          kind: bowled
+    - 7.6:
+        non_striker: Afif Hossain
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Saifuddin
+    - 8.1:
+        non_striker: Mohammad Saifuddin
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 8.2:
+        non_striker: Mohammad Saifuddin
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 8.3:
+        non_striker: Mohammad Saifuddin
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 8.4:
+        non_striker: Mohammad Saifuddin
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Afif Hossain
+    - 8.5:
+        non_striker: Mohammad Saifuddin
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Afif Hossain
+    - 8.6:
+        non_striker: Mohammad Saifuddin
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 9.1:
+        non_striker: Mohammad Saifuddin
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 9.2:
+        non_striker: Afif Hossain
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Saifuddin
+    - 9.3:
+        non_striker: Afif Hossain
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 9.4:
+        non_striker: Mohammad Saifuddin
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Afif Hossain
+    - 9.5:
+        non_striker: Mohammad Saifuddin
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 9.6:
+        non_striker: Afif Hossain
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 10.1:
+        non_striker: Afif Hossain
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 10.2:
+        non_striker: Mohammad Saifuddin
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 10.3:
+        non_striker: Afif Hossain
+        bowler: GD Phillips
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Mohammad Saifuddin
+    - 10.4:
+        non_striker: Mohammad Saifuddin
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 10.5:
+        non_striker: Afif Hossain
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Saifuddin
+    - 10.6:
+        non_striker: Afif Hossain
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Saifuddin
+    - 10.7:
+        non_striker: Afif Hossain
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Saifuddin
+    - 11.1:
+        non_striker: Mohammad Saifuddin
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 11.2:
+        non_striker: Afif Hossain
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 11.3:
+        non_striker: Mohammad Saifuddin
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 11.4:
+        non_striker: Afif Hossain
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Saifuddin
+    - 11.5:
+        non_striker: Afif Hossain
+        bowler: IS Sodhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Saifuddin
+    - 11.6:
+        non_striker: Afif Hossain
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 11.7:
+        non_striker: Mohammad Saifuddin
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 12.1:
+        non_striker: Mohammad Saifuddin
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 12.2:
+        non_striker: Mohammad Saifuddin
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Afif Hossain
+    - 12.3:
+        non_striker: Mohammad Saifuddin
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 12.4:
+        non_striker: Afif Hossain
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Saifuddin
+    - 12.5:
+        non_striker: Afif Hossain
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Saifuddin
+    - 12.6:
+        non_striker: Afif Hossain
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 13.1:
+        non_striker: Afif Hossain
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 13.2:
+        non_striker: Mohammad Saifuddin
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Afif Hossain
+    - 13.3:
+        non_striker: Mohammad Saifuddin
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 13.4:
+        non_striker: Afif Hossain
+        bowler: DJ Mitchell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammad Saifuddin
+    - 13.5:
+        non_striker: Mohammad Saifuddin
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Afif Hossain
+    - 13.6:
+        non_striker: Mohammad Saifuddin
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 14.1:
+        non_striker: Mohammad Saifuddin
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 14.2:
+        non_striker: Afif Hossain
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 14.3:
+        non_striker: Mohammad Saifuddin
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 14.4:
+        non_striker: Mohammad Saifuddin
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 14.5:
+        non_striker: Mohammad Saifuddin
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 14.6:
+        non_striker: Afif Hossain
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 15.1:
+        non_striker: Afif Hossain
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Saifuddin
+    - 15.2:
+        non_striker: Afif Hossain
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 15.3:
+        non_striker: Mohammad Saifuddin
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 15.4:
+        non_striker: Mohammad Saifuddin
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Afif Hossain
+    - 15.5:
+        non_striker: Mohammad Saifuddin
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 15.6:
+        non_striker: Mohammad Saifuddin
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 15.7:
+        non_striker: Afif Hossain
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 16.1:
+        non_striker: Afif Hossain
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 16.2:
+        non_striker: Mohammad Saifuddin
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 16.3:
+        non_striker: Mohammad Saifuddin
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Afif Hossain
+    - 16.4:
+        non_striker: Mohammad Saifuddin
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+        wicket:
+          player_out: Afif Hossain
+          kind: bowled
+    - 16.5:
+        non_striker: Mohammad Saifuddin
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoriful Islam
+    - 16.6:
+        non_striker: Mohammad Saifuddin
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoriful Islam
+    - 17.1:
+        non_striker: Shoriful Islam
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 17.2:
+        non_striker: Mohammad Saifuddin
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoriful Islam
+    - 17.3:
+        non_striker: Mohammad Saifuddin
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoriful Islam
+    - 17.4:
+        non_striker: Mohammad Saifuddin
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shoriful Islam
+    - 17.5:
+        non_striker: Mohammad Saifuddin
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoriful Islam
+    - 17.6:
+        non_striker: Mohammad Saifuddin
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoriful Islam
+    - 17.7:
+        non_striker: Shoriful Islam
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Saifuddin
+    - 18.1:
+        non_striker: Mohammad Saifuddin
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoriful Islam
+        wicket:
+          player_out: Shoriful Islam
+          fielders:
+          - MJ Guptill
+          kind: caught
+    - 18.2:
+        non_striker: Nasum Ahmed
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Saifuddin
+    - 18.3:
+        non_striker: Nasum Ahmed
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Saifuddin
+    - 18.4:
+        non_striker: Nasum Ahmed
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Saifuddin
+    - 18.5:
+        non_striker: Nasum Ahmed
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 18.6:
+        non_striker: Mohammad Saifuddin
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 19.1:
+        non_striker: Nasum Ahmed
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Saifuddin
+    - 19.2:
+        non_striker: Nasum Ahmed
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Saifuddin
+    - 19.3:
+        non_striker: Nasum Ahmed
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Saifuddin
+    - 19.4:
+        non_striker: Nasum Ahmed
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Saifuddin
+    - 19.5:
+        non_striker: Nasum Ahmed
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Saifuddin
+    - 19.6:
+        non_striker: Nasum Ahmed
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Saifuddin

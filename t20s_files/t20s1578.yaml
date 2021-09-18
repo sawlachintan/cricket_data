@@ -1,0 +1,2272 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-08-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Albergaria
+  dates:
+  - '2021-08-21'
+  gender: male
+  match_type: T20
+  match_type_number: 1236
+  outcome:
+    winner: Malta
+    by:
+      runs: 4
+  overs: 20
+  player_of_match:
+  - VP Thamotharam
+  players:
+    Malta:
+    - B Arora
+    - Zeeshan Khan
+    - SSM Stanislaus
+    - G Chaturvedi
+    - VP Thamotharam
+    - Haroon Mughal
+    - Amar Sharma
+    - Bilal Muhammad
+    - Washeem Abbas
+    - J Shaju
+    - SE Aquilina
+    Gibraltar:
+    - K Nestor
+    - L Bruce
+    - CJ Delany
+    - JA Fitzgerald
+    - E Packard
+    - RJ Hatchman
+    - P Hatchman
+    - J Marples
+    - MD Garratt
+    - R Cunningham
+    - A Orfila
+  registry:
+    people:
+      A Orfila: 7c6293d1
+      Amar Sharma: 14e1fdab
+      B Arora: 39e9f0c9
+      Bilal Muhammad: eb5aa5b9
+      CJ Delany: 3bc56bd6
+      E Packard: 03b9ec54
+      G Chaturvedi: e1c92333
+      Haroon Mughal: 8ac3d7ee
+      J Marples: 9d75aec7
+      J Shaju: d8bee9a1
+      JA Fitzgerald: 4e6ff836
+      K Nestor: b89cde87
+      L Bruce: 2a03bd2f
+      MD Garratt: aa4154ad
+      P Hatchman: b504e8b8
+      R Cunningham: 6779e840
+      RJ Hatchman: 01c05b6c
+      SE Aquilina: '019e740a'
+      SSM Stanislaus: 34dd3fd9
+      VP Thamotharam: eb40ed89
+      Washeem Abbas: 6de4e430
+      Zeeshan Khan: 3f9b1a96
+  teams:
+  - Malta
+  - Gibraltar
+  toss:
+    decision: field
+    winner: Gibraltar
+  venue: Gucherre Cricket Ground
+innings:
+- 1st innings:
+    team: Malta
+    deliveries:
+    - 0.1:
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Zeeshan Khan
+        batsman: B Arora
+    - 0.2:
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeeshan Khan
+        batsman: B Arora
+    - 0.3:
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeeshan Khan
+        batsman: B Arora
+    - 0.4:
+        bowler: E Packard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Zeeshan Khan
+        batsman: B Arora
+    - 0.5:
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zeeshan Khan
+        batsman: B Arora
+    - 0.6:
+        non_striker: B Arora
+        bowler: E Packard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Zeeshan Khan
+    - 0.7:
+        non_striker: Zeeshan Khan
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 1.1:
+        non_striker: Zeeshan Khan
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 1.2:
+        non_striker: Zeeshan Khan
+        bowler: K Nestor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Arora
+    - 1.3:
+        non_striker: Zeeshan Khan
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 1.4:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Khan
+    - 1.5:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 1.6:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+        wicket:
+          player_out: Zeeshan Khan
+          fielders:
+          - J Marples
+          kind: caught
+    - 1.7:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 2.1:
+        non_striker: SSM Stanislaus
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 2.2:
+        non_striker: SSM Stanislaus
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 2.3:
+        non_striker: SSM Stanislaus
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 2.4:
+        non_striker: SSM Stanislaus
+        bowler: E Packard
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: B Arora
+    - 2.5:
+        non_striker: B Arora
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 2.6:
+        non_striker: B Arora
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SSM Stanislaus
+    - 2.7:
+        non_striker: B Arora
+        bowler: E Packard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SSM Stanislaus
+    - 3.1:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+        wicket:
+          player_out: SSM Stanislaus
+          kind: caught and bowled
+    - 3.2:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Chaturvedi
+    - 3.3:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Chaturvedi
+    - 3.4:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: G Chaturvedi
+    - 3.5:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: G Chaturvedi
+    - 3.6:
+        non_striker: G Chaturvedi
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 3.7:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Chaturvedi
+    - 4.1:
+        non_striker: G Chaturvedi
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Arora
+    - 4.2:
+        non_striker: G Chaturvedi
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 4.3:
+        non_striker: G Chaturvedi
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 4.4:
+        non_striker: G Chaturvedi
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 4.5:
+        non_striker: B Arora
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Chaturvedi
+        wicket:
+          player_out: G Chaturvedi
+          kind: bowled
+    - 4.6:
+        non_striker: B Arora
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+    - 5.1:
+        non_striker: VP Thamotharam
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Arora
+    - 5.2:
+        non_striker: VP Thamotharam
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 5.3:
+        non_striker: VP Thamotharam
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 5.4:
+        non_striker: VP Thamotharam
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Arora
+    - 5.5:
+        non_striker: VP Thamotharam
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 5.6:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 6.1:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 6.2:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 6.3:
+        non_striker: B Arora
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 6.4:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 6.5:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Arora
+    - 6.6:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 7.1:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 7.2:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 7.3:
+        non_striker: VP Thamotharam
+        bowler: A Orfila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B Arora
+    - 7.4:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 7.5:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VP Thamotharam
+    - 7.6:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 8.1:
+        non_striker: B Arora
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 8.2:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Arora
+    - 8.3:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Arora
+    - 8.4:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 8.5:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 8.6:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 8.7:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 9.1:
+        non_striker: VP Thamotharam
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 9.2:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+    - 9.3:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 9.4:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 9.5:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 9.6:
+        non_striker: VP Thamotharam
+        bowler: A Orfila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Arora
+    - 9.7:
+        non_striker: VP Thamotharam
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 10.1:
+        non_striker: B Arora
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VP Thamotharam
+    - 10.2:
+        non_striker: B Arora
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VP Thamotharam
+    - 10.3:
+        non_striker: B Arora
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 10.4:
+        non_striker: B Arora
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 10.5:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Arora
+    - 10.6:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 11.1:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+    - 11.2:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VP Thamotharam
+    - 11.3:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VP Thamotharam
+    - 11.4:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 11.5:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 11.6:
+        non_striker: VP Thamotharam
+        bowler: A Orfila
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: B Arora
+    - 11.7:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+    - 12.1:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Arora
+    - 12.2:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 12.3:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Arora
+    - 12.4:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 12.5:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Arora
+    - 12.6:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 12.7:
+        non_striker: B Arora
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 12.8:
+        non_striker: VP Thamotharam
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 13.1:
+        non_striker: VP Thamotharam
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 13.2:
+        non_striker: B Arora
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 13.3:
+        non_striker: B Arora
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VP Thamotharam
+    - 13.4:
+        non_striker: B Arora
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VP Thamotharam
+    - 13.5:
+        non_striker: B Arora
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 13.6:
+        non_striker: B Arora
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VP Thamotharam
+    - 14.1:
+        non_striker: VP Thamotharam
+        bowler: RJ Hatchman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Arora
+    - 14.2:
+        non_striker: VP Thamotharam
+        bowler: RJ Hatchman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Arora
+    - 14.3:
+        non_striker: VP Thamotharam
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Arora
+    - 14.4:
+        non_striker: VP Thamotharam
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 14.5:
+        non_striker: VP Thamotharam
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 14.6:
+        non_striker: B Arora
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 14.7:
+        non_striker: B Arora
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 14.8:
+        non_striker: VP Thamotharam
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Arora
+    - 15.1:
+        non_striker: B Arora
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 15.2:
+        non_striker: B Arora
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+    - 15.3:
+        non_striker: B Arora
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VP Thamotharam
+    - 15.4:
+        non_striker: B Arora
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 15.5:
+        non_striker: VP Thamotharam
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 15.6:
+        non_striker: VP Thamotharam
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Arora
+    - 16.1:
+        non_striker: B Arora
+        bowler: MD Garratt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VP Thamotharam
+    - 16.2:
+        non_striker: B Arora
+        bowler: MD Garratt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 16.3:
+        non_striker: VP Thamotharam
+        bowler: MD Garratt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 16.4:
+        non_striker: VP Thamotharam
+        bowler: MD Garratt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Arora
+    - 16.5:
+        non_striker: VP Thamotharam
+        bowler: MD Garratt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Arora
+    - 16.6:
+        non_striker: VP Thamotharam
+        bowler: MD Garratt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 17.1:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 17.2:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VP Thamotharam
+    - 17.3:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VP Thamotharam
+    - 17.4:
+        non_striker: B Arora
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 17.5:
+        non_striker: VP Thamotharam
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Arora
+    - 17.6:
+        non_striker: VP Thamotharam
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Arora
+    - 18.1:
+        non_striker: B Arora
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VP Thamotharam
+    - 18.2:
+        non_striker: B Arora
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VP Thamotharam
+    - 18.3:
+        non_striker: B Arora
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VP Thamotharam
+    - 18.4:
+        non_striker: B Arora
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 18.5:
+        non_striker: B Arora
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VP Thamotharam
+    - 18.6:
+        non_striker: B Arora
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 19.1:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 19.2:
+        non_striker: VP Thamotharam
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 19.3:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VP Thamotharam
+    - 19.4:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+    - 19.5:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+    - 19.6:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+- 2nd innings:
+    team: Gibraltar
+    deliveries:
+    - 0.1:
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Bruce
+        batsman: K Nestor
+    - 0.2:
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Bruce
+        batsman: K Nestor
+    - 0.3:
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Bruce
+        batsman: K Nestor
+    - 0.4:
+        non_striker: K Nestor
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 0.5:
+        non_striker: K Nestor
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 0.6:
+        non_striker: L Bruce
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 1.1:
+        non_striker: K Nestor
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 1.2:
+        non_striker: K Nestor
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 1.3:
+        non_striker: L Bruce
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 1.4:
+        non_striker: L Bruce
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 1.5:
+        non_striker: K Nestor
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 1.6:
+        non_striker: K Nestor
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 2.1:
+        non_striker: K Nestor
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 2.2:
+        non_striker: K Nestor
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 2.3:
+        non_striker: K Nestor
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 2.4:
+        non_striker: L Bruce
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 2.5:
+        non_striker: L Bruce
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 2.6:
+        non_striker: L Bruce
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 3.1:
+        non_striker: L Bruce
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 3.2:
+        non_striker: L Bruce
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 3.3:
+        non_striker: L Bruce
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 3.4:
+        non_striker: L Bruce
+        bowler: Washeem Abbas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Nestor
+    - 3.5:
+        non_striker: L Bruce
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 3.6:
+        non_striker: K Nestor
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 3.7:
+        non_striker: K Nestor
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 4.1:
+        non_striker: L Bruce
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nestor
+    - 4.2:
+        non_striker: L Bruce
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 4.3:
+        non_striker: L Bruce
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 4.4:
+        non_striker: L Bruce
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Nestor
+    - 4.5:
+        non_striker: L Bruce
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 4.6:
+        non_striker: L Bruce
+        bowler: J Shaju
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: K Nestor
+    - 4.7:
+        non_striker: K Nestor
+        bowler: J Shaju
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: L Bruce
+    - 4.8:
+        non_striker: K Nestor
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 5.1:
+        non_striker: K Nestor
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 5.2:
+        non_striker: L Bruce
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Nestor
+    - 5.3:
+        non_striker: L Bruce
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 5.4:
+        non_striker: K Nestor
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 5.5:
+        non_striker: K Nestor
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 5.6:
+        non_striker: K Nestor
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 6.1:
+        non_striker: K Nestor
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 6.2:
+        non_striker: K Nestor
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 6.3:
+        non_striker: K Nestor
+        bowler: J Shaju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bruce
+    - 6.4:
+        non_striker: K Nestor
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 6.5:
+        non_striker: L Bruce
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nestor
+    - 6.6:
+        non_striker: L Bruce
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Nestor
+    - 6.7:
+        non_striker: L Bruce
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Nestor
+    - 7.1:
+        non_striker: K Nestor
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 7.2:
+        non_striker: K Nestor
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 7.3:
+        non_striker: L Bruce
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 7.4:
+        non_striker: L Bruce
+        bowler: Amar Sharma
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: K Nestor
+    - 7.5:
+        non_striker: L Bruce
+        bowler: Amar Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: K Nestor
+    - 7.6:
+        non_striker: L Bruce
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 7.7:
+        non_striker: K Nestor
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 8.1:
+        non_striker: L Bruce
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 8.2:
+        non_striker: L Bruce
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 8.3:
+        non_striker: L Bruce
+        bowler: B Arora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Nestor
+    - 8.4:
+        non_striker: L Bruce
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 8.5:
+        non_striker: K Nestor
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 8.6:
+        non_striker: K Nestor
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 8.7:
+        non_striker: K Nestor
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 9.1:
+        non_striker: L Bruce
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 9.2:
+        non_striker: K Nestor
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 9.3:
+        non_striker: K Nestor
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 9.4:
+        non_striker: L Bruce
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+        wicket:
+          player_out: K Nestor
+          fielders:
+          - G Chaturvedi
+          kind: caught
+    - 9.5:
+        bowler: Amar Sharma
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: CJ Delany
+        batsman: L Bruce
+    - 9.6:
+        bowler: Amar Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: CJ Delany
+        batsman: L Bruce
+    - 9.7:
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CJ Delany
+        batsman: L Bruce
+    - 9.8:
+        non_striker: CJ Delany
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 10.1:
+        non_striker: L Bruce
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Delany
+    - 10.2:
+        non_striker: L Bruce
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Delany
+    - 10.3:
+        non_striker: L Bruce
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Delany
+    - 10.4:
+        non_striker: CJ Delany
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 10.5:
+        non_striker: CJ Delany
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Bruce
+    - 10.6:
+        non_striker: L Bruce
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Delany
+    - 11.1:
+        non_striker: CJ Delany
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 11.2:
+        non_striker: L Bruce
+        bowler: Amar Sharma
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: CJ Delany
+    - 11.3:
+        non_striker: CJ Delany
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 11.4:
+        non_striker: L Bruce
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Delany
+    - 11.5:
+        non_striker: L Bruce
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Delany
+    - 11.6:
+        non_striker: L Bruce
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Delany
+    - 11.7:
+        non_striker: L Bruce
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Delany
+    - 12.1:
+        non_striker: CJ Delany
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 12.2:
+        non_striker: L Bruce
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Delany
+    - 12.3:
+        non_striker: L Bruce
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Delany
+    - 12.4:
+        non_striker: L Bruce
+        bowler: B Arora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Delany
+    - 12.5:
+        non_striker: L Bruce
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Delany
+    - 12.6:
+        non_striker: CJ Delany
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 12.7:
+        non_striker: CJ Delany
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 13.1:
+        non_striker: L Bruce
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Delany
+    - 13.2:
+        non_striker: L Bruce
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Delany
+    - 13.3:
+        non_striker: L Bruce
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Delany
+    - 13.4:
+        non_striker: L Bruce
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Delany
+    - 13.5:
+        non_striker: L Bruce
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Delany
+    - 13.6:
+        non_striker: L Bruce
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Delany
+    - 14.1:
+        non_striker: CJ Delany
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 14.2:
+        non_striker: CJ Delany
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 14.3:
+        non_striker: L Bruce
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Delany
+    - 14.4:
+        non_striker: L Bruce
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Delany
+    - 14.5:
+        non_striker: L Bruce
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Delany
+    - 14.6:
+        non_striker: L Bruce
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Delany
+    - 15.1:
+        non_striker: CJ Delany
+        bowler: J Shaju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bruce
+    - 15.2:
+        non_striker: CJ Delany
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 15.3:
+        non_striker: CJ Delany
+        bowler: J Shaju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bruce
+    - 15.4:
+        non_striker: CJ Delany
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 15.5:
+        non_striker: CJ Delany
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 15.6:
+        non_striker: L Bruce
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Delany
+    - 15.7:
+        non_striker: L Bruce
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Delany
+    - 15.8:
+        non_striker: CJ Delany
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 16.1:
+        non_striker: L Bruce
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Delany
+    - 16.2:
+        non_striker: L Bruce
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Delany
+    - 16.3:
+        non_striker: CJ Delany
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 16.4:
+        non_striker: CJ Delany
+        bowler: Bilal Muhammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bruce
+    - 16.5:
+        non_striker: CJ Delany
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 16.6:
+        non_striker: CJ Delany
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+        wicket:
+          player_out: L Bruce
+          kind: bowled
+    - 16.7:
+        non_striker: CJ Delany
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 17.1:
+        non_striker: CJ Delany
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Fitzgerald
+    - 17.2:
+        non_striker: CJ Delany
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 17.3:
+        non_striker: JA Fitzgerald
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Delany
+    - 17.4:
+        non_striker: JA Fitzgerald
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Delany
+    - 17.5:
+        non_striker: JA Fitzgerald
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Delany
+    - 17.6:
+        non_striker: JA Fitzgerald
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Delany
+    - 18.1:
+        non_striker: CJ Delany
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 18.2:
+        non_striker: JA Fitzgerald
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Delany
+    - 18.3:
+        non_striker: JA Fitzgerald
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Delany
+    - 18.4:
+        non_striker: JA Fitzgerald
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Delany
+    - 18.5:
+        non_striker: JA Fitzgerald
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Delany
+    - 18.6:
+        non_striker: JA Fitzgerald
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Delany
+    - 19.1:
+        non_striker: JA Fitzgerald
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Delany
+    - 19.2:
+        non_striker: CJ Delany
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Fitzgerald
+    - 19.3:
+        non_striker: CJ Delany
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 19.4:
+        non_striker: JA Fitzgerald
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Delany
+    - 19.5:
+        non_striker: JA Fitzgerald
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Delany
+    - 19.6:
+        non_striker: CJ Delany
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald

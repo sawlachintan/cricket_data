@@ -1,0 +1,2095 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-02-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Karachi
+  competition: Pakistan Super League
+  dates:
+  - '2021-02-23'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Peshawar Zalmi
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - T Kohler-Cadmore
+  players:
+    Multan Sultans:
+    - Mohammad Rizwan
+    - CA Lynn
+    - JM Vince
+    - Sohaib Maqsood
+    - RR Rossouw
+    - Khushdil Shah
+    - Shahid Afridi
+    - CR Brathwaite
+    - Sohail Tanvir
+    - Usman Qadir
+    - Shahnawaz Dhani
+    Peshawar Zalmi:
+    - Imam-ul-Haq
+    - Kamran Akmal
+    - T Kohler-Cadmore
+    - SE Rutherford
+    - Shoaib Malik
+    - Haider Ali
+    - Wahab Riaz
+    - Mujeeb Ur Rahman
+    - S Mahmood
+    - Mohammad Imran (2)
+    - Mohammad Irfan
+  registry:
+    people:
+      Ahsan Raza: e0e5b209
+      Aleem Dar: f02778d1
+      Asif Yaqoob: 6b35790c
+      CA Lynn: 45eda7c8
+      CR Brathwaite: e342e5fb
+      Haider Ali: c13e34f4
+      Imam-ul-Haq: 40c041ea
+      JM Vince: a15618fe
+      Kamran Akmal: ff077124
+      Khushdil Shah: fce581b5
+      Mohammad Imran (2): 687e20b3
+      Mohammad Irfan: a8e3170f
+      Mohammad Rizwan: 2f26ac1a
+      Mujeeb Ur Rahman: 7d92277a
+      RK Illingworth: '20672246'
+      RR Rossouw: cad00a4d
+      RS Mahanama: '57910393'
+      S Mahmood: 0f6db197
+      SE Rutherford: d014d5ac
+      Shahid Afridi: 0dc00542
+      Shahnawaz Dhani: 7ccbb09f
+      Shoaib Malik: 64c34cd0
+      Sohaib Maqsood: b98b5e1c
+      Sohail Tanvir: 64d43928
+      T Kohler-Cadmore: f836b33d
+      Usman Qadir: 33742f04
+      Wahab Riaz: b3118300
+  teams:
+  - Multan Sultans
+  - Peshawar Zalmi
+  toss:
+    decision: field
+    winner: Peshawar Zalmi
+  umpires:
+  - Aleem Dar
+  - RK Illingworth
+  venue: National Stadium
+innings:
+- 1st innings:
+    team: Multan Sultans
+    deliveries:
+    - 0.1:
+        non_striker: CA Lynn
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 0.2:
+        non_striker: CA Lynn
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 0.3:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 0.4:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 0.5:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 0.6:
+        non_striker: CA Lynn
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 1.1:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+        wicket:
+          player_out: CA Lynn
+          fielders:
+          - Haider Ali
+          kind: caught
+    - 1.2:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 1.3:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 1.4:
+        non_striker: JM Vince
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 1.5:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 1.6:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 2.1:
+        non_striker: JM Vince
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 2.2:
+        non_striker: JM Vince
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizwan
+    - 2.3:
+        non_striker: JM Vince
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 2.4:
+        non_striker: Mohammad Rizwan
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 2.5:
+        non_striker: Mohammad Rizwan
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 2.6:
+        non_striker: JM Vince
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 3.1:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 3.2:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 3.3:
+        non_striker: JM Vince
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 3.4:
+        non_striker: JM Vince
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 3.5:
+        non_striker: JM Vince
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 3.6:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 4.1:
+        non_striker: JM Vince
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 4.2:
+        non_striker: JM Vince
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 4.3:
+        non_striker: Mohammad Rizwan
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 4.4:
+        non_striker: Mohammad Rizwan
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 4.5:
+        non_striker: Mohammad Rizwan
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 4.6:
+        non_striker: Mohammad Rizwan
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 5.1:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 5.2:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 5.3:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 5.4:
+        non_striker: Mohammad Rizwan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 5.5:
+        non_striker: Mohammad Rizwan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Vince
+    - 5.6:
+        non_striker: Mohammad Rizwan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 5.7:
+        non_striker: Mohammad Rizwan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 6.1:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 6.2:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 6.3:
+        non_striker: JM Vince
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 6.4:
+        non_striker: JM Vince
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 6.5:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 6.6:
+        non_striker: JM Vince
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 7.1:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 7.2:
+        non_striker: Mohammad Rizwan
+        bowler: Wahab Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JM Vince
+    - 7.3:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 7.4:
+        non_striker: Mohammad Rizwan
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 7.5:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizwan
+    - 7.6:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 8.1:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 8.2:
+        non_striker: Mohammad Rizwan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 8.3:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Mohammad Rizwan
+    - 8.4:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 8.5:
+        non_striker: Mohammad Rizwan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 8.6:
+        non_striker: Mohammad Rizwan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 8.7:
+        non_striker: Mohammad Rizwan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 9.1:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Vince
+    - 9.2:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 9.3:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 9.4:
+        non_striker: JM Vince
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 9.5:
+        non_striker: Mohammad Rizwan
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 9.6:
+        non_striker: JM Vince
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 10.1:
+        non_striker: JM Vince
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+        wicket:
+          player_out: Mohammad Rizwan
+          fielders:
+          - Imam-ul-Haq
+          kind: caught
+    - 10.2:
+        non_striker: JM Vince
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohaib Maqsood
+    - 10.3:
+        non_striker: Sohaib Maqsood
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 10.4:
+        non_striker: Sohaib Maqsood
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 10.5:
+        non_striker: JM Vince
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohaib Maqsood
+    - 10.6:
+        non_striker: JM Vince
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohaib Maqsood
+    - 11.1:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohaib Maqsood
+    - 11.2:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohaib Maqsood
+    - 11.3:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sohaib Maqsood
+    - 11.4:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sohaib Maqsood
+    - 11.5:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sohaib Maqsood
+    - 11.6:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Sohaib Maqsood
+    - 11.7:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohaib Maqsood
+    - 12.1:
+        non_striker: Sohaib Maqsood
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 12.2:
+        non_striker: Sohaib Maqsood
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 12.3:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohaib Maqsood
+    - 12.4:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohaib Maqsood
+    - 12.5:
+        non_striker: Sohaib Maqsood
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 12.6:
+        non_striker: Sohaib Maqsood
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 13.1:
+        non_striker: Sohaib Maqsood
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 13.2:
+        non_striker: Sohaib Maqsood
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 13.3:
+        non_striker: JM Vince
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sohaib Maqsood
+    - 13.4:
+        non_striker: JM Vince
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sohaib Maqsood
+    - 13.5:
+        non_striker: JM Vince
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohaib Maqsood
+    - 13.6:
+        non_striker: Sohaib Maqsood
+        bowler: Mohammad Irfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 14.1:
+        non_striker: Sohaib Maqsood
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 14.2:
+        non_striker: Sohaib Maqsood
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 14.3:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sohaib Maqsood
+    - 14.4:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohaib Maqsood
+    - 14.5:
+        non_striker: Sohaib Maqsood
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 14.6:
+        non_striker: Sohaib Maqsood
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 15.1:
+        non_striker: Sohaib Maqsood
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 15.2:
+        non_striker: Sohaib Maqsood
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 15.3:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohaib Maqsood
+    - 15.4:
+        non_striker: Sohaib Maqsood
+        bowler: Wahab Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Vince
+    - 15.5:
+        non_striker: Sohaib Maqsood
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 15.6:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Sohaib Maqsood
+    - 15.7:
+        non_striker: Sohaib Maqsood
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Vince
+    - 15.8:
+        non_striker: Sohaib Maqsood
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 16.1:
+        non_striker: JM Vince
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohaib Maqsood
+    - 16.2:
+        non_striker: Sohaib Maqsood
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 16.3:
+        non_striker: JM Vince
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohaib Maqsood
+    - 16.4:
+        non_striker: Sohaib Maqsood
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 16.5:
+        non_striker: JM Vince
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohaib Maqsood
+        wicket:
+          player_out: Sohaib Maqsood
+          fielders:
+          - Kamran Akmal
+          kind: caught
+    - 16.6:
+        non_striker: JM Vince
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 17.1:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 17.2:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 17.3:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Rossouw
+    - 17.4:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 17.5:
+        non_striker: JM Vince
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 17.6:
+        non_striker: RR Rossouw
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 18.1:
+        non_striker: RR Rossouw
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 18.2:
+        non_striker: RR Rossouw
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Vince
+    - 18.3:
+        non_striker: RR Rossouw
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 18.4:
+        non_striker: RR Rossouw
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 18.5:
+        non_striker: JM Vince
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 18.6:
+        non_striker: RR Rossouw
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+        wicket:
+          player_out: JM Vince
+          fielders:
+          - Mohammad Irfan
+          kind: caught
+    - 19.1:
+        non_striker: Khushdil Shah
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 19.2:
+        non_striker: RR Rossouw
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 19.3:
+        non_striker: RR Rossouw
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khushdil Shah
+    - 19.4:
+        non_striker: RR Rossouw
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 19.5:
+        non_striker: RR Rossouw
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khushdil Shah
+    - 19.6:
+        non_striker: RR Rossouw
+        bowler: Mohammad Imran (2)
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khushdil Shah
+- 2nd innings:
+    team: Peshawar Zalmi
+    deliveries:
+    - 0.1:
+        non_striker: Kamran Akmal
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imam-ul-Haq
+    - 0.2:
+        non_striker: Kamran Akmal
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 0.3:
+        non_striker: Imam-ul-Haq
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kamran Akmal
+    - 0.4:
+        non_striker: Imam-ul-Haq
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 0.5:
+        non_striker: Imam-ul-Haq
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 0.6:
+        non_striker: Imam-ul-Haq
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 1.1:
+        non_striker: Imam-ul-Haq
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 1.2:
+        non_striker: Imam-ul-Haq
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 1.3:
+        non_striker: Kamran Akmal
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 1.4:
+        non_striker: Imam-ul-Haq
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 1.5:
+        non_striker: Imam-ul-Haq
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 1.6:
+        non_striker: Imam-ul-Haq
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 2.1:
+        non_striker: Kamran Akmal
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imam-ul-Haq
+    - 2.2:
+        non_striker: Kamran Akmal
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 2.3:
+        non_striker: Imam-ul-Haq
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 2.4:
+        non_striker: Imam-ul-Haq
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kamran Akmal
+    - 2.5:
+        non_striker: Imam-ul-Haq
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 2.6:
+        non_striker: Imam-ul-Haq
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kamran Akmal
+    - 3.1:
+        non_striker: Kamran Akmal
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 3.2:
+        non_striker: Imam-ul-Haq
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 3.3:
+        non_striker: Imam-ul-Haq
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 3.4:
+        non_striker: Kamran Akmal
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imam-ul-Haq
+    - 3.5:
+        non_striker: Kamran Akmal
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imam-ul-Haq
+    - 3.6:
+        non_striker: Kamran Akmal
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imam-ul-Haq
+    - 4.1:
+        non_striker: Imam-ul-Haq
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 4.2:
+        non_striker: Imam-ul-Haq
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kamran Akmal
+    - 4.3:
+        non_striker: Imam-ul-Haq
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kamran Akmal
+    - 4.4:
+        non_striker: Imam-ul-Haq
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 4.5:
+        non_striker: Imam-ul-Haq
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 4.6:
+        non_striker: Kamran Akmal
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 5.1:
+        non_striker: Kamran Akmal
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 5.2:
+        non_striker: Imam-ul-Haq
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kamran Akmal
+    - 5.3:
+        non_striker: Imam-ul-Haq
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kamran Akmal
+    - 5.4:
+        non_striker: Imam-ul-Haq
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 5.5:
+        non_striker: Kamran Akmal
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imam-ul-Haq
+    - 5.6:
+        non_striker: Kamran Akmal
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 6.1:
+        non_striker: Kamran Akmal
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imam-ul-Haq
+    - 6.2:
+        non_striker: Kamran Akmal
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 6.3:
+        non_striker: Imam-ul-Haq
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+        wicket:
+          player_out: Kamran Akmal
+          kind: lbw
+    - 6.4:
+        non_striker: Imam-ul-Haq
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 6.5:
+        non_striker: T Kohler-Cadmore
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 6.6:
+        non_striker: Imam-ul-Haq
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 7.1:
+        non_striker: T Kohler-Cadmore
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 7.2:
+        non_striker: Imam-ul-Haq
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 7.3:
+        non_striker: Imam-ul-Haq
+        bowler: Shahid Afridi
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: T Kohler-Cadmore
+    - 7.4:
+        non_striker: Imam-ul-Haq
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 7.5:
+        non_striker: Imam-ul-Haq
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 7.6:
+        non_striker: Imam-ul-Haq
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kohler-Cadmore
+    - 8.1:
+        non_striker: T Kohler-Cadmore
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 8.2:
+        non_striker: Imam-ul-Haq
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 8.3:
+        non_striker: Imam-ul-Haq
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 8.4:
+        non_striker: T Kohler-Cadmore
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imam-ul-Haq
+    - 8.5:
+        non_striker: T Kohler-Cadmore
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 8.6:
+        non_striker: Imam-ul-Haq
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 9.1:
+        non_striker: Imam-ul-Haq
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kohler-Cadmore
+    - 9.2:
+        non_striker: Imam-ul-Haq
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 9.3:
+        non_striker: Imam-ul-Haq
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 9.4:
+        non_striker: T Kohler-Cadmore
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imam-ul-Haq
+    - 9.5:
+        non_striker: T Kohler-Cadmore
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 9.6:
+        non_striker: Imam-ul-Haq
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 10.1:
+        non_striker: Imam-ul-Haq
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 10.2:
+        non_striker: Imam-ul-Haq
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 10.3:
+        non_striker: T Kohler-Cadmore
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imam-ul-Haq
+    - 10.4:
+        non_striker: T Kohler-Cadmore
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 10.5:
+        non_striker: Imam-ul-Haq
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kohler-Cadmore
+    - 10.6:
+        non_striker: Imam-ul-Haq
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 11.1:
+        non_striker: Imam-ul-Haq
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 11.2:
+        non_striker: Imam-ul-Haq
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 11.3:
+        non_striker: T Kohler-Cadmore
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imam-ul-Haq
+    - 11.4:
+        non_striker: T Kohler-Cadmore
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imam-ul-Haq
+    - 11.5:
+        non_striker: T Kohler-Cadmore
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 11.6:
+        non_striker: Imam-ul-Haq
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kohler-Cadmore
+    - 12.1:
+        non_striker: T Kohler-Cadmore
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 12.2:
+        non_striker: Imam-ul-Haq
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 12.3:
+        non_striker: T Kohler-Cadmore
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 12.4:
+        non_striker: Imam-ul-Haq
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 12.5:
+        non_striker: T Kohler-Cadmore
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 12.6:
+        non_striker: Imam-ul-Haq
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 13.1:
+        non_striker: T Kohler-Cadmore
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imam-ul-Haq
+    - 13.2:
+        non_striker: T Kohler-Cadmore
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imam-ul-Haq
+    - 13.3:
+        non_striker: T Kohler-Cadmore
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 13.4:
+        non_striker: Imam-ul-Haq
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 13.5:
+        non_striker: T Kohler-Cadmore
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imam-ul-Haq
+    - 13.6:
+        non_striker: T Kohler-Cadmore
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imam-ul-Haq
+    - 14.1:
+        non_striker: Imam-ul-Haq
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 14.2:
+        non_striker: T Kohler-Cadmore
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imam-ul-Haq
+    - 14.3:
+        non_striker: T Kohler-Cadmore
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 14.4:
+        non_striker: Imam-ul-Haq
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 14.5:
+        non_striker: Imam-ul-Haq
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 14.6:
+        non_striker: T Kohler-Cadmore
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 15.1:
+        non_striker: T Kohler-Cadmore
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+        wicket:
+          player_out: Imam-ul-Haq
+          kind: run out
+    - 15.2:
+        non_striker: T Kohler-Cadmore
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 15.3:
+        non_striker: T Kohler-Cadmore
+        bowler: Sohail Tanvir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SE Rutherford
+    - 15.4:
+        non_striker: T Kohler-Cadmore
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 15.5:
+        non_striker: SE Rutherford
+        bowler: Sohail Tanvir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Kohler-Cadmore
+    - 15.6:
+        non_striker: SE Rutherford
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 15.7:
+        non_striker: T Kohler-Cadmore
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 15.8:
+        non_striker: T Kohler-Cadmore
+        bowler: Sohail Tanvir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 16.1:
+        non_striker: SE Rutherford
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 16.2:
+        non_striker: T Kohler-Cadmore
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 16.3:
+        non_striker: T Kohler-Cadmore
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          fielders:
+          - CR Brathwaite
+          kind: caught
+    - 16.4:
+        non_striker: T Kohler-Cadmore
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 16.5:
+        non_striker: Shoaib Malik
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kohler-Cadmore
+    - 16.6:
+        non_striker: Shoaib Malik
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+        wicket:
+          player_out: T Kohler-Cadmore
+          fielders:
+          - Sohail Tanvir
+          kind: caught
+    - 17.1:
+        non_striker: Shoaib Malik
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Haider Ali
+    - 17.2:
+        non_striker: Shoaib Malik
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Haider Ali
+    - 17.3:
+        non_striker: Shoaib Malik
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Haider Ali
+    - 17.4:
+        non_striker: Shoaib Malik
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Ali
+    - 17.5:
+        non_striker: Haider Ali
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 17.6:
+        non_striker: Shoaib Malik
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Haider Ali
+    - 18.1:
+        non_striker: Shoaib Malik
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Haider Ali
+    - 18.2:
+        non_striker: Shoaib Malik
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Haider Ali
+    - 18.3:
+        non_striker: Shoaib Malik
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Ali
+    - 18.4:
+        non_striker: Haider Ali
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Malik
+    - 18.5:
+        non_striker: Haider Ali
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Malik
+    - 18.6:
+        non_striker: Haider Ali
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shoaib Malik
+    - 18.7:
+        non_striker: Haider Ali
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 18.8:
+        non_striker: Shoaib Malik
+        bowler: Shahnawaz Dhani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Haider Ali

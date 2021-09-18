@@ -1,0 +1,2159 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-05-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Belfast
+  dates:
+  - '2021-05-24'
+  gender: female
+  match_type: T20
+  match_type_number: 892
+  outcome:
+    winner: Scotland
+    by:
+      runs: 11
+  overs: 20
+  player_of_match:
+  - K McGill
+  players:
+    Scotland:
+    - SJ Bryce
+    - RS Glen
+    - KE Bryce
+    - K McGill
+    - A Lister
+    - PA Chatterji
+    - K Fraser
+    - A Aitken
+    - M McColl
+    - AH Maqsood
+    - S Haggo
+    Ireland:
+    - R Stokell
+    - GH Lewis
+    - L Delany
+    - SM Kavanagh
+    - O Prendergast
+    - L Maritz
+    - A Hunter
+    - L Paul
+    - C Raack
+    - C Murray
+    - A Canning
+  registry:
+    people:
+      A Aitken: 25c73eb6
+      A Canning: ffd5fcd8
+      A Hunter: e8fa03ed
+      A Lister: '090c0213'
+      AH Maqsood: f61e2829
+      AJ Neill: 7ffe0ce3
+      C Murray: 5a50471c
+      C Raack: 28aba384
+      GH Lewis: 1b9d1579
+      Jareth McCready: 84fa5232
+      K Fraser: a0a65375
+      K McGill: bba7558e
+      KE Bryce: f13d3eba
+      L Delany: b4f73b44
+      L Maritz: ac8bca8d
+      L Paul: '07248d8e'
+      M McColl: d5fa2ab3
+      O Prendergast: d8f20ba5
+      PA Chatterji: 8e7be59c
+      Philip Thompson: 0c677650
+      R Stokell: def7b1bb
+      RS Glen: 45c2db15
+      S Haggo: 35230fa3
+      SJ Bryce: 2ca65aee
+      SM Kavanagh: 7e9b3b60
+  teams:
+  - Scotland
+  - Ireland
+  toss:
+    decision: bat
+    winner: Scotland
+  umpires:
+  - AJ Neill
+  - Jareth McCready
+  venue: Civil Service Cricket Club, Stormont, Belfast
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RS Glen
+        batsman: SJ Bryce
+    - 0.2:
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RS Glen
+        batsman: SJ Bryce
+    - 0.3:
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: RS Glen
+        batsman: SJ Bryce
+    - 0.4:
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RS Glen
+        batsman: SJ Bryce
+    - 0.5:
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RS Glen
+        batsman: SJ Bryce
+    - 0.6:
+        non_striker: RS Glen
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 1.1:
+        non_striker: RS Glen
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 1.2:
+        non_striker: SJ Bryce
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Glen
+    - 1.3:
+        non_striker: SJ Bryce
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RS Glen
+    - 1.4:
+        non_striker: RS Glen
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 1.5:
+        non_striker: RS Glen
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 1.6:
+        non_striker: SJ Bryce
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Glen
+        wicket:
+          player_out: RS Glen
+          kind: bowled
+    - 2.1:
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KE Bryce
+        batsman: SJ Bryce
+    - 2.2:
+        non_striker: SJ Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 2.3:
+        non_striker: SJ Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 2.4:
+        non_striker: KE Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 2.5:
+        non_striker: KE Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 2.6:
+        non_striker: KE Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 3.1:
+        non_striker: SJ Bryce
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 3.2:
+        non_striker: SJ Bryce
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 3.3:
+        non_striker: SJ Bryce
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 3.4:
+        non_striker: SJ Bryce
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 3.5:
+        non_striker: SJ Bryce
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 3.6:
+        non_striker: KE Bryce
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 4.1:
+        non_striker: SJ Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 4.2:
+        non_striker: SJ Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 4.3:
+        non_striker: SJ Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 4.4:
+        non_striker: KE Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 4.5:
+        non_striker: KE Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 4.6:
+        non_striker: KE Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 5.1:
+        non_striker: SJ Bryce
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 5.2:
+        non_striker: KE Bryce
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 5.3:
+        non_striker: KE Bryce
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+        wicket:
+          player_out: SJ Bryce
+          kind: run out
+    - 5.4:
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K McGill
+        batsman: KE Bryce
+    - 5.5:
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K McGill
+        batsman: KE Bryce
+    - 5.6:
+        non_striker: K McGill
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 6.1:
+        non_striker: K McGill
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 6.2:
+        non_striker: K McGill
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 6.3:
+        non_striker: K McGill
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 6.4:
+        non_striker: K McGill
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 6.5:
+        non_striker: K McGill
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 6.6:
+        non_striker: KE Bryce
+        bowler: L Maritz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K McGill
+    - 6.7:
+        non_striker: KE Bryce
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K McGill
+    - 7.1:
+        non_striker: KE Bryce
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K McGill
+    - 7.2:
+        non_striker: KE Bryce
+        bowler: A Canning
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: K McGill
+    - 7.3:
+        non_striker: K McGill
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 7.4:
+        non_striker: K McGill
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 7.5:
+        non_striker: K McGill
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 7.6:
+        non_striker: K McGill
+        bowler: A Canning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KE Bryce
+    - 7.7:
+        non_striker: K McGill
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 7.8:
+        non_striker: K McGill
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 8.1:
+        non_striker: KE Bryce
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K McGill
+    - 8.2:
+        non_striker: KE Bryce
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K McGill
+    - 8.3:
+        non_striker: K McGill
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 8.4:
+        non_striker: K McGill
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+        wicket:
+          player_out: KE Bryce
+          kind: caught and bowled
+    - 8.5:
+        non_striker: K McGill
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 8.6:
+        non_striker: K McGill
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 9.1:
+        non_striker: A Lister
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K McGill
+    - 9.2:
+        non_striker: K McGill
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 9.3:
+        non_striker: K McGill
+        bowler: C Raack
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Lister
+    - 9.4:
+        non_striker: A Lister
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K McGill
+    - 9.5:
+        non_striker: K McGill
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 9.6:
+        non_striker: A Lister
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K McGill
+    - 10.1:
+        non_striker: K McGill
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 10.2:
+        non_striker: K McGill
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 10.3:
+        non_striker: A Lister
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K McGill
+    - 10.4:
+        non_striker: A Lister
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K McGill
+    - 10.5:
+        non_striker: A Lister
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K McGill
+    - 10.6:
+        non_striker: A Lister
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K McGill
+    - 11.1:
+        non_striker: A Lister
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K McGill
+    - 11.2:
+        non_striker: A Lister
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K McGill
+    - 11.3:
+        non_striker: K McGill
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 11.4:
+        non_striker: K McGill
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 11.5:
+        non_striker: K McGill
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+        wicket:
+          player_out: A Lister
+          fielders:
+          - L Maritz
+          kind: caught
+    - 11.6:
+        non_striker: K McGill
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 12.1:
+        non_striker: K McGill
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 12.2:
+        non_striker: PA Chatterji
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K McGill
+    - 12.3:
+        non_striker: K McGill
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 12.4:
+        non_striker: K McGill
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 12.5:
+        non_striker: PA Chatterji
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K McGill
+    - 12.6:
+        non_striker: K McGill
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 13.1:
+        non_striker: K McGill
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 13.2:
+        non_striker: K McGill
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 13.3:
+        non_striker: K McGill
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 13.4:
+        non_striker: PA Chatterji
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K McGill
+    - 13.5:
+        non_striker: PA Chatterji
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K McGill
+    - 13.6:
+        non_striker: PA Chatterji
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K McGill
+    - 14.1:
+        non_striker: K McGill
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Chatterji
+    - 14.2:
+        non_striker: K McGill
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 14.3:
+        non_striker: K McGill
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 14.4:
+        non_striker: K McGill
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 14.5:
+        non_striker: PA Chatterji
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K McGill
+    - 14.6:
+        non_striker: K McGill
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 15.1:
+        non_striker: K McGill
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Chatterji
+    - 15.2:
+        non_striker: K McGill
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 15.3:
+        non_striker: K McGill
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+        wicket:
+          player_out: PA Chatterji
+          fielders:
+          - GH Lewis
+          kind: caught
+    - 15.4:
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Fraser
+        batsman: K McGill
+    - 15.5:
+        non_striker: K Fraser
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K McGill
+        wicket:
+          player_out: K McGill
+          kind: bowled
+    - 15.6:
+        non_striker: K Fraser
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+    - 16.1:
+        non_striker: A Aitken
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 16.2:
+        non_striker: A Aitken
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 16.3:
+        non_striker: A Aitken
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 16.4:
+        non_striker: K Fraser
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 16.5:
+        non_striker: A Aitken
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 16.6:
+        non_striker: A Aitken
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 17.1:
+        non_striker: K Fraser
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+    - 17.2:
+        non_striker: K Fraser
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 17.3:
+        non_striker: A Aitken
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 17.4:
+        non_striker: A Aitken
+        bowler: L Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Fraser
+    - 17.5:
+        non_striker: A Aitken
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 17.6:
+        non_striker: K Fraser
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 17.7:
+        non_striker: A Aitken
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Fraser
+    - 18.1:
+        non_striker: K Fraser
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+    - 18.2:
+        non_striker: K Fraser
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 18.3:
+        non_striker: A Aitken
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 18.4:
+        non_striker: A Aitken
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 18.5:
+        non_striker: A Aitken
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 18.6:
+        non_striker: A Aitken
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+        wicket:
+          player_out: K Fraser
+          kind: bowled
+    - 19.1:
+        non_striker: M McColl
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+        wicket:
+          player_out: A Aitken
+          fielders:
+          - R Stokell
+          kind: caught
+    - 19.2:
+        non_striker: M McColl
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Maqsood
+        wicket:
+          player_out: AH Maqsood
+          fielders:
+          - GH Lewis
+          kind: caught
+    - 19.3:
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Haggo
+        batsman: M McColl
+    - 19.4:
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Haggo
+        batsman: M McColl
+    - 19.5:
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Haggo
+        batsman: M McColl
+    - 19.6:
+        non_striker: S Haggo
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        bowler: RS Glen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GH Lewis
+        batsman: R Stokell
+    - 0.2:
+        bowler: RS Glen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GH Lewis
+        batsman: R Stokell
+    - 0.3:
+        non_striker: R Stokell
+        bowler: RS Glen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.4:
+        non_striker: R Stokell
+        bowler: RS Glen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.5:
+        non_striker: R Stokell
+        bowler: RS Glen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 0.6:
+        non_striker: R Stokell
+        bowler: RS Glen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.1:
+        non_striker: GH Lewis
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 1.2:
+        non_striker: GH Lewis
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 1.3:
+        non_striker: GH Lewis
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 1.4:
+        non_striker: R Stokell
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.5:
+        non_striker: R Stokell
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+        wicket:
+          player_out: GH Lewis
+          kind: lbw
+    - 1.6:
+        non_striker: R Stokell
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 2.1:
+        non_striker: L Delany
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 2.2:
+        non_striker: L Delany
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 2.3:
+        non_striker: L Delany
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 2.4:
+        non_striker: L Delany
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 2.5:
+        non_striker: R Stokell
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 2.6:
+        non_striker: R Stokell
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 3.1:
+        non_striker: L Delany
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 3.2:
+        non_striker: L Delany
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 3.3:
+        non_striker: L Delany
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 3.4:
+        non_striker: L Delany
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 3.5:
+        non_striker: R Stokell
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 3.6:
+        non_striker: R Stokell
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 4.1:
+        non_striker: R Stokell
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 4.2:
+        non_striker: R Stokell
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 4.3:
+        non_striker: R Stokell
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 4.4:
+        non_striker: R Stokell
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 4.5:
+        non_striker: R Stokell
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 4.6:
+        non_striker: R Stokell
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 5.1:
+        non_striker: L Delany
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+        wicket:
+          player_out: R Stokell
+          kind: run out
+    - 5.2:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SM Kavanagh
+        batsman: L Delany
+    - 5.3:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SM Kavanagh
+        batsman: L Delany
+    - 5.4:
+        non_striker: L Delany
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Kavanagh
+    - 5.5:
+        non_striker: SM Kavanagh
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 5.6:
+        non_striker: SM Kavanagh
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 6.1:
+        non_striker: SM Kavanagh
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 6.2:
+        non_striker: SM Kavanagh
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 6.3:
+        non_striker: L Delany
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 6.4:
+        non_striker: L Delany
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 6.5:
+        non_striker: L Delany
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Kavanagh
+    - 6.6:
+        non_striker: SM Kavanagh
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 7.1:
+        non_striker: L Delany
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Kavanagh
+    - 7.2:
+        non_striker: L Delany
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 7.3:
+        non_striker: L Delany
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Kavanagh
+    - 7.4:
+        non_striker: L Delany
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 7.5:
+        non_striker: L Delany
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 7.6:
+        non_striker: L Delany
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Kavanagh
+    - 8.1:
+        non_striker: SM Kavanagh
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 8.2:
+        non_striker: SM Kavanagh
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 8.3:
+        non_striker: SM Kavanagh
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 8.4:
+        non_striker: L Delany
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 8.5:
+        non_striker: L Delany
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Kavanagh
+    - 8.6:
+        non_striker: L Delany
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 9.1:
+        non_striker: SM Kavanagh
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 9.2:
+        non_striker: SM Kavanagh
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 9.3:
+        non_striker: L Delany
+        bowler: AH Maqsood
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: SM Kavanagh
+    - 9.4:
+        non_striker: L Delany
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 9.5:
+        non_striker: L Delany
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 9.6:
+        non_striker: L Delany
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Kavanagh
+    - 10.1:
+        non_striker: L Delany
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 10.2:
+        non_striker: L Delany
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Kavanagh
+    - 10.3:
+        non_striker: SM Kavanagh
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+        wicket:
+          player_out: L Delany
+          fielders:
+          - SJ Bryce
+          kind: stumped
+    - 10.4:
+        non_striker: SM Kavanagh
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 10.5:
+        non_striker: O Prendergast
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+        wicket:
+          player_out: SM Kavanagh
+          fielders:
+          - SJ Bryce
+          kind: stumped
+    - 10.6:
+        non_striker: O Prendergast
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maritz
+    - 11.1:
+        non_striker: L Maritz
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 11.2:
+        non_striker: L Maritz
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 11.3:
+        non_striker: L Maritz
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+        wicket:
+          player_out: O Prendergast
+          fielders:
+          - A Aitken
+          kind: caught
+    - 11.4:
+        non_striker: L Maritz
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 11.5:
+        non_striker: L Maritz
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 11.6:
+        non_striker: A Hunter
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Maritz
+    - 12.1:
+        non_striker: L Maritz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 12.2:
+        non_striker: L Maritz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 12.3:
+        non_striker: L Maritz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 12.4:
+        non_striker: L Maritz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 12.5:
+        non_striker: A Hunter
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maritz
+    - 12.6:
+        non_striker: A Hunter
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Maritz
+    - 13.1:
+        non_striker: L Maritz
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 13.2:
+        non_striker: L Maritz
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+        wicket:
+          player_out: A Hunter
+          fielders:
+          - SJ Bryce
+          kind: stumped
+    - 13.3:
+        non_striker: L Maritz
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 13.4:
+        non_striker: L Maritz
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 13.5:
+        non_striker: L Maritz
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 13.6:
+        non_striker: L Paul
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maritz
+    - 14.1:
+        non_striker: L Maritz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 14.2:
+        non_striker: L Maritz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Paul
+    - 14.3:
+        non_striker: L Maritz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 14.4:
+        non_striker: L Maritz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Paul
+    - 14.5:
+        non_striker: L Maritz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 14.6:
+        non_striker: L Maritz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 15.1:
+        non_striker: L Maritz
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 15.2:
+        non_striker: L Paul
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maritz
+    - 15.3:
+        non_striker: L Paul
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maritz
+        wicket:
+          player_out: L Maritz
+          fielders:
+          - KE Bryce
+          kind: caught
+    - 15.4:
+        non_striker: L Paul
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Raack
+    - 15.5:
+        non_striker: L Paul
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Raack
+    - 15.6:
+        non_striker: L Paul
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Raack
+    - 16.1:
+        non_striker: C Raack
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Paul
+    - 16.2:
+        non_striker: C Raack
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 16.3:
+        non_striker: C Raack
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Paul
+    - 16.4:
+        non_striker: C Raack
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 16.5:
+        non_striker: L Paul
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Raack
+    - 16.6:
+        non_striker: C Raack
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 16.7:
+        non_striker: L Paul
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Raack
+    - 16.8:
+        non_striker: C Raack
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 17.1:
+        non_striker: L Paul
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Raack
+    - 17.2:
+        non_striker: L Paul
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Raack
+    - 17.3:
+        non_striker: C Raack
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 17.4:
+        non_striker: L Paul
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Raack
+    - 17.5:
+        non_striker: C Raack
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 17.6:
+        non_striker: L Paul
+        bowler: KE Bryce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Raack
+    - 18.1:
+        non_striker: L Paul
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Raack
+    - 18.2:
+        non_striker: L Paul
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Raack
+    - 18.3:
+        non_striker: L Paul
+        bowler: K McGill
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: C Raack
+    - 18.4:
+        non_striker: C Raack
+        bowler: K McGill
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 1
+          noballs: 1
+        batsman: L Paul
+    - 18.5:
+        non_striker: L Paul
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Raack
+    - 18.6:
+        non_striker: C Raack
+        bowler: K McGill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Paul
+    - 18.7:
+        non_striker: C Raack
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 18.8:
+        non_striker: C Raack
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+        wicket:
+          player_out: C Raack
+          kind: run out
+    - 18.9:
+        non_striker: C Murray
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 19.1:
+        non_striker: C Murray
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 19.2:
+        non_striker: L Paul
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Murray
+        wicket:
+          player_out: C Murray
+          fielders:
+          - SJ Bryce
+          kind: stumped
+    - 19.3:
+        non_striker: L Paul
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Canning
+        wicket:
+          player_out: L Paul
+          kind: run out

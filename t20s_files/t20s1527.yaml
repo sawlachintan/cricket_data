@@ -1,0 +1,2202 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-07-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Marsa
+  dates:
+  - '2021-07-09'
+  gender: male
+  match_type: T20
+  match_type_number: 1184
+  outcome:
+    winner: Belgium
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - Sheraz Sheikh
+  players:
+    Malta:
+    - Zeeshan Khan
+    - HS Gericke
+    - SSM Stanislaus
+    - B Arora
+    - Amar Sharma
+    - VP Thamotharam
+    - N Khanna
+    - Haroon Mughal
+    - Bilal Muhammad
+    - Washeem Abbas
+    - A Bishnoi
+    Belgium:
+    - Hadisullah Tarakhel
+    - Sazzad Hosen
+    - S Jamil
+    - B Niaz
+    - Shaheryar Butt
+    - Mamoon Latif
+    - Saber Zakhil
+    - Sheraz Sheikh
+    - Khalid Ahmadi
+    - NSK Mehta
+    - Ashiqullah Said
+  registry:
+    people:
+      A Bishnoi: 376557f7
+      Amar Sharma: 14e1fdab
+      Ashiqullah Said: 407d13cc
+      B Arora: 39e9f0c9
+      B Niaz: b7824537
+      Bilal Muhammad: eb5aa5b9
+      HS Gericke: c28a293e
+      Hadisullah Tarakhel: 77bedcce
+      Haroon Mughal: 8ac3d7ee
+      Khalid Ahmadi: cf0b9a0d
+      Mamoon Latif: 8d78d0d0
+      N Khanna: 0ec6a7c3
+      NSK Mehta: d516a95f
+      S Jamil: 3d6617c6
+      SSM Stanislaus: 34dd3fd9
+      Saber Zakhil: 036dcf9b
+      Sazzad Hosen: 4dd6a707
+      Shaheryar Butt: b6bad765
+      Sheraz Sheikh: 4aad6842
+      VP Thamotharam: eb40ed89
+      Washeem Abbas: 6de4e430
+      Zeeshan Khan: 3f9b1a96
+  teams:
+  - Malta
+  - Belgium
+  toss:
+    decision: field
+    winner: Belgium
+  venue: Marsa Sports Club
+innings:
+- 1st innings:
+    team: Malta
+    deliveries:
+    - 0.1:
+        bowler: NSK Mehta
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        non_striker: HS Gericke
+        batsman: Zeeshan Khan
+    - 0.2:
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HS Gericke
+        batsman: Zeeshan Khan
+    - 0.3:
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: HS Gericke
+        batsman: Zeeshan Khan
+    - 0.4:
+        non_striker: HS Gericke
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+        wicket:
+          player_out: Zeeshan Khan
+          kind: lbw
+    - 0.5:
+        non_striker: HS Gericke
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 0.6:
+        non_striker: SSM Stanislaus
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Gericke
+    - 0.7:
+        non_striker: SSM Stanislaus
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HS Gericke
+    - 1.1:
+        non_striker: HS Gericke
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 1.2:
+        non_striker: HS Gericke
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+        wicket:
+          player_out: HS Gericke
+          kind: run out
+    - 1.3:
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Arora
+        batsman: SSM Stanislaus
+    - 1.4:
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Arora
+        batsman: SSM Stanislaus
+    - 1.5:
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Arora
+        batsman: SSM Stanislaus
+    - 1.6:
+        non_striker: B Arora
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SSM Stanislaus
+    - 2.1:
+        non_striker: SSM Stanislaus
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Arora
+    - 2.2:
+        non_striker: SSM Stanislaus
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Arora
+    - 2.3:
+        non_striker: SSM Stanislaus
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+        wicket:
+          player_out: B Arora
+          fielders:
+          - S Jamil
+          kind: caught
+    - 2.4:
+        non_striker: SSM Stanislaus
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 2.5:
+        non_striker: SSM Stanislaus
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 2.6:
+        non_striker: SSM Stanislaus
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 2.7:
+        non_striker: SSM Stanislaus
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 2.8:
+        non_striker: SSM Stanislaus
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amar Sharma
+    - 2.9:
+        non_striker: SSM Stanislaus
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 3.1:
+        non_striker: Amar Sharma
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 3.2:
+        non_striker: SSM Stanislaus
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amar Sharma
+    - 3.3:
+        non_striker: Amar Sharma
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 3.4:
+        non_striker: Amar Sharma
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 3.5:
+        non_striker: SSM Stanislaus
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 3.6:
+        non_striker: SSM Stanislaus
+        bowler: Ashiqullah Said
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amar Sharma
+    - 3.7:
+        non_striker: SSM Stanislaus
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 4.1:
+        non_striker: Amar Sharma
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SSM Stanislaus
+    - 4.2:
+        non_striker: Amar Sharma
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 4.3:
+        non_striker: Amar Sharma
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 4.4:
+        non_striker: Amar Sharma
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 4.5:
+        non_striker: Amar Sharma
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 4.6:
+        non_striker: Amar Sharma
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 5.1:
+        non_striker: SSM Stanislaus
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 5.2:
+        non_striker: SSM Stanislaus
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amar Sharma
+    - 5.3:
+        non_striker: Amar Sharma
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 5.4:
+        non_striker: Amar Sharma
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 5.5:
+        non_striker: Amar Sharma
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 5.6:
+        non_striker: SSM Stanislaus
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 6.1:
+        non_striker: Amar Sharma
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SSM Stanislaus
+    - 6.2:
+        non_striker: Amar Sharma
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 6.3:
+        non_striker: Amar Sharma
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SSM Stanislaus
+    - 6.4:
+        non_striker: Amar Sharma
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 6.5:
+        non_striker: Amar Sharma
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 6.6:
+        non_striker: SSM Stanislaus
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 7.1:
+        non_striker: Amar Sharma
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 7.2:
+        non_striker: Amar Sharma
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 7.3:
+        non_striker: Amar Sharma
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 7.4:
+        non_striker: Amar Sharma
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 7.5:
+        non_striker: Amar Sharma
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 7.6:
+        non_striker: SSM Stanislaus
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 8.1:
+        non_striker: Amar Sharma
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SSM Stanislaus
+    - 8.2:
+        non_striker: Amar Sharma
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 8.3:
+        non_striker: Amar Sharma
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 8.4:
+        non_striker: Amar Sharma
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 8.5:
+        non_striker: SSM Stanislaus
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 8.6:
+        non_striker: SSM Stanislaus
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amar Sharma
+    - 9.1:
+        non_striker: SSM Stanislaus
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amar Sharma
+    - 9.2:
+        non_striker: Amar Sharma
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 9.3:
+        non_striker: Amar Sharma
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 9.4:
+        non_striker: SSM Stanislaus
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 9.5:
+        non_striker: SSM Stanislaus
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amar Sharma
+    - 9.6:
+        non_striker: Amar Sharma
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 10.1:
+        non_striker: SSM Stanislaus
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 10.2:
+        non_striker: SSM Stanislaus
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amar Sharma
+    - 10.3:
+        non_striker: Amar Sharma
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 10.4:
+        non_striker: SSM Stanislaus
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amar Sharma
+    - 10.5:
+        non_striker: Amar Sharma
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 10.6:
+        non_striker: SSM Stanislaus
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 11.1:
+        non_striker: Amar Sharma
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SSM Stanislaus
+    - 11.2:
+        non_striker: Amar Sharma
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SSM Stanislaus
+    - 11.3:
+        non_striker: Amar Sharma
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 11.4:
+        non_striker: SSM Stanislaus
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 11.5:
+        non_striker: SSM Stanislaus
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 11.6:
+        non_striker: SSM Stanislaus
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amar Sharma
+    - 12.1:
+        non_striker: SSM Stanislaus
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amar Sharma
+    - 12.2:
+        non_striker: Amar Sharma
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+        wicket:
+          player_out: SSM Stanislaus
+          fielders:
+          - NSK Mehta
+          kind: caught
+    - 12.3:
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: VP Thamotharam
+        batsman: Amar Sharma
+    - 12.4:
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: VP Thamotharam
+        batsman: Amar Sharma
+    - 12.5:
+        non_striker: Amar Sharma
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 12.6:
+        non_striker: Amar Sharma
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 13.1:
+        non_striker: Amar Sharma
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 13.2:
+        non_striker: Amar Sharma
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 13.3:
+        non_striker: Amar Sharma
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 13.4:
+        non_striker: VP Thamotharam
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amar Sharma
+    - 13.5:
+        non_striker: Amar Sharma
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 13.6:
+        non_striker: VP Thamotharam
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+        wicket:
+          player_out: Amar Sharma
+          fielders:
+          - Saber Zakhil
+          kind: caught
+    - 14.1:
+        non_striker: VP Thamotharam
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Khanna
+    - 14.2:
+        non_striker: VP Thamotharam
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Khanna
+    - 14.3:
+        non_striker: N Khanna
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 14.4:
+        non_striker: N Khanna
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 14.5:
+        non_striker: N Khanna
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 14.6:
+        non_striker: VP Thamotharam
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Khanna
+    - 15.1:
+        non_striker: VP Thamotharam
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Khanna
+        wicket:
+          player_out: N Khanna
+          fielders:
+          - NSK Mehta
+          kind: caught
+    - 15.2:
+        non_striker: Haroon Mughal
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+        wicket:
+          player_out: VP Thamotharam
+          fielders:
+          - Shaheryar Butt
+          kind: caught
+    - 15.3:
+        non_striker: Haroon Mughal
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Muhammad
+    - 15.4:
+        non_striker: Haroon Mughal
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Muhammad
+    - 15.5:
+        non_striker: Bilal Muhammad
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haroon Mughal
+    - 15.6:
+        non_striker: Haroon Mughal
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Muhammad
+    - 16.1:
+        non_striker: Haroon Mughal
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Muhammad
+    - 16.2:
+        non_striker: Bilal Muhammad
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haroon Mughal
+    - 16.3:
+        non_striker: Bilal Muhammad
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haroon Mughal
+    - 16.4:
+        non_striker: Bilal Muhammad
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haroon Mughal
+        wicket:
+          player_out: Haroon Mughal
+          kind: bowled
+    - 16.5:
+        non_striker: Bilal Muhammad
+        bowler: Saber Zakhil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Washeem Abbas
+    - 16.6:
+        non_striker: Bilal Muhammad
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washeem Abbas
+    - 16.7:
+        non_striker: Bilal Muhammad
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washeem Abbas
+    - 17.1:
+        non_striker: Washeem Abbas
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Muhammad
+    - 17.2:
+        non_striker: Bilal Muhammad
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Washeem Abbas
+    - 17.3:
+        non_striker: Bilal Muhammad
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washeem Abbas
+    - 17.4:
+        non_striker: Washeem Abbas
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Bilal Muhammad
+    - 17.5:
+        non_striker: Washeem Abbas
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Muhammad
+    - 17.6:
+        non_striker: Bilal Muhammad
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washeem Abbas
+    - 18.1:
+        non_striker: Bilal Muhammad
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washeem Abbas
+        wicket:
+          player_out: Washeem Abbas
+          kind: bowled
+    - 18.2:
+        non_striker: Bilal Muhammad
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Bishnoi
+    - 18.3:
+        non_striker: Bilal Muhammad
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bishnoi
+    - 18.4:
+        non_striker: A Bishnoi
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bilal Muhammad
+    - 18.5:
+        non_striker: A Bishnoi
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Bilal Muhammad
+    - 18.6:
+        non_striker: A Bishnoi
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bilal Muhammad
+    - 18.7:
+        non_striker: A Bishnoi
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bilal Muhammad
+    - 19.1:
+        non_striker: Bilal Muhammad
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bishnoi
+    - 19.2:
+        non_striker: Bilal Muhammad
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bishnoi
+    - 19.3:
+        non_striker: A Bishnoi
+        bowler: Ashiqullah Said
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bilal Muhammad
+    - 19.4:
+        non_striker: A Bishnoi
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Muhammad
+    - 19.5:
+        non_striker: Bilal Muhammad
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bishnoi
+    - 19.6:
+        non_striker: A Bishnoi
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Bilal Muhammad
+    - 19.7:
+        non_striker: A Bishnoi
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bilal Muhammad
+- 2nd innings:
+    team: Belgium
+    deliveries:
+    - 0.1:
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Sazzad Hosen
+        batsman: Hadisullah Tarakhel
+    - 0.2:
+        bowler: Bilal Muhammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Sazzad Hosen
+        batsman: Hadisullah Tarakhel
+    - 0.3:
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sazzad Hosen
+        batsman: Hadisullah Tarakhel
+    - 0.4:
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sazzad Hosen
+        batsman: Hadisullah Tarakhel
+    - 0.5:
+        non_striker: Hadisullah Tarakhel
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sazzad Hosen
+    - 0.6:
+        non_striker: Hadisullah Tarakhel
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sazzad Hosen
+    - 0.7:
+        non_striker: Hadisullah Tarakhel
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sazzad Hosen
+    - 1.1:
+        non_striker: Sazzad Hosen
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hadisullah Tarakhel
+    - 1.2:
+        non_striker: Sazzad Hosen
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hadisullah Tarakhel
+    - 1.3:
+        non_striker: Sazzad Hosen
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hadisullah Tarakhel
+        wicket:
+          player_out: Hadisullah Tarakhel
+          fielders:
+          - N Khanna
+          kind: caught
+    - 1.4:
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: S Jamil
+        batsman: Sazzad Hosen
+    - 1.5:
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: S Jamil
+        batsman: Sazzad Hosen
+    - 1.6:
+        non_striker: S Jamil
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sazzad Hosen
+    - 2.1:
+        non_striker: Sazzad Hosen
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jamil
+    - 2.2:
+        non_striker: Sazzad Hosen
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jamil
+    - 2.3:
+        non_striker: Sazzad Hosen
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jamil
+        wicket:
+          player_out: S Jamil
+          fielders:
+          - VP Thamotharam
+          kind: caught
+    - 2.4:
+        non_striker: Sazzad Hosen
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 2.5:
+        non_striker: Sazzad Hosen
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 2.6:
+        non_striker: Sazzad Hosen
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 3.1:
+        non_striker: Sazzad Hosen
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 3.2:
+        non_striker: Sazzad Hosen
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 3.3:
+        non_striker: Sazzad Hosen
+        bowler: Washeem Abbas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Niaz
+    - 3.4:
+        non_striker: Sazzad Hosen
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 3.5:
+        non_striker: B Niaz
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sazzad Hosen
+    - 3.6:
+        non_striker: B Niaz
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sazzad Hosen
+        wicket:
+          player_out: Sazzad Hosen
+          fielders:
+          - HS Gericke
+          kind: caught
+    - 3.7:
+        non_striker: B Niaz
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 4.1:
+        non_striker: Shaheryar Butt
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 4.2:
+        non_striker: Shaheryar Butt
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 4.3:
+        non_striker: Shaheryar Butt
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 4.4:
+        non_striker: Shaheryar Butt
+        bowler: Bilal Muhammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Niaz
+    - 4.5:
+        non_striker: Shaheryar Butt
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 4.6:
+        non_striker: B Niaz
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+        wicket:
+          player_out: Shaheryar Butt
+          fielders:
+          - HS Gericke
+          kind: caught
+    - 4.7:
+        non_striker: B Niaz
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mamoon Latif
+    - 5.1:
+        non_striker: Mamoon Latif
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 5.2:
+        non_striker: B Niaz
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mamoon Latif
+    - 5.3:
+        non_striker: Mamoon Latif
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 5.4:
+        non_striker: Mamoon Latif
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 5.5:
+        non_striker: Mamoon Latif
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 5.6:
+        non_striker: Mamoon Latif
+        bowler: A Bishnoi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Niaz
+    - 5.7:
+        non_striker: Mamoon Latif
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 6.1:
+        non_striker: Mamoon Latif
+        bowler: VP Thamotharam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Niaz
+    - 6.2:
+        non_striker: Mamoon Latif
+        bowler: VP Thamotharam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Niaz
+    - 6.3:
+        non_striker: Mamoon Latif
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 6.4:
+        non_striker: B Niaz
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mamoon Latif
+    - 6.5:
+        non_striker: B Niaz
+        bowler: VP Thamotharam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mamoon Latif
+    - 6.6:
+        non_striker: B Niaz
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mamoon Latif
+    - 6.7:
+        non_striker: B Niaz
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mamoon Latif
+    - 6.8:
+        non_striker: Mamoon Latif
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 6.9:
+        non_striker: Mamoon Latif
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 7.1:
+        non_striker: Mamoon Latif
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 7.2:
+        non_striker: Mamoon Latif
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 7.3:
+        non_striker: Mamoon Latif
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 7.4:
+        non_striker: Mamoon Latif
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 7.5:
+        non_striker: B Niaz
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mamoon Latif
+    - 7.6:
+        non_striker: B Niaz
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mamoon Latif
+        wicket:
+          player_out: Mamoon Latif
+          kind: lbw
+    - 8.1:
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Saber Zakhil
+        batsman: B Niaz
+    - 8.2:
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Saber Zakhil
+        batsman: B Niaz
+    - 8.3:
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Saber Zakhil
+        batsman: B Niaz
+    - 8.4:
+        bowler: Amar Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Saber Zakhil
+        batsman: B Niaz
+    - 8.5:
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Saber Zakhil
+        batsman: B Niaz
+    - 8.6:
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Saber Zakhil
+        batsman: B Niaz
+    - 8.7:
+        non_striker: Saber Zakhil
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 9.1:
+        non_striker: Saber Zakhil
+        bowler: A Bishnoi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Niaz
+    - 9.2:
+        non_striker: Saber Zakhil
+        bowler: A Bishnoi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B Niaz
+    - 9.3:
+        non_striker: B Niaz
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saber Zakhil
+    - 9.4:
+        non_striker: B Niaz
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saber Zakhil
+    - 9.5:
+        non_striker: B Niaz
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saber Zakhil
+    - 9.6:
+        non_striker: Saber Zakhil
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 9.7:
+        non_striker: Saber Zakhil
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 10.1:
+        non_striker: B Niaz
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saber Zakhil
+    - 10.2:
+        non_striker: B Niaz
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saber Zakhil
+    - 10.3:
+        non_striker: Saber Zakhil
+        bowler: Amar Sharma
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: B Niaz
+    - 10.4:
+        non_striker: B Niaz
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saber Zakhil
+    - 10.5:
+        non_striker: Saber Zakhil
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 10.6:
+        non_striker: Saber Zakhil
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 10.7:
+        non_striker: B Niaz
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saber Zakhil
+    - 11.1:
+        non_striker: B Niaz
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saber Zakhil
+    - 11.2:
+        non_striker: Saber Zakhil
+        bowler: VP Thamotharam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Niaz
+    - 11.3:
+        non_striker: Saber Zakhil
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 11.4:
+        non_striker: Saber Zakhil
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 11.5:
+        non_striker: Saber Zakhil
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 11.6:
+        non_striker: Saber Zakhil
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 11.7:
+        non_striker: Saber Zakhil
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 12.1:
+        non_striker: B Niaz
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saber Zakhil
+    - 12.2:
+        non_striker: B Niaz
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saber Zakhil
+    - 12.3:
+        non_striker: B Niaz
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saber Zakhil
+    - 12.4:
+        non_striker: Saber Zakhil
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 12.5:
+        non_striker: Saber Zakhil
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 12.6:
+        non_striker: B Niaz
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saber Zakhil
+    - 13.1:
+        non_striker: Saber Zakhil
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 13.2:
+        non_striker: Saber Zakhil
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 13.3:
+        non_striker: B Niaz
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saber Zakhil
+    - 13.4:
+        non_striker: B Niaz
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saber Zakhil
+    - 13.5:
+        non_striker: B Niaz
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saber Zakhil
+    - 13.6:
+        non_striker: B Niaz
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saber Zakhil
+    - 14.1:
+        non_striker: B Niaz
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saber Zakhil
+    - 14.2:
+        non_striker: B Niaz
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saber Zakhil
+    - 14.3:
+        non_striker: Saber Zakhil
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 14.4:
+        non_striker: Saber Zakhil
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 14.5:
+        non_striker: Saber Zakhil
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 14.6:
+        non_striker: B Niaz
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saber Zakhil
+        wicket:
+          player_out: Saber Zakhil
+          fielders:
+          - Zeeshan Khan
+          kind: caught
+    - 15.1:
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sheraz Sheikh
+        batsman: B Niaz
+    - 15.2:
+        non_striker: B Niaz
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sheraz Sheikh
+    - 15.3:
+        non_striker: Sheraz Sheikh
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 15.4:
+        non_striker: Sheraz Sheikh
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 15.5:
+        non_striker: B Niaz
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 15.6:
+        non_striker: B Niaz
+        bowler: Amar Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sheraz Sheikh
+    - 16.1:
+        non_striker: B Niaz
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sheraz Sheikh
+    - 16.2:
+        non_striker: B Niaz
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sheraz Sheikh
+    - 16.3:
+        non_striker: Sheraz Sheikh
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 16.4:
+        non_striker: B Niaz
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sheraz Sheikh
+    - 16.5:
+        non_striker: Sheraz Sheikh
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 16.6:
+        non_striker: B Niaz
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sheraz Sheikh
+    - 17.1:
+        non_striker: Sheraz Sheikh
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 17.2:
+        non_striker: Sheraz Sheikh
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 17.3:
+        non_striker: Sheraz Sheikh
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 17.4:
+        non_striker: B Niaz
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 17.5:
+        non_striker: B Niaz
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sheraz Sheikh
+    - 17.6:
+        non_striker: B Niaz
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sheraz Sheikh
+    - 18.1:
+        non_striker: B Niaz
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 18.2:
+        non_striker: B Niaz
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 18.3:
+        non_striker: B Niaz
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sheraz Sheikh
+    - 18.4:
+        non_striker: B Niaz
+        bowler: Amar Sharma
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Sheraz Sheikh

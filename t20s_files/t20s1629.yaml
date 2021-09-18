@@ -1,0 +1,2136 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-09-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Entebbe
+  dates:
+  - '2021-09-10'
+  gender: male
+  match_type: T20
+  match_type_number: 1264
+  outcome:
+    winner: Kenya
+    by:
+      runs: 22
+  overs: 20
+  players:
+    Kenya:
+    - Gurdeep Singh
+    - AA Obanda
+    - IA Karim
+    - RN Patel
+    - NM Odhiambo
+    - SO Ngoche
+    - E Otieno
+    - Zahid Abbas
+    - NN Odhiambo
+    - EB Ringera
+    - P Koech
+    Uganda:
+    - A Otwani
+    - Saud Islam
+    - RB Patel
+    - D Muhumuza
+    - Riazat Ali Shah
+    - DM Nakrani
+    - F Akankwasa
+    - F Achelam
+    - B Masaba
+    - Bilal Hassun
+    - H Ssenyondo
+  registry:
+    people:
+      A Otwani: 6727fb4d
+      AA Obanda: 7081491e
+      B Masaba: f33cfd25
+      Bilal Hassun: 1a9e9efe
+      D Muhumuza: 7636b587
+      DM Nakrani: 46a7ac78
+      E Otieno: c57fa67e
+      EB Ringera: 6cedad99
+      F Achelam: b6b3ee6e
+      F Akankwasa: 0d0f0385
+      Gurdeep Singh: 31865a5b
+      H Ssenyondo: 2b7609f1
+      IA Karim: ca92a578
+      NM Odhiambo: c07a1f41
+      NN Odhiambo: 753b5a2d
+      P Koech: f4a0a615
+      RB Patel: f88dc8de
+      RN Patel: db1bf9c2
+      Riazat Ali Shah: 269cc4ff
+      SO Ngoche: 49118dc7
+      Saud Islam: ae5a7eb5
+      Zahid Abbas: dce01d1e
+  teams:
+  - Kenya
+  - Uganda
+  toss:
+    winner: Kenya
+    decision: bat
+  venue: Entebbe Cricket Oval
+innings:
+- 1st innings:
+    team: Kenya
+    deliveries:
+    - 0.1:
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AA Obanda
+        batsman: Gurdeep Singh
+    - 0.2:
+        non_striker: Gurdeep Singh
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Obanda
+    - 0.3:
+        non_striker: Gurdeep Singh
+        bowler: Bilal Hassun
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: AA Obanda
+    - 0.4:
+        non_striker: Gurdeep Singh
+        bowler: Bilal Hassun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AA Obanda
+    - 0.5:
+        non_striker: Gurdeep Singh
+        bowler: Bilal Hassun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AA Obanda
+    - 0.6:
+        non_striker: Gurdeep Singh
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AA Obanda
+    - 0.7:
+        non_striker: Gurdeep Singh
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Obanda
+        wicket:
+          player_out: AA Obanda
+          kind: bowled
+    - 0.8:
+        non_striker: Gurdeep Singh
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IA Karim
+    - 0.9:
+        non_striker: Gurdeep Singh
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 1.1:
+        non_striker: IA Karim
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurdeep Singh
+    - 1.2:
+        non_striker: IA Karim
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurdeep Singh
+    - 1.3:
+        non_striker: IA Karim
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurdeep Singh
+    - 1.4:
+        non_striker: IA Karim
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurdeep Singh
+    - 1.5:
+        non_striker: IA Karim
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gurdeep Singh
+    - 1.6:
+        non_striker: IA Karim
+        bowler: DM Nakrani
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Gurdeep Singh
+    - 2.1:
+        non_striker: Gurdeep Singh
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 2.2:
+        non_striker: Gurdeep Singh
+        bowler: Bilal Hassun
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: IA Karim
+    - 2.3:
+        non_striker: Gurdeep Singh
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 2.4:
+        non_striker: Gurdeep Singh
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IA Karim
+    - 2.5:
+        non_striker: Gurdeep Singh
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IA Karim
+    - 2.6:
+        non_striker: Gurdeep Singh
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 2.7:
+        non_striker: Gurdeep Singh
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: IA Karim
+    - 3.1:
+        non_striker: Gurdeep Singh
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 3.2:
+        non_striker: IA Karim
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurdeep Singh
+    - 3.3:
+        non_striker: Gurdeep Singh
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 3.4:
+        non_striker: IA Karim
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurdeep Singh
+    - 3.5:
+        non_striker: IA Karim
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurdeep Singh
+    - 3.6:
+        non_striker: IA Karim
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurdeep Singh
+    - 4.1:
+        non_striker: IA Karim
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurdeep Singh
+    - 4.2:
+        non_striker: Gurdeep Singh
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 4.3:
+        non_striker: Gurdeep Singh
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 4.4:
+        non_striker: Gurdeep Singh
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IA Karim
+    - 4.5:
+        non_striker: Gurdeep Singh
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 4.6:
+        non_striker: Gurdeep Singh
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 5.1:
+        non_striker: IA Karim
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurdeep Singh
+    - 5.2:
+        non_striker: IA Karim
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gurdeep Singh
+    - 5.3:
+        non_striker: IA Karim
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurdeep Singh
+    - 5.4:
+        non_striker: Gurdeep Singh
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 5.5:
+        non_striker: Gurdeep Singh
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 5.6:
+        non_striker: IA Karim
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurdeep Singh
+    - 6.1:
+        non_striker: Gurdeep Singh
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 6.2:
+        non_striker: IA Karim
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Gurdeep Singh
+    - 6.3:
+        non_striker: IA Karim
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurdeep Singh
+    - 6.4:
+        non_striker: IA Karim
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurdeep Singh
+    - 6.5:
+        non_striker: Gurdeep Singh
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 6.6:
+        non_striker: Gurdeep Singh
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 6.7:
+        non_striker: IA Karim
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurdeep Singh
+    - 7.1:
+        non_striker: Gurdeep Singh
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IA Karim
+    - 7.2:
+        non_striker: Gurdeep Singh
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 7.3:
+        non_striker: IA Karim
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurdeep Singh
+    - 7.4:
+        non_striker: Gurdeep Singh
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IA Karim
+    - 7.5:
+        non_striker: Gurdeep Singh
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 7.6:
+        non_striker: IA Karim
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurdeep Singh
+    - 8.1:
+        non_striker: Gurdeep Singh
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 8.2:
+        non_striker: Gurdeep Singh
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 8.3:
+        non_striker: Gurdeep Singh
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 8.4:
+        non_striker: IA Karim
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurdeep Singh
+    - 8.5:
+        non_striker: Gurdeep Singh
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IA Karim
+    - 8.6:
+        non_striker: Gurdeep Singh
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IA Karim
+    - 9.1:
+        non_striker: IA Karim
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurdeep Singh
+    - 9.2:
+        non_striker: Gurdeep Singh
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 9.3:
+        non_striker: IA Karim
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurdeep Singh
+    - 9.4:
+        non_striker: Gurdeep Singh
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 9.5:
+        non_striker: Gurdeep Singh
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IA Karim
+    - 9.6:
+        non_striker: Gurdeep Singh
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 10.1:
+        non_striker: Gurdeep Singh
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 10.2:
+        non_striker: IA Karim
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurdeep Singh
+    - 10.3:
+        non_striker: Gurdeep Singh
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IA Karim
+    - 10.4:
+        non_striker: Gurdeep Singh
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 10.5:
+        non_striker: IA Karim
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurdeep Singh
+    - 10.6:
+        non_striker: Gurdeep Singh
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 11.1:
+        non_striker: Gurdeep Singh
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 11.2:
+        non_striker: IA Karim
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurdeep Singh
+    - 11.3:
+        non_striker: Gurdeep Singh
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 11.4:
+        non_striker: IA Karim
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gurdeep Singh
+    - 11.5:
+        non_striker: IA Karim
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurdeep Singh
+    - 11.6:
+        non_striker: Gurdeep Singh
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 12.1:
+        non_striker: Gurdeep Singh
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 12.2:
+        non_striker: Gurdeep Singh
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 12.3:
+        non_striker: IA Karim
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurdeep Singh
+    - 12.4:
+        non_striker: Gurdeep Singh
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 12.5:
+        non_striker: IA Karim
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurdeep Singh
+        wicket:
+          player_out: Gurdeep Singh
+          fielders:
+          - F Achelam
+          kind: caught
+    - 12.6:
+        non_striker: IA Karim
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RN Patel
+    - 13.1:
+        non_striker: RN Patel
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IA Karim
+    - 13.2:
+        non_striker: RN Patel
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 13.3:
+        non_striker: IA Karim
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RN Patel
+    - 13.4:
+        non_striker: IA Karim
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 13.5:
+        non_striker: RN Patel
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 13.6:
+        non_striker: IA Karim
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 14.1:
+        non_striker: RN Patel
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IA Karim
+    - 14.2:
+        non_striker: RN Patel
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 14.3:
+        non_striker: IA Karim
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 14.4:
+        non_striker: IA Karim
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 14.5:
+        non_striker: RN Patel
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 14.6:
+        non_striker: IA Karim
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RN Patel
+    - 15.1:
+        non_striker: RN Patel
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IA Karim
+    - 15.2:
+        non_striker: RN Patel
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 15.3:
+        non_striker: RN Patel
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 15.4:
+        non_striker: RN Patel
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 15.5:
+        non_striker: RN Patel
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+        wicket:
+          player_out: IA Karim
+          fielders:
+          - Riazat Ali Shah
+          kind: caught
+    - 15.6:
+        non_striker: NM Odhiambo
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 16.1:
+        non_striker: NM Odhiambo
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 16.2:
+        non_striker: RN Patel
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Odhiambo
+    - 16.3:
+        non_striker: NM Odhiambo
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 16.4:
+        non_striker: NM Odhiambo
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RN Patel
+    - 16.5:
+        non_striker: NM Odhiambo
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RN Patel
+    - 16.6:
+        non_striker: NM Odhiambo
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 17.1:
+        non_striker: NM Odhiambo
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 17.2:
+        non_striker: RN Patel
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Odhiambo
+    - 17.3:
+        non_striker: NM Odhiambo
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+        wicket:
+          player_out: RN Patel
+          fielders:
+          - F Achelam
+          kind: stumped
+    - 17.4:
+        non_striker: NM Odhiambo
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 17.5:
+        non_striker: SO Ngoche
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NM Odhiambo
+    - 17.6:
+        non_striker: SO Ngoche
+        bowler: D Muhumuza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NM Odhiambo
+    - 18.1:
+        non_striker: NM Odhiambo
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+    - 18.2:
+        non_striker: NM Odhiambo
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+        wicket:
+          player_out: SO Ngoche
+          fielders:
+          - A Otwani
+          kind: caught
+    - 18.3:
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: E Otieno
+        batsman: NM Odhiambo
+    - 18.4:
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: E Otieno
+        batsman: NM Odhiambo
+    - 18.5:
+        non_striker: NM Odhiambo
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otieno
+        wicket:
+          player_out: E Otieno
+          kind: bowled
+    - 18.6:
+        non_striker: NM Odhiambo
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahid Abbas
+    - 19.1:
+        non_striker: NM Odhiambo
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahid Abbas
+    - 19.2:
+        non_striker: Zahid Abbas
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Odhiambo
+        wicket:
+          player_out: NM Odhiambo
+          fielders:
+          - Bilal Hassun
+          kind: caught
+    - 19.3:
+        non_striker: NN Odhiambo
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahid Abbas
+        wicket:
+          player_out: Zahid Abbas
+          kind: bowled
+    - 19.4:
+        non_striker: NN Odhiambo
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EB Ringera
+    - 19.5:
+        non_striker: NN Odhiambo
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EB Ringera
+    - 19.6:
+        non_striker: EB Ringera
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NN Odhiambo
+        wicket:
+          player_out: EB Ringera
+          kind: run out
+- 2nd innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: E Otieno
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Saud Islam
+        batsman: A Otwani
+    - 0.2:
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Saud Islam
+        batsman: A Otwani
+    - 0.3:
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Saud Islam
+        batsman: A Otwani
+    - 0.4:
+        non_striker: A Otwani
+        bowler: E Otieno
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Saud Islam
+    - 0.5:
+        non_striker: Saud Islam
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Otwani
+    - 0.6:
+        non_striker: A Otwani
+        bowler: E Otieno
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saud Islam
+    - 0.7:
+        non_striker: A Otwani
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+    - 0.8:
+        non_striker: A Otwani
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+    - 1.1:
+        non_striker: Saud Islam
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Otwani
+    - 1.2:
+        non_striker: Saud Islam
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Otwani
+    - 1.3:
+        non_striker: Saud Islam
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Otwani
+        wicket:
+          player_out: A Otwani
+          kind: run out
+    - 1.4:
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RB Patel
+        batsman: Saud Islam
+    - 1.5:
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RB Patel
+        batsman: Saud Islam
+    - 1.6:
+        non_striker: Saud Islam
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 2.1:
+        non_striker: RB Patel
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saud Islam
+    - 2.2:
+        non_striker: Saud Islam
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 2.3:
+        non_striker: Saud Islam
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 2.4:
+        non_striker: Saud Islam
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+        wicket:
+          player_out: RB Patel
+          fielders:
+          - SO Ngoche
+          kind: caught
+    - 2.5:
+        non_striker: Saud Islam
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Muhumuza
+    - 2.6:
+        non_striker: Saud Islam
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Muhumuza
+    - 3.1:
+        non_striker: D Muhumuza
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saud Islam
+    - 3.2:
+        non_striker: Saud Islam
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Muhumuza
+    - 3.3:
+        non_striker: Saud Islam
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Muhumuza
+    - 3.4:
+        non_striker: Saud Islam
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Muhumuza
+    - 3.5:
+        non_striker: Saud Islam
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Muhumuza
+    - 3.6:
+        non_striker: D Muhumuza
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saud Islam
+    - 4.1:
+        non_striker: Saud Islam
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Muhumuza
+    - 4.2:
+        non_striker: Saud Islam
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Muhumuza
+        wicket:
+          player_out: D Muhumuza
+          fielders:
+          - SO Ngoche
+          kind: caught
+    - 4.3:
+        non_striker: Saud Islam
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Riazat Ali Shah
+    - 4.4:
+        non_striker: Saud Islam
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 4.5:
+        non_striker: Saud Islam
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 4.6:
+        non_striker: Riazat Ali Shah
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+    - 5.1:
+        non_striker: Saud Islam
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 5.2:
+        non_striker: Saud Islam
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 5.3:
+        non_striker: Saud Islam
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 5.4:
+        non_striker: Saud Islam
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 5.5:
+        non_striker: Saud Islam
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 5.6:
+        non_striker: Saud Islam
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 6.1:
+        non_striker: Riazat Ali Shah
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saud Islam
+    - 6.2:
+        non_striker: Saud Islam
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Riazat Ali Shah
+    - 6.3:
+        non_striker: Saud Islam
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 6.4:
+        non_striker: Saud Islam
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 6.5:
+        non_striker: Riazat Ali Shah
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+    - 6.6:
+        non_striker: Riazat Ali Shah
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saud Islam
+    - 7.1:
+        non_striker: Riazat Ali Shah
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+    - 7.2:
+        non_striker: Riazat Ali Shah
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saud Islam
+    - 7.3:
+        non_striker: Saud Islam
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 7.4:
+        non_striker: Riazat Ali Shah
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+    - 7.5:
+        non_striker: Riazat Ali Shah
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saud Islam
+    - 7.6:
+        non_striker: Saud Islam
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 8.1:
+        non_striker: Saud Islam
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 8.2:
+        non_striker: Riazat Ali Shah
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+    - 8.3:
+        non_striker: Riazat Ali Shah
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saud Islam
+    - 8.4:
+        non_striker: Saud Islam
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 8.5:
+        non_striker: Riazat Ali Shah
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+    - 8.6:
+        non_striker: Riazat Ali Shah
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+    - 9.1:
+        non_striker: Saud Islam
+        bowler: Gurdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Riazat Ali Shah
+    - 9.2:
+        non_striker: Saud Islam
+        bowler: Gurdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Riazat Ali Shah
+    - 9.3:
+        non_striker: Saud Islam
+        bowler: Gurdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Riazat Ali Shah
+    - 9.4:
+        non_striker: Saud Islam
+        bowler: Gurdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Riazat Ali Shah
+    - 9.5:
+        non_striker: Saud Islam
+        bowler: Gurdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 9.6:
+        non_striker: Saud Islam
+        bowler: Gurdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 10.1:
+        non_striker: Riazat Ali Shah
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saud Islam
+    - 10.2:
+        non_striker: Riazat Ali Shah
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saud Islam
+    - 10.3:
+        non_striker: Riazat Ali Shah
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saud Islam
+    - 10.4:
+        non_striker: Saud Islam
+        bowler: P Koech
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Riazat Ali Shah
+    - 10.5:
+        non_striker: Saud Islam
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 10.6:
+        non_striker: Riazat Ali Shah
+        bowler: P Koech
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saud Islam
+    - 10.7:
+        non_striker: Riazat Ali Shah
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saud Islam
+    - 10.8:
+        non_striker: Riazat Ali Shah
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saud Islam
+    - 11.1:
+        non_striker: Saud Islam
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 11.2:
+        non_striker: Riazat Ali Shah
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saud Islam
+    - 11.3:
+        non_striker: Saud Islam
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Riazat Ali Shah
+    - 11.4:
+        non_striker: Saud Islam
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 11.5:
+        non_striker: Saud Islam
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 11.6:
+        non_striker: Riazat Ali Shah
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saud Islam
+    - 12.1:
+        non_striker: Saud Islam
+        bowler: P Koech
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Riazat Ali Shah
+    - 12.2:
+        non_striker: Saud Islam
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+        wicket:
+          player_out: Riazat Ali Shah
+          fielders:
+          - IA Karim
+          kind: caught
+    - 12.3:
+        non_striker: Saud Islam
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Nakrani
+    - 12.4:
+        non_striker: DM Nakrani
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saud Islam
+    - 12.5:
+        non_striker: DM Nakrani
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saud Islam
+    - 12.6:
+        non_striker: DM Nakrani
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saud Islam
+    - 12.7:
+        non_striker: Saud Islam
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+    - 13.1:
+        non_striker: DM Nakrani
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+    - 13.2:
+        non_striker: DM Nakrani
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saud Islam
+    - 13.3:
+        non_striker: DM Nakrani
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saud Islam
+    - 13.4:
+        non_striker: Saud Islam
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Nakrani
+    - 13.5:
+        non_striker: DM Nakrani
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saud Islam
+    - 13.6:
+        non_striker: Saud Islam
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Nakrani
+    - 14.1:
+        non_striker: Saud Islam
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+        wicket:
+          player_out: DM Nakrani
+          fielders:
+          - RN Patel
+          kind: caught
+    - 14.2:
+        non_striker: Saud Islam
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Akankwasa
+    - 14.3:
+        non_striker: Saud Islam
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Akankwasa
+    - 14.4:
+        non_striker: F Akankwasa
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+    - 14.5:
+        non_striker: F Akankwasa
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saud Islam
+    - 14.6:
+        non_striker: Saud Islam
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Akankwasa
+    - 15.1:
+        non_striker: Saud Islam
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Akankwasa
+    - 15.2:
+        non_striker: Saud Islam
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Akankwasa
+        wicket:
+          player_out: F Akankwasa
+          fielders:
+          - RN Patel
+          kind: caught
+    - 15.3:
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: F Achelam
+        batsman: Saud Islam
+    - 15.4:
+        non_striker: Saud Islam
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Achelam
+    - 15.5:
+        non_striker: F Achelam
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saud Islam
+    - 15.6:
+        non_striker: F Achelam
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+        wicket:
+          player_out: F Achelam
+          kind: run out
+    - 16.1:
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: B Masaba
+        batsman: Saud Islam
+    - 16.2:
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: B Masaba
+        batsman: Saud Islam
+    - 16.3:
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: B Masaba
+        batsman: Saud Islam
+    - 16.4:
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Masaba
+        batsman: Saud Islam
+    - 16.5:
+        non_striker: Saud Islam
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Masaba
+    - 16.6:
+        non_striker: Saud Islam
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Masaba
+    - 17.1:
+        non_striker: B Masaba
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saud Islam
+    - 17.2:
+        non_striker: B Masaba
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saud Islam
+    - 17.3:
+        non_striker: Saud Islam
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Masaba
+    - 17.4:
+        non_striker: Saud Islam
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Masaba
+    - 17.5:
+        non_striker: Saud Islam
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Masaba
+    - 17.6:
+        non_striker: B Masaba
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saud Islam
+    - 18.1:
+        non_striker: B Masaba
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saud Islam
+    - 18.2:
+        non_striker: B Masaba
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saud Islam
+    - 18.3:
+        non_striker: Saud Islam
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Masaba
+    - 18.4:
+        non_striker: B Masaba
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+        wicket:
+          player_out: Saud Islam
+          kind: bowled
+    - 18.5:
+        non_striker: B Masaba
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Hassun
+        wicket:
+          player_out: Bilal Hassun
+          kind: run out
+    - 18.6:
+        non_striker: B Masaba
+        bowler: NN Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ssenyondo
+        wicket:
+          player_out: H Ssenyondo
+          fielders:
+          - E Otieno
+          kind: caught

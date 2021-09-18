@@ -1,0 +1,2149 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-07-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dublin
+  dates:
+  - '2021-07-26'
+  gender: female
+  match_type: T20
+  match_type_number: 921
+  outcome:
+    winner: Ireland
+    by:
+      runs: 28
+  overs: 20
+  players:
+    Ireland:
+    - R Stokell
+    - GH Lewis
+    - L Delany
+    - SM Kavanagh
+    - EAJ Richardson
+    - L Maritz
+    - O Prendergast
+    - L Paul
+    - A Canning
+    - S MacMahon
+    - C Raack
+    Netherlands:
+    - F Overdijk
+    - HDJ Siegers
+    - B de Leede
+    - M Veringmeier
+    - R Rijke
+    - EN Lynch
+    - IJR Zwilling
+    - J Post
+    - S Siegers
+    - AS van Beuge
+    - I van der Woning
+  registry:
+    people:
+      A Canning: ffd5fcd8
+      AA Baig: 5c67c7a6
+      AS van Beuge: 623c8835
+      Aidan Seaver: 862c0b16
+      B de Leede: b3020075
+      C Raack: 28aba384
+      EAJ Richardson: 50ee0500
+      EN Lynch: 4d35d0b3
+      F Overdijk: 022745d5
+      GH Lewis: 1b9d1579
+      HDJ Siegers: 6d48df01
+      I van der Woning: 5aa8574b
+      IJR Zwilling: 47b32a5a
+      J Post: b58b1ae5
+      Jareth McCready: 84fa5232
+      L Delany: b4f73b44
+      L Maritz: ac8bca8d
+      L Paul: '07248d8e'
+      M Veringmeier: 3733a317
+      O Prendergast: d8f20ba5
+      Philip Thompson: 0c677650
+      R Rijke: 42e4b276
+      R Stokell: def7b1bb
+      S MacMahon: ef2bcebf
+      S Siegers: 9a58f2c8
+      SM Kavanagh: 7e9b3b60
+  teams:
+  - Ireland
+  - Netherlands
+  toss:
+    decision: field
+    winner: Netherlands
+  umpires:
+  - AA Baig
+  - Jareth McCready
+  venue: The Village, Malahide, Dublin
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        bowler: IJR Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: GH Lewis
+        batsman: R Stokell
+    - 0.2:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GH Lewis
+        batsman: R Stokell
+    - 0.3:
+        non_striker: R Stokell
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 0.4:
+        non_striker: GH Lewis
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 0.5:
+        non_striker: GH Lewis
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Stokell
+    - 0.6:
+        non_striker: GH Lewis
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 0.7:
+        non_striker: GH Lewis
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 1.1:
+        non_striker: R Stokell
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 1.2:
+        non_striker: R Stokell
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.3:
+        non_striker: R Stokell
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 1.4:
+        non_striker: GH Lewis
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 1.5:
+        non_striker: R Stokell
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+        wicket:
+          player_out: GH Lewis
+          fielders:
+          - EN Lynch
+          kind: caught
+    - 1.6:
+        non_striker: L Delany
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 2.1:
+        non_striker: R Stokell
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 2.2:
+        non_striker: R Stokell
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 2.3:
+        non_striker: R Stokell
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 2.4:
+        non_striker: L Delany
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 2.5:
+        non_striker: L Delany
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 2.6:
+        non_striker: L Delany
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 3.1:
+        non_striker: R Stokell
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 3.2:
+        non_striker: R Stokell
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 3.3:
+        non_striker: L Delany
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 3.4:
+        non_striker: R Stokell
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 3.5:
+        non_striker: L Delany
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 3.6:
+        non_striker: R Stokell
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 4.1:
+        non_striker: L Delany
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Stokell
+    - 4.2:
+        non_striker: L Delany
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 4.3:
+        non_striker: L Delany
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 4.4:
+        non_striker: L Delany
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 4.5:
+        non_striker: R Stokell
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 4.6:
+        non_striker: R Stokell
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 5.1:
+        non_striker: R Stokell
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 5.2:
+        non_striker: L Delany
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 5.3:
+        non_striker: R Stokell
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 5.4:
+        non_striker: R Stokell
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 5.5:
+        non_striker: L Delany
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Stokell
+    - 5.6:
+        non_striker: L Delany
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 6.1:
+        non_striker: R Stokell
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 6.2:
+        non_striker: R Stokell
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 6.3:
+        non_striker: R Stokell
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 6.4:
+        non_striker: L Delany
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 6.5:
+        non_striker: L Delany
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+        wicket:
+          player_out: R Stokell
+          fielders:
+          - EN Lynch
+          kind: caught
+    - 6.6:
+        non_striker: SM Kavanagh
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 7.1:
+        non_striker: SM Kavanagh
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 7.2:
+        non_striker: SM Kavanagh
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 7.3:
+        non_striker: SM Kavanagh
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 7.4:
+        non_striker: SM Kavanagh
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 7.5:
+        non_striker: L Delany
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Kavanagh
+    - 7.6:
+        non_striker: SM Kavanagh
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 8.1:
+        non_striker: L Delany
+        bowler: F Overdijk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SM Kavanagh
+    - 8.2:
+        non_striker: SM Kavanagh
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 8.3:
+        non_striker: SM Kavanagh
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 8.4:
+        non_striker: L Delany
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Kavanagh
+    - 8.5:
+        non_striker: SM Kavanagh
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 8.6:
+        non_striker: SM Kavanagh
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 9.1:
+        non_striker: SM Kavanagh
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 9.2:
+        non_striker: L Delany
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Kavanagh
+    - 9.3:
+        non_striker: SM Kavanagh
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 9.4:
+        non_striker: SM Kavanagh
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 9.5:
+        non_striker: SM Kavanagh
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 9.6:
+        non_striker: L Delany
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Kavanagh
+    - 10.1:
+        non_striker: L Delany
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 10.2:
+        non_striker: L Delany
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 10.3:
+        non_striker: L Delany
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Kavanagh
+    - 10.4:
+        non_striker: SM Kavanagh
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 10.5:
+        non_striker: SM Kavanagh
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 10.6:
+        non_striker: SM Kavanagh
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 11.1:
+        non_striker: SM Kavanagh
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 11.2:
+        non_striker: SM Kavanagh
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 11.3:
+        non_striker: SM Kavanagh
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 11.4:
+        non_striker: L Delany
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Kavanagh
+    - 11.5:
+        non_striker: L Delany
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Kavanagh
+    - 11.6:
+        non_striker: L Delany
+        bowler: S Siegers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Kavanagh
+    - 11.7:
+        non_striker: L Delany
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 12.1:
+        non_striker: SM Kavanagh
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 12.2:
+        non_striker: L Delany
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Kavanagh
+    - 12.3:
+        non_striker: SM Kavanagh
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 12.4:
+        non_striker: SM Kavanagh
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 12.5:
+        non_striker: L Delany
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 12.6:
+        non_striker: L Delany
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Kavanagh
+    - 13.1:
+        non_striker: L Delany
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 13.2:
+        non_striker: L Delany
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Kavanagh
+    - 13.3:
+        non_striker: L Delany
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Kavanagh
+    - 13.4:
+        non_striker: SM Kavanagh
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 13.5:
+        non_striker: L Delany
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Kavanagh
+    - 13.6:
+        non_striker: SM Kavanagh
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Delany
+    - 14.1:
+        non_striker: SM Kavanagh
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 14.2:
+        non_striker: SM Kavanagh
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 14.3:
+        non_striker: SM Kavanagh
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+        wicket:
+          player_out: L Delany
+          fielders:
+          - AS van Beuge
+          kind: caught
+    - 14.4:
+        non_striker: EAJ Richardson
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+        wicket:
+          player_out: SM Kavanagh
+          kind: lbw
+    - 14.5:
+        non_striker: EAJ Richardson
+        bowler: EN Lynch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Maritz
+    - 14.6:
+        non_striker: L Maritz
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+    - 15.1:
+        non_striker: EAJ Richardson
+        bowler: S Siegers
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: L Maritz
+    - 15.2:
+        non_striker: L Maritz
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+    - 15.3:
+        non_striker: L Maritz
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EAJ Richardson
+    - 15.4:
+        non_striker: L Maritz
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 15.5:
+        non_striker: EAJ Richardson
+        bowler: S Siegers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Maritz
+    - 15.6:
+        non_striker: L Maritz
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 15.7:
+        non_striker: EAJ Richardson
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maritz
+        wicket:
+          player_out: L Maritz
+          kind: bowled
+    - 16.1:
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: O Prendergast
+        batsman: EAJ Richardson
+    - 16.2:
+        non_striker: EAJ Richardson
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 16.3:
+        non_striker: O Prendergast
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+    - 16.4:
+        non_striker: O Prendergast
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 16.5:
+        non_striker: EAJ Richardson
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 16.6:
+        non_striker: O Prendergast
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 17.1:
+        non_striker: O Prendergast
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EAJ Richardson
+    - 17.2:
+        non_striker: O Prendergast
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EAJ Richardson
+    - 17.3:
+        non_striker: O Prendergast
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 17.4:
+        non_striker: EAJ Richardson
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 17.5:
+        non_striker: EAJ Richardson
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 17.6:
+        non_striker: EAJ Richardson
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 18.1:
+        non_striker: EAJ Richardson
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 18.2:
+        non_striker: EAJ Richardson
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: O Prendergast
+    - 18.3:
+        non_striker: EAJ Richardson
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 18.4:
+        non_striker: EAJ Richardson
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 18.5:
+        non_striker: EAJ Richardson
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 18.6:
+        non_striker: O Prendergast
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 19.1:
+        non_striker: O Prendergast
+        bowler: F Overdijk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EAJ Richardson
+    - 19.2:
+        non_striker: EAJ Richardson
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 19.3:
+        non_striker: EAJ Richardson
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 19.4:
+        non_striker: EAJ Richardson
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 19.5:
+        non_striker: O Prendergast
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+        wicket:
+          player_out: EAJ Richardson
+          fielders:
+          - J Post
+          kind: caught
+    - 19.6:
+        non_striker: O Prendergast
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Paul
+- 2nd innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HDJ Siegers
+        batsman: F Overdijk
+    - 0.2:
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HDJ Siegers
+        batsman: F Overdijk
+    - 0.3:
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HDJ Siegers
+        batsman: F Overdijk
+    - 0.4:
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HDJ Siegers
+        batsman: F Overdijk
+    - 0.5:
+        non_striker: F Overdijk
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 0.6:
+        non_striker: F Overdijk
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDJ Siegers
+    - 1.1:
+        non_striker: HDJ Siegers
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 1.2:
+        non_striker: HDJ Siegers
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 1.3:
+        non_striker: F Overdijk
+        bowler: A Canning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HDJ Siegers
+    - 1.4:
+        non_striker: HDJ Siegers
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 1.5:
+        non_striker: HDJ Siegers
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 1.6:
+        non_striker: HDJ Siegers
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 2.1:
+        non_striker: HDJ Siegers
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 2.2:
+        non_striker: HDJ Siegers
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 2.3:
+        non_striker: HDJ Siegers
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 2.4:
+        non_striker: HDJ Siegers
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 2.5:
+        non_striker: HDJ Siegers
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 2.6:
+        non_striker: HDJ Siegers
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 3.1:
+        non_striker: F Overdijk
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 3.2:
+        non_striker: F Overdijk
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HDJ Siegers
+    - 3.3:
+        non_striker: HDJ Siegers
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 3.4:
+        non_striker: HDJ Siegers
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 3.5:
+        non_striker: F Overdijk
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 3.6:
+        non_striker: HDJ Siegers
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 4.1:
+        non_striker: F Overdijk
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HDJ Siegers
+    - 4.2:
+        non_striker: HDJ Siegers
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 4.3:
+        non_striker: HDJ Siegers
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 4.4:
+        non_striker: HDJ Siegers
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 4.5:
+        non_striker: F Overdijk
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+        wicket:
+          player_out: HDJ Siegers
+          fielders:
+          - EAJ Richardson
+          kind: caught
+    - 4.6:
+        non_striker: B de Leede
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 5.1:
+        non_striker: B de Leede
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 5.2:
+        non_striker: B de Leede
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 5.3:
+        non_striker: F Overdijk
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 5.4:
+        non_striker: B de Leede
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 5.5:
+        non_striker: B de Leede
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 5.6:
+        non_striker: B de Leede
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 6.1:
+        non_striker: F Overdijk
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 6.2:
+        non_striker: F Overdijk
+        bowler: S MacMahon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B de Leede
+    - 6.3:
+        non_striker: F Overdijk
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 6.4:
+        non_striker: F Overdijk
+        bowler: S MacMahon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B de Leede
+    - 6.5:
+        non_striker: F Overdijk
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 6.6:
+        non_striker: F Overdijk
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 6.7:
+        non_striker: F Overdijk
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 6.8:
+        non_striker: F Overdijk
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 7.1:
+        non_striker: B de Leede
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 7.2:
+        non_striker: F Overdijk
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 7.3:
+        non_striker: B de Leede
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 7.4:
+        non_striker: B de Leede
+        bowler: C Raack
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: F Overdijk
+    - 7.5:
+        non_striker: F Overdijk
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 7.6:
+        non_striker: B de Leede
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 7.7:
+        non_striker: B de Leede
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Overdijk
+    - 8.1:
+        non_striker: F Overdijk
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 8.2:
+        non_striker: B de Leede
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 8.3:
+        non_striker: B de Leede
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 8.4:
+        non_striker: F Overdijk
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B de Leede
+    - 8.5:
+        non_striker: F Overdijk
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 8.6:
+        non_striker: B de Leede
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 9.1:
+        non_striker: F Overdijk
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+        wicket:
+          player_out: B de Leede
+          fielders:
+          - GH Lewis
+          kind: caught
+    - 9.2:
+        bowler: C Raack
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Veringmeier
+        batsman: F Overdijk
+    - 9.3:
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M Veringmeier
+        batsman: F Overdijk
+    - 9.4:
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Veringmeier
+        batsman: F Overdijk
+    - 9.5:
+        non_striker: F Overdijk
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Veringmeier
+    - 9.6:
+        non_striker: M Veringmeier
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+        wicket:
+          player_out: F Overdijk
+          fielders:
+          - S MacMahon
+          kind: caught
+    - 9.7:
+        non_striker: R Rijke
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Veringmeier
+    - 10.1:
+        non_striker: M Veringmeier
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 10.2:
+        non_striker: R Rijke
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Veringmeier
+    - 10.3:
+        non_striker: M Veringmeier
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 10.4:
+        non_striker: M Veringmeier
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 10.5:
+        non_striker: M Veringmeier
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 10.6:
+        non_striker: M Veringmeier
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 11.1:
+        non_striker: R Rijke
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Veringmeier
+    - 11.2:
+        non_striker: R Rijke
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Veringmeier
+    - 11.3:
+        non_striker: M Veringmeier
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 11.4:
+        non_striker: R Rijke
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Veringmeier
+    - 11.5:
+        non_striker: R Rijke
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Veringmeier
+    - 11.6:
+        non_striker: M Veringmeier
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 12.1:
+        non_striker: R Rijke
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Veringmeier
+    - 12.2:
+        non_striker: M Veringmeier
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 12.3:
+        non_striker: M Veringmeier
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 12.4:
+        non_striker: R Rijke
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Veringmeier
+    - 12.5:
+        non_striker: R Rijke
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Veringmeier
+    - 12.6:
+        non_striker: M Veringmeier
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 13.1:
+        non_striker: M Veringmeier
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 13.2:
+        non_striker: R Rijke
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Veringmeier
+    - 13.3:
+        non_striker: R Rijke
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Veringmeier
+    - 13.4:
+        non_striker: R Rijke
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Veringmeier
+    - 13.5:
+        non_striker: R Rijke
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Veringmeier
+    - 13.6:
+        non_striker: M Veringmeier
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 14.1:
+        non_striker: M Veringmeier
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 14.2:
+        non_striker: R Rijke
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Veringmeier
+        wicket:
+          player_out: M Veringmeier
+          fielders:
+          - R Stokell
+          kind: caught
+    - 14.3:
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EN Lynch
+        batsman: R Rijke
+    - 14.4:
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EN Lynch
+        batsman: R Rijke
+    - 14.5:
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: EN Lynch
+        batsman: R Rijke
+    - 14.6:
+        non_striker: R Rijke
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EN Lynch
+    - 15.1:
+        non_striker: R Rijke
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EN Lynch
+        wicket:
+          player_out: EN Lynch
+          kind: bowled
+    - 15.2:
+        non_striker: R Rijke
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 15.3:
+        non_striker: R Rijke
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+        wicket:
+          player_out: IJR Zwilling
+          kind: bowled
+    - 15.4:
+        non_striker: R Rijke
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Post
+    - 15.5:
+        non_striker: R Rijke
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Post
+    - 15.6:
+        non_striker: R Rijke
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Post
+    - 16.1:
+        non_striker: J Post
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 16.2:
+        non_striker: R Rijke
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Post
+    - 16.3:
+        non_striker: R Rijke
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Post
+    - 16.4:
+        non_striker: J Post
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 16.5:
+        non_striker: R Rijke
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Post
+    - 16.6:
+        non_striker: J Post
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 17.1:
+        non_striker: R Rijke
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Post
+    - 17.2:
+        non_striker: R Rijke
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Post
+        wicket:
+          player_out: J Post
+          kind: bowled
+    - 17.3:
+        non_striker: R Rijke
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Siegers
+    - 17.4:
+        non_striker: S Siegers
+        bowler: L Maritz
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: R Rijke
+    - 17.5:
+        non_striker: S Siegers
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 17.6:
+        non_striker: S Siegers
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 18.1:
+        non_striker: S Siegers
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 18.2:
+        non_striker: S Siegers
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 18.3:
+        non_striker: S Siegers
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 18.4:
+        non_striker: R Rijke
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Siegers
+    - 18.5:
+        non_striker: R Rijke
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Siegers
+    - 18.6:
+        non_striker: S Siegers
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 19.1:
+        non_striker: R Rijke
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Siegers
+    - 19.2:
+        non_striker: R Rijke
+        bowler: L Maritz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Siegers
+    - 19.3:
+        non_striker: S Siegers
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 19.4:
+        non_striker: R Rijke
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Siegers
+    - 19.5:
+        non_striker: R Rijke
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Siegers
+    - 19.6:
+        non_striker: S Siegers
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke

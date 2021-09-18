@@ -1,0 +1,770 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-09-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2021-09-11'
+  gender: female
+  match_type: T20
+  match_type_number: 956
+  outcome:
+    winner: Zimbabwe
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - E Mbofana
+  players:
+    Eswatini:
+    - Ntombizodwa Mkhatshwa
+    - M Dlamini
+    - W Ginindza
+    - N Gwebu
+    - Ntombizonke MKhatshwa
+    - D Dlamini
+    - N Mabila
+    - S Mabuza
+    - T Malinga
+    - N Khumalo
+    - K Maseko
+    Zimbabwe:
+    - P Marange
+    - M Mupachikwa
+    - CS Mugeri
+    - J Nkomo
+    - CT Dhururu
+    - A Ndiraya
+    - L Tshuma
+    - L Phiri
+    - T Granger
+    - N Sibanda
+    - E Mbofana
+  registry:
+    people:
+      A Ndiraya: c8e6bddd
+      CS Mugeri: 99c86133
+      CT Dhururu: 8d7fba79
+      D Dlamini: 7a6ce3c9
+      E Mbofana: 657da2f4
+      GH Pienaar: 3516e46b
+      IO Oyieko: de4828fa
+      J Nkomo: 36dfa62e
+      K Maseko: 0e3796d1
+      L Phiri: cca8bdca
+      L Tshuma: f281dd00
+      M Dlamini: 877a3433
+      M Mupachikwa: 6657b319
+      N Gwebu: 67e4248c
+      N Khumalo: 12ee9897
+      N Mabila: 21ef59e3
+      N Sibanda: edf62a25
+      Ntombizodwa Mkhatshwa: 5d297269
+      Ntombizonke MKhatshwa: 1697a7c4
+      P Marange: a4f1fdd4
+      R D'Mello: f3c22863
+      S George: 6d9e5a54
+      S Mabuza: 8ce93575
+      T Granger: 2beae660
+      T Malinga: a6f6efba
+      W Ginindza: b5fedf28
+  teams:
+  - Eswatini
+  - Zimbabwe
+  toss:
+    winner: Eswatini
+    decision: bat
+  umpires:
+  - IO Oyieko
+  - S George
+  venue: Botswana Cricket Association Oval 1, Gaborone
+innings:
+- 1st innings:
+    team: Eswatini
+    deliveries:
+    - 0.1:
+        non_striker: M Dlamini
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizodwa Mkhatshwa
+        wicket:
+          player_out: Ntombizodwa Mkhatshwa
+          kind: lbw
+    - 0.2:
+        non_striker: M Dlamini
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Ginindza
+        wicket:
+          player_out: W Ginindza
+          kind: lbw
+    - 0.3:
+        non_striker: M Dlamini
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Gwebu
+    - 0.4:
+        non_striker: N Gwebu
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 0.5:
+        non_striker: N Gwebu
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+        wicket:
+          player_out: M Dlamini
+          kind: lbw
+    - 0.6:
+        non_striker: N Gwebu
+        bowler: E Mbofana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ntombizonke MKhatshwa
+    - 0.7:
+        non_striker: N Gwebu
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+    - 1.1:
+        non_striker: Ntombizonke MKhatshwa
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Gwebu
+    - 1.2:
+        non_striker: N Gwebu
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+    - 1.3:
+        non_striker: N Gwebu
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+    - 1.4:
+        non_striker: N Gwebu
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+    - 1.5:
+        non_striker: N Gwebu
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+    - 1.6:
+        non_striker: N Gwebu
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ntombizonke MKhatshwa
+    - 2.1:
+        non_striker: N Gwebu
+        bowler: E Mbofana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ntombizonke MKhatshwa
+    - 2.2:
+        non_striker: N Gwebu
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+    - 2.3:
+        non_striker: N Gwebu
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+    - 2.4:
+        non_striker: N Gwebu
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+    - 2.5:
+        non_striker: N Gwebu
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+    - 2.6:
+        non_striker: N Gwebu
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ntombizonke MKhatshwa
+    - 2.7:
+        non_striker: Ntombizonke MKhatshwa
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 3.1:
+        non_striker: N Gwebu
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+    - 3.2:
+        non_striker: N Gwebu
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+    - 3.3:
+        non_striker: N Gwebu
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+    - 3.4:
+        non_striker: N Gwebu
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+    - 3.5:
+        non_striker: N Gwebu
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+    - 3.6:
+        non_striker: N Gwebu
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: N Gwebu
+            out: Ntombizonke MKhatshwa
+            reason: injury
+            role: batter
+        batsman: D Dlamini
+    - 4.1:
+        non_striker: D Dlamini
+        bowler: E Mbofana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Gwebu
+    - 4.2:
+        non_striker: D Dlamini
+        bowler: E Mbofana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Gwebu
+    - 4.3:
+        non_striker: D Dlamini
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 4.4:
+        non_striker: D Dlamini
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Gwebu
+    - 4.5:
+        non_striker: D Dlamini
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 4.6:
+        non_striker: D Dlamini
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 4.7:
+        non_striker: D Dlamini
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+        wicket:
+          player_out: N Gwebu
+          kind: lbw
+    - 4.8:
+        non_striker: D Dlamini
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+        wicket:
+          player_out: N Mabila
+          kind: bowled
+    - 5.1:
+        bowler: N Sibanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Mabuza
+        batsman: D Dlamini
+    - 5.2:
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Mabuza
+        batsman: D Dlamini
+    - 5.3:
+        non_striker: D Dlamini
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mabuza
+    - 5.4:
+        non_striker: D Dlamini
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mabuza
+        wicket:
+          player_out: S Mabuza
+          kind: bowled
+    - 5.5:
+        non_striker: D Dlamini
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+    - 5.6:
+        non_striker: D Dlamini
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+    - 5.7:
+        non_striker: D Dlamini
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+    - 6.1:
+        non_striker: Ntombizonke MKhatshwa
+        bowler: E Mbofana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Dlamini
+    - 6.2:
+        non_striker: Ntombizonke MKhatshwa
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dlamini
+        wicket:
+          player_out: D Dlamini
+          kind: bowled
+    - 6.3:
+        non_striker: Ntombizonke MKhatshwa
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Malinga
+    - 6.4:
+        non_striker: Ntombizonke MKhatshwa
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Malinga
+    - 6.5:
+        non_striker: Ntombizonke MKhatshwa
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Malinga
+    - 6.6:
+        non_striker: Ntombizonke MKhatshwa
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Malinga
+    - 6.7:
+        non_striker: Ntombizonke MKhatshwa
+        bowler: E Mbofana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Malinga
+    - 7.1:
+        non_striker: T Malinga
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizonke MKhatshwa
+        wicket:
+          player_out: Ntombizonke MKhatshwa
+          kind: bowled
+    - 7.2:
+        non_striker: T Malinga
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Khumalo
+        wicket:
+          player_out: N Khumalo
+          kind: lbw
+    - 7.3:
+        non_striker: T Malinga
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Maseko
+    - 7.4:
+        non_striker: T Malinga
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Maseko
+    - 7.5:
+        non_striker: T Malinga
+        bowler: L Phiri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Maseko
+    - 7.6:
+        non_striker: T Malinga
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Maseko
+    - 7.7:
+        non_striker: T Malinga
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Maseko
+    - 8.1:
+        non_striker: K Maseko
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Malinga
+    - 8.2:
+        non_striker: K Maseko
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Malinga
+    - 8.3:
+        non_striker: T Malinga
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Maseko
+    - 8.4:
+        non_striker: T Malinga
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Maseko
+    - 8.5:
+        non_striker: T Malinga
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Maseko
+    - 8.6:
+        non_striker: T Malinga
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Maseko
+    - 9.1:
+        non_striker: K Maseko
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Malinga
+    - 9.2:
+        non_striker: K Maseko
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Malinga
+        wicket:
+          player_out: T Malinga
+          kind: bowled
+- 2nd innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        bowler: Ntombizonke MKhatshwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Mupachikwa
+        batsman: P Marange
+    - 0.2:
+        bowler: Ntombizonke MKhatshwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Mupachikwa
+        batsman: P Marange
+    - 0.3:
+        bowler: Ntombizonke MKhatshwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Mupachikwa
+        batsman: P Marange
+    - 0.4:
+        bowler: Ntombizonke MKhatshwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Mupachikwa
+        batsman: P Marange
+    - 0.5:
+        non_striker: P Marange
+        bowler: Ntombizonke MKhatshwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mupachikwa
+    - 0.6:
+        non_striker: P Marange
+        bowler: Ntombizonke MKhatshwa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mupachikwa
+    - 0.7:
+        non_striker: P Marange
+        bowler: Ntombizonke MKhatshwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 1.1:
+        non_striker: P Marange
+        bowler: S Mabuza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mupachikwa
+    - 1.2:
+        non_striker: P Marange
+        bowler: S Mabuza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 1.3:
+        non_striker: M Mupachikwa
+        bowler: S Mabuza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Marange
+    - 1.4:
+        non_striker: P Marange
+        bowler: S Mabuza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mupachikwa
+    - 1.5:
+        non_striker: P Marange
+        bowler: S Mabuza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 1.6:
+        non_striker: P Marange
+        bowler: S Mabuza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mupachikwa
+    - 1.7:
+        non_striker: P Marange
+        bowler: S Mabuza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mupachikwa
+    - 1.8:
+        non_striker: P Marange
+        bowler: S Mabuza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa

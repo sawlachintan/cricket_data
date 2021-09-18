@@ -1,0 +1,2158 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-04-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Pune
+  competition: IPL
+  dates:
+  - '2018-04-30'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Chennai Super Kings
+    by:
+      runs: 13
+  overs: 20
+  player_of_match:
+  - SR Watson
+  players:
+    Chennai Super Kings:
+    - SR Watson
+    - F du Plessis
+    - SK Raina
+    - AT Rayudu
+    - MS Dhoni
+    - RA Jadeja
+    - DJ Bravo
+    - KV Sharma
+    - Harbhajan Singh
+    - KM Asif
+    - L Ngidi
+    Delhi Daredevils:
+    - PP Shaw
+    - C Munro
+    - SS Iyer
+    - RR Pant
+    - GJ Maxwell
+    - V Shankar
+    - R Tewatia
+    - LE Plunkett
+    - A Mishra
+    - Avesh Khan
+    - TA Boult
+  registry:
+    people:
+      A Mishra: 6b19d823
+      AT Rayudu: 70d205c9
+      AY Dandekar: 2efc430e
+      Avesh Khan: eef2536f
+      C Munro: af2c687b
+      C Shamshuddin: 0f9d921b
+      CK Nandan: 012de9c4
+      DJ Bravo: 87e562a9
+      F du Plessis: 3355b542
+      GJ Maxwell: b681e71e
+      HAS Khalid: 291ded7c
+      Harbhajan Singh: 8b5b6769
+      KM Asif: 798cc28e
+      KV Sharma: 119678fd
+      L Ngidi: f834dcfc
+      LE Plunkett: 9a963804
+      MS Dhoni: 4a8a2e3b
+      PP Shaw: 8b3e9c7c
+      R Tewatia: 39a2dfa8
+      RA Jadeja: fe93fd9d
+      RR Pant: 919a3be2
+      SK Raina: 1dc12ab9
+      SR Watson: 4329fbb5
+      SS Iyer: 85ec8e33
+      TA Boult: a818c1be
+      V Narayan Kutty: 4bacee3d
+      V Shankar: '0994d0ae'
+  teams:
+  - Chennai Super Kings
+  - Delhi Daredevils
+  toss:
+    decision: field
+    winner: Delhi Daredevils
+  umpires:
+  - AY Dandekar
+  - C Shamshuddin
+  venue: Maharashtra Cricket Association Stadium
+innings:
+- 1st innings:
+    team: Chennai Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: F du Plessis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 0.2:
+        non_striker: F du Plessis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Watson
+    - 0.3:
+        non_striker: F du Plessis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 0.4:
+        non_striker: F du Plessis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 0.5:
+        non_striker: SR Watson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.6:
+        non_striker: SR Watson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.1:
+        non_striker: SR Watson
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.2:
+        non_striker: SR Watson
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.3:
+        non_striker: SR Watson
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.4:
+        non_striker: SR Watson
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.5:
+        non_striker: SR Watson
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.6:
+        non_striker: SR Watson
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 2.1:
+        non_striker: SR Watson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 2.2:
+        non_striker: SR Watson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 2.3:
+        non_striker: SR Watson
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: F du Plessis
+    - 2.4:
+        non_striker: F du Plessis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Watson
+    - 2.5:
+        non_striker: F du Plessis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 2.6:
+        non_striker: F du Plessis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 3.1:
+        non_striker: SR Watson
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 3.2:
+        non_striker: F du Plessis
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 3.3:
+        non_striker: SR Watson
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 3.4:
+        non_striker: F du Plessis
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 3.5:
+        non_striker: SR Watson
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 3.6:
+        non_striker: SR Watson
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 4.1:
+        non_striker: SR Watson
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 4.2:
+        non_striker: F du Plessis
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 4.3:
+        non_striker: F du Plessis
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Watson
+    - 4.4:
+        non_striker: F du Plessis
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Watson
+    - 4.5:
+        non_striker: F du Plessis
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 4.6:
+        non_striker: SR Watson
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 5.1:
+        non_striker: F du Plessis
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 5.2:
+        non_striker: F du Plessis
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Watson
+    - 5.3:
+        non_striker: F du Plessis
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 5.4:
+        non_striker: F du Plessis
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 5.5:
+        non_striker: SR Watson
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 5.6:
+        non_striker: SR Watson
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 6.1:
+        non_striker: F du Plessis
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 6.2:
+        non_striker: SR Watson
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 6.3:
+        non_striker: F du Plessis
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Watson
+    - 6.4:
+        non_striker: F du Plessis
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Watson
+    - 6.5:
+        non_striker: F du Plessis
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 6.6:
+        non_striker: SR Watson
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 7.1:
+        non_striker: F du Plessis
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 7.2:
+        non_striker: SR Watson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 7.3:
+        non_striker: F du Plessis
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 7.4:
+        non_striker: F du Plessis
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 7.5:
+        non_striker: SR Watson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 7.6:
+        non_striker: SR Watson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 8.1:
+        non_striker: F du Plessis
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Watson
+    - 8.2:
+        non_striker: F du Plessis
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 8.3:
+        non_striker: SR Watson
+        bowler: R Tewatia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: F du Plessis
+    - 8.4:
+        non_striker: F du Plessis
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Watson
+    - 8.5:
+        non_striker: F du Plessis
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 8.6:
+        non_striker: SR Watson
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 9.1:
+        non_striker: F du Plessis
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 9.2:
+        non_striker: SR Watson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 9.3:
+        non_striker: SR Watson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 9.4:
+        non_striker: F du Plessis
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 9.5:
+        non_striker: SR Watson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 9.6:
+        non_striker: F du Plessis
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 10.1:
+        non_striker: F du Plessis
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 10.2:
+        non_striker: SR Watson
+        bowler: V Shankar
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: F du Plessis
+    - 10.3:
+        non_striker: F du Plessis
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 10.4:
+        non_striker: SR Watson
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 10.5:
+        non_striker: SR Watson
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 10.6:
+        non_striker: SR Watson
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          fielders:
+          - TA Boult
+          kind: caught
+    - 10.7:
+        non_striker: SR Watson
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 11.1:
+        non_striker: SR Watson
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+        wicket:
+          player_out: SK Raina
+          kind: bowled
+    - 11.2:
+        non_striker: SR Watson
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 11.3:
+        non_striker: AT Rayudu
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 11.4:
+        non_striker: AT Rayudu
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Watson
+    - 11.5:
+        non_striker: AT Rayudu
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 11.6:
+        non_striker: SR Watson
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 12.1:
+        non_striker: SR Watson
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 12.2:
+        non_striker: SR Watson
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 12.3:
+        non_striker: SR Watson
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 12.4:
+        non_striker: SR Watson
+        bowler: V Shankar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AT Rayudu
+    - 12.5:
+        non_striker: SR Watson
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 12.6:
+        non_striker: AT Rayudu
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Watson
+    - 12.7:
+        non_striker: AT Rayudu
+        bowler: V Shankar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Watson
+    - 12.8:
+        non_striker: AT Rayudu
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Watson
+    - 13.1:
+        non_striker: SR Watson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 13.2:
+        non_striker: SR Watson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 13.3:
+        non_striker: AT Rayudu
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 13.4:
+        non_striker: SR Watson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 13.5:
+        non_striker: AT Rayudu
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+        wicket:
+          player_out: SR Watson
+          fielders:
+          - LE Plunkett
+          kind: caught
+    - 13.6:
+        non_striker: AT Rayudu
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 14.1:
+        non_striker: AT Rayudu
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 14.2:
+        non_striker: MS Dhoni
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 14.3:
+        non_striker: AT Rayudu
+        bowler: Avesh Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MS Dhoni
+    - 14.4:
+        non_striker: MS Dhoni
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Rayudu
+    - 14.5:
+        non_striker: MS Dhoni
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 14.6:
+        non_striker: AT Rayudu
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 15.1:
+        non_striker: MS Dhoni
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 15.2:
+        non_striker: AT Rayudu
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Dhoni
+    - 15.3:
+        non_striker: AT Rayudu
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 15.4:
+        non_striker: MS Dhoni
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 15.5:
+        non_striker: AT Rayudu
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Dhoni
+    - 15.6:
+        non_striker: AT Rayudu
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 16.1:
+        non_striker: AT Rayudu
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Dhoni
+    - 16.2:
+        non_striker: AT Rayudu
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Dhoni
+    - 16.3:
+        non_striker: AT Rayudu
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Dhoni
+    - 16.4:
+        non_striker: AT Rayudu
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 16.5:
+        non_striker: MS Dhoni
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 16.6:
+        non_striker: MS Dhoni
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 17.1:
+        non_striker: AT Rayudu
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 17.2:
+        non_striker: MS Dhoni
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 17.3:
+        non_striker: MS Dhoni
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 17.4:
+        non_striker: AT Rayudu
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 17.5:
+        non_striker: MS Dhoni
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AT Rayudu
+    - 17.6:
+        non_striker: MS Dhoni
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 18.1:
+        non_striker: AT Rayudu
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 18.2:
+        non_striker: MS Dhoni
+        bowler: Avesh Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AT Rayudu
+    - 18.3:
+        non_striker: MS Dhoni
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 18.4:
+        non_striker: AT Rayudu
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 18.5:
+        non_striker: MS Dhoni
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 18.6:
+        non_striker: AT Rayudu
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 18.7:
+        non_striker: AT Rayudu
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Dhoni
+    - 19.1:
+        non_striker: MS Dhoni
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 19.2:
+        non_striker: MS Dhoni
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 19.3:
+        non_striker: AT Rayudu
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Dhoni
+    - 19.4:
+        non_striker: AT Rayudu
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Dhoni
+    - 19.5:
+        non_striker: AT Rayudu
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+        wicket:
+          player_out: AT Rayudu
+          kind: run out
+    - 19.6:
+        non_striker: RA Jadeja
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Dhoni
+- 2nd innings:
+    team: Delhi Daredevils
+    deliveries:
+    - 0.1:
+        non_striker: C Munro
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PP Shaw
+    - 0.2:
+        non_striker: PP Shaw
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 0.3:
+        non_striker: PP Shaw
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 0.4:
+        non_striker: PP Shaw
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 0.5:
+        non_striker: PP Shaw
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 0.6:
+        non_striker: PP Shaw
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 1.1:
+        non_striker: C Munro
+        bowler: KM Asif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PP Shaw
+    - 1.2:
+        non_striker: C Munro
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PP Shaw
+    - 1.3:
+        non_striker: C Munro
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+    - 1.4:
+        non_striker: C Munro
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PP Shaw
+    - 1.5:
+        non_striker: C Munro
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+        wicket:
+          player_out: PP Shaw
+          fielders:
+          - RA Jadeja
+          kind: caught
+    - 1.6:
+        non_striker: C Munro
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 1.7:
+        non_striker: C Munro
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 2.1:
+        non_striker: C Munro
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 2.2:
+        non_striker: SS Iyer
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 2.3:
+        non_striker: SS Iyer
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 2.4:
+        non_striker: C Munro
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 2.5:
+        non_striker: C Munro
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 2.6:
+        non_striker: C Munro
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 3.1:
+        non_striker: SS Iyer
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 3.2:
+        non_striker: C Munro
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 3.3:
+        non_striker: C Munro
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 3.4:
+        non_striker: SS Iyer
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 3.5:
+        non_striker: SS Iyer
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 3.6:
+        non_striker: SS Iyer
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 4.1:
+        non_striker: C Munro
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 4.2:
+        non_striker: SS Iyer
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 4.3:
+        non_striker: SS Iyer
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 4.4:
+        non_striker: SS Iyer
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 4.5:
+        non_striker: SS Iyer
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 4.6:
+        non_striker: SS Iyer
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          fielders:
+          - KV Sharma
+          kind: caught
+    - 5.1:
+        non_striker: SS Iyer
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Pant
+    - 5.2:
+        non_striker: SS Iyer
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 5.3:
+        non_striker: SS Iyer
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 5.4:
+        non_striker: RR Pant
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 5.5:
+        non_striker: RR Pant
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 5.6:
+        non_striker: SS Iyer
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 6.1:
+        non_striker: SS Iyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 6.2:
+        non_striker: RR Pant
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 6.3:
+        non_striker: SS Iyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 6.4:
+        non_striker: RR Pant
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 6.5:
+        non_striker: SS Iyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 6.6:
+        non_striker: RR Pant
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+        wicket:
+          player_out: SS Iyer
+          kind: run out
+    - 7.1:
+        non_striker: GJ Maxwell
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 7.2:
+        non_striker: GJ Maxwell
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 7.3:
+        non_striker: GJ Maxwell
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 7.4:
+        non_striker: GJ Maxwell
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Pant
+    - 7.5:
+        non_striker: GJ Maxwell
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 7.6:
+        non_striker: RR Pant
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 8.1:
+        non_striker: RR Pant
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 8.2:
+        non_striker: RR Pant
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 8.3:
+        non_striker: GJ Maxwell
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 8.4:
+        non_striker: RR Pant
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 8.5:
+        non_striker: RR Pant
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+        wicket:
+          player_out: GJ Maxwell
+          kind: bowled
+    - 8.6:
+        non_striker: RR Pant
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shankar
+    - 9.1:
+        non_striker: V Shankar
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 9.2:
+        non_striker: RR Pant
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shankar
+    - 9.3:
+        non_striker: RR Pant
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shankar
+    - 9.4:
+        non_striker: RR Pant
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar
+    - 9.5:
+        non_striker: V Shankar
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 9.6:
+        non_striker: V Shankar
+        bowler: Harbhajan Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Pant
+    - 9.7:
+        non_striker: V Shankar
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 10.1:
+        non_striker: V Shankar
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 10.2:
+        non_striker: RR Pant
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar
+    - 10.3:
+        non_striker: V Shankar
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 10.4:
+        non_striker: V Shankar
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 10.5:
+        non_striker: RR Pant
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar
+    - 10.6:
+        non_striker: V Shankar
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Pant
+    - 11.1:
+        non_striker: RR Pant
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar
+    - 11.2:
+        non_striker: V Shankar
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 11.3:
+        non_striker: RR Pant
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shankar
+    - 11.4:
+        non_striker: RR Pant
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar
+    - 11.5:
+        non_striker: V Shankar
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 11.6:
+        non_striker: RR Pant
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar
+    - 12.1:
+        non_striker: RR Pant
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar
+    - 12.2:
+        non_striker: V Shankar
+        bowler: RA Jadeja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Pant
+    - 12.3:
+        non_striker: V Shankar
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 12.4:
+        non_striker: RR Pant
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Shankar
+    - 12.5:
+        non_striker: RR Pant
+        bowler: RA Jadeja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: V Shankar
+    - 12.6:
+        non_striker: V Shankar
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 12.7:
+        non_striker: V Shankar
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 13.1:
+        non_striker: V Shankar
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 13.2:
+        non_striker: V Shankar
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Pant
+    - 13.3:
+        non_striker: V Shankar
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 13.4:
+        non_striker: RR Pant
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Shankar
+    - 13.5:
+        non_striker: RR Pant
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar
+    - 13.6:
+        non_striker: V Shankar
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 14.1:
+        non_striker: V Shankar
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 14.2:
+        non_striker: RR Pant
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Shankar
+    - 14.3:
+        non_striker: RR Pant
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar
+    - 14.4:
+        non_striker: V Shankar
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 14.5:
+        non_striker: RR Pant
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar
+    - 14.6:
+        non_striker: V Shankar
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 15.1:
+        non_striker: V Shankar
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 15.2:
+        non_striker: RR Pant
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar
+    - 15.3:
+        non_striker: V Shankar
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 15.4:
+        non_striker: V Shankar
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Pant
+    - 15.5:
+        non_striker: V Shankar
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 15.6:
+        non_striker: V Shankar
+        bowler: KM Asif
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Pant
+    - 16.1:
+        non_striker: RR Pant
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar
+    - 16.2:
+        non_striker: V Shankar
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 16.3:
+        non_striker: V Shankar
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 16.4:
+        non_striker: V Shankar
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 16.5:
+        non_striker: V Shankar
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Pant
+    - 16.6:
+        non_striker: V Shankar
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 17.1:
+        non_striker: RR Pant
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: V Shankar
+    - 17.2:
+        non_striker: V Shankar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 17.3:
+        non_striker: V Shankar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 17.4:
+        non_striker: V Shankar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+        wicket:
+          player_out: RR Pant
+          fielders:
+          - RA Jadeja
+          kind: caught
+    - 17.5:
+        non_striker: R Tewatia
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar
+    - 17.6:
+        non_striker: V Shankar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+    - 18.1:
+        non_striker: R Tewatia
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar
+    - 18.2:
+        non_striker: V Shankar
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 18.3:
+        non_striker: R Tewatia
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Shankar
+    - 18.4:
+        non_striker: R Tewatia
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Shankar
+    - 18.5:
+        non_striker: R Tewatia
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Shankar
+    - 18.6:
+        non_striker: R Tewatia
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shankar
+    - 18.7:
+        non_striker: R Tewatia
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Shankar
+    - 19.1:
+        non_striker: V Shankar
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Tewatia
+    - 19.2:
+        non_striker: V Shankar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 19.3:
+        non_striker: R Tewatia
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Shankar
+    - 19.4:
+        non_striker: R Tewatia
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Shankar
+    - 19.5:
+        non_striker: R Tewatia
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Shankar
+    - 19.6:
+        non_striker: R Tewatia
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar
+    - 19.7:
+        non_striker: V Shankar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 19.8:
+        non_striker: R Tewatia
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shankar

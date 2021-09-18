@@ -1,0 +1,2193 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-04-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mumbai
+  competition: IPL
+  dates:
+  - '2018-04-17'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Mumbai Indians
+    by:
+      runs: 46
+  overs: 20
+  player_of_match:
+  - RG Sharma
+  players:
+    Mumbai Indians:
+    - SA Yadav
+    - E Lewis
+    - Ishan Kishan
+    - RG Sharma
+    - KH Pandya
+    - KA Pollard
+    - HH Pandya
+    - MJ McClenaghan
+    - M Markande
+    - JJ Bumrah
+    - Mustafizur Rahman
+    Royal Challengers Bangalore:
+    - V Kohli
+    - Q de Kock
+    - AB de Villiers
+    - Mandeep Singh
+    - CJ Anderson
+    - Washington Sundar
+    - SN Khan
+    - CR Woakes
+    - UT Yadav
+    - Mohammed Siraj
+    - YS Chahal
+  registry:
+    people:
+      AB de Villiers: c4487b84
+      AP Tare: 855a210c
+      CJ Anderson: 8abdf100
+      CR Woakes: 4c5d73db
+      E Lewis: 0ebfb1ad
+      HH Pandya: dbe50b21
+      Ishan Kishan: 752f7486
+      J Srinath: bad31fac
+      JJ Bumrah: 462411b3
+      JP Duminy: 2e8994e7
+      KA Pollard: a757b0d8
+      KH Pandya: 5b8c830e
+      KN Ananthapadmanabhan: 3144063a
+      M Markande: a9fd84fb
+      MJ McClenaghan: 51a3c5ef
+      Mandeep Singh: c3a96caf
+      Mohammed Siraj: 2f49c897
+      Mustafizur Rahman: 0a8fce53
+      N Pandit: 4947c258
+      Nitin Menon: e1d41d9e
+      Q de Kock: 372455c4
+      RG Sharma: 740742ef
+      RJ Tucker: 38810cfc
+      SA Yadav: 271f83cd
+      SN Khan: f088b960
+      UT Yadav: cc1e8c68
+      V Kohli: ba607b88
+      Washington Sundar: f19ccfad
+      YS Chahal: 57ee1fde
+  teams:
+  - Mumbai Indians
+  - Royal Challengers Bangalore
+  toss:
+    decision: field
+    winner: Royal Challengers Bangalore
+  umpires:
+  - Nitin Menon
+  - RJ Tucker
+  venue: Wankhede Stadium
+innings:
+- 1st innings:
+    team: Mumbai Indians
+    deliveries:
+    - 0.1:
+        non_striker: E Lewis
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+        wicket:
+          player_out: SA Yadav
+          kind: bowled
+    - 0.2:
+        non_striker: E Lewis
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+        wicket:
+          player_out: Ishan Kishan
+          kind: bowled
+    - 0.3:
+        non_striker: E Lewis
+        bowler: UT Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RG Sharma
+    - 0.4:
+        non_striker: RG Sharma
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 0.5:
+        non_striker: E Lewis
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 0.6:
+        non_striker: RG Sharma
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 1.1:
+        non_striker: E Lewis
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.2:
+        non_striker: E Lewis
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 1.3:
+        non_striker: E Lewis
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 1.4:
+        non_striker: RG Sharma
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 1.5:
+        non_striker: RG Sharma
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Lewis
+    - 1.6:
+        non_striker: RG Sharma
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 2.1:
+        non_striker: RG Sharma
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 2.2:
+        non_striker: RG Sharma
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Lewis
+    - 2.3:
+        non_striker: RG Sharma
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 2.4:
+        non_striker: RG Sharma
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 2.5:
+        non_striker: E Lewis
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 2.6:
+        non_striker: E Lewis
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 3.1:
+        non_striker: E Lewis
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 3.2:
+        non_striker: E Lewis
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 3.3:
+        non_striker: E Lewis
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 3.4:
+        non_striker: RG Sharma
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Lewis
+    - 3.5:
+        non_striker: RG Sharma
+        bowler: Washington Sundar
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: E Lewis
+    - 3.6:
+        non_striker: RG Sharma
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Lewis
+    - 3.7:
+        non_striker: RG Sharma
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 4.1:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Lewis
+    - 4.2:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 4.3:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 4.4:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 4.5:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: E Lewis
+    - 4.6:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Lewis
+    - 4.7:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 5.1:
+        non_striker: RG Sharma
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Lewis
+    - 5.2:
+        non_striker: RG Sharma
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 5.3:
+        non_striker: RG Sharma
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 5.4:
+        non_striker: RG Sharma
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 5.5:
+        non_striker: RG Sharma
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 5.6:
+        non_striker: RG Sharma
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 6.1:
+        non_striker: E Lewis
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 6.2:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 6.3:
+        non_striker: E Lewis
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 6.4:
+        non_striker: E Lewis
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 6.5:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 6.6:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 7.1:
+        non_striker: E Lewis
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 7.2:
+        non_striker: E Lewis
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RG Sharma
+    - 7.3:
+        non_striker: E Lewis
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 7.4:
+        non_striker: RG Sharma
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 7.5:
+        non_striker: E Lewis
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 7.6:
+        non_striker: RG Sharma
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Lewis
+    - 8.1:
+        non_striker: E Lewis
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 8.2:
+        non_striker: RG Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Lewis
+    - 8.3:
+        non_striker: RG Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 8.4:
+        non_striker: RG Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Lewis
+    - 8.5:
+        non_striker: RG Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 8.6:
+        non_striker: RG Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 9.1:
+        non_striker: E Lewis
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 9.2:
+        non_striker: E Lewis
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 9.3:
+        non_striker: E Lewis
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 9.4:
+        non_striker: E Lewis
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 9.5:
+        non_striker: E Lewis
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 9.6:
+        non_striker: RG Sharma
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 10.1:
+        non_striker: RG Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 10.2:
+        non_striker: RG Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 10.3:
+        non_striker: RG Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Lewis
+    - 10.4:
+        non_striker: RG Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Lewis
+    - 10.5:
+        non_striker: RG Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 10.6:
+        non_striker: E Lewis
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 11.1:
+        non_striker: RG Sharma
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 11.2:
+        non_striker: RG Sharma
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+        wicket:
+          player_out: E Lewis
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 11.3:
+        non_striker: KH Pandya
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 11.4:
+        non_striker: KH Pandya
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Sharma
+    - 11.5:
+        non_striker: KH Pandya
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 11.6:
+        non_striker: KH Pandya
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 12.1:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+    - 12.2:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+    - 12.3:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KH Pandya
+    - 12.4:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+    - 12.5:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KH Pandya
+    - 12.6:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+    - 12.7:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 13.1:
+        non_striker: RG Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 13.2:
+        non_striker: KH Pandya
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 13.3:
+        non_striker: RG Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KH Pandya
+    - 13.4:
+        non_striker: RG Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 13.5:
+        non_striker: KH Pandya
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 13.6:
+        non_striker: RG Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+    - 14.1:
+        non_striker: KH Pandya
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RG Sharma
+    - 14.2:
+        non_striker: KH Pandya
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 14.3:
+        non_striker: KH Pandya
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 14.4:
+        non_striker: KH Pandya
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 14.5:
+        non_striker: RG Sharma
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+    - 14.6:
+        non_striker: RG Sharma
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Pandya
+    - 15.1:
+        non_striker: KH Pandya
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 15.2:
+        non_striker: KH Pandya
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 15.3:
+        non_striker: KH Pandya
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+        wicket:
+          player_out: KH Pandya
+          kind: run out
+    - 15.4:
+        non_striker: KA Pollard
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 15.5:
+        non_striker: KA Pollard
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 15.6:
+        non_striker: RG Sharma
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 16.1:
+        non_striker: KA Pollard
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RG Sharma
+    - 16.2:
+        non_striker: KA Pollard
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 16.3:
+        non_striker: RG Sharma
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 16.4:
+        non_striker: KA Pollard
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 16.5:
+        non_striker: KA Pollard
+        bowler: UT Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Sharma
+    - 16.6:
+        non_striker: KA Pollard
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Sharma
+    - 16.7:
+        non_striker: KA Pollard
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Sharma
+    - 17.1:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 17.2:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 17.3:
+        non_striker: KA Pollard
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RG Sharma
+    - 17.4:
+        non_striker: KA Pollard
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 17.5:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 17.6:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 18.1:
+        non_striker: RG Sharma
+        bowler: CR Woakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Pollard
+    - 18.2:
+        non_striker: RG Sharma
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+        wicket:
+          player_out: KA Pollard
+          fielders:
+          - AB de Villiers
+          kind: caught
+    - 18.3:
+        non_striker: RG Sharma
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 18.4:
+        non_striker: RG Sharma
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 18.5:
+        non_striker: RG Sharma
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 18.6:
+        non_striker: RG Sharma
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 18.7:
+        non_striker: HH Pandya
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 19.1:
+        non_striker: HH Pandya
+        bowler: CJ Anderson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Sharma
+    - 19.2:
+        non_striker: HH Pandya
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 19.3:
+        non_striker: HH Pandya
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 19.4:
+        non_striker: HH Pandya
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RG Sharma
+    - 19.5:
+        non_striker: HH Pandya
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 19.6:
+        non_striker: HH Pandya
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+        wicket:
+          player_out: RG Sharma
+          fielders:
+          - CR Woakes
+          kind: caught
+    - 19.7:
+        non_striker: HH Pandya
+        bowler: CJ Anderson
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MJ McClenaghan
+    - 19.8:
+        non_striker: MJ McClenaghan
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+- 2nd innings:
+    team: Royal Challengers Bangalore
+    deliveries:
+    - 0.1:
+        non_striker: Q de Kock
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 0.2:
+        non_striker: Q de Kock
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 0.3:
+        non_striker: V Kohli
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: V Kohli
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 0.5:
+        non_striker: V Kohli
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Q de Kock
+    - 0.6:
+        non_striker: Q de Kock
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 0.7:
+        non_striker: Q de Kock
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 1.1:
+        non_striker: V Kohli
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 1.2:
+        non_striker: V Kohli
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.3:
+        non_striker: Q de Kock
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 1.4:
+        non_striker: Q de Kock
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 1.5:
+        non_striker: Q de Kock
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 1.6:
+        non_striker: Q de Kock
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 2.1:
+        non_striker: V Kohli
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.2:
+        non_striker: Q de Kock
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 2.3:
+        non_striker: Q de Kock
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 2.4:
+        non_striker: V Kohli
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.5:
+        non_striker: V Kohli
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.6:
+        non_striker: Q de Kock
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 3.1:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 3.2:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 3.3:
+        non_striker: Q de Kock
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 3.4:
+        non_striker: Q de Kock
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 3.5:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 3.6:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 4.1:
+        non_striker: V Kohli
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          kind: bowled
+    - 4.2:
+        non_striker: V Kohli
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 4.3:
+        non_striker: AB de Villiers
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 4.4:
+        non_striker: V Kohli
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+        wicket:
+          player_out: AB de Villiers
+          fielders:
+          - HH Pandya
+          kind: caught
+    - 4.5:
+        non_striker: V Kohli
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mandeep Singh
+    - 4.6:
+        non_striker: Mandeep Singh
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 5.1:
+        non_striker: Mandeep Singh
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 5.2:
+        non_striker: Mandeep Singh
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 5.3:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mandeep Singh
+    - 5.4:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mandeep Singh
+    - 5.5:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mandeep Singh
+    - 5.6:
+        non_striker: Mandeep Singh
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 6.1:
+        non_striker: Mandeep Singh
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 6.2:
+        non_striker: Mandeep Singh
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 6.3:
+        non_striker: Mandeep Singh
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 6.4:
+        non_striker: V Kohli
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mandeep Singh
+    - 6.5:
+        non_striker: Mandeep Singh
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 6.6:
+        non_striker: V Kohli
+        bowler: M Markande
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mandeep Singh
+    - 7.1:
+        non_striker: V Kohli
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mandeep Singh
+    - 7.2:
+        non_striker: Mandeep Singh
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 7.3:
+        non_striker: V Kohli
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mandeep Singh
+    - 7.4:
+        non_striker: Mandeep Singh
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 7.5:
+        non_striker: V Kohli
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mandeep Singh
+    - 7.6:
+        non_striker: V Kohli
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mandeep Singh
+    - 8.1:
+        non_striker: Mandeep Singh
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 8.2:
+        non_striker: Mandeep Singh
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 8.3:
+        non_striker: Mandeep Singh
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 8.4:
+        non_striker: V Kohli
+        bowler: M Markande
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mandeep Singh
+    - 8.5:
+        non_striker: V Kohli
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mandeep Singh
+    - 8.6:
+        non_striker: Mandeep Singh
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 8.7:
+        non_striker: V Kohli
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mandeep Singh
+    - 9.1:
+        non_striker: V Kohli
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mandeep Singh
+    - 9.2:
+        non_striker: V Kohli
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mandeep Singh
+    - 9.3:
+        non_striker: Mandeep Singh
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 9.4:
+        non_striker: V Kohli
+        bowler: KH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mandeep Singh
+        wicket:
+          player_out: Mandeep Singh
+          fielders:
+          - Ishan Kishan
+          kind: stumped
+    - 9.5:
+        non_striker: V Kohli
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Anderson
+        wicket:
+          player_out: CJ Anderson
+          fielders:
+          - JP Duminy (sub)
+          kind: caught
+    - 9.6:
+        non_striker: Washington Sundar
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 9.7:
+        non_striker: V Kohli
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 10.1:
+        non_striker: Washington Sundar
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 10.2:
+        non_striker: V Kohli
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 10.3:
+        non_striker: V Kohli
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Washington Sundar
+    - 10.4:
+        non_striker: V Kohli
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 10.5:
+        non_striker: Washington Sundar
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 10.6:
+        non_striker: V Kohli
+        bowler: M Markande
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Washington Sundar
+    - 11.1:
+        non_striker: V Kohli
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Washington Sundar
+    - 11.2:
+        non_striker: V Kohli
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 11.3:
+        non_striker: V Kohli
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+        wicket:
+          player_out: Washington Sundar
+          fielders:
+          - SA Yadav
+          kind: caught
+    - 11.4:
+        non_striker: SN Khan
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 11.5:
+        non_striker: V Kohli
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Khan
+    - 11.6:
+        non_striker: V Kohli
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Khan
+    - 12.1:
+        non_striker: SN Khan
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 12.2:
+        non_striker: SN Khan
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 12.3:
+        non_striker: V Kohli
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Khan
+    - 12.4:
+        non_striker: SN Khan
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 12.5:
+        non_striker: V Kohli
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Khan
+    - 12.6:
+        non_striker: V Kohli
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SN Khan
+    - 13.1:
+        non_striker: SN Khan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Kohli
+    - 13.2:
+        non_striker: SN Khan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 13.3:
+        non_striker: SN Khan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 13.4:
+        non_striker: SN Khan
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 13.5:
+        non_striker: V Kohli
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Khan
+        wicket:
+          player_out: SN Khan
+          fielders:
+          - AP Tare (sub)
+          kind: stumped
+    - 13.6:
+        non_striker: V Kohli
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 14.1:
+        non_striker: V Kohli
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 14.2:
+        non_striker: V Kohli
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 14.3:
+        non_striker: CR Woakes
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 14.4:
+        non_striker: V Kohli
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 14.5:
+        non_striker: CR Woakes
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 14.6:
+        non_striker: V Kohli
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 15.1:
+        non_striker: CR Woakes
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 15.2:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 15.3:
+        non_striker: CR Woakes
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 15.4:
+        non_striker: CR Woakes
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 15.5:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CR Woakes
+    - 15.6:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 16.1:
+        non_striker: CR Woakes
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Kohli
+    - 16.2:
+        non_striker: CR Woakes
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 16.3:
+        non_striker: V Kohli
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 16.4:
+        non_striker: CR Woakes
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 16.5:
+        non_striker: CR Woakes
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 16.6:
+        non_striker: CR Woakes
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 17.1:
+        non_striker: CR Woakes
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 17.2:
+        non_striker: V Kohli
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 17.3:
+        non_striker: V Kohli
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+        wicket:
+          player_out: CR Woakes
+          fielders:
+          - KH Pandya
+          kind: caught
+    - 17.4:
+        non_striker: V Kohli
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Yadav
+    - 17.5:
+        non_striker: UT Yadav
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 17.6:
+        non_striker: V Kohli
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+        wicket:
+          player_out: UT Yadav
+          fielders:
+          - RG Sharma
+          kind: caught
+    - 18.1:
+        non_striker: Mohammed Siraj
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Kohli
+    - 18.2:
+        non_striker: Mohammed Siraj
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: V Kohli
+    - 18.3:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Siraj
+    - 18.4:
+        non_striker: Mohammed Siraj
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 18.5:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammed Siraj
+    - 18.6:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Siraj
+    - 18.7:
+        non_striker: Mohammed Siraj
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 19.1:
+        non_striker: Mohammed Siraj
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 19.2:
+        non_striker: Mohammed Siraj
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 19.3:
+        non_striker: Mohammed Siraj
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 19.4:
+        non_striker: Mohammed Siraj
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Kohli
+    - 19.5:
+        non_striker: Mohammed Siraj
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 19.6:
+        non_striker: Mohammed Siraj
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli

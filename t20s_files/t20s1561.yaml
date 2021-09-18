@@ -1,0 +1,1673 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-08-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Krefeld
+  dates:
+  - '2021-08-06'
+  gender: male
+  match_type: T20
+  match_type_number: 1215
+  outcome:
+    winner: Germany
+    by:
+      wickets: 2
+    method: D/L
+  overs: 20
+  player_of_match:
+  - H Singh
+  players:
+    France:
+    - U Shahid
+    - S Santhirakumaran
+    - Virk Ali
+    - Usman Khan
+    - Mustafa Omer
+    - Noman Amjad
+    - HA Jackson
+    - Jubaid Ahamed
+    - Mobashar Ashraf
+    - Rahmatullah Mangal
+    - Dawood Ahmadzai
+    Germany:
+    - VB Chikkannaiah
+    - Abdul-Shakoor Rahimzei
+    - Talha Khan
+    - DA Blignaut
+    - H Singh
+    - V Ganesan
+    - Sahir Naqash
+    - H Srinivasan
+    - Nooruddin Mujadady
+    - Ghulam Ahmadi
+    - Israr Khan
+  registry:
+    people:
+      Abdul-Shakoor Rahimzei: e45810ed
+      DA Blignaut: cfcf189f
+      Dawood Ahmadzai: 951686f5
+      Ghulam Ahmadi: 2dfe0612
+      H Singh: 8209da53
+      H Srinivasan: 300bdcbb
+      HA Jackson: ee40679e
+      Israr Khan: 4ee5ded2
+      Jubaid Ahamed: ea5e0599
+      M Jameson: bdf1ffe3
+      Mobashar Ashraf: bbfdb0c8
+      Mustafa Omer: 3bd52be1
+      Noman Amjad: c079c66a
+      Nooruddin Mujadady: fcd92ab0
+      Rahmatullah Mangal: ec106638
+      Rizwan Akram: b5346f1e
+      S Santhirakumaran: 67721a32
+      Sahir Naqash: 352e589f
+      Talha Khan: 8e5a1a7a
+      U Shahid: 2a853aa5
+      Usman Khan: e8a552ef
+      V Ganesan: baa7dd37
+      VB Chikkannaiah: 8e81b773
+      Vinay Malhotra: 452837d1
+      Virk Ali: f7f7bee0
+  teams:
+  - France
+  - Germany
+  toss:
+    decision: field
+    winner: Germany
+  umpires:
+  - Rizwan Akram
+  - Vinay Malhotra
+  venue: Bayer Uerdingen Cricket Ground
+innings:
+- 1st innings:
+    team: France
+    deliveries:
+    - 0.1:
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Santhirakumaran
+        batsman: U Shahid
+    - 0.2:
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Santhirakumaran
+        batsman: U Shahid
+    - 0.3:
+        non_striker: U Shahid
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Santhirakumaran
+    - 0.4:
+        non_striker: U Shahid
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Santhirakumaran
+    - 0.5:
+        non_striker: U Shahid
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Santhirakumaran
+    - 0.6:
+        non_striker: U Shahid
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Santhirakumaran
+    - 1.1:
+        non_striker: S Santhirakumaran
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Shahid
+    - 1.2:
+        non_striker: S Santhirakumaran
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Shahid
+        wicket:
+          player_out: U Shahid
+          fielders:
+          - Abdul-Shakoor Rahimzei
+          kind: caught
+    - 1.3:
+        non_striker: S Santhirakumaran
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virk Ali
+    - 1.4:
+        non_striker: Virk Ali
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Santhirakumaran
+    - 1.5:
+        non_striker: Virk Ali
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Santhirakumaran
+    - 1.6:
+        non_striker: Virk Ali
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Santhirakumaran
+    - 2.1:
+        non_striker: S Santhirakumaran
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virk Ali
+    - 2.2:
+        non_striker: S Santhirakumaran
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virk Ali
+    - 2.3:
+        non_striker: S Santhirakumaran
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virk Ali
+    - 2.4:
+        non_striker: S Santhirakumaran
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virk Ali
+    - 2.5:
+        non_striker: S Santhirakumaran
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virk Ali
+    - 2.6:
+        non_striker: S Santhirakumaran
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virk Ali
+    - 3.1:
+        non_striker: S Santhirakumaran
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virk Ali
+    - 3.2:
+        non_striker: Virk Ali
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Santhirakumaran
+    - 3.3:
+        non_striker: Virk Ali
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Santhirakumaran
+    - 3.4:
+        non_striker: Virk Ali
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Santhirakumaran
+    - 3.5:
+        non_striker: Virk Ali
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Santhirakumaran
+    - 3.6:
+        non_striker: S Santhirakumaran
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virk Ali
+    - 4.1:
+        non_striker: Virk Ali
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Santhirakumaran
+    - 4.2:
+        non_striker: Virk Ali
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Santhirakumaran
+    - 4.3:
+        non_striker: S Santhirakumaran
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virk Ali
+    - 4.4:
+        non_striker: S Santhirakumaran
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virk Ali
+        wicket:
+          player_out: Virk Ali
+          fielders:
+          - V Ganesan
+          kind: caught
+    - 4.5:
+        non_striker: S Santhirakumaran
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 4.6:
+        non_striker: S Santhirakumaran
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 5.1:
+        non_striker: S Santhirakumaran
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 5.2:
+        non_striker: S Santhirakumaran
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 5.3:
+        non_striker: Usman Khan
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Santhirakumaran
+    - 5.4:
+        non_striker: S Santhirakumaran
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+    - 5.5:
+        non_striker: S Santhirakumaran
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 5.6:
+        non_striker: S Santhirakumaran
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 6.1:
+        non_striker: Usman Khan
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Santhirakumaran
+    - 6.2:
+        non_striker: S Santhirakumaran
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 6.3:
+        non_striker: Usman Khan
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Santhirakumaran
+    - 6.4:
+        non_striker: Usman Khan
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Santhirakumaran
+    - 6.5:
+        non_striker: Usman Khan
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Santhirakumaran
+    - 6.6:
+        non_striker: Usman Khan
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Santhirakumaran
+    - 7.1:
+        non_striker: S Santhirakumaran
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 7.2:
+        non_striker: S Santhirakumaran
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 7.3:
+        non_striker: Usman Khan
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Santhirakumaran
+    - 7.4:
+        non_striker: S Santhirakumaran
+        bowler: Israr Khan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Usman Khan
+    - 7.5:
+        non_striker: Usman Khan
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Santhirakumaran
+    - 7.6:
+        non_striker: Usman Khan
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Santhirakumaran
+    - 7.7:
+        non_striker: Usman Khan
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Santhirakumaran
+    - 8.1:
+        non_striker: S Santhirakumaran
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 8.2:
+        non_striker: S Santhirakumaran
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 8.3:
+        non_striker: Usman Khan
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Santhirakumaran
+    - 8.4:
+        non_striker: S Santhirakumaran
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 8.5:
+        non_striker: S Santhirakumaran
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 8.6:
+        non_striker: S Santhirakumaran
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 9.1:
+        non_striker: Usman Khan
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Santhirakumaran
+    - 9.2:
+        non_striker: S Santhirakumaran
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 9.3:
+        non_striker: Usman Khan
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Santhirakumaran
+    - 9.4:
+        non_striker: Usman Khan
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Santhirakumaran
+    - 9.5:
+        non_striker: S Santhirakumaran
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 9.6:
+        non_striker: S Santhirakumaran
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+    - 10.1:
+        non_striker: Usman Khan
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Santhirakumaran
+    - 10.2:
+        non_striker: S Santhirakumaran
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+    - 10.3:
+        non_striker: S Santhirakumaran
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 10.4:
+        non_striker: S Santhirakumaran
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 10.5:
+        non_striker: S Santhirakumaran
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 10.6:
+        non_striker: S Santhirakumaran
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 11.1:
+        non_striker: S Santhirakumaran
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 11.2:
+        non_striker: S Santhirakumaran
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+        wicket:
+          player_out: Usman Khan
+          kind: bowled
+    - 11.3:
+        non_striker: S Santhirakumaran
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mustafa Omer
+    - 11.4:
+        non_striker: Mustafa Omer
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Santhirakumaran
+    - 11.5:
+        non_striker: Mustafa Omer
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Santhirakumaran
+    - 11.6:
+        non_striker: Mustafa Omer
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Santhirakumaran
+    - 12.1:
+        non_striker: S Santhirakumaran
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafa Omer
+    - 12.2:
+        non_striker: S Santhirakumaran
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafa Omer
+        wicket:
+          player_out: S Santhirakumaran
+          kind: run out
+    - 12.3:
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Noman Amjad
+        batsman: Mustafa Omer
+    - 12.4:
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Noman Amjad
+        batsman: Mustafa Omer
+    - 12.5:
+        non_striker: Mustafa Omer
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+        wicket:
+          player_out: Noman Amjad
+          kind: lbw
+    - 12.6:
+        non_striker: Mustafa Omer
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 13.1:
+        non_striker: HA Jackson
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafa Omer
+    - 13.2:
+        non_striker: HA Jackson
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mustafa Omer
+    - 13.3:
+        non_striker: Mustafa Omer
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 13.4:
+        non_striker: Mustafa Omer
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 13.5:
+        non_striker: Mustafa Omer
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 13.6:
+        non_striker: Mustafa Omer
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HA Jackson
+    - 14.1:
+        non_striker: Mustafa Omer
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HA Jackson
+    - 14.2:
+        non_striker: HA Jackson
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafa Omer
+    - 14.3:
+        non_striker: HA Jackson
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafa Omer
+    - 14.4:
+        non_striker: HA Jackson
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mustafa Omer
+    - 14.5:
+        non_striker: Mustafa Omer
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+        wicket:
+          player_out: HA Jackson
+          fielders:
+          - Sahir Naqash
+          kind: caught
+    - 14.6:
+        non_striker: Mustafa Omer
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jubaid Ahamed
+    - 15.1:
+        non_striker: Jubaid Ahamed
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafa Omer
+        wicket:
+          player_out: Mustafa Omer
+          kind: lbw
+    - 15.2:
+        non_striker: Jubaid Ahamed
+        bowler: Sahir Naqash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mobashar Ashraf
+    - 15.3:
+        non_striker: Jubaid Ahamed
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mobashar Ashraf
+    - 15.4:
+        non_striker: Jubaid Ahamed
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mobashar Ashraf
+    - 15.5:
+        non_striker: Mobashar Ashraf
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jubaid Ahamed
+    - 15.6:
+        non_striker: Mobashar Ashraf
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jubaid Ahamed
+    - 15.7:
+        non_striker: Jubaid Ahamed
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mobashar Ashraf
+    - 16.1:
+        non_striker: Jubaid Ahamed
+        bowler: DA Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mobashar Ashraf
+        wicket:
+          player_out: Mobashar Ashraf
+          fielders:
+          - V Ganesan
+          kind: caught
+    - 16.2:
+        bowler: DA Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Rahmatullah Mangal
+        batsman: Jubaid Ahamed
+    - 16.3:
+        non_striker: Jubaid Ahamed
+        bowler: DA Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmatullah Mangal
+    - 16.4:
+        non_striker: Rahmatullah Mangal
+        bowler: DA Blignaut
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jubaid Ahamed
+    - 16.5:
+        non_striker: Rahmatullah Mangal
+        bowler: DA Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jubaid Ahamed
+    - 16.6:
+        non_striker: Rahmatullah Mangal
+        bowler: DA Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jubaid Ahamed
+    - 17.1:
+        non_striker: Rahmatullah Mangal
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jubaid Ahamed
+    - 17.2:
+        non_striker: Jubaid Ahamed
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmatullah Mangal
+    - 17.3:
+        non_striker: Jubaid Ahamed
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmatullah Mangal
+    - 17.4:
+        non_striker: Rahmatullah Mangal
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jubaid Ahamed
+    - 17.5:
+        non_striker: Rahmatullah Mangal
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jubaid Ahamed
+        wicket:
+          player_out: Jubaid Ahamed
+          kind: run out
+    - 17.6:
+        non_striker: Rahmatullah Mangal
+        bowler: Sahir Naqash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Dawood Ahmadzai
+    - 17.7:
+        non_striker: Rahmatullah Mangal
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dawood Ahmadzai
+- 2nd innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Abdul-Shakoor Rahimzei
+        batsman: VB Chikkannaiah
+    - 0.2:
+        non_striker: VB Chikkannaiah
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul-Shakoor Rahimzei
+    - 0.3:
+        non_striker: VB Chikkannaiah
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul-Shakoor Rahimzei
+        wicket:
+          player_out: Abdul-Shakoor Rahimzei
+          fielders:
+          - HA Jackson
+          kind: stumped
+    - 0.4:
+        non_striker: VB Chikkannaiah
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Talha Khan
+    - 0.5:
+        non_striker: VB Chikkannaiah
+        bowler: U Shahid
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Talha Khan
+    - 0.6:
+        non_striker: VB Chikkannaiah
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Talha Khan
+    - 0.7:
+        non_striker: Talha Khan
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VB Chikkannaiah
+    - 1.1:
+        non_striker: VB Chikkannaiah
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Talha Khan
+    - 1.2:
+        non_striker: VB Chikkannaiah
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Talha Khan
+    - 1.3:
+        non_striker: Talha Khan
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VB Chikkannaiah
+    - 1.4:
+        non_striker: VB Chikkannaiah
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Talha Khan
+    - 1.5:
+        non_striker: VB Chikkannaiah
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Talha Khan
+        wicket:
+          player_out: Talha Khan
+          fielders:
+          - Rahmatullah Mangal
+          kind: caught
+    - 1.6:
+        non_striker: DA Blignaut
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Chikkannaiah
+    - 2.1:
+        non_striker: VB Chikkannaiah
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Blignaut
+    - 2.2:
+        non_striker: VB Chikkannaiah
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Blignaut
+    - 2.3:
+        non_striker: DA Blignaut
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Chikkannaiah
+        wicket:
+          player_out: VB Chikkannaiah
+          fielders:
+          - Jubaid Ahamed
+          kind: caught
+    - 2.4:
+        non_striker: DA Blignaut
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 2.5:
+        non_striker: DA Blignaut
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 2.6:
+        non_striker: DA Blignaut
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 3.1:
+        non_striker: H Singh
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DA Blignaut
+    - 3.2:
+        non_striker: DA Blignaut
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 3.3:
+        non_striker: H Singh
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Blignaut
+    - 3.4:
+        non_striker: H Singh
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Blignaut
+    - 3.5:
+        non_striker: H Singh
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Blignaut
+    - 3.6:
+        non_striker: DA Blignaut
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 4.1:
+        non_striker: H Singh
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Blignaut
+        wicket:
+          player_out: DA Blignaut
+          kind: bowled
+    - 4.2:
+        non_striker: H Singh
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+    - 4.3:
+        non_striker: H Singh
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+    - 4.4:
+        non_striker: H Singh
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+    - 4.5:
+        non_striker: H Singh
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+    - 4.6:
+        non_striker: H Singh
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Ganesan
+    - 5.1:
+        non_striker: V Ganesan
+        bowler: Usman Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Singh
+    - 5.2:
+        non_striker: V Ganesan
+        bowler: Usman Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Singh
+    - 5.3:
+        non_striker: V Ganesan
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+        wicket:
+          player_out: V Ganesan
+          kind: run out
+    - 5.4:
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Sahir Naqash
+        batsman: H Singh
+    - 5.5:
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sahir Naqash
+        batsman: H Singh
+    - 5.6:
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sahir Naqash
+        batsman: H Singh
+    - 5.7:
+        non_striker: H Singh
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahir Naqash
+    - 5.8:
+        non_striker: H Singh
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahir Naqash
+    - 6.1:
+        non_striker: Sahir Naqash
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 6.2:
+        non_striker: Sahir Naqash
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: H Singh
+    - 6.3:
+        non_striker: H Singh
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahir Naqash
+    - 6.4:
+        non_striker: Sahir Naqash
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 6.5:
+        non_striker: Sahir Naqash
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 6.6:
+        non_striker: Sahir Naqash
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 7.1:
+        non_striker: H Singh
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahir Naqash
+    - 7.2:
+        non_striker: Sahir Naqash
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 7.3:
+        non_striker: Sahir Naqash
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: H Singh
+    - 7.4:
+        non_striker: H Singh
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahir Naqash
+    - 7.5:
+        non_striker: H Singh
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahir Naqash
+    - 7.6:
+        non_striker: H Singh
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahir Naqash
+    - 8.1:
+        non_striker: Sahir Naqash
+        bowler: Mobashar Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 8.2:
+        non_striker: H Singh
+        bowler: Mobashar Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahir Naqash
+    - 8.3:
+        non_striker: Sahir Naqash
+        bowler: Mobashar Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 8.4:
+        non_striker: H Singh
+        bowler: Mobashar Ashraf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahir Naqash
+    - 8.5:
+        non_striker: H Singh
+        bowler: Mobashar Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahir Naqash
+    - 8.6:
+        non_striker: H Singh
+        bowler: Mobashar Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahir Naqash
+        wicket:
+          player_out: Sahir Naqash
+          kind: bowled
+    - 9.1:
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Srinivasan
+        batsman: H Singh
+    - 9.2:
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: H Srinivasan
+        batsman: H Singh
+    - 9.3:
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Srinivasan
+        batsman: H Singh
+    - 9.4:
+        non_striker: H Singh
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Srinivasan
+    - 9.5:
+        non_striker: H Srinivasan
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 9.6:
+        non_striker: H Srinivasan
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 10.1:
+        non_striker: H Srinivasan
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 10.2:
+        non_striker: H Singh
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Srinivasan
+    - 10.3:
+        non_striker: H Singh
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Srinivasan
+    - 10.4:
+        non_striker: H Srinivasan
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 10.5:
+        non_striker: H Srinivasan
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 10.6:
+        non_striker: H Singh
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Srinivasan
+        wicket:
+          player_out: H Srinivasan
+          fielders:
+          - Mustafa Omer
+          kind: caught
+    - 11.1:
+        bowler: Mobashar Ashraf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Nooruddin Mujadady
+        batsman: H Singh
+    - 11.2:
+        bowler: Mobashar Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Nooruddin Mujadady
+        batsman: H Singh
+    - 11.3:
+        bowler: Mobashar Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Nooruddin Mujadady
+        batsman: H Singh
+    - 11.4:
+        bowler: Mobashar Ashraf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Nooruddin Mujadady
+        batsman: H Singh
+    - 11.5:
+        bowler: Mobashar Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Nooruddin Mujadady
+        batsman: H Singh
+    - 11.6:
+        non_striker: Nooruddin Mujadady
+        bowler: Mobashar Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+        wicket:
+          player_out: Nooruddin Mujadady
+          kind: run out
+    - 12.1:
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Ghulam Ahmadi
+        batsman: H Singh
+    - 12.2:
+        bowler: U Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Ghulam Ahmadi
+        batsman: H Singh

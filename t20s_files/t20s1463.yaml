@@ -1,0 +1,2103 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-03-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Napier
+  dates:
+  - '2021-03-30'
+  gender: female
+  match_type: T20
+  match_type_number: 890
+  outcome:
+    winner: New Zealand
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - FL Mackay
+  players:
+    Australia:
+    - AJ Healy
+    - BL Mooney
+    - MM Lanning
+    - RL Haynes
+    - A Gardner
+    - EA Perry
+    - NJ Carey
+    - G Wareham
+    - JL Jonassen
+    - ML Schutt
+    - D Brown
+    New Zealand:
+    - FL Mackay
+    - HNK Jensen
+    - AE Satterthwaite
+    - AC Kerr
+    - KJ Martin
+    - BM Halliday
+    - ML Green
+    - HM Rowe
+    - TMM Newton
+    - JM Kerr
+    - RA Mair
+  registry:
+    people:
+      A Gardner: bc969efb
+      AC Kerr: 7673c908
+      AE Satterthwaite: 72b7ed1e
+      AJ Healy: 321644de
+      BL Mooney: 52d1dbc8
+      BM Halliday: efb6cb2a
+      C Black: 75b42f71
+      D Brown: 2e81be88
+      Damian Morrow: 0fb1f503
+      EA Perry: be150fc8
+      FL Mackay: 7391f160
+      G Wareham: f0b4e47d
+      GAV Baxter: cb4b3ab0
+      HM Rowe: 8ca1f93a
+      HNK Jensen: b8cce99f
+      JL Jonassen: 0475a86b
+      JM Dempsey: 153c9f33
+      JM Kerr: 9af58032
+      KJ Martin: cf75a839
+      Kim Cotton: 67a7c2ee
+      ML Green: 865eae1f
+      ML Schutt: 17608a6f
+      MM Lanning: 27e003ce
+      NJ Carey: dff806f4
+      RA Mair: d5eb8b84
+      RL Haynes: d7c6b0fb
+      TMM Newton: 93fe473e
+  teams:
+  - Australia
+  - New Zealand
+  toss:
+    decision: field
+    winner: New Zealand
+  umpires:
+  - JM Dempsey
+  - Kim Cotton
+  venue: McLean Park
+innings:
+- 1st innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BL Mooney
+        batsman: AJ Healy
+    - 0.2:
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BL Mooney
+        batsman: AJ Healy
+    - 0.3:
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BL Mooney
+        batsman: AJ Healy
+    - 0.4:
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BL Mooney
+        batsman: AJ Healy
+    - 0.5:
+        non_striker: AJ Healy
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 0.6:
+        non_striker: AJ Healy
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 1.1:
+        non_striker: AJ Healy
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 1.2:
+        non_striker: BL Mooney
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 1.3:
+        non_striker: AJ Healy
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 1.4:
+        non_striker: AJ Healy
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 1.5:
+        non_striker: AJ Healy
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 1.6:
+        non_striker: AJ Healy
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 2.1:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 2.2:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 2.3:
+        non_striker: AJ Healy
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 2.4:
+        non_striker: AJ Healy
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 2.5:
+        non_striker: AJ Healy
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 2.6:
+        non_striker: AJ Healy
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 3.1:
+        non_striker: BL Mooney
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 3.2:
+        non_striker: AJ Healy
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 3.3:
+        non_striker: BL Mooney
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 3.4:
+        non_striker: BL Mooney
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 3.5:
+        non_striker: BL Mooney
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+        wicket:
+          player_out: AJ Healy
+          fielders:
+          - KJ Martin
+          kind: caught
+    - 3.6:
+        non_striker: BL Mooney
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 4.1:
+        non_striker: MM Lanning
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 4.2:
+        non_striker: MM Lanning
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 4.3:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 4.4:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 4.5:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MM Lanning
+    - 4.6:
+        non_striker: MM Lanning
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 5.1:
+        non_striker: BL Mooney
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 5.2:
+        non_striker: BL Mooney
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Lanning
+    - 5.3:
+        non_striker: BL Mooney
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 5.4:
+        non_striker: BL Mooney
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 5.5:
+        non_striker: BL Mooney
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MM Lanning
+    - 5.6:
+        non_striker: BL Mooney
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 6.1:
+        non_striker: MM Lanning
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 6.2:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Lanning
+    - 6.3:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 6.4:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 6.5:
+        non_striker: MM Lanning
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 6.6:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 7.1:
+        non_striker: MM Lanning
+        bowler: JM Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BL Mooney
+    - 7.2:
+        non_striker: BL Mooney
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 7.3:
+        non_striker: BL Mooney
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 7.4:
+        non_striker: BL Mooney
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 7.5:
+        non_striker: MM Lanning
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 7.6:
+        non_striker: MM Lanning
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 8.1:
+        non_striker: MM Lanning
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 8.2:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 8.3:
+        non_striker: MM Lanning
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 8.4:
+        non_striker: MM Lanning
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 8.5:
+        non_striker: MM Lanning
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 8.6:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Lanning
+    - 9.1:
+        non_striker: MM Lanning
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 9.2:
+        non_striker: BL Mooney
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 9.3:
+        non_striker: MM Lanning
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BL Mooney
+    - 9.4:
+        non_striker: BL Mooney
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 9.5:
+        non_striker: BL Mooney
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Lanning
+    - 9.6:
+        non_striker: BL Mooney
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 10.1:
+        non_striker: MM Lanning
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BL Mooney
+    - 10.2:
+        non_striker: MM Lanning
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 10.3:
+        non_striker: BL Mooney
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 10.4:
+        non_striker: BL Mooney
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 10.5:
+        non_striker: MM Lanning
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+        wicket:
+          player_out: MM Lanning
+          kind: run out
+    - 10.6:
+        non_striker: BL Mooney
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 11.1:
+        non_striker: RL Haynes
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 11.2:
+        non_striker: RL Haynes
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BL Mooney
+    - 11.3:
+        non_striker: RL Haynes
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 11.4:
+        non_striker: BL Mooney
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Haynes
+    - 11.5:
+        non_striker: BL Mooney
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 11.6:
+        non_striker: BL Mooney
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 12.1:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 12.2:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Haynes
+    - 12.3:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 12.4:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 12.5:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 12.6:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 13.1:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 13.2:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BL Mooney
+    - 13.3:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 13.4:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 13.5:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Haynes
+    - 13.6:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 13.7:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 14.1:
+        non_striker: BL Mooney
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 14.2:
+        non_striker: RL Haynes
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 14.3:
+        non_striker: RL Haynes
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 14.4:
+        non_striker: RL Haynes
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 14.5:
+        non_striker: BL Mooney
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 14.6:
+        non_striker: BL Mooney
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Haynes
+    - 15.1:
+        non_striker: RL Haynes
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 15.2:
+        non_striker: BL Mooney
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 15.3:
+        non_striker: BL Mooney
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 15.4:
+        non_striker: RL Haynes
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 15.5:
+        non_striker: BL Mooney
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 15.6:
+        non_striker: RL Haynes
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BL Mooney
+    - 16.1:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 16.2:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 16.3:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 16.4:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 16.5:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 16.6:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 17.1:
+        non_striker: BL Mooney
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 17.2:
+        non_striker: RL Haynes
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 17.3:
+        non_striker: RL Haynes
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 17.4:
+        non_striker: RL Haynes
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 17.5:
+        non_striker: BL Mooney
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 17.6:
+        non_striker: BL Mooney
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 18.1:
+        non_striker: BL Mooney
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Haynes
+    - 18.2:
+        non_striker: BL Mooney
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+        wicket:
+          player_out: RL Haynes
+          fielders:
+          - JM Kerr
+          kind: caught
+    - 18.3:
+        non_striker: BL Mooney
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 18.4:
+        non_striker: A Gardner
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 18.5:
+        non_striker: BL Mooney
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Gardner
+    - 18.6:
+        non_striker: BL Mooney
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+        wicket:
+          player_out: A Gardner
+          fielders:
+          - KJ Martin
+          kind: caught
+    - 19.1:
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: EA Perry
+        batsman: BL Mooney
+    - 19.2:
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: EA Perry
+        batsman: BL Mooney
+    - 19.3:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 19.4:
+        non_striker: EA Perry
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 19.5:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 19.6:
+        non_striker: EA Perry
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+- 2nd innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HNK Jensen
+        batsman: FL Mackay
+    - 0.2:
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HNK Jensen
+        batsman: FL Mackay
+    - 0.3:
+        non_striker: FL Mackay
+        bowler: ML Schutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HNK Jensen
+    - 0.4:
+        non_striker: HNK Jensen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 0.5:
+        non_striker: FL Mackay
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 0.6:
+        non_striker: FL Mackay
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 1.1:
+        non_striker: FL Mackay
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 1.2:
+        non_striker: FL Mackay
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 1.3:
+        non_striker: HNK Jensen
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 1.4:
+        non_striker: FL Mackay
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 1.5:
+        non_striker: FL Mackay
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 1.6:
+        non_striker: FL Mackay
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 2.1:
+        non_striker: HNK Jensen
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FL Mackay
+    - 2.2:
+        non_striker: HNK Jensen
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: FL Mackay
+    - 2.3:
+        non_striker: FL Mackay
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 2.4:
+        non_striker: FL Mackay
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 2.5:
+        non_striker: FL Mackay
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 2.6:
+        non_striker: HNK Jensen
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 2.7:
+        non_striker: FL Mackay
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+        wicket:
+          player_out: HNK Jensen
+          fielders:
+          - MM Lanning
+          kind: caught
+    - 3.1:
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AE Satterthwaite
+        batsman: FL Mackay
+    - 3.2:
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AE Satterthwaite
+        batsman: FL Mackay
+    - 3.3:
+        non_striker: FL Mackay
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 3.4:
+        non_striker: FL Mackay
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 3.5:
+        non_striker: FL Mackay
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 3.6:
+        non_striker: AE Satterthwaite
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 4.1:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 4.2:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 4.3:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 4.4:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 4.5:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 4.6:
+        non_striker: FL Mackay
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Satterthwaite
+    - 5.1:
+        non_striker: AE Satterthwaite
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 5.2:
+        non_striker: AE Satterthwaite
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FL Mackay
+    - 5.3:
+        non_striker: AE Satterthwaite
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 5.4:
+        non_striker: FL Mackay
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 5.5:
+        non_striker: AE Satterthwaite
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 5.6:
+        non_striker: AE Satterthwaite
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 5.7:
+        non_striker: AE Satterthwaite
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FL Mackay
+    - 6.1:
+        non_striker: FL Mackay
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+        wicket:
+          player_out: AE Satterthwaite
+          fielders:
+          - BL Mooney
+          kind: caught
+    - 6.2:
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AC Kerr
+        batsman: FL Mackay
+    - 6.3:
+        non_striker: FL Mackay
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 6.4:
+        non_striker: FL Mackay
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 6.5:
+        non_striker: AC Kerr
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FL Mackay
+    - 6.6:
+        non_striker: AC Kerr
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 7.1:
+        non_striker: AC Kerr
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 7.2:
+        non_striker: FL Mackay
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 7.3:
+        non_striker: FL Mackay
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 7.4:
+        non_striker: AC Kerr
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 7.5:
+        non_striker: AC Kerr
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 7.6:
+        non_striker: FL Mackay
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 8.1:
+        non_striker: AC Kerr
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FL Mackay
+    - 8.2:
+        non_striker: AC Kerr
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 8.3:
+        non_striker: AC Kerr
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 8.4:
+        non_striker: FL Mackay
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 8.5:
+        non_striker: AC Kerr
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 8.6:
+        non_striker: AC Kerr
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 9.1:
+        non_striker: AC Kerr
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 9.2:
+        non_striker: FL Mackay
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 9.3:
+        non_striker: FL Mackay
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 9.4:
+        non_striker: AC Kerr
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FL Mackay
+    - 9.5:
+        non_striker: AC Kerr
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 9.6:
+        non_striker: FL Mackay
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.1:
+        non_striker: FL Mackay
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.2:
+        non_striker: AC Kerr
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 10.3:
+        non_striker: AC Kerr
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 10.4:
+        non_striker: FL Mackay
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 10.5:
+        non_striker: FL Mackay
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.6:
+        non_striker: FL Mackay
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.1:
+        non_striker: FL Mackay
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 11.2:
+        non_striker: FL Mackay
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 11.3:
+        non_striker: FL Mackay
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.4:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FL Mackay
+    - 11.5:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FL Mackay
+    - 11.6:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FL Mackay
+    - 11.7:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+        wicket:
+          player_out: FL Mackay
+          fielders:
+          - BL Mooney
+          kind: caught
+    - 12.1:
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KJ Martin
+        batsman: AC Kerr
+    - 12.2:
+        non_striker: AC Kerr
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 12.3:
+        non_striker: AC Kerr
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 12.4:
+        non_striker: KJ Martin
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.5:
+        non_striker: AC Kerr
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 12.6:
+        non_striker: AC Kerr
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 13.1:
+        non_striker: AC Kerr
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 13.2:
+        non_striker: AC Kerr
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 13.3:
+        non_striker: KJ Martin
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 13.4:
+        non_striker: KJ Martin
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 13.5:
+        non_striker: KJ Martin
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.6:
+        non_striker: AC Kerr
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 14.1:
+        non_striker: KJ Martin
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.2:
+        non_striker: AC Kerr
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 14.3:
+        non_striker: KJ Martin
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.4:
+        non_striker: AC Kerr
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 14.5:
+        non_striker: KJ Martin
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.6:
+        non_striker: AC Kerr
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 15.1:
+        non_striker: KJ Martin
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 15.2:
+        non_striker: KJ Martin
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 15.3:
+        non_striker: KJ Martin
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 15.4:
+        non_striker: KJ Martin
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.5:
+        non_striker: AC Kerr
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+        wicket:
+          player_out: KJ Martin
+          fielders:
+          - NJ Carey
+          kind: caught
+    - 15.6:
+        non_striker: BM Halliday
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 16.1:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 16.2:
+        non_striker: BM Halliday
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 16.3:
+        non_striker: BM Halliday
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 16.4:
+        non_striker: BM Halliday
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 16.5:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+        wicket:
+          player_out: BM Halliday
+          fielders:
+          - AJ Healy
+          kind: caught
+    - 16.6:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          kind: bowled
+    - 17.1:
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HM Rowe
+        batsman: ML Green
+    - 17.2:
+        non_striker: ML Green
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 17.3:
+        non_striker: ML Green
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 17.4:
+        non_striker: HM Rowe
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 17.5:
+        non_striker: HM Rowe
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 17.6:
+        non_striker: ML Green
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 18.1:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 18.2:
+        non_striker: HM Rowe
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 18.3:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 18.4:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Rowe
+    - 18.5:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Rowe
+    - 18.6:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Rowe
+    - 19.1:
+        non_striker: HM Rowe
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 19.2:
+        non_striker: HM Rowe
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 19.3:
+        non_striker: HM Rowe
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 19.4:
+        non_striker: ML Green
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 19.5:
+        non_striker: ML Green
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 19.6:
+        non_striker: HM Rowe
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green

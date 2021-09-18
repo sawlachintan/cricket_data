@@ -1,0 +1,1755 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-04-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Windhoek
+  dates:
+  - '2021-04-05'
+  gender: male
+  match_type: T20
+  match_type_number: 1143
+  outcome:
+    winner: Namibia
+    by:
+      runs: 20
+    method: D/L
+  overs: 20
+  player_of_match:
+  - JJ Smit
+  players:
+    Namibia:
+    - CG Williams
+    - BM Scholtz
+    - JN Frylinck
+    - MG Erasmus
+    - T Lungameni
+    - JP Kotze
+    - JJ Smit
+    - MD du Preez
+    - K Birkenstock
+    - B Shikongo
+    - JN Loftie-Eaton
+    Uganda:
+    - F Nsubuga
+    - RG Mukasa
+    - J Sebanja
+    - A Otwani
+    - DM Nakrani
+    - K Waiswa
+    - F Akankwasa
+    - C Kyewuta
+    - Riazat Ali Shah
+    - RB Patel
+    - Saud Islam
+  registry:
+    people:
+      A Louw: 5eecae5d
+      A Otwani: 6727fb4d
+      B Shikongo: c26cd57a
+      BM Scholtz: e85d03d6
+      C Kyewuta: 395695ce
+      CG Williams: e16e7347
+      Claus Schumacher: 85645e62
+      DM Nakrani: 46a7ac78
+      F Akankwasa: 0d0f0385
+      F Nsubuga: 87e33d07
+      J Sebanja: 1e78c51c
+      JJ Smit: bb134e5c
+      JN Frylinck: 3c87f0c3
+      JN Loftie-Eaton: f468293b
+      JP Kotze: 9f308dfc
+      K Birkenstock: 27b8d7b6
+      K Waiswa: a3a275ec
+      MD du Preez: e5ad357a
+      MG Erasmus: 95a5e066
+      Marthinus Louw: f1828fe8
+      RB Patel: f88dc8de
+      RG Mukasa: 011f6b42
+      Riazat Ali Shah: 269cc4ff
+      Saud Islam: ae5a7eb5
+      T Lungameni: 1688f2dc
+  teams:
+  - Namibia
+  - Uganda
+  toss:
+    decision: bat
+    winner: Namibia
+  umpires:
+  - Claus Schumacher
+  - Marthinus Louw
+  venue: Wanderers Cricket Ground, Windhoek
+innings:
+- 1st innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CG Williams
+        batsman: JP Kotze
+    - 0.2:
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CG Williams
+        batsman: JP Kotze
+    - 0.3:
+        non_striker: JP Kotze
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 0.4:
+        non_striker: JP Kotze
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 0.5:
+        non_striker: JP Kotze
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 0.6:
+        non_striker: JP Kotze
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 1.1:
+        non_striker: CG Williams
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 1.2:
+        non_striker: CG Williams
+        bowler: J Sebanja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JP Kotze
+    - 1.3:
+        non_striker: JP Kotze
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 1.4:
+        non_striker: JP Kotze
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Williams
+    - 1.5:
+        non_striker: JP Kotze
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 1.6:
+        non_striker: CG Williams
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 2.1:
+        non_striker: JP Kotze
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Williams
+    - 2.2:
+        non_striker: JP Kotze
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 2.3:
+        non_striker: CG Williams
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 2.4:
+        non_striker: CG Williams
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kotze
+    - 2.5:
+        non_striker: JP Kotze
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+        wicket:
+          player_out: CG Williams
+          fielders:
+          - Saud Islam
+          kind: caught
+    - 2.6:
+        non_striker: JP Kotze
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 3.1:
+        non_striker: JP Kotze
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 3.2:
+        non_striker: JP Kotze
+        bowler: J Sebanja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MG Erasmus
+    - 3.3:
+        non_striker: JP Kotze
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 3.4:
+        non_striker: JP Kotze
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 3.5:
+        non_striker: MG Erasmus
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+        wicket:
+          player_out: JP Kotze
+          fielders:
+          - DM Nakrani
+          kind: caught
+    - 3.6:
+        non_striker: MG Erasmus
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 3.7:
+        non_striker: MG Erasmus
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 4.1:
+        non_striker: MG Erasmus
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 4.2:
+        non_striker: JN Loftie-Eaton
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 4.3:
+        non_striker: JN Loftie-Eaton
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 4.4:
+        non_striker: JN Loftie-Eaton
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 4.5:
+        non_striker: JN Loftie-Eaton
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 4.6:
+        non_striker: JN Loftie-Eaton
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 5.1:
+        non_striker: MG Erasmus
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 5.2:
+        non_striker: JN Loftie-Eaton
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 5.3:
+        non_striker: MG Erasmus
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 5.4:
+        non_striker: JN Loftie-Eaton
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          fielders:
+          - A Otwani
+          kind: caught
+    - 5.5:
+        non_striker: JN Loftie-Eaton
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 5.6:
+        non_striker: JJ Smit
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 6.1:
+        non_striker: JN Loftie-Eaton
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 6.2:
+        non_striker: JJ Smit
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 6.3:
+        non_striker: JJ Smit
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 6.4:
+        non_striker: JN Loftie-Eaton
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 6.5:
+        non_striker: JJ Smit
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 6.6:
+        non_striker: JN Loftie-Eaton
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 7.1:
+        non_striker: JJ Smit
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+        wicket:
+          player_out: JN Loftie-Eaton
+          fielders:
+          - F Nsubuga
+          kind: caught
+    - 7.2:
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MD du Preez
+        batsman: JJ Smit
+    - 7.3:
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MD du Preez
+        batsman: JJ Smit
+    - 7.4:
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MD du Preez
+        batsman: JJ Smit
+    - 7.5:
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MD du Preez
+        batsman: JJ Smit
+    - 7.6:
+        non_striker: JJ Smit
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 8.1:
+        non_striker: MD du Preez
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 8.2:
+        non_striker: JJ Smit
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 8.3:
+        non_striker: JJ Smit
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 8.4:
+        non_striker: JJ Smit
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 8.5:
+        non_striker: JJ Smit
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 8.6:
+        non_striker: MD du Preez
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 9.1:
+        non_striker: MD du Preez
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 9.2:
+        non_striker: MD du Preez
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Smit
+    - 9.3:
+        non_striker: MD du Preez
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 9.4:
+        non_striker: JJ Smit
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 9.5:
+        non_striker: MD du Preez
+        bowler: J Sebanja
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: JJ Smit
+    - 9.6:
+        non_striker: JJ Smit
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 9.7:
+        non_striker: JJ Smit
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 10.1:
+        non_striker: JJ Smit
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 10.2:
+        non_striker: MD du Preez
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Smit
+    - 10.3:
+        non_striker: MD du Preez
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Smit
+    - 10.4:
+        non_striker: MD du Preez
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 10.5:
+        non_striker: MD du Preez
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 10.6:
+        non_striker: MD du Preez
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 11.1:
+        non_striker: MD du Preez
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 11.2:
+        non_striker: JJ Smit
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 11.3:
+        non_striker: JJ Smit
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 11.4:
+        non_striker: JJ Smit
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 11.5:
+        non_striker: MD du Preez
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 11.6:
+        non_striker: JJ Smit
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 12.1:
+        non_striker: MD du Preez
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 12.2:
+        non_striker: JJ Smit
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 12.3:
+        non_striker: JJ Smit
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 12.4:
+        non_striker: MD du Preez
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 12.5:
+        non_striker: JJ Smit
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MD du Preez
+    - 12.6:
+        non_striker: MD du Preez
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 13.1:
+        non_striker: MD du Preez
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 13.2:
+        non_striker: JJ Smit
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 13.3:
+        non_striker: JJ Smit
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 13.4:
+        non_striker: MD du Preez
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 13.5:
+        non_striker: JJ Smit
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD du Preez
+    - 13.6:
+        non_striker: JJ Smit
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 14.1:
+        non_striker: JJ Smit
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD du Preez
+    - 14.2:
+        non_striker: JJ Smit
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 14.3:
+        non_striker: JJ Smit
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 14.4:
+        non_striker: MD du Preez
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 14.5:
+        non_striker: JJ Smit
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 14.6:
+        non_striker: JJ Smit
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 15.1:
+        non_striker: MD du Preez
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 15.2:
+        non_striker: JJ Smit
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD du Preez
+    - 15.3:
+        non_striker: JJ Smit
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 15.4:
+        non_striker: MD du Preez
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 15.5:
+        non_striker: MD du Preez
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 15.6:
+        non_striker: MD du Preez
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 16.1:
+        non_striker: MD du Preez
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 16.2:
+        non_striker: MD du Preez
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+        wicket:
+          player_out: JJ Smit
+          kind: bowled
+    - 16.3:
+        non_striker: MD du Preez
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Birkenstock
+    - 16.4:
+        non_striker: MD du Preez
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Birkenstock
+    - 16.5:
+        non_striker: MD du Preez
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Birkenstock
+    - 16.6:
+        non_striker: MD du Preez
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Birkenstock
+    - 17.1:
+        non_striker: MD du Preez
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Birkenstock
+    - 17.2:
+        non_striker: MD du Preez
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Birkenstock
+    - 17.3:
+        non_striker: MD du Preez
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Birkenstock
+    - 17.4:
+        non_striker: MD du Preez
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Birkenstock
+    - 17.5:
+        non_striker: K Birkenstock
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 17.6:
+        non_striker: MD du Preez
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Birkenstock
+    - 18.1:
+        non_striker: K Birkenstock
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 18.2:
+        non_striker: MD du Preez
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Birkenstock
+    - 18.3:
+        non_striker: MD du Preez
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Birkenstock
+        wicket:
+          player_out: K Birkenstock
+          fielders:
+          - Saud Islam
+          kind: caught
+    - 18.4:
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JN Frylinck
+        batsman: MD du Preez
+    - 18.5:
+        non_striker: MD du Preez
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Frylinck
+    - 18.6:
+        non_striker: MD du Preez
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 19.1:
+        non_striker: JN Frylinck
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MD du Preez
+    - 19.2:
+        non_striker: MD du Preez
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: JN Frylinck
+    - 19.3:
+        non_striker: JN Frylinck
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD du Preez
+    - 19.4:
+        non_striker: JN Frylinck
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 19.5:
+        non_striker: MD du Preez
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Frylinck
+    - 19.6:
+        non_striker: MD du Preez
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Frylinck
+- 2nd innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Otwani
+        batsman: RG Mukasa
+    - 0.2:
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Otwani
+        batsman: RG Mukasa
+    - 0.3:
+        non_striker: RG Mukasa
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Otwani
+    - 0.4:
+        non_striker: RG Mukasa
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Otwani
+    - 0.5:
+        non_striker: RG Mukasa
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Otwani
+        wicket:
+          player_out: A Otwani
+          fielders:
+          - JP Kotze
+          kind: caught
+    - 0.6:
+        non_striker: RG Mukasa
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+    - 1.1:
+        non_striker: Saud Islam
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Mukasa
+    - 1.2:
+        non_striker: Saud Islam
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Mukasa
+    - 1.3:
+        non_striker: Saud Islam
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Mukasa
+    - 1.4:
+        non_striker: Saud Islam
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Mukasa
+        wicket:
+          player_out: RG Mukasa
+          kind: bowled
+    - 1.5:
+        non_striker: Saud Islam
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RB Patel
+    - 1.6:
+        non_striker: Saud Islam
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 2.1:
+        non_striker: RB Patel
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+    - 2.2:
+        non_striker: RB Patel
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+    - 2.3:
+        non_striker: RB Patel
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+    - 2.4:
+        non_striker: RB Patel
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Islam
+        wicket:
+          player_out: Saud Islam
+          kind: lbw
+    - 2.5:
+        non_striker: RB Patel
+        bowler: B Shikongo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DM Nakrani
+    - 2.6:
+        non_striker: RB Patel
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DM Nakrani
+    - 2.7:
+        non_striker: RB Patel
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+    - 3.1:
+        non_striker: DM Nakrani
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RB Patel
+    - 3.2:
+        non_striker: RB Patel
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+    - 3.3:
+        non_striker: RB Patel
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+    - 3.4:
+        non_striker: RB Patel
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+    - 3.5:
+        non_striker: RB Patel
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Nakrani
+    - 3.6:
+        non_striker: DM Nakrani
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 4.1:
+        non_striker: RB Patel
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+    - 4.2:
+        non_striker: RB Patel
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+    - 4.3:
+        non_striker: RB Patel
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+    - 4.4:
+        non_striker: RB Patel
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+        wicket:
+          player_out: DM Nakrani
+          fielders:
+          - JN Loftie-Eaton
+          kind: caught
+    - 4.5:
+        non_striker: RB Patel
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 4.6:
+        non_striker: RB Patel
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 5.1:
+        non_striker: K Waiswa
+        bowler: CG Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RB Patel
+    - 5.2:
+        non_striker: RB Patel
+        bowler: CG Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 5.3:
+        non_striker: RB Patel
+        bowler: CG Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 5.4:
+        non_striker: K Waiswa
+        bowler: CG Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RB Patel
+    - 5.5:
+        non_striker: RB Patel
+        bowler: CG Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 5.6:
+        non_striker: RB Patel
+        bowler: CG Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 6.1:
+        non_striker: K Waiswa
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 6.2:
+        non_striker: K Waiswa
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 6.3:
+        non_striker: K Waiswa
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RB Patel
+    - 6.4:
+        non_striker: RB Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 6.5:
+        non_striker: RB Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 6.6:
+        non_striker: RB Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Waiswa
+    - 7.1:
+        non_striker: RB Patel
+        bowler: K Birkenstock
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Waiswa
+    - 7.2:
+        non_striker: RB Patel
+        bowler: K Birkenstock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 7.3:
+        non_striker: K Waiswa
+        bowler: K Birkenstock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 7.4:
+        non_striker: K Waiswa
+        bowler: K Birkenstock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RB Patel
+    - 7.5:
+        non_striker: RB Patel
+        bowler: K Birkenstock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 7.6:
+        non_striker: K Waiswa
+        bowler: K Birkenstock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RB Patel
+    - 7.7:
+        non_striker: RB Patel
+        bowler: K Birkenstock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Waiswa
+    - 8.1:
+        non_striker: K Waiswa
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RB Patel
+    - 8.2:
+        non_striker: RB Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 8.3:
+        non_striker: RB Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Waiswa
+    - 8.4:
+        non_striker: RB Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 8.5:
+        non_striker: RB Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 8.6:
+        non_striker: RB Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 9.1:
+        non_striker: K Waiswa
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RB Patel
+    - 9.2:
+        non_striker: RB Patel
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 9.3:
+        non_striker: RB Patel
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 9.4:
+        non_striker: RB Patel
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 9.5:
+        non_striker: RB Patel
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 9.6:
+        non_striker: K Waiswa
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RB Patel
+    - 10.1:
+        non_striker: RB Patel
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 10.2:
+        non_striker: K Waiswa
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 10.3:
+        non_striker: K Waiswa
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RB Patel
+    - 10.4:
+        non_striker: RB Patel
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 10.5:
+        non_striker: RB Patel
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 10.6:
+        non_striker: K Waiswa
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RB Patel
+    - 11.1:
+        non_striker: K Waiswa
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RB Patel
+    - 11.2:
+        non_striker: RB Patel
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Waiswa
+    - 11.3:
+        non_striker: RB Patel
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 11.4:
+        non_striker: K Waiswa
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RB Patel
+    - 11.5:
+        non_striker: RB Patel
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Waiswa
+    - 11.6:
+        non_striker: RB Patel
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 12.1:
+        non_striker: RB Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Waiswa
+    - 12.2:
+        non_striker: RB Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 12.3:
+        non_striker: K Waiswa
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RB Patel
+    - 12.4:
+        non_striker: RB Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+        wicket:
+          player_out: K Waiswa
+          fielders:
+          - MG Erasmus
+          kind: caught

@@ -1,0 +1,2083 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-08-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dhaka
+  dates:
+  - '2021-08-07'
+  gender: male
+  match_type: T20
+  match_type_number: 1218
+  outcome:
+    winner: Australia
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - MJ Swepson
+  players:
+    Bangladesh:
+    - Mohammad Naim
+    - Soumya Sarkar
+    - Shakib Al Hasan
+    - Mahmudullah
+    - Nurul Hasan
+    - Afif Hossain
+    - Shamim Hossain
+    - Mahedi Hasan
+    - Nasum Ahmed
+    - Shoriful Islam
+    - Mustafizur Rahman
+    Australia:
+    - BR McDermott
+    - MS Wade
+    - DT Christian
+    - MR Marsh
+    - MC Henriques
+    - AT Carey
+    - AJ Turner
+    - AC Agar
+    - AJ Tye
+    - MJ Swepson
+    - JR Hazlewood
+  registry:
+    people:
+      AC Agar: a2421394
+      AJ Turner: ff1e12a0
+      AJ Tye: 7c7d63a2
+      AT Carey: 69d03465
+      Afif Hossain: '37138918'
+      BR McDermott: c41043e6
+      DT Christian: 2a2e6343
+      Gazi Sohel: f0df3ed7
+      JR Hazlewood: '03806cf8'
+      MC Henriques: 32198ae0
+      MJ Swepson: 86b4bf88
+      MR Marsh: 3d8feaf8
+      MS Wade: afa7e784
+      Mahedi Hasan: 9dad0f2e
+      Mahmudullah: bf1d7d3e
+      Masudur Rahman: 9581ac6b
+      Mohammad Naim: 7923a51d
+      Mustafizur Rahman: 0a8fce53
+      Nasum Ahmed: 37654b75
+      Neeyamur Rashid: bd81a027
+      Nurul Hasan: d365d463
+      Shakib Al Hasan: 7dc35884
+      Shamim Hossain: 711249d1
+      Sharfuddoula: 63896abb
+      Shoriful Islam: bb34fd31
+      Soumya Sarkar: 4d9f9686
+      Tanvir Ahmed: ea2df1f1
+  teams:
+  - Bangladesh
+  - Australia
+  toss:
+    decision: bat
+    winner: Bangladesh
+  umpires:
+  - Gazi Sohel
+  - Masudur Rahman
+  venue: Shere Bangla National Stadium, Mirpur
+innings:
+- 1st innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Soumya Sarkar
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 0.2:
+        non_striker: Soumya Sarkar
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 0.3:
+        non_striker: Soumya Sarkar
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 0.4:
+        non_striker: Mohammad Naim
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 0.5:
+        non_striker: Mohammad Naim
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 0.6:
+        non_striker: Soumya Sarkar
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 1.1:
+        non_striker: Mohammad Naim
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 1.2:
+        non_striker: Mohammad Naim
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 1.3:
+        non_striker: Mohammad Naim
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 1.4:
+        non_striker: Soumya Sarkar
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Naim
+    - 1.5:
+        non_striker: Soumya Sarkar
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Naim
+    - 1.6:
+        non_striker: Soumya Sarkar
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 2.1:
+        non_striker: Soumya Sarkar
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 2.2:
+        non_striker: Mohammad Naim
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Soumya Sarkar
+    - 2.3:
+        non_striker: Mohammad Naim
+        bowler: AJ Turner
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Soumya Sarkar
+    - 2.4:
+        non_striker: Soumya Sarkar
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 2.5:
+        non_striker: Mohammad Naim
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 2.6:
+        non_striker: Mohammad Naim
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 2.7:
+        non_striker: Mohammad Naim
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 3.1:
+        non_striker: Soumya Sarkar
+        bowler: JR Hazlewood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Mohammad Naim
+    - 3.2:
+        non_striker: Soumya Sarkar
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 3.3:
+        non_striker: Soumya Sarkar
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 3.4:
+        non_striker: Mohammad Naim
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+        wicket:
+          player_out: Soumya Sarkar
+          fielders:
+          - AT Carey
+          kind: caught
+    - 3.5:
+        non_striker: Shakib Al Hasan
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Naim
+    - 3.6:
+        non_striker: Shakib Al Hasan
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 3.7:
+        non_striker: Shakib Al Hasan
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 4.1:
+        non_striker: Mohammad Naim
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 4.2:
+        non_striker: Mohammad Naim
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 4.3:
+        non_striker: Mohammad Naim
+        bowler: AC Agar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shakib Al Hasan
+    - 4.4:
+        non_striker: Mohammad Naim
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 4.5:
+        non_striker: Mohammad Naim
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 4.6:
+        non_striker: Mohammad Naim
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 4.7:
+        non_striker: Mohammad Naim
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shakib Al Hasan
+    - 5.1:
+        non_striker: Shakib Al Hasan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 5.2:
+        non_striker: Shakib Al Hasan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 5.3:
+        non_striker: Shakib Al Hasan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 5.4:
+        non_striker: Mohammad Naim
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 5.5:
+        non_striker: Mohammad Naim
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 5.6:
+        non_striker: Mohammad Naim
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 6.1:
+        non_striker: Shakib Al Hasan
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 6.2:
+        non_striker: Mohammad Naim
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 6.3:
+        non_striker: Shakib Al Hasan
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 6.4:
+        non_striker: Mohammad Naim
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shakib Al Hasan
+    - 6.5:
+        non_striker: Mohammad Naim
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 6.6:
+        non_striker: Mohammad Naim
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shakib Al Hasan
+    - 7.1:
+        non_striker: Shakib Al Hasan
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 7.2:
+        non_striker: Mohammad Naim
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 7.3:
+        non_striker: Mohammad Naim
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 7.4:
+        non_striker: Mohammad Naim
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 7.5:
+        non_striker: Mohammad Naim
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 7.6:
+        non_striker: Mohammad Naim
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 8.1:
+        non_striker: Mohammad Naim
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 8.2:
+        non_striker: Shakib Al Hasan
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 8.3:
+        non_striker: Mohammad Naim
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 8.4:
+        non_striker: Mohammad Naim
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shakib Al Hasan
+    - 8.5:
+        non_striker: Mohammad Naim
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 8.6:
+        non_striker: Mohammad Naim
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 9.1:
+        non_striker: Shakib Al Hasan
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 9.2:
+        non_striker: Shakib Al Hasan
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 9.3:
+        non_striker: Mohammad Naim
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 9.4:
+        non_striker: Mohammad Naim
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 9.5:
+        non_striker: Mohammad Naim
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+        wicket:
+          player_out: Shakib Al Hasan
+          fielders:
+          - MS Wade
+          kind: caught
+    - 9.6:
+        non_striker: Mohammad Naim
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 10.1:
+        non_striker: Mahmudullah
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Naim
+    - 10.2:
+        non_striker: Mahmudullah
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 10.3:
+        non_striker: Mahmudullah
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 10.4:
+        non_striker: Mohammad Naim
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 10.5:
+        non_striker: Mohammad Naim
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+        wicket:
+          player_out: Mahmudullah
+          kind: lbw
+    - 10.6:
+        non_striker: Mohammad Naim
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+        wicket:
+          player_out: Nurul Hasan
+          kind: lbw
+    - 11.1:
+        non_striker: Afif Hossain
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 11.2:
+        non_striker: Afif Hossain
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 11.3:
+        non_striker: Mohammad Naim
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Afif Hossain
+    - 11.4:
+        non_striker: Mohammad Naim
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 11.5:
+        non_striker: Mohammad Naim
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 11.6:
+        non_striker: Afif Hossain
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 12.1:
+        non_striker: Afif Hossain
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 12.2:
+        non_striker: Afif Hossain
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 12.3:
+        non_striker: Mohammad Naim
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 12.4:
+        non_striker: Mohammad Naim
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Afif Hossain
+    - 12.5:
+        non_striker: Mohammad Naim
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 12.6:
+        non_striker: Mohammad Naim
+        bowler: MJ Swepson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Afif Hossain
+    - 13.1:
+        non_striker: Mohammad Naim
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Afif Hossain
+    - 13.2:
+        non_striker: Mohammad Naim
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Afif Hossain
+    - 13.3:
+        non_striker: Mohammad Naim
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Afif Hossain
+    - 13.4:
+        non_striker: Mohammad Naim
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 13.5:
+        non_striker: Afif Hossain
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 13.6:
+        non_striker: Mohammad Naim
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 14.1:
+        non_striker: Afif Hossain
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 14.2:
+        non_striker: Afif Hossain
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 14.3:
+        non_striker: Afif Hossain
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+        wicket:
+          player_out: Mohammad Naim
+          fielders:
+          - MS Wade
+          kind: caught
+    - 14.4:
+        non_striker: Afif Hossain
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 14.5:
+        non_striker: Shamim Hossain
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 14.6:
+        non_striker: Shamim Hossain
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 15.1:
+        non_striker: Shamim Hossain
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Afif Hossain
+    - 15.2:
+        non_striker: Shamim Hossain
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 15.3:
+        non_striker: Afif Hossain
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 15.4:
+        non_striker: Shamim Hossain
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+        wicket:
+          player_out: Afif Hossain
+          fielders:
+          - MC Henriques
+          kind: caught
+    - 15.5:
+        non_striker: Shamim Hossain
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 15.6:
+        non_striker: Shamim Hossain
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 16.1:
+        non_striker: Shamim Hossain
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 16.2:
+        non_striker: Shamim Hossain
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 16.3:
+        non_striker: Mahedi Hasan
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+    - 16.4:
+        non_striker: Mahedi Hasan
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 16.5:
+        non_striker: Shamim Hossain
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 16.6:
+        non_striker: Mahedi Hasan
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+    - 17.1:
+        non_striker: Shamim Hossain
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 17.2:
+        non_striker: Mahedi Hasan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+        wicket:
+          player_out: Shamim Hossain
+          fielders:
+          - AT Carey
+          kind: caught
+    - 17.3:
+        non_striker: Mahedi Hasan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 17.4:
+        non_striker: Mahedi Hasan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasum Ahmed
+    - 17.5:
+        non_striker: Nasum Ahmed
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 17.6:
+        non_striker: Mahedi Hasan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 18.1:
+        non_striker: Nasum Ahmed
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahedi Hasan
+    - 18.2:
+        non_striker: Nasum Ahmed
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 18.3:
+        non_striker: Mahedi Hasan
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasum Ahmed
+    - 18.4:
+        non_striker: Nasum Ahmed
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 18.5:
+        non_striker: Nasum Ahmed
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 18.6:
+        non_striker: Mahedi Hasan
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 19.1:
+        non_striker: Nasum Ahmed
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahedi Hasan
+    - 19.2:
+        non_striker: Nasum Ahmed
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahedi Hasan
+    - 19.3:
+        non_striker: Nasum Ahmed
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mahedi Hasan
+    - 19.4:
+        non_striker: Nasum Ahmed
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahedi Hasan
+    - 19.5:
+        non_striker: Nasum Ahmed
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+        wicket:
+          player_out: Mahedi Hasan
+          fielders:
+          - AT Carey
+          kind: caught
+    - 19.6:
+        non_striker: Nasum Ahmed
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoriful Islam
+        wicket:
+          player_out: Shoriful Islam
+          fielders:
+          - BR McDermott
+          kind: caught
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: MS Wade
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 0.2:
+        non_striker: BR McDermott
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Wade
+    - 0.3:
+        non_striker: BR McDermott
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Wade
+    - 0.4:
+        non_striker: BR McDermott
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Wade
+        wicket:
+          player_out: MS Wade
+          kind: bowled
+    - 0.5:
+        non_striker: BR McDermott
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DT Christian
+    - 0.6:
+        non_striker: BR McDermott
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DT Christian
+    - 1.1:
+        non_striker: DT Christian
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 1.2:
+        non_striker: BR McDermott
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 1.3:
+        non_striker: DT Christian
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 1.4:
+        non_striker: DT Christian
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BR McDermott
+    - 1.5:
+        non_striker: DT Christian
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BR McDermott
+    - 1.6:
+        non_striker: DT Christian
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 1.7:
+        non_striker: DT Christian
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 2.1:
+        non_striker: BR McDermott
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 2.2:
+        non_striker: BR McDermott
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 2.3:
+        non_striker: BR McDermott
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 2.4:
+        non_striker: DT Christian
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 2.5:
+        non_striker: DT Christian
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 2.6:
+        non_striker: DT Christian
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 3.1:
+        non_striker: BR McDermott
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DT Christian
+    - 3.2:
+        non_striker: BR McDermott
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DT Christian
+    - 3.3:
+        non_striker: BR McDermott
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DT Christian
+    - 3.4:
+        non_striker: BR McDermott
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 3.5:
+        non_striker: BR McDermott
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DT Christian
+    - 3.6:
+        non_striker: BR McDermott
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DT Christian
+    - 4.1:
+        non_striker: DT Christian
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 4.2:
+        non_striker: BR McDermott
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 4.3:
+        non_striker: DT Christian
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 4.4:
+        non_striker: DT Christian
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+        wicket:
+          player_out: BR McDermott
+          kind: lbw
+    - 4.5:
+        non_striker: DT Christian
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 4.6:
+        non_striker: DT Christian
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Marsh
+    - 5.1:
+        non_striker: MR Marsh
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 5.2:
+        non_striker: MR Marsh
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+        wicket:
+          player_out: DT Christian
+          fielders:
+          - Shamim Hossain
+          kind: caught
+    - 5.3:
+        non_striker: MR Marsh
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 5.4:
+        non_striker: MR Marsh
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 5.5:
+        non_striker: MR Marsh
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 5.6:
+        non_striker: MR Marsh
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 6.1:
+        non_striker: MC Henriques
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 6.2:
+        non_striker: MR Marsh
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 6.3:
+        non_striker: MR Marsh
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 6.4:
+        non_striker: MC Henriques
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 6.5:
+        non_striker: MC Henriques
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 6.6:
+        non_striker: MR Marsh
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 7.1:
+        non_striker: MC Henriques
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 7.2:
+        non_striker: MR Marsh
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MC Henriques
+    - 7.3:
+        non_striker: MR Marsh
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 7.4:
+        non_striker: MC Henriques
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 7.5:
+        non_striker: MC Henriques
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 7.6:
+        non_striker: MC Henriques
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+        wicket:
+          player_out: MC Henriques
+          kind: run out
+    - 8.1:
+        non_striker: MR Marsh
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 8.2:
+        non_striker: MR Marsh
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 8.3:
+        non_striker: MR Marsh
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 8.4:
+        non_striker: MR Marsh
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 8.5:
+        non_striker: MR Marsh
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 8.6:
+        non_striker: AT Carey
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 9.1:
+        non_striker: AT Carey
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 9.2:
+        non_striker: AT Carey
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 9.3:
+        non_striker: MR Marsh
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+        wicket:
+          player_out: AT Carey
+          kind: lbw
+    - 9.4:
+        non_striker: MR Marsh
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 9.5:
+        non_striker: AJ Turner
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 9.6:
+        non_striker: AJ Turner
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 10.1:
+        non_striker: MR Marsh
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 10.2:
+        non_striker: AJ Turner
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+        wicket:
+          player_out: MR Marsh
+          kind: bowled
+    - 10.3:
+        non_striker: AJ Turner
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 10.4:
+        non_striker: AJ Turner
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 10.5:
+        non_striker: AJ Turner
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 10.6:
+        non_striker: AJ Turner
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 11.1:
+        non_striker: AJ Turner
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 11.2:
+        non_striker: AJ Turner
+        bowler: Shoriful Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AC Agar
+    - 11.3:
+        non_striker: AC Agar
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 11.4:
+        non_striker: AC Agar
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 11.5:
+        non_striker: AC Agar
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 11.6:
+        non_striker: AJ Turner
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 12.1:
+        non_striker: AJ Turner
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 12.2:
+        non_striker: AJ Turner
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Agar
+    - 12.3:
+        non_striker: AJ Turner
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 12.4:
+        non_striker: AC Agar
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 12.5:
+        non_striker: AC Agar
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 12.6:
+        non_striker: AC Agar
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 13.1:
+        non_striker: AC Agar
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 13.2:
+        non_striker: AJ Turner
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Agar
+    - 13.3:
+        non_striker: AJ Turner
+        bowler: Nasum Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Agar
+    - 13.4:
+        non_striker: AJ Turner
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 13.5:
+        non_striker: AJ Turner
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 13.6:
+        non_striker: AC Agar
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 13.7:
+        non_striker: AC Agar
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 14.1:
+        non_striker: AJ Turner
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 14.2:
+        non_striker: AC Agar
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 14.3:
+        non_striker: AC Agar
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 14.4:
+        non_striker: AJ Turner
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 14.5:
+        non_striker: AJ Turner
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 14.6:
+        non_striker: AC Agar
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 15.1:
+        non_striker: AJ Turner
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Agar
+    - 15.2:
+        non_striker: AJ Turner
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 15.3:
+        non_striker: AC Agar
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 15.4:
+        non_striker: AC Agar
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 15.5:
+        non_striker: AC Agar
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 15.6:
+        non_striker: AJ Turner
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 16.1:
+        non_striker: AJ Turner
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Agar
+    - 16.2:
+        non_striker: AJ Turner
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 16.3:
+        non_striker: AJ Turner
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 16.4:
+        non_striker: AJ Turner
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 16.5:
+        non_striker: AJ Turner
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 16.6:
+        non_striker: AC Agar
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 17.1:
+        non_striker: AJ Turner
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Agar
+    - 17.2:
+        non_striker: AJ Turner
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 17.3:
+        non_striker: AJ Turner
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+        wicket:
+          player_out: AC Agar
+          fielders:
+          - Shamim Hossain
+          kind: caught
+    - 17.4:
+        non_striker: AJ Turner
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+    - 17.5:
+        non_striker: AJ Turner
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Tye
+    - 17.6:
+        non_striker: AJ Tye
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 18.1:
+        non_striker: AJ Tye
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 18.2:
+        non_striker: AJ Turner
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+    - 18.3:
+        non_striker: AJ Turner
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Tye
+    - 18.4:
+        non_striker: AJ Turner
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+    - 18.5:
+        non_striker: AJ Turner
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+    - 18.6:
+        non_striker: AJ Turner
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Tye

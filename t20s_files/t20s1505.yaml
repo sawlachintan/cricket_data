@@ -1,0 +1,2022 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-06-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Cardiff
+  dates:
+  - '2021-06-23'
+  gender: male
+  match_type: T20
+  match_type_number: 1165
+  outcome:
+    winner: England
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - JC Buttler
+  players:
+    Sri Lanka:
+    - MD Gunathilaka
+    - WIA Fernando
+    - MDKJ Perera
+    - BKG Mendis
+    - DM de Silva
+    - MD Shanaka
+    - PWH de Silva
+    - I Udana
+    - A Dananjaya
+    - PVD Chameera
+    - N Pradeep
+    England:
+    - JJ Roy
+    - JC Buttler
+    - DJ Malan
+    - JM Bairstow
+    - EJG Morgan
+    - LS Livingstone
+    - SM Curran
+    - CJ Jordan
+    - CR Woakes
+    - AU Rashid
+    - MA Wood
+  registry:
+    people:
+      A Dananjaya: 5b16a806
+      AU Rashid: 249d60c9
+      BKG Mendis: 5d1e7582
+      CJ Jordan: ffe699c0
+      CR Woakes: 4c5d73db
+      DJ Malan: ad9c32a2
+      DJ Millns: 46ecfe40
+      DM de Silva: 7d608e12
+      EJG Morgan: d2a6c0e6
+      I Udana: ac5ae4af
+      JC Buttler: 99b75528
+      JJ Roy: d1c36f5c
+      JM Bairstow: abb83e27
+      LS Livingstone: 50c6bc2b
+      M Burns: b3bd0666
+      MA Wood: 8d92a2c3
+      MD Gunathilaka: 509a7ca1
+      MD Shanaka: 3ff033bb
+      MDKJ Perera: f21043a5
+      MJ Saggers: 402d5937
+      N Pradeep: 2af838ee
+      PVD Chameera: 327b58d3
+      PWH de Silva: a97c8ec2
+      Phil Whitticase: 99d5f6fa
+      S Redfern: 5b038989
+      SM Curran: e94915e6
+      WIA Fernando: 9550470d
+  teams:
+  - Sri Lanka
+  - England
+  toss:
+    decision: bat
+    winner: Sri Lanka
+  umpires:
+  - DJ Millns
+  - MJ Saggers
+  venue: Sophia Gardens, Cardiff
+innings:
+- 1st innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: WIA Fernando
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Gunathilaka
+    - 0.2:
+        non_striker: WIA Fernando
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Gunathilaka
+    - 0.3:
+        non_striker: WIA Fernando
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Gunathilaka
+    - 0.4:
+        non_striker: WIA Fernando
+        bowler: CR Woakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Gunathilaka
+    - 0.5:
+        non_striker: WIA Fernando
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Gunathilaka
+    - 0.6:
+        non_striker: MD Gunathilaka
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 0.7:
+        non_striker: MD Gunathilaka
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 1.1:
+        non_striker: WIA Fernando
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Gunathilaka
+    - 1.2:
+        non_striker: MD Gunathilaka
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 1.3:
+        non_striker: MD Gunathilaka
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+        wicket:
+          player_out: WIA Fernando
+          fielders:
+          - CJ Jordan
+          kind: caught
+    - 1.4:
+        non_striker: MD Gunathilaka
+        bowler: SM Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MDKJ Perera
+    - 1.5:
+        non_striker: MD Gunathilaka
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 1.6:
+        non_striker: MDKJ Perera
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Gunathilaka
+    - 1.7:
+        non_striker: MDKJ Perera
+        bowler: SM Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Gunathilaka
+    - 1.8:
+        non_striker: MDKJ Perera
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Gunathilaka
+    - 2.1:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Gunathilaka
+    - 2.2:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Gunathilaka
+    - 2.3:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Gunathilaka
+    - 2.4:
+        non_striker: MD Gunathilaka
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 2.5:
+        non_striker: MD Gunathilaka
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDKJ Perera
+    - 2.6:
+        non_striker: MD Gunathilaka
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MDKJ Perera
+    - 3.1:
+        non_striker: MDKJ Perera
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Gunathilaka
+    - 3.2:
+        non_striker: MDKJ Perera
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Gunathilaka
+    - 3.3:
+        non_striker: MD Gunathilaka
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 3.4:
+        non_striker: MD Gunathilaka
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 3.5:
+        non_striker: MDKJ Perera
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Gunathilaka
+    - 3.6:
+        non_striker: MDKJ Perera
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Gunathilaka
+    - 4.1:
+        non_striker: MD Gunathilaka
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 4.2:
+        non_striker: MDKJ Perera
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Gunathilaka
+    - 4.3:
+        non_striker: MDKJ Perera
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Gunathilaka
+        wicket:
+          player_out: MD Gunathilaka
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 4.4:
+        non_striker: MDKJ Perera
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 4.5:
+        non_striker: MDKJ Perera
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 4.6:
+        non_striker: BKG Mendis
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 5.1:
+        non_striker: BKG Mendis
+        bowler: SM Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MDKJ Perera
+    - 5.2:
+        non_striker: BKG Mendis
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 5.3:
+        non_striker: MDKJ Perera
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.4:
+        non_striker: MDKJ Perera
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.5:
+        non_striker: MDKJ Perera
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 5.6:
+        non_striker: BKG Mendis
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MDKJ Perera
+    - 5.7:
+        non_striker: BKG Mendis
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 6.1:
+        non_striker: BKG Mendis
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 6.2:
+        non_striker: BKG Mendis
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 6.3:
+        non_striker: MDKJ Perera
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 6.4:
+        non_striker: MDKJ Perera
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 6.5:
+        non_striker: BKG Mendis
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 6.6:
+        non_striker: MDKJ Perera
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 7.1:
+        non_striker: MDKJ Perera
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 7.2:
+        non_striker: MDKJ Perera
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 7.3:
+        non_striker: MDKJ Perera
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 7.4:
+        non_striker: BKG Mendis
+        bowler: LS Livingstone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MDKJ Perera
+    - 7.5:
+        non_striker: MDKJ Perera
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          kind: lbw
+    - 7.6:
+        non_striker: MDKJ Perera
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 8.1:
+        non_striker: MDKJ Perera
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DM de Silva
+    - 8.2:
+        non_striker: MDKJ Perera
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 8.3:
+        non_striker: MDKJ Perera
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+        wicket:
+          player_out: DM de Silva
+          fielders:
+          - AU Rashid
+          kind: caught
+    - 8.4:
+        non_striker: MDKJ Perera
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 8.5:
+        non_striker: MDKJ Perera
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 8.6:
+        non_striker: MDKJ Perera
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 9.1:
+        non_striker: MD Shanaka
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 9.2:
+        non_striker: MDKJ Perera
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 9.3:
+        non_striker: MD Shanaka
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 9.4:
+        non_striker: MDKJ Perera
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 9.5:
+        non_striker: MD Shanaka
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 9.6:
+        non_striker: MDKJ Perera
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 10.1:
+        non_striker: MD Shanaka
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MDKJ Perera
+    - 10.2:
+        non_striker: MD Shanaka
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 10.3:
+        non_striker: MDKJ Perera
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 10.4:
+        non_striker: MD Shanaka
+        bowler: MA Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MDKJ Perera
+    - 10.5:
+        non_striker: MD Shanaka
+        bowler: MA Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MDKJ Perera
+    - 10.6:
+        non_striker: MDKJ Perera
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 10.7:
+        non_striker: MD Shanaka
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 11.1:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 11.2:
+        non_striker: MDKJ Perera
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 11.3:
+        non_striker: MDKJ Perera
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 11.4:
+        non_striker: MDKJ Perera
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 11.5:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 11.6:
+        non_striker: MDKJ Perera
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 12.1:
+        non_striker: MD Shanaka
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 12.2:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 12.3:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 12.4:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 12.5:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 12.6:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 13.1:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+        wicket:
+          player_out: MDKJ Perera
+          fielders:
+          - CJ Jordan
+          kind: caught
+    - 13.2:
+        non_striker: PWH de Silva
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 13.3:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 13.4:
+        non_striker: PWH de Silva
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 13.5:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 13.6:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 14.1:
+        non_striker: PWH de Silva
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 14.2:
+        non_striker: PWH de Silva
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 14.3:
+        non_striker: PWH de Silva
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 14.4:
+        non_striker: PWH de Silva
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 14.5:
+        non_striker: PWH de Silva
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 14.6:
+        non_striker: MD Shanaka
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 15.1:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 15.2:
+        non_striker: PWH de Silva
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 15.3:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 15.4:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+        wicket:
+          player_out: PWH de Silva
+          fielders:
+          - CJ Jordan
+          kind: caught
+    - 15.5:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 15.6:
+        non_striker: I Udana
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 16.1:
+        non_striker: MD Shanaka
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 16.2:
+        non_striker: I Udana
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 16.3:
+        non_striker: I Udana
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 16.4:
+        non_striker: I Udana
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 16.5:
+        non_striker: MD Shanaka
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 16.6:
+        non_striker: I Udana
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 17.1:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 17.2:
+        non_striker: I Udana
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 17.3:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 17.4:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 17.5:
+        non_striker: I Udana
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 17.6:
+        non_striker: I Udana
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 18.1:
+        non_striker: I Udana
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 18.2:
+        non_striker: MD Shanaka
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 18.3:
+        non_striker: I Udana
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 18.4:
+        non_striker: I Udana
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 18.5:
+        non_striker: I Udana
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 18.6:
+        non_striker: I Udana
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 19.1:
+        non_striker: I Udana
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 19.2:
+        non_striker: I Udana
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 19.3:
+        non_striker: I Udana
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 19.4:
+        non_striker: I Udana
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 19.5:
+        non_striker: I Udana
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 19.6:
+        non_striker: I Udana
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+        wicket:
+          player_out: MD Shanaka
+          fielders:
+          - JC Buttler
+          kind: caught
+- 2nd innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: JC Buttler
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 0.2:
+        non_striker: JC Buttler
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 0.3:
+        non_striker: JC Buttler
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 0.4:
+        non_striker: JJ Roy
+        bowler: PVD Chameera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JC Buttler
+    - 0.5:
+        non_striker: JJ Roy
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 0.6:
+        non_striker: JJ Roy
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 0.7:
+        non_striker: JJ Roy
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 1.1:
+        non_striker: JJ Roy
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 1.2:
+        non_striker: JJ Roy
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 1.3:
+        non_striker: JJ Roy
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 1.4:
+        non_striker: JC Buttler
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 1.5:
+        non_striker: JC Buttler
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 1.6:
+        non_striker: JJ Roy
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 2.1:
+        non_striker: JJ Roy
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 2.2:
+        non_striker: JJ Roy
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 2.3:
+        non_striker: JJ Roy
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 2.4:
+        non_striker: JJ Roy
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 2.5:
+        non_striker: JJ Roy
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 2.6:
+        non_striker: JC Buttler
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 3.1:
+        non_striker: JJ Roy
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 3.2:
+        non_striker: JC Buttler
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Roy
+    - 3.3:
+        non_striker: JC Buttler
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 3.4:
+        non_striker: JC Buttler
+        bowler: N Pradeep
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Roy
+    - 3.5:
+        non_striker: JC Buttler
+        bowler: N Pradeep
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Roy
+    - 3.6:
+        non_striker: JC Buttler
+        bowler: N Pradeep
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JJ Roy
+    - 3.7:
+        non_striker: JJ Roy
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 3.8:
+        non_striker: JC Buttler
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Roy
+    - 4.1:
+        non_striker: JJ Roy
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 4.2:
+        non_striker: JJ Roy
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 4.3:
+        non_striker: JC Buttler
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 4.4:
+        non_striker: JC Buttler
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 4.5:
+        non_striker: JJ Roy
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 4.6:
+        non_striker: JJ Roy
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 5.1:
+        non_striker: JJ Roy
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 5.2:
+        non_striker: JC Buttler
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 5.3:
+        non_striker: JJ Roy
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 5.4:
+        non_striker: JJ Roy
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 5.5:
+        non_striker: JJ Roy
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 5.6:
+        non_striker: JJ Roy
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 6.1:
+        non_striker: JC Buttler
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 6.2:
+        non_striker: JJ Roy
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 6.3:
+        non_striker: JJ Roy
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 6.4:
+        non_striker: JJ Roy
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 6.5:
+        non_striker: JC Buttler
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 6.6:
+        non_striker: JJ Roy
+        bowler: A Dananjaya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JC Buttler
+    - 6.7:
+        non_striker: JJ Roy
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 7.1:
+        non_striker: JC Buttler
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Roy
+    - 7.2:
+        non_striker: JC Buttler
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 7.3:
+        non_striker: JC Buttler
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 7.4:
+        non_striker: JJ Roy
+        bowler: I Udana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JC Buttler
+    - 7.5:
+        non_striker: JJ Roy
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 7.6:
+        non_striker: JJ Roy
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 7.7:
+        non_striker: JJ Roy
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 8.1:
+        non_striker: JJ Roy
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 8.2:
+        non_striker: JJ Roy
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 8.3:
+        non_striker: JJ Roy
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 8.4:
+        non_striker: JC Buttler
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 8.5:
+        non_striker: JC Buttler
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Roy
+    - 8.6:
+        non_striker: JC Buttler
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 9.1:
+        non_striker: JC Buttler
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+        wicket:
+          player_out: JJ Roy
+          fielders:
+          - MD Gunathilaka
+          kind: caught
+    - 9.2:
+        non_striker: JC Buttler
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 9.3:
+        non_striker: JC Buttler
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 9.4:
+        non_striker: JC Buttler
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 9.5:
+        non_striker: JC Buttler
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 9.6:
+        non_striker: DJ Malan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 10.1:
+        non_striker: JC Buttler
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 10.2:
+        non_striker: DJ Malan
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 10.3:
+        non_striker: DJ Malan
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 10.4:
+        non_striker: JC Buttler
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 10.5:
+        non_striker: JC Buttler
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 10.6:
+        non_striker: JC Buttler
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 11.1:
+        non_striker: DJ Malan
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 11.2:
+        non_striker: DJ Malan
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 11.3:
+        non_striker: DJ Malan
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 11.4:
+        non_striker: DJ Malan
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 11.5:
+        non_striker: JC Buttler
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 11.6:
+        non_striker: DJ Malan
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 12.1:
+        non_striker: DJ Malan
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 12.2:
+        non_striker: JC Buttler
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 12.3:
+        non_striker: JC Buttler
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 12.4:
+        non_striker: JC Buttler
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 12.5:
+        non_striker: DJ Malan
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 12.6:
+        non_striker: DJ Malan
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 13.1:
+        non_striker: DJ Malan
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 13.2:
+        non_striker: JC Buttler
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 13.3:
+        non_striker: DJ Malan
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 13.4:
+        non_striker: DJ Malan
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 13.5:
+        non_striker: JC Buttler
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+        wicket:
+          player_out: DJ Malan
+          kind: bowled
+    - 13.6:
+        non_striker: JC Buttler
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 14.1:
+        non_striker: JM Bairstow
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 14.2:
+        non_striker: JM Bairstow
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 14.3:
+        non_striker: JM Bairstow
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 14.4:
+        non_striker: JM Bairstow
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 14.5:
+        non_striker: JC Buttler
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 14.6:
+        non_striker: JC Buttler
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 15.1:
+        non_striker: JM Bairstow
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 15.2:
+        non_striker: JC Buttler
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 15.3:
+        non_striker: JM Bairstow
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 15.4:
+        non_striker: JC Buttler
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 15.5:
+        non_striker: JC Buttler
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 15.6:
+        non_striker: JC Buttler
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 16.1:
+        non_striker: JC Buttler
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Bairstow
+    - 16.2:
+        non_striker: JC Buttler
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 16.3:
+        non_striker: JC Buttler
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 16.4:
+        non_striker: JM Bairstow
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 16.5:
+        non_striker: JC Buttler
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 16.6:
+        non_striker: JC Buttler
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Bairstow
+    - 17.1:
+        non_striker: JM Bairstow
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler

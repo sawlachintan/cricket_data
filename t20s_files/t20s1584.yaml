@@ -1,0 +1,2261 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-08-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Murcia
+  dates:
+  - '2021-08-26'
+  gender: female
+  match_type: T20
+  match_type_number: 930
+  outcome:
+    winner: Ireland
+    by:
+      runs: 164
+  overs: 20
+  player_of_match:
+  - GH Lewis
+  players:
+    Ireland:
+    - R Stokell
+    - GH Lewis
+    - L Delany
+    - EAJ Richardson
+    - L Maritz
+    - O Prendergast
+    - L Paul
+    - MV Waldron
+    - C Murray
+    - A Canning
+    - S MacMahon
+    Germany:
+    - AM Healey
+    - CM Gough
+    - A Doddaballapur
+    - JE Ronalds
+    - B Maes Loch
+    - EC Bargna
+    - A Bierwisch
+    - K Vijayaraghavan
+    - PA Wadenpohl
+    - S Sadarangani
+    - ST Frohnmayer
+  registry:
+    people:
+      A Bierwisch: b51d654f
+      A Canning: ffd5fcd8
+      A Doddaballapur: fe4f5d2b
+      AJT Dowdalls: f06852e3
+      AM Healey: f3249df1
+      Adnan Khan: 45ec7a99
+      Adriaan van den Dries: 94b5ec3b
+      B Maes Loch: d19bec3f
+      C Murray: 5a50471c
+      CM Gough: f1328a90
+      DT Jukes: 7c215d14
+      EAJ Richardson: 50ee0500
+      EC Bargna: 9908d470
+      GH Lewis: 1b9d1579
+      JE Ronalds: d4f98302
+      K Vijayaraghavan: '048da365'
+      L Delany: b4f73b44
+      L Maritz: ac8bca8d
+      L Paul: '07248d8e'
+      MV Waldron: 2e4f11e9
+      O Prendergast: d8f20ba5
+      PA Wadenpohl: 11898ffe
+      R Stokell: def7b1bb
+      S MacMahon: ef2bcebf
+      S Sadarangani: acd030a0
+      ST Frohnmayer: 7e8bcfc1
+  teams:
+  - Ireland
+  - Germany
+  toss:
+    decision: field
+    winner: Germany
+  umpires:
+  - Adnan Khan
+  - AJT Dowdalls
+  venue: La Manga Club Bottom Ground
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GH Lewis
+        batsman: R Stokell
+    - 0.2:
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GH Lewis
+        batsman: R Stokell
+    - 0.3:
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GH Lewis
+        batsman: R Stokell
+    - 0.4:
+        non_striker: R Stokell
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 0.5:
+        non_striker: GH Lewis
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Stokell
+    - 0.6:
+        non_striker: GH Lewis
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 1.1:
+        non_striker: R Stokell
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 1.2:
+        non_striker: GH Lewis
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 1.3:
+        non_striker: R Stokell
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.4:
+        non_striker: R Stokell
+        bowler: CM Gough
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: GH Lewis
+    - 1.5:
+        non_striker: R Stokell
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 1.6:
+        non_striker: R Stokell
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 1.7:
+        non_striker: GH Lewis
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 2.1:
+        non_striker: R Stokell
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.2:
+        non_striker: R Stokell
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 2.3:
+        non_striker: GH Lewis
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Stokell
+    - 2.4:
+        non_striker: GH Lewis
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Stokell
+    - 2.5:
+        non_striker: GH Lewis
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Stokell
+    - 2.6:
+        non_striker: GH Lewis
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 3.1:
+        non_striker: GH Lewis
+        bowler: CM Gough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Stokell
+    - 3.2:
+        non_striker: GH Lewis
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Stokell
+    - 3.3:
+        non_striker: GH Lewis
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 3.4:
+        non_striker: GH Lewis
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 3.5:
+        non_striker: R Stokell
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 3.6:
+        non_striker: R Stokell
+        bowler: CM Gough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Lewis
+    - 3.7:
+        non_striker: R Stokell
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 3.8:
+        non_striker: R Stokell
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 4.1:
+        non_striker: GH Lewis
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 4.2:
+        non_striker: GH Lewis
+        bowler: EC Bargna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Stokell
+    - 4.3:
+        non_striker: GH Lewis
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Stokell
+    - 4.4:
+        non_striker: GH Lewis
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Stokell
+    - 4.5:
+        non_striker: GH Lewis
+        bowler: EC Bargna
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: R Stokell
+    - 4.6:
+        non_striker: GH Lewis
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 4.7:
+        non_striker: R Stokell
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 4.8:
+        non_striker: R Stokell
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 5.1:
+        non_striker: GH Lewis
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Stokell
+    - 5.2:
+        non_striker: GH Lewis
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Stokell
+    - 5.3:
+        non_striker: GH Lewis
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 5.4:
+        non_striker: GH Lewis
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 5.5:
+        non_striker: R Stokell
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 5.6:
+        non_striker: R Stokell
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 6.1:
+        non_striker: GH Lewis
+        bowler: B Maes Loch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Stokell
+    - 6.2:
+        non_striker: GH Lewis
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 6.3:
+        non_striker: GH Lewis
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 6.4:
+        non_striker: R Stokell
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 6.5:
+        non_striker: R Stokell
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 6.6:
+        non_striker: R Stokell
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 6.7:
+        non_striker: R Stokell
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 7.1:
+        non_striker: GH Lewis
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 7.2:
+        non_striker: R Stokell
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 7.3:
+        non_striker: GH Lewis
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 7.4:
+        non_striker: GH Lewis
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 7.5:
+        non_striker: R Stokell
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 7.6:
+        non_striker: R Stokell
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 8.1:
+        non_striker: GH Lewis
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 8.2:
+        non_striker: R Stokell
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 8.3:
+        non_striker: R Stokell
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 8.4:
+        non_striker: R Stokell
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 8.5:
+        non_striker: R Stokell
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 8.6:
+        non_striker: GH Lewis
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+        wicket:
+          player_out: R Stokell
+          fielders:
+          - CM Gough
+          kind: caught
+    - 9.1:
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Delany
+        batsman: GH Lewis
+    - 9.2:
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: L Delany
+        batsman: GH Lewis
+    - 9.3:
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Delany
+        batsman: GH Lewis
+    - 9.4:
+        bowler: A Bierwisch
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        non_striker: L Delany
+        batsman: GH Lewis
+    - 9.5:
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: L Delany
+        batsman: GH Lewis
+    - 9.6:
+        non_striker: GH Lewis
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 9.7:
+        non_striker: GH Lewis
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 10.1:
+        non_striker: L Delany
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 10.2:
+        non_striker: L Delany
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 10.3:
+        non_striker: GH Lewis
+        bowler: B Maes Loch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Delany
+    - 10.4:
+        non_striker: GH Lewis
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 10.5:
+        non_striker: L Delany
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 10.6:
+        non_striker: GH Lewis
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 10.7:
+        non_striker: GH Lewis
+        bowler: B Maes Loch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 11.1:
+        non_striker: GH Lewis
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 11.2:
+        non_striker: L Delany
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 11.3:
+        non_striker: GH Lewis
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 11.4:
+        non_striker: GH Lewis
+        bowler: A Bierwisch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Delany
+    - 11.5:
+        non_striker: GH Lewis
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 11.6:
+        non_striker: GH Lewis
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 11.7:
+        non_striker: GH Lewis
+        bowler: A Bierwisch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: L Delany
+    - 11.8:
+        non_striker: GH Lewis
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 12.1:
+        non_striker: GH Lewis
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 12.2:
+        non_striker: GH Lewis
+        bowler: A Doddaballapur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Delany
+    - 12.3:
+        non_striker: GH Lewis
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 12.4:
+        non_striker: GH Lewis
+        bowler: A Doddaballapur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Delany
+    - 12.5:
+        non_striker: GH Lewis
+        bowler: A Doddaballapur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Delany
+    - 12.6:
+        non_striker: GH Lewis
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 12.7:
+        non_striker: L Delany
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 12.8:
+        non_striker: L Delany
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 12.9:
+        non_striker: L Delany
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 13.1:
+        non_striker: L Delany
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 13.2:
+        non_striker: L Delany
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 13.3:
+        non_striker: GH Lewis
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 13.4:
+        non_striker: GH Lewis
+        bowler: A Bierwisch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: L Delany
+    - 13.5:
+        non_striker: GH Lewis
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 13.6:
+        non_striker: L Delany
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 13.7:
+        non_striker: L Delany
+        bowler: A Bierwisch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 14.1:
+        non_striker: L Delany
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 14.2:
+        non_striker: GH Lewis
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 14.3:
+        non_striker: L Delany
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 14.4:
+        non_striker: L Delany
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 14.5:
+        non_striker: GH Lewis
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 14.6:
+        non_striker: GH Lewis
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 15.1:
+        non_striker: GH Lewis
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 15.2:
+        non_striker: L Delany
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 15.3:
+        non_striker: GH Lewis
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 15.4:
+        non_striker: GH Lewis
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 15.5:
+        non_striker: GH Lewis
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 15.6:
+        non_striker: L Delany
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 16.1:
+        non_striker: GH Lewis
+        bowler: ST Frohnmayer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Delany
+    - 16.2:
+        non_striker: GH Lewis
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 16.3:
+        non_striker: L Delany
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 16.4:
+        non_striker: GH Lewis
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 16.5:
+        non_striker: GH Lewis
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 16.6:
+        non_striker: L Delany
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 16.7:
+        non_striker: GH Lewis
+        bowler: ST Frohnmayer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Delany
+    - 16.8:
+        non_striker: GH Lewis
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 17.1:
+        non_striker: GH Lewis
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 17.2:
+        non_striker: L Delany
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 17.3:
+        non_striker: GH Lewis
+        bowler: S Sadarangani
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Delany
+    - 17.4:
+        non_striker: L Delany
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Lewis
+    - 17.5:
+        non_striker: L Delany
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Lewis
+    - 17.6:
+        non_striker: L Delany
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 17.7:
+        non_striker: GH Lewis
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+        wicket:
+          player_out: L Delany
+          kind: bowled
+    - 18.1:
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: EAJ Richardson
+        batsman: GH Lewis
+    - 18.2:
+        non_striker: GH Lewis
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 18.3:
+        non_striker: EAJ Richardson
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 18.4:
+        non_striker: GH Lewis
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 18.5:
+        non_striker: EAJ Richardson
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 18.6:
+        non_striker: EAJ Richardson
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 19.1:
+        non_striker: GH Lewis
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EAJ Richardson
+    - 19.2:
+        non_striker: GH Lewis
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+    - 19.3:
+        non_striker: GH Lewis
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 19.4:
+        non_striker: EAJ Richardson
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 19.5:
+        non_striker: GH Lewis
+        bowler: S Sadarangani
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: EAJ Richardson
+    - 19.6:
+        non_striker: EAJ Richardson
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 19.7:
+        non_striker: EAJ Richardson
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+- 2nd innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CM Gough
+        batsman: AM Healey
+    - 0.2:
+        bowler: A Canning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: CM Gough
+        batsman: AM Healey
+    - 0.3:
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CM Gough
+        batsman: AM Healey
+    - 0.4:
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CM Gough
+        batsman: AM Healey
+    - 0.5:
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CM Gough
+        batsman: AM Healey
+    - 0.6:
+        bowler: A Canning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: CM Gough
+        batsman: AM Healey
+    - 0.7:
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CM Gough
+        batsman: AM Healey
+    - 0.8:
+        non_striker: CM Gough
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Healey
+    - 1.1:
+        non_striker: AM Healey
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 1.2:
+        non_striker: AM Healey
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 1.3:
+        non_striker: AM Healey
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 1.4:
+        non_striker: AM Healey
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 1.5:
+        non_striker: AM Healey
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 1.6:
+        non_striker: CM Gough
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Healey
+    - 2.1:
+        non_striker: AM Healey
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 2.2:
+        non_striker: AM Healey
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 2.3:
+        non_striker: AM Healey
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 2.4:
+        non_striker: AM Healey
+        bowler: A Canning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: CM Gough
+    - 2.5:
+        non_striker: CM Gough
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Healey
+    - 2.6:
+        non_striker: CM Gough
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Healey
+    - 3.1:
+        non_striker: AM Healey
+        bowler: L Paul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CM Gough
+    - 3.2:
+        non_striker: AM Healey
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 3.3:
+        non_striker: AM Healey
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 3.4:
+        non_striker: CM Gough
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Healey
+    - 3.5:
+        non_striker: AM Healey
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 3.6:
+        non_striker: AM Healey
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 3.7:
+        non_striker: AM Healey
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 4.1:
+        non_striker: CM Gough
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Healey
+    - 4.2:
+        non_striker: CM Gough
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Healey
+    - 4.3:
+        non_striker: CM Gough
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Healey
+    - 4.4:
+        non_striker: CM Gough
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Healey
+    - 4.5:
+        non_striker: CM Gough
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Healey
+    - 4.6:
+        non_striker: CM Gough
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Healey
+    - 5.1:
+        non_striker: AM Healey
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 5.2:
+        non_striker: AM Healey
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 5.3:
+        non_striker: AM Healey
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 5.4:
+        non_striker: AM Healey
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 5.5:
+        non_striker: AM Healey
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 5.6:
+        non_striker: CM Gough
+        bowler: L Paul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Healey
+    - 5.7:
+        non_striker: CM Gough
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Healey
+    - 6.1:
+        non_striker: CM Gough
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Healey
+    - 6.2:
+        non_striker: AM Healey
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 6.3:
+        non_striker: AM Healey
+        bowler: EAJ Richardson
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: CM Gough
+    - 6.4:
+        non_striker: CM Gough
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Healey
+    - 6.5:
+        non_striker: CM Gough
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Healey
+        wicket:
+          player_out: AM Healey
+          kind: bowled
+    - 6.6:
+        non_striker: CM Gough
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 6.7:
+        non_striker: CM Gough
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 7.1:
+        non_striker: A Doddaballapur
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 7.2:
+        non_striker: A Doddaballapur
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 7.3:
+        non_striker: A Doddaballapur
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 7.4:
+        non_striker: A Doddaballapur
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 7.5:
+        non_striker: A Doddaballapur
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 7.6:
+        non_striker: A Doddaballapur
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 8.1:
+        non_striker: A Doddaballapur
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 8.2:
+        non_striker: A Doddaballapur
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 8.3:
+        non_striker: A Doddaballapur
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 8.4:
+        non_striker: CM Gough
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 8.5:
+        non_striker: CM Gough
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 8.6:
+        non_striker: CM Gough
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 9.1:
+        non_striker: A Doddaballapur
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 9.2:
+        non_striker: A Doddaballapur
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 9.3:
+        non_striker: A Doddaballapur
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 9.4:
+        non_striker: A Doddaballapur
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 9.5:
+        non_striker: A Doddaballapur
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 9.6:
+        non_striker: CM Gough
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 10.1:
+        non_striker: A Doddaballapur
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 10.2:
+        non_striker: CM Gough
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 10.3:
+        non_striker: CM Gough
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 10.4:
+        non_striker: CM Gough
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 10.5:
+        non_striker: CM Gough
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 10.6:
+        non_striker: CM Gough
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 11.1:
+        non_striker: A Doddaballapur
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 11.2:
+        non_striker: A Doddaballapur
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 11.3:
+        non_striker: A Doddaballapur
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 11.4:
+        non_striker: A Doddaballapur
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 11.5:
+        non_striker: A Doddaballapur
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 11.6:
+        non_striker: A Doddaballapur
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 12.1:
+        non_striker: CM Gough
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 12.2:
+        non_striker: A Doddaballapur
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 12.3:
+        non_striker: CM Gough
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 12.4:
+        non_striker: CM Gough
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 12.5:
+        non_striker: CM Gough
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 12.6:
+        non_striker: CM Gough
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 13.1:
+        non_striker: A Doddaballapur
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 13.2:
+        non_striker: A Doddaballapur
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 13.3:
+        non_striker: A Doddaballapur
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 13.4:
+        non_striker: A Doddaballapur
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 13.5:
+        non_striker: A Doddaballapur
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CM Gough
+    - 13.6:
+        non_striker: A Doddaballapur
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 14.1:
+        non_striker: CM Gough
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 14.2:
+        non_striker: CM Gough
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 14.3:
+        non_striker: CM Gough
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 14.4:
+        non_striker: A Doddaballapur
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 14.5:
+        non_striker: A Doddaballapur
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 14.6:
+        non_striker: A Doddaballapur
+        bowler: S MacMahon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 15.1:
+        non_striker: A Doddaballapur
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 15.2:
+        non_striker: A Doddaballapur
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 15.3:
+        non_striker: A Doddaballapur
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 15.4:
+        non_striker: A Doddaballapur
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 15.5:
+        non_striker: A Doddaballapur
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 15.6:
+        non_striker: CM Gough
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 16.1:
+        non_striker: A Doddaballapur
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 16.2:
+        non_striker: A Doddaballapur
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+        wicket:
+          player_out: CM Gough
+          kind: bowled
+    - 16.3:
+        non_striker: A Doddaballapur
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 16.4:
+        non_striker: A Doddaballapur
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 16.5:
+        non_striker: A Doddaballapur
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 16.6:
+        non_striker: A Doddaballapur
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 17.1:
+        non_striker: JE Ronalds
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 17.2:
+        non_striker: JE Ronalds
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Doddaballapur
+    - 17.3:
+        non_striker: JE Ronalds
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 17.4:
+        non_striker: JE Ronalds
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 17.5:
+        non_striker: A Doddaballapur
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 17.6:
+        non_striker: A Doddaballapur
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 18.1:
+        non_striker: A Doddaballapur
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 18.2:
+        non_striker: A Doddaballapur
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 18.3:
+        non_striker: A Doddaballapur
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 18.4:
+        non_striker: A Doddaballapur
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 18.5:
+        non_striker: A Doddaballapur
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 18.6:
+        non_striker: JE Ronalds
+        bowler: L Maritz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 19.1:
+        non_striker: A Doddaballapur
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 19.2:
+        non_striker: A Doddaballapur
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 19.3:
+        non_striker: JE Ronalds
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 19.4:
+        non_striker: JE Ronalds
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 19.5:
+        non_striker: JE Ronalds
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 19.6:
+        non_striker: JE Ronalds
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+        wicket:
+          player_out: A Doddaballapur
+          fielders:
+          - L Maritz
+          kind: caught

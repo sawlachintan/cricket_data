@@ -1,0 +1,104 @@
+---
+meta:
+  data_version: 0.91
+  created: 2013-06-28
+  revision: 2
+info:
+  balls_per_over: 6
+  city: London
+  dates:
+  - 2013-06-27
+  gender: male
+  match_type: T20
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    England:
+    - MJ Lumb
+    - AD Hales
+    - LJ Wright
+    - KP Pietersen
+    - RS Bopara
+    - JC Buttler
+    - BA Stokes
+    - JC Tredwell
+    - JW Dernbach
+    - WB Rankin
+    - DR Briggs
+    New Zealand:
+    - HD Rutherford
+    - JEC Franklin
+    - BB McCullum
+    - LRPL Taylor
+    - TWM Latham
+    - C Munro
+    - IG Butler
+    - NL McCullum
+    - CJ Anderson
+    - MJ McClenaghan
+    - RM Hira
+  registry:
+    people:
+      AD Hales: 92aeac25
+      BA Stokes: e087956b
+      BB McCullum: b8a55852
+      C Munro: af2c687b
+      CJ Anderson: 8abdf100
+      DR Briggs: f3abd0c9
+      HD Rutherford: 0605de92
+      IG Butler: b68a30f0
+      J Srinath: bad31fac
+      JC Buttler: 99b75528
+      JC Tredwell: 49b6c09f
+      JEC Franklin: cf73ad76
+      JW Dernbach: 7be8a0ed
+      KP Pietersen: 39f01cdb
+      LJ Wright: cca50cd6
+      LRPL Taylor: b61a3e1a
+      MA Gough: 76752ac8
+      MJ Lumb: 11df3dc8
+      MJ McClenaghan: 51a3c5ef
+      NL McCullum: 5673a3fc
+      RJ Bailey: 6bd04fa5
+      RK Illingworth: '20672246'
+      RM Hira: 2e966563
+      RS Bopara: 7ca5e05d
+      RT Robinson: b143c87d
+      TWM Latham: e824e6ee
+      WB Rankin: 29b89ae8
+  teams:
+  - England
+  - New Zealand
+  toss:
+    decision: field
+    winner: New Zealand
+  umpires:
+  - RK Illingworth
+  - RT Robinson
+  venue: Kennington Oval
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        batsman: MJ Lumb
+        bowler: MJ McClenaghan
+        non_striker: AD Hales
+        runs:
+          batsman: 2
+          extras: 0
+          total: 2
+    - 0.2:
+        batsman: MJ Lumb
+        bowler: MJ McClenaghan
+        non_striker: AD Hales
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+        wicket:
+          fielders:
+          - BB McCullum
+          kind: caught
+          player_out: MJ Lumb

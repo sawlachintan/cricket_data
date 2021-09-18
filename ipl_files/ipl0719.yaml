@@ -1,0 +1,2011 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-04-16'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Chennai
+  competition: IPL
+  dates:
+  - '2019-04-09'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Chennai Super Kings
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - DL Chahar
+  players:
+    Kolkata Knight Riders:
+    - CA Lynn
+    - SP Narine
+    - RV Uthappa
+    - N Rana
+    - KD Karthik
+    - Shubman Gill
+    - AD Russell
+    - PP Chawla
+    - Kuldeep Yadav
+    - M Prasidh Krishna
+    - HF Gurney
+    Chennai Super Kings:
+    - SR Watson
+    - F du Plessis
+    - SK Raina
+    - AT Rayudu
+    - KM Jadhav
+    - MS Dhoni
+    - SC Kuggeleijn
+    - RA Jadeja
+    - Harbhajan Singh
+    - DL Chahar
+    - Imran Tahir
+  registry:
+    people:
+      AD Russell: bbd41817
+      AT Rayudu: 70d205c9
+      C Shamshuddin: 0f9d921b
+      CA Lynn: 45eda7c8
+      DL Chahar: 23eeb873
+      F du Plessis: 3355b542
+      HF Gurney: e412cb64
+      Harbhajan Singh: 8b5b6769
+      Imran Tahir: acee4cc4
+      K Srinath: 8ab5da97
+      KD Karthik: c03f1114
+      KM Jadhav: 99d63244
+      Kuldeep Yadav: 8d2c70ad
+      M Prasidh Krishna: 85e0cf10
+      MS Dhoni: 4a8a2e3b
+      N Rana: fb2d1dda
+      PP Chawla: 98ae73b1
+      Prakash Bhatt: f848ab0b
+      RA Jadeja: fe93fd9d
+      RJ Tucker: 38810cfc
+      RV Uthappa: 1c17e270
+      SC Kuggeleijn: fef92afc
+      SK Raina: 1dc12ab9
+      SP Narine: 9d430b40
+      SR Watson: 4329fbb5
+      Shubman Gill: b4b99816
+      UV Gandhe: 43dd4011
+  teams:
+  - Kolkata Knight Riders
+  - Chennai Super Kings
+  toss:
+    decision: field
+    winner: Chennai Super Kings
+  umpires:
+  - C Shamshuddin
+  - RJ Tucker
+  venue: MA Chidambaram Stadium
+innings:
+- 1st innings:
+    team: Kolkata Knight Riders
+    deliveries:
+    - 0.1:
+        non_striker: SP Narine
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 0.2:
+        non_striker: SP Narine
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 0.3:
+        non_striker: SP Narine
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 0.4:
+        non_striker: SP Narine
+        bowler: DL Chahar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CA Lynn
+    - 0.5:
+        non_striker: CA Lynn
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: SP Narine
+    - 0.6:
+        non_striker: SP Narine
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+        wicket:
+          player_out: CA Lynn
+          kind: lbw
+    - 1.1:
+        non_striker: RV Uthappa
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 1.2:
+        non_striker: RV Uthappa
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Narine
+    - 1.3:
+        non_striker: SP Narine
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 1.4:
+        non_striker: RV Uthappa
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 1.5:
+        non_striker: RV Uthappa
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+        wicket:
+          player_out: SP Narine
+          fielders:
+          - DL Chahar
+          kind: caught
+    - 1.6:
+        non_striker: N Rana
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 2.1:
+        non_striker: RV Uthappa
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 2.2:
+        non_striker: RV Uthappa
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 2.3:
+        non_striker: RV Uthappa
+        bowler: DL Chahar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Rana
+    - 2.4:
+        non_striker: RV Uthappa
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+        wicket:
+          player_out: N Rana
+          fielders:
+          - AT Rayudu
+          kind: caught
+    - 2.5:
+        non_striker: RV Uthappa
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 2.6:
+        non_striker: RV Uthappa
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 2.7:
+        non_striker: RV Uthappa
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 3.1:
+        non_striker: KD Karthik
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 3.2:
+        non_striker: RV Uthappa
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 3.3:
+        non_striker: RV Uthappa
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Karthik
+    - 3.4:
+        non_striker: RV Uthappa
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Karthik
+    - 3.5:
+        non_striker: KD Karthik
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 3.6:
+        non_striker: KD Karthik
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 4.1:
+        non_striker: KD Karthik
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RV Uthappa
+    - 4.2:
+        non_striker: KD Karthik
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RV Uthappa
+    - 4.3:
+        non_striker: KD Karthik
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 4.4:
+        non_striker: KD Karthik
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+        wicket:
+          player_out: RV Uthappa
+          fielders:
+          - KM Jadhav
+          kind: caught
+    - 4.5:
+        non_striker: Shubman Gill
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 4.6:
+        non_striker: Shubman Gill
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 5.1:
+        non_striker: KD Karthik
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 5.2:
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 5.3:
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Karthik
+    - 5.4:
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 5.5:
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 5.6:
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 6.1:
+        non_striker: KD Karthik
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 6.2:
+        non_striker: KD Karthik
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 6.3:
+        non_striker: KD Karthik
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 6.4:
+        non_striker: Shubman Gill
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KD Karthik
+    - 6.5:
+        non_striker: Shubman Gill
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 6.6:
+        non_striker: Shubman Gill
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Karthik
+    - 7.1:
+        non_striker: Shubman Gill
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 7.2:
+        non_striker: Shubman Gill
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Karthik
+    - 7.3:
+        non_striker: KD Karthik
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 7.4:
+        non_striker: KD Karthik
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 7.5:
+        non_striker: KD Karthik
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 7.6:
+        non_striker: KD Karthik
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 8.1:
+        non_striker: KD Karthik
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 8.2:
+        non_striker: Shubman Gill
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KD Karthik
+    - 8.3:
+        non_striker: Shubman Gill
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Karthik
+    - 8.4:
+        non_striker: Shubman Gill
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+        wicket:
+          player_out: KD Karthik
+          fielders:
+          - Harbhajan Singh
+          kind: caught
+    - 8.5:
+        non_striker: Shubman Gill
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 8.6:
+        non_striker: Shubman Gill
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 9.1:
+        non_striker: AD Russell
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 9.2:
+        non_striker: AD Russell
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 9.3:
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 9.4:
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 9.5:
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 9.6:
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 10.1:
+        non_striker: AD Russell
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+        wicket:
+          player_out: Shubman Gill
+          fielders:
+          - MS Dhoni
+          kind: stumped
+    - 10.2:
+        non_striker: AD Russell
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Chawla
+    - 10.3:
+        non_striker: AD Russell
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Chawla
+    - 10.4:
+        non_striker: AD Russell
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PP Chawla
+    - 10.5:
+        non_striker: PP Chawla
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 10.6:
+        non_striker: AD Russell
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Chawla
+    - 11.1:
+        non_striker: PP Chawla
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 11.2:
+        non_striker: PP Chawla
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 11.3:
+        non_striker: PP Chawla
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 11.4:
+        non_striker: AD Russell
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Chawla
+    - 11.5:
+        non_striker: AD Russell
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Chawla
+    - 11.6:
+        non_striker: AD Russell
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Chawla
+    - 12.1:
+        non_striker: PP Chawla
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 12.2:
+        non_striker: PP Chawla
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 12.3:
+        non_striker: PP Chawla
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 12.4:
+        non_striker: AD Russell
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Chawla
+    - 12.5:
+        non_striker: AD Russell
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PP Chawla
+    - 12.6:
+        non_striker: AD Russell
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Chawla
+    - 13.1:
+        non_striker: PP Chawla
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 13.2:
+        non_striker: PP Chawla
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 13.3:
+        non_striker: PP Chawla
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 13.4:
+        non_striker: AD Russell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PP Chawla
+    - 13.5:
+        non_striker: PP Chawla
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 13.6:
+        non_striker: PP Chawla
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 14.1:
+        non_striker: PP Chawla
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 14.2:
+        non_striker: PP Chawla
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 14.3:
+        non_striker: PP Chawla
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 14.4:
+        non_striker: PP Chawla
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 14.5:
+        non_striker: PP Chawla
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 14.6:
+        non_striker: PP Chawla
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 15.1:
+        non_striker: PP Chawla
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 15.2:
+        non_striker: AD Russell
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Chawla
+    - 15.3:
+        non_striker: AD Russell
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Chawla
+        wicket:
+          player_out: PP Chawla
+          fielders:
+          - MS Dhoni
+          kind: stumped
+    - 15.4:
+        non_striker: AD Russell
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+        wicket:
+          player_out: Kuldeep Yadav
+          kind: run out
+    - 15.5:
+        non_striker: M Prasidh Krishna
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 15.6:
+        non_striker: M Prasidh Krishna
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 16.1:
+        non_striker: M Prasidh Krishna
+        bowler: RA Jadeja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 16.2:
+        non_striker: M Prasidh Krishna
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 16.3:
+        non_striker: AD Russell
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Prasidh Krishna
+    - 16.4:
+        non_striker: AD Russell
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Prasidh Krishna
+        wicket:
+          player_out: M Prasidh Krishna
+          fielders:
+          - Harbhajan Singh
+          kind: caught
+    - 16.5:
+        non_striker: AD Russell
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HF Gurney
+    - 16.6:
+        non_striker: AD Russell
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HF Gurney
+    - 16.7:
+        non_striker: AD Russell
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HF Gurney
+    - 17.1:
+        non_striker: HF Gurney
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 17.2:
+        non_striker: HF Gurney
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Russell
+    - 17.3:
+        non_striker: HF Gurney
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 17.4:
+        non_striker: HF Gurney
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 17.5:
+        non_striker: HF Gurney
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 17.6:
+        non_striker: HF Gurney
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 17.7:
+        non_striker: AD Russell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HF Gurney
+    - 18.1:
+        non_striker: HF Gurney
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 18.2:
+        non_striker: HF Gurney
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 18.3:
+        non_striker: HF Gurney
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 18.4:
+        non_striker: HF Gurney
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 18.5:
+        non_striker: HF Gurney
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 18.6:
+        non_striker: HF Gurney
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 19.1:
+        non_striker: AD Russell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HF Gurney
+    - 19.2:
+        non_striker: HF Gurney
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 19.3:
+        non_striker: HF Gurney
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 19.4:
+        non_striker: HF Gurney
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 19.5:
+        non_striker: HF Gurney
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 19.6:
+        non_striker: HF Gurney
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+- 2nd innings:
+    team: Chennai Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: F du Plessis
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Watson
+    - 0.2:
+        non_striker: F du Plessis
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Watson
+    - 0.3:
+        non_striker: F du Plessis
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 0.4:
+        non_striker: F du Plessis
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 0.5:
+        non_striker: F du Plessis
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Watson
+    - 0.6:
+        non_striker: F du Plessis
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 1.1:
+        non_striker: SR Watson
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.2:
+        non_striker: SR Watson
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.3:
+        non_striker: SR Watson
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.4:
+        non_striker: SR Watson
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.5:
+        non_striker: F du Plessis
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 1.6:
+        non_striker: SR Watson
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 2.1:
+        non_striker: F du Plessis
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Watson
+    - 2.2:
+        non_striker: F du Plessis
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+        wicket:
+          player_out: SR Watson
+          fielders:
+          - PP Chawla
+          kind: caught
+    - 2.3:
+        non_striker: F du Plessis
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 2.4:
+        non_striker: F du Plessis
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SK Raina
+    - 2.5:
+        non_striker: F du Plessis
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 2.6:
+        non_striker: SK Raina
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 3.1:
+        non_striker: F du Plessis
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SK Raina
+    - 3.2:
+        non_striker: F du Plessis
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 3.3:
+        non_striker: F du Plessis
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 3.4:
+        non_striker: F du Plessis
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Raina
+    - 3.5:
+        non_striker: F du Plessis
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 3.6:
+        non_striker: SK Raina
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 4.1:
+        non_striker: SK Raina
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 4.2:
+        non_striker: F du Plessis
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 4.3:
+        non_striker: F du Plessis
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 4.4:
+        non_striker: F du Plessis
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 4.5:
+        non_striker: F du Plessis
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 4.6:
+        non_striker: F du Plessis
+        bowler: SP Narine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SK Raina
+    - 4.7:
+        non_striker: F du Plessis
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+        wicket:
+          player_out: SK Raina
+          fielders:
+          - PP Chawla
+          kind: caught
+    - 5.1:
+        non_striker: F du Plessis
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 5.2:
+        non_striker: F du Plessis
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 5.3:
+        non_striker: F du Plessis
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 5.4:
+        non_striker: F du Plessis
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AT Rayudu
+    - 5.5:
+        non_striker: F du Plessis
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 5.6:
+        non_striker: F du Plessis
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 5.7:
+        non_striker: F du Plessis
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 6.1:
+        non_striker: AT Rayudu
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 6.2:
+        non_striker: AT Rayudu
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 6.3:
+        non_striker: F du Plessis
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 6.4:
+        non_striker: AT Rayudu
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 6.5:
+        non_striker: F du Plessis
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 6.6:
+        non_striker: F du Plessis
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 7.1:
+        non_striker: AT Rayudu
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 7.2:
+        non_striker: AT Rayudu
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 7.3:
+        non_striker: AT Rayudu
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 7.4:
+        non_striker: AT Rayudu
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 7.5:
+        non_striker: AT Rayudu
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 7.6:
+        non_striker: F du Plessis
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 8.1:
+        non_striker: AT Rayudu
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 8.2:
+        non_striker: F du Plessis
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 8.3:
+        non_striker: AT Rayudu
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 8.4:
+        non_striker: AT Rayudu
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 8.5:
+        non_striker: AT Rayudu
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 8.6:
+        non_striker: F du Plessis
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 9.1:
+        non_striker: AT Rayudu
+        bowler: HF Gurney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 9.2:
+        non_striker: F du Plessis
+        bowler: HF Gurney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 9.3:
+        non_striker: F du Plessis
+        bowler: HF Gurney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 9.4:
+        non_striker: AT Rayudu
+        bowler: HF Gurney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 9.5:
+        non_striker: F du Plessis
+        bowler: HF Gurney
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 9.6:
+        non_striker: F du Plessis
+        bowler: HF Gurney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 10.1:
+        non_striker: F du Plessis
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 10.2:
+        non_striker: F du Plessis
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 10.3:
+        non_striker: F du Plessis
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 10.4:
+        non_striker: F du Plessis
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 10.5:
+        non_striker: AT Rayudu
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 10.6:
+        non_striker: AT Rayudu
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 11.1:
+        non_striker: AT Rayudu
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 11.2:
+        non_striker: F du Plessis
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 11.3:
+        non_striker: AT Rayudu
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 11.4:
+        non_striker: F du Plessis
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 11.5:
+        non_striker: AT Rayudu
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 11.6:
+        non_striker: F du Plessis
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 12.1:
+        non_striker: AT Rayudu
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 12.2:
+        non_striker: F du Plessis
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 12.3:
+        non_striker: AT Rayudu
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 12.4:
+        non_striker: F du Plessis
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 12.5:
+        non_striker: AT Rayudu
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 12.6:
+        non_striker: AT Rayudu
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 13.1:
+        non_striker: AT Rayudu
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 13.2:
+        non_striker: AT Rayudu
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 13.3:
+        non_striker: AT Rayudu
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 13.4:
+        non_striker: F du Plessis
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 13.5:
+        non_striker: F du Plessis
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 13.6:
+        non_striker: AT Rayudu
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 14.1:
+        non_striker: F du Plessis
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Rayudu
+    - 14.2:
+        non_striker: F du Plessis
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 14.3:
+        non_striker: AT Rayudu
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 14.4:
+        non_striker: F du Plessis
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+        wicket:
+          player_out: AT Rayudu
+          fielders:
+          - N Rana
+          kind: caught
+    - 14.5:
+        non_striker: F du Plessis
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Jadhav
+    - 14.6:
+        non_striker: F du Plessis
+        bowler: PP Chawla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 15.1:
+        non_striker: KM Jadhav
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 15.2:
+        non_striker: F du Plessis
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jadhav
+    - 15.3:
+        non_striker: KM Jadhav
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 15.4:
+        non_striker: KM Jadhav
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 15.5:
+        non_striker: KM Jadhav
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 15.6:
+        non_striker: KM Jadhav
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 16.1:
+        non_striker: F du Plessis
+        bowler: HF Gurney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 16.2:
+        non_striker: F du Plessis
+        bowler: HF Gurney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 16.3:
+        non_striker: F du Plessis
+        bowler: HF Gurney
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: KM Jadhav
+    - 16.4:
+        non_striker: KM Jadhav
+        bowler: HF Gurney
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 16.5:
+        non_striker: KM Jadhav
+        bowler: HF Gurney
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 16.6:
+        non_striker: KM Jadhav
+        bowler: HF Gurney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 16.7:
+        non_striker: F du Plessis
+        bowler: HF Gurney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jadhav
+    - 17.1:
+        non_striker: F du Plessis
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jadhav
+    - 17.2:
+        non_striker: KM Jadhav
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 17.3:
+        non_striker: KM Jadhav
+        bowler: SP Narine
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: F du Plessis

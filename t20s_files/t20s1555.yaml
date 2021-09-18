@@ -1,0 +1,148 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-08-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Providence
+  dates:
+  - '2021-08-01'
+  gender: male
+  match_type: T20
+  match_type_number: 1209
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    West Indies:
+    - ADS Fletcher
+    - CH Gayle
+    - SO Hetmyer
+    - N Pooran
+    - KA Pollard
+    - AD Russell
+    - JO Holder
+    - DJ Bravo
+    - R Shepherd
+    - HR Walsh
+    - AJ Hosein
+    Pakistan:
+    - Sharjeel Khan
+    - Mohammad Rizwan
+    - Babar Azam
+    - Fakhar Zaman
+    - Mohammad Hafeez
+    - Hasan Ali
+    - Sohaib Maqsood
+    - Shadab Khan
+    - Mohammad Wasim
+    - Usman Qadir
+    - Haris Rauf
+  registry:
+    people:
+      AD Russell: bbd41817
+      ADS Fletcher: 1bae756b
+      AJ Hosein: 4d7f517e
+      Babar Azam: 8a75e999
+      CH Gayle: db584dad
+      DJ Bravo: 87e562a9
+      Fakhar Zaman: 1777c020
+      GO Brathwaite: 1ace56d4
+      HR Walsh: 1ac2a995
+      Haris Rauf: 24bb1c2f
+      Hasan Ali: 2911de16
+      JO Holder: 0f721006
+      JS Wilson: d7f3b72f
+      KA Pollard: a757b0d8
+      LS Reifer: 5dee559a
+      Mohammad Hafeez: 9ab63e7b
+      Mohammad Rizwan: 2f26ac1a
+      Mohammad Wasim: 9e9af5f2
+      N Pooran: 3241e3fd
+      PA Gustard: 25bcf808
+      R Shepherd: c5aef772
+      RB Richardson: 410e2f12
+      SO Hetmyer: 48a1d7b7
+      Shadab Khan: 9de62878
+      Sharjeel Khan: 193ef196
+      Sohaib Maqsood: b98b5e1c
+      Usman Qadir: 33742f04
+  teams:
+  - West Indies
+  - Pakistan
+  toss:
+    decision: bat
+    winner: West Indies
+  umpires:
+  - GO Brathwaite
+  - JS Wilson
+  venue: Providence Stadium, Guyana
+innings:
+- 1st innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: CH Gayle
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.2:
+        non_striker: CH Gayle
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 0.3:
+        non_striker: CH Gayle
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 0.4:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 0.5:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 0.6:
+        non_striker: CH Gayle
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 1.1:
+        non_striker: CH Gayle
+        bowler: Mohammad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 1.2:
+        non_striker: CH Gayle
+        bowler: Mohammad Wasim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher

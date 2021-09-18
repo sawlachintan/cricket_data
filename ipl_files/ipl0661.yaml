@@ -1,0 +1,2083 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-04-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hyderabad
+  competition: IPL
+  dates:
+  - '2018-04-26'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sunrisers Hyderabad
+    by:
+      runs: 13
+  overs: 20
+  player_of_match:
+  - AS Rajpoot
+  players:
+    Sunrisers Hyderabad:
+    - S Dhawan
+    - KS Williamson
+    - WP Saha
+    - MK Pandey
+    - Shakib Al Hasan
+    - YK Pathan
+    - Mohammad Nabi
+    - Rashid Khan
+    - Basil Thampi
+    - S Kaul
+    - Sandeep Sharma
+    Kings XI Punjab:
+    - KL Rahul
+    - CH Gayle
+    - MA Agarwal
+    - KK Nair
+    - AJ Finch
+    - MK Tiwary
+    - R Ashwin
+    - AJ Tye
+    - BB Sran
+    - AS Rajpoot
+    - Mujeeb Ur Rahman
+  registry:
+    people:
+      AJ Finch: b8d490fd
+      AJ Tye: 7c7d63a2
+      AS Rajpoot: db31895a
+      BB Sran: d8b2f218
+      Basil Thampi: 871e9faf
+      CH Gayle: db584dad
+      CK Nandan: 012de9c4
+      GR Sadashiv Iyer: 0be62e31
+      J Srinath: bad31fac
+      KK Nair: 944533a5
+      KL Rahul: b17e2f24
+      KS Williamson: d027ba9f
+      MA Agarwal: 00ea847a
+      MK Pandey: 93b4fc78
+      MK Tiwary: 26e5cabf
+      Mohammad Nabi: 62af8546
+      Mujeeb Ur Rahman: 7d92277a
+      R Ashwin: 495d42a5
+      RJ Tucker: 38810cfc
+      Rashid Khan: 5f547c8b
+      S Dhawan: 0a476045
+      S Kaul: dcf81436
+      Sandeep Sharma: ce820073
+      Shakib Al Hasan: 7dc35884
+      WP Saha: fe11caa6
+      YC Barde: b90f3346
+      YK Pathan: 3c6ffae8
+  teams:
+  - Sunrisers Hyderabad
+  - Kings XI Punjab
+  toss:
+    decision: field
+    winner: Kings XI Punjab
+  umpires:
+  - CK Nandan
+  - YC Barde
+  venue: Rajiv Gandhi International Stadium
+innings:
+- 1st innings:
+    team: Sunrisers Hyderabad
+    deliveries:
+    - 0.1:
+        non_striker: KS Williamson
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 0.2:
+        non_striker: S Dhawan
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 0.3:
+        non_striker: S Dhawan
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 0.4:
+        non_striker: S Dhawan
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+        wicket:
+          player_out: KS Williamson
+          fielders:
+          - R Ashwin
+          kind: caught
+    - 0.5:
+        non_striker: S Dhawan
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 0.6:
+        non_striker: S Dhawan
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 1.1:
+        non_striker: WP Saha
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 1.2:
+        non_striker: WP Saha
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Dhawan
+    - 1.3:
+        non_striker: WP Saha
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 1.4:
+        non_striker: WP Saha
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 1.5:
+        non_striker: WP Saha
+        bowler: BB Sran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Dhawan
+    - 1.6:
+        non_striker: S Dhawan
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WP Saha
+    - 2.1:
+        non_striker: WP Saha
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 2.2:
+        non_striker: WP Saha
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+        wicket:
+          player_out: S Dhawan
+          fielders:
+          - KK Nair
+          kind: caught
+    - 2.3:
+        non_striker: WP Saha
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 2.4:
+        non_striker: WP Saha
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 2.5:
+        non_striker: WP Saha
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 2.6:
+        non_striker: WP Saha
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 3.1:
+        non_striker: MK Pandey
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 3.2:
+        non_striker: MK Pandey
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 3.3:
+        non_striker: MK Pandey
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Saha
+    - 3.4:
+        non_striker: WP Saha
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Pandey
+    - 3.5:
+        non_striker: WP Saha
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 3.6:
+        non_striker: WP Saha
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Pandey
+    - 4.1:
+        non_striker: MK Pandey
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 4.2:
+        non_striker: MK Pandey
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Saha
+    - 4.3:
+        non_striker: WP Saha
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Pandey
+    - 4.4:
+        non_striker: WP Saha
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 4.5:
+        non_striker: MK Pandey
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+        wicket:
+          player_out: WP Saha
+          fielders:
+          - AJ Tye
+          kind: caught
+    - 4.6:
+        non_striker: Shakib Al Hasan
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 5.1:
+        non_striker: MK Pandey
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 5.2:
+        non_striker: MK Pandey
+        bowler: BB Sran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Shakib Al Hasan
+    - 5.3:
+        non_striker: MK Pandey
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 5.4:
+        non_striker: MK Pandey
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 5.5:
+        non_striker: MK Pandey
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 5.6:
+        non_striker: MK Pandey
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 5.7:
+        non_striker: Shakib Al Hasan
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 6.1:
+        non_striker: MK Pandey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 6.2:
+        non_striker: MK Pandey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 6.3:
+        non_striker: MK Pandey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 6.4:
+        non_striker: Shakib Al Hasan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 6.5:
+        non_striker: MK Pandey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 6.6:
+        non_striker: MK Pandey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 7.1:
+        non_striker: MK Pandey
+        bowler: MK Tiwary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 7.2:
+        non_striker: Shakib Al Hasan
+        bowler: MK Tiwary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 7.3:
+        non_striker: MK Pandey
+        bowler: MK Tiwary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shakib Al Hasan
+    - 7.4:
+        non_striker: MK Pandey
+        bowler: MK Tiwary
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Shakib Al Hasan
+    - 7.5:
+        non_striker: MK Pandey
+        bowler: MK Tiwary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 7.6:
+        non_striker: Shakib Al Hasan
+        bowler: MK Tiwary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 7.7:
+        non_striker: MK Pandey
+        bowler: MK Tiwary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 8.1:
+        non_striker: MK Pandey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 8.2:
+        non_striker: MK Pandey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 8.3:
+        non_striker: Shakib Al Hasan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 8.4:
+        non_striker: Shakib Al Hasan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Pandey
+    - 8.5:
+        non_striker: Shakib Al Hasan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 8.6:
+        non_striker: Shakib Al Hasan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 9.1:
+        non_striker: Shakib Al Hasan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 9.2:
+        non_striker: MK Pandey
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 9.3:
+        non_striker: MK Pandey
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 9.4:
+        non_striker: MK Pandey
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 9.5:
+        non_striker: MK Pandey
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 9.6:
+        non_striker: Shakib Al Hasan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 10.1:
+        non_striker: Shakib Al Hasan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 10.2:
+        non_striker: MK Pandey
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 10.3:
+        non_striker: Shakib Al Hasan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Pandey
+    - 10.4:
+        non_striker: Shakib Al Hasan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 10.5:
+        non_striker: Shakib Al Hasan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 10.6:
+        non_striker: Shakib Al Hasan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 11.1:
+        non_striker: Shakib Al Hasan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 11.2:
+        non_striker: Shakib Al Hasan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 11.3:
+        non_striker: MK Pandey
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 11.4:
+        non_striker: Shakib Al Hasan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 11.5:
+        non_striker: Shakib Al Hasan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Pandey
+    - 11.6:
+        non_striker: Shakib Al Hasan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 12.1:
+        non_striker: Shakib Al Hasan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 12.2:
+        non_striker: MK Pandey
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 12.3:
+        non_striker: MK Pandey
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 12.4:
+        non_striker: MK Pandey
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shakib Al Hasan
+    - 12.5:
+        non_striker: MK Pandey
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 12.6:
+        non_striker: Shakib Al Hasan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 13.1:
+        non_striker: Shakib Al Hasan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 13.2:
+        non_striker: MK Pandey
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 13.3:
+        non_striker: Shakib Al Hasan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 13.4:
+        non_striker: MK Pandey
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+        wicket:
+          player_out: Shakib Al Hasan
+          fielders:
+          - MA Agarwal
+          kind: caught
+    - 13.5:
+        non_striker: YK Pathan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MK Pandey
+    - 13.6:
+        non_striker: MK Pandey
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 13.7:
+        non_striker: YK Pathan
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 14.1:
+        non_striker: YK Pathan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Pandey
+    - 14.2:
+        non_striker: YK Pathan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 14.3:
+        non_striker: MK Pandey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 14.4:
+        non_striker: YK Pathan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Pandey
+    - 14.5:
+        non_striker: YK Pathan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 14.6:
+        non_striker: YK Pathan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MK Pandey
+    - 15.1:
+        non_striker: MK Pandey
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 15.2:
+        non_striker: MK Pandey
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YK Pathan
+    - 15.3:
+        non_striker: MK Pandey
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 15.4:
+        non_striker: MK Pandey
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 15.5:
+        non_striker: MK Pandey
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 15.6:
+        non_striker: MK Pandey
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 16.1:
+        non_striker: YK Pathan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 16.2:
+        non_striker: YK Pathan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 16.3:
+        non_striker: YK Pathan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 16.4:
+        non_striker: MK Pandey
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 16.5:
+        non_striker: YK Pathan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Pandey
+    - 16.6:
+        non_striker: YK Pathan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 17.1:
+        non_striker: YK Pathan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 17.2:
+        non_striker: MK Pandey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YK Pathan
+    - 17.3:
+        non_striker: MK Pandey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YK Pathan
+    - 17.4:
+        non_striker: MK Pandey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YK Pathan
+    - 17.5:
+        non_striker: MK Pandey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YK Pathan
+    - 17.6:
+        non_striker: MK Pandey
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 18.1:
+        non_striker: YK Pathan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+    - 18.2:
+        non_striker: YK Pathan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Pandey
+    - 18.3:
+        non_striker: YK Pathan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 18.4:
+        non_striker: MK Pandey
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 18.5:
+        non_striker: MK Pandey
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YK Pathan
+    - 18.6:
+        non_striker: MK Pandey
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 19.1:
+        non_striker: YK Pathan
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Pandey
+    - 19.2:
+        non_striker: MK Pandey
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 19.3:
+        non_striker: MK Pandey
+        bowler: AS Rajpoot
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: YK Pathan
+    - 19.4:
+        non_striker: YK Pathan
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Pandey
+        wicket:
+          player_out: MK Pandey
+          kind: bowled
+    - 19.5:
+        non_striker: YK Pathan
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 19.6:
+        non_striker: YK Pathan
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+        wicket:
+          player_out: Mohammad Nabi
+          fielders:
+          - MA Agarwal
+          kind: caught
+- 2nd innings:
+    team: Kings XI Punjab
+    deliveries:
+    - 0.1:
+        non_striker: CH Gayle
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 0.2:
+        non_striker: CH Gayle
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 0.3:
+        non_striker: CH Gayle
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 0.4:
+        non_striker: KL Rahul
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 0.5:
+        non_striker: KL Rahul
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 0.6:
+        non_striker: KL Rahul
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 1.1:
+        non_striker: KL Rahul
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 1.2:
+        non_striker: KL Rahul
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CH Gayle
+    - 1.3:
+        non_striker: KL Rahul
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 1.4:
+        non_striker: KL Rahul
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 1.5:
+        non_striker: CH Gayle
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 1.6:
+        non_striker: KL Rahul
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 2.1:
+        non_striker: CH Gayle
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 2.2:
+        non_striker: CH Gayle
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 2.3:
+        non_striker: CH Gayle
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 2.4:
+        non_striker: KL Rahul
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 2.5:
+        non_striker: CH Gayle
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 2.6:
+        non_striker: KL Rahul
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 3.1:
+        non_striker: KL Rahul
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 3.2:
+        non_striker: KL Rahul
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 3.3:
+        non_striker: CH Gayle
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 3.4:
+        non_striker: CH Gayle
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 3.5:
+        non_striker: CH Gayle
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 3.6:
+        non_striker: CH Gayle
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 4.1:
+        non_striker: CH Gayle
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 4.2:
+        non_striker: CH Gayle
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 4.3:
+        non_striker: CH Gayle
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 4.4:
+        non_striker: CH Gayle
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 4.5:
+        non_striker: CH Gayle
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 4.6:
+        non_striker: KL Rahul
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 5.1:
+        non_striker: CH Gayle
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.2:
+        non_striker: CH Gayle
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 5.3:
+        non_striker: CH Gayle
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.4:
+        non_striker: CH Gayle
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 5.5:
+        non_striker: KL Rahul
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CH Gayle
+    - 5.6:
+        non_striker: KL Rahul
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 6.1:
+        non_striker: CH Gayle
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 6.2:
+        non_striker: KL Rahul
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 6.3:
+        non_striker: KL Rahul
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CH Gayle
+    - 6.4:
+        non_striker: KL Rahul
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 6.5:
+        non_striker: CH Gayle
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 6.6:
+        non_striker: KL Rahul
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 7.1:
+        non_striker: CH Gayle
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 7.2:
+        non_striker: CH Gayle
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 7.3:
+        non_striker: KL Rahul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 7.4:
+        non_striker: KL Rahul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 7.5:
+        non_striker: CH Gayle
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+        wicket:
+          player_out: KL Rahul
+          kind: bowled
+    - 7.6:
+        non_striker: CH Gayle
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 8.1:
+        non_striker: CH Gayle
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 8.2:
+        non_striker: MA Agarwal
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+        wicket:
+          player_out: CH Gayle
+          kind: caught and bowled
+    - 8.3:
+        non_striker: KK Nair
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Agarwal
+    - 8.4:
+        non_striker: KK Nair
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 8.5:
+        non_striker: KK Nair
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 8.6:
+        non_striker: MA Agarwal
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 9.1:
+        non_striker: MA Agarwal
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KK Nair
+    - 9.2:
+        non_striker: MA Agarwal
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 9.3:
+        non_striker: MA Agarwal
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 9.4:
+        non_striker: KK Nair
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 9.5:
+        non_striker: KK Nair
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 9.6:
+        non_striker: MA Agarwal
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KK Nair
+    - 10.1:
+        non_striker: KK Nair
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Agarwal
+    - 10.2:
+        non_striker: KK Nair
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 10.3:
+        non_striker: KK Nair
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 10.4:
+        non_striker: MA Agarwal
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 10.5:
+        non_striker: KK Nair
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 10.6:
+        non_striker: MA Agarwal
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 11.1:
+        non_striker: MA Agarwal
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 11.2:
+        non_striker: KK Nair
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 11.3:
+        non_striker: MA Agarwal
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 11.4:
+        non_striker: KK Nair
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 11.5:
+        non_striker: KK Nair
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 11.6:
+        non_striker: MA Agarwal
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 12.1:
+        non_striker: KK Nair
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+        wicket:
+          player_out: MA Agarwal
+          fielders:
+          - MK Pandey
+          kind: caught
+    - 12.2:
+        non_striker: AJ Finch
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 12.3:
+        non_striker: AJ Finch
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 12.4:
+        non_striker: KK Nair
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 12.5:
+        non_striker: AJ Finch
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 12.6:
+        non_striker: AJ Finch
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 13.1:
+        non_striker: AJ Finch
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 13.2:
+        non_striker: AJ Finch
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 13.3:
+        non_striker: KK Nair
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 13.4:
+        non_striker: AJ Finch
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+        wicket:
+          player_out: KK Nair
+          kind: lbw
+    - 13.5:
+        non_striker: AJ Finch
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Tiwary
+    - 13.6:
+        non_striker: AJ Finch
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Tiwary
+    - 14.1:
+        non_striker: MK Tiwary
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Finch
+    - 14.2:
+        non_striker: MK Tiwary
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+        wicket:
+          player_out: AJ Finch
+          fielders:
+          - MK Pandey
+          kind: caught
+    - 14.3:
+        non_striker: MK Tiwary
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 14.4:
+        non_striker: R Ashwin
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Tiwary
+    - 14.5:
+        non_striker: MK Tiwary
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 14.6:
+        non_striker: MK Tiwary
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 15.1:
+        non_striker: MK Tiwary
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 15.2:
+        non_striker: R Ashwin
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Tiwary
+    - 15.3:
+        non_striker: R Ashwin
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Tiwary
+        wicket:
+          player_out: MK Tiwary
+          fielders:
+          - KS Williamson
+          kind: caught
+    - 15.4:
+        non_striker: R Ashwin
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Tye
+    - 15.5:
+        non_striker: R Ashwin
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+        wicket:
+          player_out: AJ Tye
+          kind: lbw
+    - 15.6:
+        non_striker: R Ashwin
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB Sran
+    - 16.1:
+        non_striker: R Ashwin
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB Sran
+    - 16.2:
+        non_striker: R Ashwin
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB Sran
+    - 16.3:
+        non_striker: BB Sran
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 16.4:
+        non_striker: R Ashwin
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB Sran
+    - 16.5:
+        non_striker: R Ashwin
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB Sran
+        wicket:
+          player_out: BB Sran
+          kind: run out
+    - 16.6:
+        non_striker: R Ashwin
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Rajpoot
+    - 17.1:
+        non_striker: R Ashwin
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Rajpoot
+    - 17.2:
+        non_striker: AS Rajpoot
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+        wicket:
+          player_out: R Ashwin
+          fielders:
+          - KS Williamson
+          kind: caught
+    - 17.3:
+        non_striker: Mujeeb Ur Rahman
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Rajpoot
+    - 17.4:
+        non_striker: Mujeeb Ur Rahman
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Rajpoot
+    - 17.5:
+        non_striker: AS Rajpoot
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mujeeb Ur Rahman
+    - 17.6:
+        non_striker: AS Rajpoot
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mujeeb Ur Rahman
+    - 18.1:
+        non_striker: Mujeeb Ur Rahman
+        bowler: S Kaul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AS Rajpoot
+    - 18.2:
+        non_striker: AS Rajpoot
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb Ur Rahman
+    - 18.3:
+        non_striker: Mujeeb Ur Rahman
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Rajpoot
+    - 18.4:
+        non_striker: AS Rajpoot
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb Ur Rahman
+    - 18.5:
+        non_striker: Mujeeb Ur Rahman
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AS Rajpoot
+    - 18.6:
+        non_striker: Mujeeb Ur Rahman
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Rajpoot
+    - 19.1:
+        non_striker: AS Rajpoot
+        bowler: Basil Thampi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mujeeb Ur Rahman
+    - 19.2:
+        non_striker: Mujeeb Ur Rahman
+        bowler: Basil Thampi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Rajpoot
+        wicket:
+          player_out: AS Rajpoot
+          kind: bowled

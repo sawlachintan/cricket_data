@@ -1,0 +1,2109 @@
+---
+meta:
+  data_version: 0.91
+  created: '2020-03-16'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Almeria
+  dates:
+  - '2020-03-08'
+  gender: male
+  match_type: T20
+  match_type_number: 1080
+  outcome:
+    winner: Spain
+    by:
+      wickets: 9
+  overs: 20
+  players:
+    Germany:
+    - VB Chikkannaiah
+    - Abdul-Shakoor Rahimzei
+    - MJ Richardson
+    - V Ganesan
+    - H Singh
+    - Amir Mangal
+    - D Klein
+    - Sahir Naqash
+    - Izatullah Dawlatzai
+    - Ahmed Wardak
+    - SVE Bharathi
+    Spain:
+    - Awais Ahmed
+    - PD Hennessy
+    - Yasir Ali
+    - AD Algar
+    - C Munoz-Mills
+    - TC Vine
+    - Kuldeep Lal
+    - J Perman
+    - R Panchal
+    - Tauqeer Hussain
+    - Raja Adeel
+  registry:
+    people:
+      AD Algar: 020e49e9
+      Abdul-Shakoor Rahimzei: e45810ed
+      Ahmed Wardak: 3daaabaa
+      Amir Mangal: a48c9735
+      Awais Ahmed: f9f857dc
+      C Munoz-Mills: 17bc032c
+      D Klein: aeab0d4f
+      H Singh: 8209da53
+      Izatullah Dawlatzai: f96933f0
+      J Perman: 125bba96
+      Kuldeep Lal: 8a1d0222
+      MJ Richardson: 22176fe7
+      PD Hennessy: a3b9191a
+      R Panchal: 91cd337c
+      Raja Adeel: 7ee25c46
+      SVE Bharathi: 6a63c29c
+      Sahir Naqash: 352e589f
+      TC Vine: ab8ef1e9
+      Tauqeer Hussain: 84d0b84c
+      V Ganesan: baa7dd37
+      VB Chikkannaiah: 8e81b773
+      Yasir Ali: '79209272'
+  teams:
+  - Spain
+  - Germany
+  toss:
+    decision: field
+    winner: Spain
+  venue: Desert Springs Cricket Ground
+innings:
+- 1st innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abdul-Shakoor Rahimzei
+        batsman: VB Chikkannaiah
+    - 0.2:
+        non_striker: Abdul-Shakoor Rahimzei
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Chikkannaiah
+        wicket:
+          player_out: VB Chikkannaiah
+          kind: caught and bowled
+    - 0.3:
+        non_striker: Abdul-Shakoor Rahimzei
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Richardson
+    - 0.4:
+        non_striker: MJ Richardson
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul-Shakoor Rahimzei
+    - 0.5:
+        non_striker: MJ Richardson
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul-Shakoor Rahimzei
+    - 0.6:
+        non_striker: MJ Richardson
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul-Shakoor Rahimzei
+    - 1.1:
+        non_striker: MJ Richardson
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul-Shakoor Rahimzei
+    - 1.2:
+        non_striker: MJ Richardson
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul-Shakoor Rahimzei
+    - 1.3:
+        non_striker: Abdul-Shakoor Rahimzei
+        bowler: R Panchal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Richardson
+    - 1.4:
+        non_striker: Abdul-Shakoor Rahimzei
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Richardson
+    - 1.5:
+        non_striker: MJ Richardson
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul-Shakoor Rahimzei
+    - 1.6:
+        non_striker: MJ Richardson
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul-Shakoor Rahimzei
+        wicket:
+          player_out: Abdul-Shakoor Rahimzei
+          fielders:
+          - AD Algar
+          kind: caught
+    - 1.7:
+        non_striker: MJ Richardson
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Ganesan
+    - 2.1:
+        non_striker: V Ganesan
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+    - 2.2:
+        non_striker: V Ganesan
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+    - 2.3:
+        non_striker: V Ganesan
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+    - 2.4:
+        non_striker: V Ganesan
+        bowler: Raja Adeel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Richardson
+    - 2.5:
+        non_striker: V Ganesan
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Richardson
+    - 2.6:
+        non_striker: V Ganesan
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Richardson
+    - 2.7:
+        non_striker: V Ganesan
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Richardson
+    - 3.1:
+        non_striker: V Ganesan
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+    - 3.2:
+        non_striker: V Ganesan
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+    - 3.3:
+        non_striker: V Ganesan
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+    - 3.4:
+        non_striker: V Ganesan
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Richardson
+    - 3.5:
+        non_striker: V Ganesan
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Richardson
+    - 3.6:
+        non_striker: MJ Richardson
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+    - 4.1:
+        non_striker: V Ganesan
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Richardson
+    - 4.2:
+        non_striker: V Ganesan
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+    - 4.3:
+        non_striker: V Ganesan
+        bowler: Raja Adeel
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: MJ Richardson
+    - 4.4:
+        non_striker: V Ganesan
+        bowler: Raja Adeel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJ Richardson
+    - 4.5:
+        non_striker: MJ Richardson
+        bowler: Raja Adeel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Ganesan
+    - 4.6:
+        non_striker: MJ Richardson
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 4.7:
+        non_striker: V Ganesan
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+    - 5.1:
+        non_striker: MJ Richardson
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+    - 5.2:
+        non_striker: MJ Richardson
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 5.3:
+        non_striker: V Ganesan
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Richardson
+    - 5.4:
+        non_striker: V Ganesan
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+    - 5.5:
+        non_striker: V Ganesan
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Richardson
+    - 5.6:
+        non_striker: V Ganesan
+        bowler: R Panchal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+    - 6.1:
+        non_striker: MJ Richardson
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 6.2:
+        non_striker: V Ganesan
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Richardson
+    - 6.3:
+        non_striker: V Ganesan
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+        wicket:
+          player_out: V Ganesan
+          kind: run out
+    - 6.4:
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Singh
+        batsman: MJ Richardson
+    - 6.5:
+        non_striker: MJ Richardson
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 6.6:
+        non_striker: H Singh
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+    - 7.1:
+        non_striker: MJ Richardson
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 7.2:
+        non_striker: H Singh
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Richardson
+    - 7.3:
+        non_striker: H Singh
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Richardson
+    - 7.4:
+        non_striker: MJ Richardson
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 7.5:
+        non_striker: H Singh
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+    - 7.6:
+        non_striker: H Singh
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+    - 8.1:
+        non_striker: MJ Richardson
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 8.2:
+        non_striker: MJ Richardson
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 8.3:
+        non_striker: H Singh
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Richardson
+    - 8.4:
+        non_striker: MJ Richardson
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 8.5:
+        non_striker: H Singh
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Richardson
+    - 8.6:
+        non_striker: MJ Richardson
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 9.1:
+        non_striker: H Singh
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Richardson
+    - 9.2:
+        non_striker: H Singh
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Richardson
+    - 9.3:
+        non_striker: H Singh
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Richardson
+    - 9.4:
+        non_striker: MJ Richardson
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 9.5:
+        non_striker: MJ Richardson
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 9.6:
+        non_striker: H Singh
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Richardson
+    - 10.1:
+        non_striker: H Singh
+        bowler: J Perman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Richardson
+    - 10.2:
+        non_striker: MJ Richardson
+        bowler: J Perman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 10.3:
+        non_striker: H Singh
+        bowler: J Perman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Richardson
+    - 10.4:
+        non_striker: H Singh
+        bowler: J Perman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Richardson
+    - 10.5:
+        non_striker: MJ Richardson
+        bowler: J Perman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 10.6:
+        non_striker: MJ Richardson
+        bowler: J Perman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 10.7:
+        non_striker: MJ Richardson
+        bowler: J Perman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 11.1:
+        non_striker: MJ Richardson
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 11.2:
+        non_striker: MJ Richardson
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 11.3:
+        non_striker: H Singh
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Richardson
+    - 11.4:
+        non_striker: MJ Richardson
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 11.5:
+        non_striker: H Singh
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+    - 11.6:
+        non_striker: H Singh
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+    - 12.1:
+        non_striker: MJ Richardson
+        bowler: J Perman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 12.2:
+        non_striker: MJ Richardson
+        bowler: J Perman
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: H Singh
+    - 12.3:
+        non_striker: MJ Richardson
+        bowler: J Perman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 12.4:
+        non_striker: H Singh
+        bowler: J Perman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Richardson
+    - 12.5:
+        non_striker: H Singh
+        bowler: J Perman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+    - 12.6:
+        non_striker: H Singh
+        bowler: J Perman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Richardson
+    - 13.1:
+        non_striker: H Singh
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Richardson
+        wicket:
+          player_out: MJ Richardson
+          kind: lbw
+    - 13.2:
+        non_striker: H Singh
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amir Mangal
+    - 13.3:
+        non_striker: H Singh
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Mangal
+    - 13.4:
+        non_striker: Amir Mangal
+        bowler: Yasir Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Singh
+    - 13.5:
+        non_striker: Amir Mangal
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 13.6:
+        non_striker: Amir Mangal
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 13.7:
+        non_striker: H Singh
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amir Mangal
+    - 14.1:
+        non_striker: Amir Mangal
+        bowler: J Perman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 14.2:
+        non_striker: H Singh
+        bowler: J Perman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amir Mangal
+    - 14.3:
+        non_striker: H Singh
+        bowler: J Perman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Mangal
+    - 14.4:
+        non_striker: Amir Mangal
+        bowler: J Perman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Singh
+    - 14.5:
+        non_striker: Amir Mangal
+        bowler: J Perman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 14.6:
+        non_striker: H Singh
+        bowler: J Perman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Mangal
+    - 14.7:
+        non_striker: Amir Mangal
+        bowler: J Perman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 15.1:
+        non_striker: H Singh
+        bowler: Kuldeep Lal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amir Mangal
+    - 15.2:
+        non_striker: H Singh
+        bowler: Kuldeep Lal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Mangal
+    - 15.3:
+        non_striker: Amir Mangal
+        bowler: Kuldeep Lal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 15.4:
+        non_striker: H Singh
+        bowler: Kuldeep Lal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Mangal
+    - 15.5:
+        non_striker: Amir Mangal
+        bowler: Kuldeep Lal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 15.6:
+        non_striker: Amir Mangal
+        bowler: Kuldeep Lal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+        wicket:
+          player_out: H Singh
+          fielders:
+          - AD Algar
+          kind: caught
+    - 16.1:
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Klein
+        batsman: Amir Mangal
+    - 16.2:
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Klein
+        batsman: Amir Mangal
+    - 16.3:
+        non_striker: Amir Mangal
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Klein
+    - 16.4:
+        non_striker: D Klein
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amir Mangal
+    - 16.5:
+        non_striker: D Klein
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Mangal
+        wicket:
+          player_out: Amir Mangal
+          fielders:
+          - C Munoz-Mills
+          kind: caught
+    - 16.6:
+        non_striker: D Klein
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahir Naqash
+    - 17.1:
+        non_striker: D Klein
+        bowler: Kuldeep Lal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahir Naqash
+    - 17.2:
+        non_striker: Sahir Naqash
+        bowler: Kuldeep Lal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Klein
+    - 17.3:
+        non_striker: Sahir Naqash
+        bowler: Kuldeep Lal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Klein
+    - 17.4:
+        non_striker: D Klein
+        bowler: Kuldeep Lal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahir Naqash
+    - 17.5:
+        non_striker: D Klein
+        bowler: Kuldeep Lal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahir Naqash
+    - 17.6:
+        non_striker: Sahir Naqash
+        bowler: Kuldeep Lal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Klein
+    - 18.1:
+        non_striker: D Klein
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahir Naqash
+    - 18.2:
+        non_striker: Sahir Naqash
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Klein
+    - 18.3:
+        non_striker: Sahir Naqash
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Klein
+    - 18.4:
+        non_striker: D Klein
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Sahir Naqash
+    - 18.5:
+        non_striker: Sahir Naqash
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Klein
+    - 18.6:
+        non_striker: D Klein
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahir Naqash
+    - 18.7:
+        non_striker: D Klein
+        bowler: Tauqeer Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sahir Naqash
+    - 19.1:
+        non_striker: D Klein
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sahir Naqash
+    - 19.2:
+        non_striker: D Klein
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahir Naqash
+    - 19.3:
+        non_striker: Sahir Naqash
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Klein
+    - 19.4:
+        non_striker: Sahir Naqash
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Klein
+    - 19.5:
+        non_striker: D Klein
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahir Naqash
+        wicket:
+          player_out: Sahir Naqash
+          fielders:
+          - R Panchal
+          kind: caught
+    - 19.6:
+        non_striker: Izatullah Dawlatzai
+        bowler: Raja Adeel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: D Klein
+- 2nd innings:
+    team: Spain
+    deliveries:
+    - 0.1:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmed
+        wicket:
+          player_out: Awais Ahmed
+          kind: lbw
+    - 0.2:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 0.3:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yasir Ali
+    - 0.4:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 0.5:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Ali
+    - 0.6:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 0.7:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Yasir Ali
+    - 0.8:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 1.1:
+        non_striker: Yasir Ali
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 1.2:
+        non_striker: PD Hennessy
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 1.3:
+        non_striker: PD Hennessy
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasir Ali
+    - 1.4:
+        non_striker: PD Hennessy
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Ali
+    - 1.5:
+        non_striker: PD Hennessy
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 1.6:
+        non_striker: PD Hennessy
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 2.1:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Ali
+    - 2.2:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 2.3:
+        non_striker: Yasir Ali
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Hennessy
+    - 2.4:
+        non_striker: Yasir Ali
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 2.5:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yasir Ali
+    - 2.6:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Yasir Ali
+    - 2.7:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Yasir Ali
+    - 2.8:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 3.1:
+        non_striker: Yasir Ali
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 3.2:
+        non_striker: PD Hennessy
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 3.3:
+        non_striker: PD Hennessy
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 3.4:
+        non_striker: PD Hennessy
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 3.5:
+        non_striker: Yasir Ali
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: PD Hennessy
+    - 3.6:
+        non_striker: PD Hennessy
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 4.1:
+        non_striker: Yasir Ali
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Hennessy
+    - 4.2:
+        non_striker: Yasir Ali
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 4.3:
+        non_striker: PD Hennessy
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasir Ali
+    - 4.4:
+        non_striker: PD Hennessy
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 4.5:
+        non_striker: Yasir Ali
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Hennessy
+    - 4.6:
+        non_striker: Yasir Ali
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Hennessy
+    - 5.1:
+        non_striker: PD Hennessy
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 5.2:
+        non_striker: PD Hennessy
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 5.3:
+        non_striker: Yasir Ali
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Hennessy
+    - 5.4:
+        non_striker: Yasir Ali
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 5.5:
+        non_striker: PD Hennessy
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 5.6:
+        non_striker: PD Hennessy
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 6.1:
+        non_striker: Yasir Ali
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 6.2:
+        non_striker: PD Hennessy
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 6.3:
+        non_striker: Yasir Ali
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Hennessy
+    - 6.4:
+        non_striker: Yasir Ali
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Hennessy
+    - 6.5:
+        non_striker: Yasir Ali
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Hennessy
+    - 6.6:
+        non_striker: Yasir Ali
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 7.1:
+        non_striker: Yasir Ali
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Hennessy
+    - 7.2:
+        non_striker: Yasir Ali
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Hennessy
+    - 7.3:
+        non_striker: Yasir Ali
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 7.4:
+        non_striker: PD Hennessy
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 7.5:
+        non_striker: PD Hennessy
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 7.6:
+        non_striker: Yasir Ali
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Hennessy
+    - 8.1:
+        non_striker: PD Hennessy
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasir Ali
+    - 8.2:
+        non_striker: PD Hennessy
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 8.3:
+        non_striker: Yasir Ali
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 8.4:
+        non_striker: PD Hennessy
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 8.5:
+        non_striker: PD Hennessy
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Yasir Ali
+    - 8.6:
+        non_striker: PD Hennessy
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 9.1:
+        non_striker: Yasir Ali
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 9.2:
+        non_striker: PD Hennessy
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 9.3:
+        non_striker: Yasir Ali
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 9.4:
+        non_striker: PD Hennessy
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 9.5:
+        non_striker: PD Hennessy
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Ali
+    - 9.6:
+        non_striker: PD Hennessy
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasir Ali
+    - 10.1:
+        non_striker: Yasir Ali
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 10.2:
+        non_striker: PD Hennessy
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 10.3:
+        non_striker: PD Hennessy
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 10.4:
+        non_striker: Yasir Ali
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Hennessy
+    - 10.5:
+        non_striker: Yasir Ali
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 10.6:
+        non_striker: PD Hennessy
+        bowler: Sahir Naqash
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Yasir Ali
+    - 10.7:
+        non_striker: PD Hennessy
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Ali
+    - 11.1:
+        non_striker: Yasir Ali
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 11.2:
+        non_striker: PD Hennessy
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 11.3:
+        non_striker: PD Hennessy
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 11.4:
+        non_striker: PD Hennessy
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Ali
+    - 11.5:
+        non_striker: PD Hennessy
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 11.6:
+        non_striker: PD Hennessy
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 12.1:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yasir Ali
+    - 12.2:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 12.3:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 12.4:
+        non_striker: Yasir Ali
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Hennessy
+    - 12.5:
+        non_striker: Yasir Ali
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Hennessy
+    - 12.6:
+        non_striker: Yasir Ali
+        bowler: D Klein
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PD Hennessy
+    - 12.7:
+        non_striker: Yasir Ali
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 12.8:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 13.1:
+        non_striker: Yasir Ali
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Hennessy
+    - 13.2:
+        non_striker: Yasir Ali
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PD Hennessy
+    - 13.3:
+        non_striker: PD Hennessy
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Yasir Ali
+    - 13.4:
+        non_striker: PD Hennessy
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 13.5:
+        non_striker: PD Hennessy
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 13.6:
+        non_striker: Yasir Ali
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 14.1:
+        non_striker: Yasir Ali
+        bowler: D Klein
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PD Hennessy
+    - 14.2:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 14.3:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 14.4:
+        non_striker: Yasir Ali
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 14.5:
+        non_striker: PD Hennessy
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 14.6:
+        non_striker: Yasir Ali
+        bowler: D Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Hennessy
+    - 15.1:
+        non_striker: PD Hennessy
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 15.2:
+        non_striker: Yasir Ali
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Hennessy
+    - 15.3:
+        non_striker: Yasir Ali
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Hennessy
+    - 15.4:
+        non_striker: Yasir Ali
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 15.5:
+        non_striker: PD Hennessy
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 15.6:
+        non_striker: Yasir Ali
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 16.1:
+        non_striker: Yasir Ali
+        bowler: H Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Hennessy
+    - 16.2:
+        non_striker: Yasir Ali
+        bowler: H Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 16.3:
+        non_striker: PD Hennessy
+        bowler: H Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 16.4:
+        non_striker: PD Hennessy
+        bowler: H Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Ali
+    - 16.5:
+        non_striker: PD Hennessy
+        bowler: H Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 16.6:
+        non_striker: Yasir Ali
+        bowler: H Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Hennessy
+    - 17.1:
+        non_striker: PD Hennessy
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 17.2:
+        non_striker: Yasir Ali
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Hennessy
+    - 17.3:
+        non_striker: PD Hennessy
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 17.4:
+        non_striker: PD Hennessy
+        bowler: Ahmed Wardak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yasir Ali
+    - 17.5:
+        non_striker: PD Hennessy
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 17.6:
+        non_striker: PD Hennessy
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 17.7:
+        non_striker: Yasir Ali
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Hennessy
+    - 18.1:
+        non_striker: PD Hennessy
+        bowler: Izatullah Dawlatzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Ali

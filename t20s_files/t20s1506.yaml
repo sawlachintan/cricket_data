@@ -1,0 +1,1892 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-06-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sofia
+  dates:
+  - '2021-06-24'
+  gender: male
+  match_type: T20
+  match_type_number: 1167
+  outcome:
+    winner: Romania
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - R Satheesan
+  players:
+    Greece:
+    - S Gasteratos
+    - Aslam Mohammad
+    - AS Mehmi
+    - A Manousis
+    - Arsalan Ahmed
+    - GC Galanis
+    - Asrar Ahmed
+    - Syed Amanullah
+    - S Siriotis
+    - T Zotos
+    - N Mourikis
+    Romania:
+    - Taranjeet Singh
+    - G Manan
+    - R Satheesan
+    - S Periyalwar
+    - C Zavoiu
+    - V Saini
+    - S Nadigotla
+    - Ijaz Hussain
+    - Sami Ullah
+    - P Florin
+    - S Vashisht
+  registry:
+    people:
+      A Manousis: b672e825
+      AS Mehmi: 4612619b
+      Arsalan Ahmed: e0febd97
+      Aslam Mohammad: 67ae5a56
+      Asrar Ahmed: 88251c6c
+      C Zavoiu: 6b96bebf
+      G Manan: d7265622
+      GC Galanis: db218528
+      Ijaz Hussain: dc1dd6c4
+      N Mourikis: 17bd7d33
+      P Florin: c9c356e2
+      R Satheesan: 1125ebe4
+      S Gasteratos: 11174f6d
+      S Nadigotla: b78b3ffd
+      S Periyalwar: d207e4fb
+      S Siriotis: ff8b37cb
+      S Vashisht: 20ac8219
+      Sami Ullah: ad05692c
+      Syed Amanullah: ae4006ad
+      T Zotos: 4c4d245a
+      Taranjeet Singh: ec483176
+      V Saini: 0fa81719
+  teams:
+  - Greece
+  - Romania
+  toss:
+    decision: bat
+    winner: Greece
+  venue: National Sports Academy, Sofia
+innings:
+- 1st innings:
+    team: Greece
+    deliveries:
+    - 0.1:
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aslam Mohammad
+        batsman: S Gasteratos
+    - 0.2:
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aslam Mohammad
+        batsman: S Gasteratos
+    - 0.3:
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aslam Mohammad
+        batsman: S Gasteratos
+    - 0.4:
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Aslam Mohammad
+        batsman: S Gasteratos
+    - 0.5:
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aslam Mohammad
+        batsman: S Gasteratos
+    - 0.6:
+        bowler: S Vashisht
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Aslam Mohammad
+        batsman: S Gasteratos
+    - 0.7:
+        non_striker: Aslam Mohammad
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gasteratos
+        wicket:
+          player_out: S Gasteratos
+          fielders:
+          - S Nadigotla
+          kind: caught
+    - 1.1:
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Mehmi
+        batsman: Aslam Mohammad
+    - 1.2:
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Mehmi
+        batsman: Aslam Mohammad
+    - 1.3:
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Mehmi
+        batsman: Aslam Mohammad
+    - 1.4:
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Mehmi
+        batsman: Aslam Mohammad
+    - 1.5:
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Mehmi
+        batsman: Aslam Mohammad
+    - 1.6:
+        non_striker: AS Mehmi
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aslam Mohammad
+    - 2.1:
+        non_striker: Aslam Mohammad
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Mehmi
+    - 2.2:
+        non_striker: Aslam Mohammad
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AS Mehmi
+    - 2.3:
+        non_striker: Aslam Mohammad
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Mehmi
+        wicket:
+          player_out: AS Mehmi
+          kind: caught and bowled
+    - 2.4:
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Manousis
+        batsman: Aslam Mohammad
+    - 2.5:
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Manousis
+        batsman: Aslam Mohammad
+    - 2.6:
+        non_striker: A Manousis
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Mohammad
+    - 3.1:
+        non_striker: A Manousis
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Mohammad
+    - 3.2:
+        non_striker: A Manousis
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Mohammad
+    - 3.3:
+        non_striker: Aslam Mohammad
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Manousis
+    - 3.4:
+        non_striker: Aslam Mohammad
+        bowler: V Saini
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: A Manousis
+    - 3.5:
+        non_striker: Aslam Mohammad
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Manousis
+        wicket:
+          player_out: A Manousis
+          kind: lbw
+    - 3.6:
+        non_striker: Aslam Mohammad
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Arsalan Ahmed
+    - 4.1:
+        non_striker: Arsalan Ahmed
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Mohammad
+    - 4.2:
+        non_striker: Aslam Mohammad
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arsalan Ahmed
+    - 4.3:
+        non_striker: Aslam Mohammad
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arsalan Ahmed
+    - 4.4:
+        non_striker: Aslam Mohammad
+        bowler: S Vashisht
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Arsalan Ahmed
+    - 4.5:
+        non_striker: Aslam Mohammad
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arsalan Ahmed
+    - 4.6:
+        non_striker: Aslam Mohammad
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arsalan Ahmed
+        wicket:
+          player_out: Arsalan Ahmed
+          fielders:
+          - S Nadigotla
+          kind: caught
+    - 4.7:
+        non_striker: Aslam Mohammad
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Galanis
+    - 5.1:
+        non_striker: Aslam Mohammad
+        bowler: Ijaz Hussain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GC Galanis
+    - 5.2:
+        non_striker: Aslam Mohammad
+        bowler: Ijaz Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Galanis
+    - 5.3:
+        non_striker: Aslam Mohammad
+        bowler: Ijaz Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GC Galanis
+    - 5.4:
+        non_striker: Aslam Mohammad
+        bowler: Ijaz Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Galanis
+    - 5.5:
+        non_striker: Aslam Mohammad
+        bowler: Ijaz Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Galanis
+        wicket:
+          player_out: GC Galanis
+          fielders:
+          - V Saini
+          kind: caught
+    - 5.6:
+        non_striker: Aslam Mohammad
+        bowler: Ijaz Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed
+    - 5.7:
+        non_striker: Aslam Mohammad
+        bowler: Ijaz Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Asrar Ahmed
+    - 5.8:
+        non_striker: Aslam Mohammad
+        bowler: Ijaz Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Asrar Ahmed
+    - 5.9:
+        non_striker: Aslam Mohammad
+        bowler: Ijaz Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 6.1:
+        non_striker: Aslam Mohammad
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed
+    - 6.2:
+        non_striker: Aslam Mohammad
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed
+    - 6.3:
+        non_striker: Aslam Mohammad
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed
+    - 6.4:
+        non_striker: Aslam Mohammad
+        bowler: Sami Ullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Asrar Ahmed
+    - 6.5:
+        non_striker: Aslam Mohammad
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed
+    - 6.6:
+        non_striker: Aslam Mohammad
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 6.7:
+        non_striker: Asrar Ahmed
+        bowler: Sami Ullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aslam Mohammad
+    - 6.8:
+        non_striker: Asrar Ahmed
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Mohammad
+    - 7.1:
+        non_striker: Aslam Mohammad
+        bowler: Ijaz Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 7.2:
+        non_striker: Asrar Ahmed
+        bowler: Ijaz Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Mohammad
+    - 7.3:
+        non_striker: Aslam Mohammad
+        bowler: Ijaz Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed
+    - 7.4:
+        non_striker: Aslam Mohammad
+        bowler: Ijaz Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 7.5:
+        non_striker: Asrar Ahmed
+        bowler: Ijaz Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Mohammad
+    - 7.6:
+        non_striker: Aslam Mohammad
+        bowler: Ijaz Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 8.1:
+        non_striker: Aslam Mohammad
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 8.2:
+        non_striker: Asrar Ahmed
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Mohammad
+    - 8.3:
+        non_striker: Aslam Mohammad
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 8.4:
+        non_striker: Asrar Ahmed
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Mohammad
+    - 8.5:
+        non_striker: Asrar Ahmed
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aslam Mohammad
+    - 8.6:
+        non_striker: Asrar Ahmed
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Mohammad
+    - 9.1:
+        non_striker: Aslam Mohammad
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed
+    - 9.2:
+        non_striker: Aslam Mohammad
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asrar Ahmed
+    - 9.3:
+        non_striker: Aslam Mohammad
+        bowler: Taranjeet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Asrar Ahmed
+    - 9.4:
+        non_striker: Aslam Mohammad
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 9.5:
+        non_striker: Asrar Ahmed
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Mohammad
+    - 9.6:
+        non_striker: Asrar Ahmed
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Mohammad
+    - 9.7:
+        non_striker: Asrar Ahmed
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Mohammad
+    - 10.1:
+        non_striker: Aslam Mohammad
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed
+    - 10.2:
+        non_striker: Aslam Mohammad
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 10.3:
+        non_striker: Asrar Ahmed
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Mohammad
+    - 10.4:
+        non_striker: Asrar Ahmed
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aslam Mohammad
+    - 10.5:
+        non_striker: Asrar Ahmed
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aslam Mohammad
+    - 10.6:
+        non_striker: Asrar Ahmed
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Mohammad
+    - 11.1:
+        non_striker: Asrar Ahmed
+        bowler: Taranjeet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aslam Mohammad
+    - 11.2:
+        non_striker: Asrar Ahmed
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Mohammad
+    - 11.3:
+        non_striker: Aslam Mohammad
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 11.4:
+        non_striker: Asrar Ahmed
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Mohammad
+    - 11.5:
+        non_striker: Aslam Mohammad
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 11.6:
+        non_striker: Asrar Ahmed
+        bowler: Taranjeet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Aslam Mohammad
+    - 11.7:
+        non_striker: Aslam Mohammad
+        bowler: Taranjeet Singh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Asrar Ahmed
+    - 12.1:
+        non_striker: Asrar Ahmed
+        bowler: R Satheesan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aslam Mohammad
+    - 12.2:
+        non_striker: Asrar Ahmed
+        bowler: R Satheesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Mohammad
+    - 12.3:
+        non_striker: Aslam Mohammad
+        bowler: R Satheesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed
+    - 12.4:
+        non_striker: Aslam Mohammad
+        bowler: R Satheesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 12.5:
+        non_striker: Asrar Ahmed
+        bowler: R Satheesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Mohammad
+    - 12.6:
+        non_striker: Aslam Mohammad
+        bowler: R Satheesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed
+    - 13.1:
+        non_striker: Asrar Ahmed
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Mohammad
+    - 13.2:
+        non_striker: Asrar Ahmed
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Mohammad
+    - 13.3:
+        non_striker: Aslam Mohammad
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asrar Ahmed
+    - 13.4:
+        non_striker: Aslam Mohammad
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asrar Ahmed
+    - 13.5:
+        non_striker: Aslam Mohammad
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed
+    - 13.6:
+        non_striker: Aslam Mohammad
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asrar Ahmed
+    - 14.1:
+        non_striker: Asrar Ahmed
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aslam Mohammad
+    - 14.2:
+        non_striker: Asrar Ahmed
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aslam Mohammad
+    - 14.3:
+        non_striker: Asrar Ahmed
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Mohammad
+    - 14.4:
+        non_striker: Asrar Ahmed
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aslam Mohammad
+    - 14.5:
+        non_striker: Asrar Ahmed
+        bowler: V Saini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aslam Mohammad
+    - 14.6:
+        non_striker: Asrar Ahmed
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aslam Mohammad
+    - 14.7:
+        non_striker: Asrar Ahmed
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Mohammad
+    - 15.1:
+        non_striker: Aslam Mohammad
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 15.2:
+        non_striker: Asrar Ahmed
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Mohammad
+    - 15.3:
+        non_striker: Aslam Mohammad
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asrar Ahmed
+    - 15.4:
+        non_striker: Aslam Mohammad
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 15.5:
+        non_striker: Asrar Ahmed
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Mohammad
+        wicket:
+          player_out: Aslam Mohammad
+          fielders:
+          - Taranjeet Singh
+          kind: caught
+    - 15.6:
+        non_striker: Asrar Ahmed
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Amanullah
+    - 16.1:
+        non_striker: Asrar Ahmed
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Amanullah
+    - 16.2:
+        non_striker: Syed Amanullah
+        bowler: P Florin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Asrar Ahmed
+    - 16.3:
+        non_striker: Syed Amanullah
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed
+    - 16.4:
+        non_striker: Syed Amanullah
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 16.5:
+        non_striker: Asrar Ahmed
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Amanullah
+    - 16.6:
+        non_striker: Asrar Ahmed
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Amanullah
+    - 16.7:
+        non_striker: Asrar Ahmed
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Amanullah
+    - 17.1:
+        non_striker: Asrar Ahmed
+        bowler: Ijaz Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Amanullah
+    - 17.2:
+        non_striker: Syed Amanullah
+        bowler: Ijaz Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed
+    - 17.3:
+        non_striker: Syed Amanullah
+        bowler: Ijaz Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed
+    - 17.4:
+        non_striker: Syed Amanullah
+        bowler: Ijaz Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Asrar Ahmed
+    - 17.5:
+        non_striker: Syed Amanullah
+        bowler: Ijaz Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Asrar Ahmed
+    - 17.6:
+        non_striker: Asrar Ahmed
+        bowler: Ijaz Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Syed Amanullah
+    - 17.7:
+        non_striker: Syed Amanullah
+        bowler: Ijaz Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 18.1:
+        non_striker: Syed Amanullah
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed
+    - 18.2:
+        non_striker: Syed Amanullah
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 18.3:
+        non_striker: Asrar Ahmed
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Amanullah
+    - 18.4:
+        non_striker: Asrar Ahmed
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Amanullah
+    - 18.5:
+        non_striker: Syed Amanullah
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed
+        wicket:
+          player_out: Asrar Ahmed
+          fielders:
+          - V Saini
+          kind: caught
+    - 18.6:
+        non_striker: Syed Amanullah
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Siriotis
+        wicket:
+          player_out: S Siriotis
+          fielders:
+          - S Nadigotla
+          kind: stumped
+    - 19.1:
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Zotos
+        batsman: Syed Amanullah
+    - 19.2:
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Zotos
+        batsman: Syed Amanullah
+    - 19.3:
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Zotos
+        batsman: Syed Amanullah
+    - 19.4:
+        non_striker: Syed Amanullah
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zotos
+    - 19.5:
+        non_striker: Syed Amanullah
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zotos
+    - 19.6:
+        non_striker: T Zotos
+        bowler: Sami Ullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Amanullah
+    - 19.7:
+        non_striker: T Zotos
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Syed Amanullah
+- 2nd innings:
+    team: Romania
+    deliveries:
+    - 0.1:
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Manan
+        batsman: Taranjeet Singh
+    - 0.2:
+        non_striker: G Manan
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjeet Singh
+        wicket:
+          player_out: Taranjeet Singh
+          fielders:
+          - S Gasteratos
+          kind: caught
+    - 0.3:
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Satheesan
+        batsman: G Manan
+    - 0.4:
+        non_striker: G Manan
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Satheesan
+    - 0.5:
+        non_striker: G Manan
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 0.6:
+        non_striker: G Manan
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Satheesan
+    - 1.1:
+        non_striker: R Satheesan
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Manan
+    - 1.2:
+        non_striker: R Satheesan
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Manan
+    - 1.3:
+        non_striker: R Satheesan
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Manan
+    - 1.4:
+        non_striker: R Satheesan
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Manan
+    - 1.5:
+        non_striker: R Satheesan
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Manan
+    - 1.6:
+        non_striker: G Manan
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 2.1:
+        non_striker: R Satheesan
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Manan
+    - 2.2:
+        non_striker: G Manan
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 2.3:
+        non_striker: G Manan
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Satheesan
+    - 2.4:
+        non_striker: R Satheesan
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Manan
+    - 2.5:
+        non_striker: R Satheesan
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Manan
+    - 2.6:
+        non_striker: R Satheesan
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Manan
+    - 3.1:
+        non_striker: G Manan
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 3.2:
+        non_striker: G Manan
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Satheesan
+    - 3.3:
+        non_striker: G Manan
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Satheesan
+    - 3.4:
+        non_striker: G Manan
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 3.5:
+        non_striker: G Manan
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 3.6:
+        non_striker: G Manan
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 4.1:
+        non_striker: R Satheesan
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Manan
+    - 4.2:
+        non_striker: G Manan
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Satheesan
+    - 4.3:
+        non_striker: G Manan
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 4.4:
+        non_striker: G Manan
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Satheesan
+    - 4.5:
+        non_striker: G Manan
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Satheesan
+    - 4.6:
+        non_striker: R Satheesan
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Manan
+    - 5.1:
+        non_striker: G Manan
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Satheesan
+    - 5.2:
+        non_striker: R Satheesan
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Manan
+    - 5.3:
+        non_striker: R Satheesan
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Manan
+    - 5.4:
+        non_striker: R Satheesan
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Manan
+        wicket:
+          player_out: G Manan
+          fielders:
+          - Arsalan Ahmed
+          kind: caught
+    - 5.5:
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: S Periyalwar
+        batsman: R Satheesan
+    - 5.6:
+        non_striker: S Periyalwar
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Satheesan
+    - 6.1:
+        non_striker: R Satheesan
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Periyalwar
+    - 6.2:
+        non_striker: R Satheesan
+        bowler: GC Galanis
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Periyalwar
+    - 6.3:
+        non_striker: S Periyalwar
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 6.4:
+        non_striker: S Periyalwar
+        bowler: GC Galanis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Satheesan
+    - 6.5:
+        non_striker: S Periyalwar
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 6.6:
+        non_striker: S Periyalwar
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Satheesan
+    - 6.7:
+        non_striker: S Periyalwar
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Satheesan
+    - 6.8:
+        non_striker: S Periyalwar
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Satheesan
+    - 7.1:
+        non_striker: S Periyalwar
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Satheesan
+    - 7.2:
+        non_striker: S Periyalwar
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Satheesan
+    - 7.3:
+        non_striker: S Periyalwar
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Satheesan
+    - 7.4:
+        non_striker: S Periyalwar
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Satheesan
+    - 7.5:
+        non_striker: R Satheesan
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Periyalwar
+    - 7.6:
+        non_striker: S Periyalwar
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 8.1:
+        non_striker: R Satheesan
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Periyalwar
+    - 8.2:
+        non_striker: R Satheesan
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Periyalwar
+    - 8.3:
+        non_striker: S Periyalwar
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Satheesan
+    - 8.4:
+        non_striker: R Satheesan
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Periyalwar
+    - 8.5:
+        non_striker: S Periyalwar
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Satheesan
+    - 8.6:
+        non_striker: S Periyalwar
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Satheesan
+    - 9.1:
+        non_striker: R Satheesan
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Periyalwar
+    - 9.2:
+        non_striker: R Satheesan
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Periyalwar
+        wicket:
+          player_out: S Periyalwar
+          fielders:
+          - Arsalan Ahmed
+          kind: caught
+    - 9.3:
+        non_striker: C Zavoiu
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+        wicket:
+          player_out: R Satheesan
+          fielders:
+          - GC Galanis
+          kind: caught
+    - 9.4:
+        non_striker: C Zavoiu
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Saini
+    - 9.5:
+        non_striker: V Saini
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Zavoiu
+    - 9.6:
+        non_striker: V Saini
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Zavoiu
+    - 10.1:
+        non_striker: V Saini
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Zavoiu
+    - 10.2:
+        non_striker: V Saini
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Zavoiu
+        wicket:
+          player_out: C Zavoiu
+          fielders:
+          - A Manousis
+          kind: stumped
+    - 10.3:
+        non_striker: V Saini
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Nadigotla
+    - 10.4:
+        non_striker: V Saini
+        bowler: GC Galanis
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: S Nadigotla
+    - 10.5:
+        non_striker: V Saini
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadigotla
+    - 10.6:
+        non_striker: V Saini
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 11.1:
+        non_striker: V Saini
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 11.2:
+        non_striker: S Nadigotla
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Saini
+    - 11.3:
+        non_striker: S Nadigotla
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Saini
+    - 11.4:
+        non_striker: S Nadigotla
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Saini
+        wicket:
+          player_out: V Saini
+          fielders:
+          - GC Galanis
+          kind: caught
+    - 11.5:
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ijaz Hussain
+        batsman: S Nadigotla
+    - 11.6:
+        non_striker: S Nadigotla
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ijaz Hussain
+    - 12.1:
+        non_striker: Ijaz Hussain
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 12.2:
+        non_striker: S Nadigotla
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ijaz Hussain
+    - 12.3:
+        non_striker: S Nadigotla
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ijaz Hussain
+        wicket:
+          player_out: Ijaz Hussain
+          fielders:
+          - S Siriotis
+          kind: caught
+    - 12.4:
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sami Ullah
+        batsman: S Nadigotla
+    - 12.5:
+        non_striker: S Nadigotla
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sami Ullah

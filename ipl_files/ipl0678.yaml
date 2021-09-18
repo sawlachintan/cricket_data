@@ -1,0 +1,2005 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-04-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Delhi
+  competition: IPL
+  dates:
+  - '2018-05-10'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sunrisers Hyderabad
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - S Dhawan
+  players:
+    Delhi Daredevils:
+    - PP Shaw
+    - JJ Roy
+    - SS Iyer
+    - RR Pant
+    - HV Patel
+    - GJ Maxwell
+    - V Shankar
+    - LE Plunkett
+    - S Nadeem
+    - A Mishra
+    - TA Boult
+    Sunrisers Hyderabad:
+    - AD Hales
+    - S Dhawan
+    - KS Williamson
+    - MK Pandey
+    - Shakib Al Hasan
+    - YK Pathan
+    - SP Goswami
+    - Rashid Khan
+    - B Kumar
+    - S Kaul
+    - Sandeep Sharma
+  registry:
+    people:
+      A Mishra: 6b19d823
+      AD Hales: 92aeac25
+      AY Dandekar: 2efc430e
+      B Kumar: 2e81a32d
+      C Shamshuddin: 0f9d921b
+      GJ Maxwell: b681e71e
+      HAS Khalid: 291ded7c
+      HV Patel: f986ca1a
+      JJ Roy: d1c36f5c
+      KS Williamson: d027ba9f
+      LE Plunkett: 9a963804
+      M Nayyar: b7bccddb
+      MK Pandey: 93b4fc78
+      PP Shaw: 8b3e9c7c
+      RR Pant: 919a3be2
+      Rashid Khan: 5f547c8b
+      S Dhawan: 0a476045
+      S Kaul: dcf81436
+      S Nadeem: 9d80c5e1
+      S Ravi: 9b9ee0df
+      SP Goswami: 541f85c9
+      SS Iyer: 85ec8e33
+      Sandeep Sharma: ce820073
+      Shakib Al Hasan: 7dc35884
+      TA Boult: a818c1be
+      V Shankar: '0994d0ae'
+      YK Pathan: 3c6ffae8
+  teams:
+  - Delhi Daredevils
+  - Sunrisers Hyderabad
+  toss:
+    decision: bat
+    winner: Delhi Daredevils
+  umpires:
+  - AY Dandekar
+  - C Shamshuddin
+  venue: Arun Jaitley Stadium
+innings:
+- 1st innings:
+    team: Delhi Daredevils
+    deliveries:
+    - 0.1:
+        non_striker: JJ Roy
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+    - 0.2:
+        non_striker: JJ Roy
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+    - 0.3:
+        non_striker: JJ Roy
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PP Shaw
+    - 0.4:
+        non_striker: JJ Roy
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+    - 0.5:
+        non_striker: JJ Roy
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PP Shaw
+    - 0.6:
+        non_striker: PP Shaw
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 1.1:
+        non_striker: JJ Roy
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PP Shaw
+    - 1.2:
+        non_striker: PP Shaw
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 1.3:
+        non_striker: PP Shaw
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 1.4:
+        non_striker: PP Shaw
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 1.5:
+        non_striker: JJ Roy
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PP Shaw
+    - 1.6:
+        non_striker: PP Shaw
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 2.1:
+        non_striker: PP Shaw
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 2.2:
+        non_striker: PP Shaw
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 2.3:
+        non_striker: PP Shaw
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 2.4:
+        non_striker: PP Shaw
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 2.5:
+        non_striker: PP Shaw
+        bowler: B Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JJ Roy
+    - 2.6:
+        non_striker: JJ Roy
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+    - 3.1:
+        non_striker: PP Shaw
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 3.2:
+        non_striker: PP Shaw
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 3.3:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PP Shaw
+    - 3.4:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+    - 3.5:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+        wicket:
+          player_out: PP Shaw
+          fielders:
+          - S Dhawan
+          kind: caught
+    - 3.6:
+        non_striker: SS Iyer
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+        wicket:
+          player_out: JJ Roy
+          fielders:
+          - SP Goswami
+          kind: caught
+    - 4.1:
+        non_striker: RR Pant
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 4.2:
+        non_striker: RR Pant
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 4.3:
+        non_striker: RR Pant
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 4.4:
+        non_striker: RR Pant
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 4.5:
+        non_striker: SS Iyer
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 4.6:
+        non_striker: RR Pant
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 5.1:
+        non_striker: SS Iyer
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 5.2:
+        non_striker: SS Iyer
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 5.3:
+        non_striker: SS Iyer
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 5.4:
+        non_striker: SS Iyer
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 5.5:
+        non_striker: SS Iyer
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Pant
+    - 5.6:
+        non_striker: SS Iyer
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 6.1:
+        non_striker: SS Iyer
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 6.2:
+        non_striker: RR Pant
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 6.3:
+        non_striker: SS Iyer
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 6.4:
+        non_striker: RR Pant
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 6.5:
+        non_striker: RR Pant
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 6.6:
+        non_striker: SS Iyer
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 7.1:
+        non_striker: SS Iyer
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 7.2:
+        non_striker: SS Iyer
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 7.3:
+        non_striker: SS Iyer
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 7.4:
+        non_striker: SS Iyer
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+        wicket:
+          player_out: SS Iyer
+          kind: run out
+    - 7.5:
+        non_striker: HV Patel
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 7.6:
+        non_striker: HV Patel
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 8.1:
+        non_striker: HV Patel
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 8.2:
+        non_striker: RR Pant
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 8.3:
+        non_striker: HV Patel
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 8.4:
+        non_striker: HV Patel
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 8.5:
+        non_striker: RR Pant
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 8.6:
+        non_striker: HV Patel
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 9.1:
+        non_striker: RR Pant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 9.2:
+        non_striker: HV Patel
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 9.3:
+        non_striker: HV Patel
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 9.4:
+        non_striker: RR Pant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 9.5:
+        non_striker: HV Patel
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 9.6:
+        non_striker: RR Pant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+    - 10.1:
+        non_striker: HV Patel
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 10.2:
+        non_striker: RR Pant
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HV Patel
+    - 10.3:
+        non_striker: RR Pant
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 10.4:
+        non_striker: HV Patel
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 10.5:
+        non_striker: HV Patel
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 10.6:
+        non_striker: RR Pant
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 11.1:
+        non_striker: RR Pant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 11.2:
+        non_striker: HV Patel
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 11.3:
+        non_striker: HV Patel
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 11.4:
+        non_striker: HV Patel
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 11.5:
+        non_striker: RR Pant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 11.6:
+        non_striker: HV Patel
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 12.1:
+        non_striker: RR Pant
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+    - 12.2:
+        non_striker: RR Pant
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HV Patel
+    - 12.3:
+        non_striker: RR Pant
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 12.4:
+        non_striker: HV Patel
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 12.5:
+        non_striker: HV Patel
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 12.6:
+        non_striker: RR Pant
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 13.1:
+        non_striker: RR Pant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 13.2:
+        non_striker: HV Patel
+        bowler: Rashid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RR Pant
+    - 13.3:
+        non_striker: RR Pant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+    - 13.4:
+        non_striker: RR Pant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 13.5:
+        non_striker: HV Patel
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 13.6:
+        non_striker: HV Patel
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+        wicket:
+          player_out: HV Patel
+          kind: run out
+    - 14.1:
+        non_striker: GJ Maxwell
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Pant
+    - 14.2:
+        non_striker: GJ Maxwell
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 14.3:
+        non_striker: RR Pant
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 14.4:
+        non_striker: GJ Maxwell
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 14.5:
+        non_striker: GJ Maxwell
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 14.6:
+        non_striker: GJ Maxwell
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 15.1:
+        non_striker: GJ Maxwell
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Pant
+    - 15.2:
+        non_striker: GJ Maxwell
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 15.3:
+        non_striker: RR Pant
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 15.4:
+        non_striker: GJ Maxwell
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 15.5:
+        non_striker: GJ Maxwell
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 15.6:
+        non_striker: GJ Maxwell
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 16.1:
+        non_striker: GJ Maxwell
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 16.2:
+        non_striker: GJ Maxwell
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Pant
+    - 16.3:
+        non_striker: GJ Maxwell
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 16.4:
+        non_striker: RR Pant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Maxwell
+    - 16.5:
+        non_striker: RR Pant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 16.6:
+        non_striker: RR Pant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 17.1:
+        non_striker: GJ Maxwell
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Pant
+    - 17.2:
+        non_striker: GJ Maxwell
+        bowler: B Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Pant
+    - 17.3:
+        non_striker: GJ Maxwell
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 17.4:
+        non_striker: GJ Maxwell
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Pant
+    - 17.5:
+        non_striker: GJ Maxwell
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 17.6:
+        non_striker: GJ Maxwell
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 17.7:
+        non_striker: GJ Maxwell
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 18.1:
+        non_striker: GJ Maxwell
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 18.2:
+        non_striker: GJ Maxwell
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 18.3:
+        non_striker: GJ Maxwell
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 18.4:
+        non_striker: GJ Maxwell
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 18.5:
+        non_striker: RR Pant
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 18.6:
+        non_striker: RR Pant
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 19.1:
+        non_striker: RR Pant
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+        wicket:
+          player_out: GJ Maxwell
+          fielders:
+          - AD Hales
+          kind: caught
+    - 19.2:
+        non_striker: V Shankar
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 19.3:
+        non_striker: V Shankar
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 19.4:
+        non_striker: V Shankar
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Pant
+    - 19.5:
+        non_striker: V Shankar
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Pant
+    - 19.6:
+        non_striker: V Shankar
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Pant
+- 2nd innings:
+    team: Sunrisers Hyderabad
+    deliveries:
+    - 0.1:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 0.2:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 0.3:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 0.4:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 0.5:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 0.6:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.1:
+        non_striker: AD Hales
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 1.2:
+        non_striker: S Dhawan
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.3:
+        non_striker: S Dhawan
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 1.4:
+        non_striker: S Dhawan
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 1.5:
+        non_striker: S Dhawan
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          kind: lbw
+    - 1.6:
+        non_striker: S Dhawan
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 2.1:
+        non_striker: S Dhawan
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 2.2:
+        non_striker: S Dhawan
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 2.3:
+        non_striker: KS Williamson
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 2.4:
+        non_striker: S Dhawan
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 2.5:
+        non_striker: S Dhawan
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 2.6:
+        non_striker: KS Williamson
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 3.1:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 3.2:
+        non_striker: S Dhawan
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 3.3:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 3.4:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 3.5:
+        non_striker: S Dhawan
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 3.6:
+        non_striker: S Dhawan
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 4.1:
+        non_striker: KS Williamson
+        bowler: LE Plunkett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Dhawan
+    - 4.2:
+        non_striker: S Dhawan
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 4.3:
+        non_striker: S Dhawan
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 4.4:
+        non_striker: S Dhawan
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 4.5:
+        non_striker: KS Williamson
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 4.6:
+        non_striker: S Dhawan
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 5.1:
+        non_striker: KS Williamson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 5.2:
+        non_striker: KS Williamson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dhawan
+    - 5.3:
+        non_striker: KS Williamson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 5.4:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 5.5:
+        non_striker: KS Williamson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 5.6:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.1:
+        non_striker: KS Williamson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 6.2:
+        non_striker: S Dhawan
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.3:
+        non_striker: S Dhawan
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 6.4:
+        non_striker: S Dhawan
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 6.5:
+        non_striker: KS Williamson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 6.6:
+        non_striker: KS Williamson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 7.1:
+        non_striker: KS Williamson
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 7.2:
+        non_striker: KS Williamson
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 7.3:
+        non_striker: KS Williamson
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dhawan
+    - 7.4:
+        non_striker: KS Williamson
+        bowler: V Shankar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Dhawan
+    - 7.5:
+        non_striker: KS Williamson
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 7.6:
+        non_striker: S Dhawan
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 7.7:
+        non_striker: KS Williamson
+        bowler: V Shankar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 8.1:
+        non_striker: KS Williamson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 8.2:
+        non_striker: S Dhawan
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 8.3:
+        non_striker: S Dhawan
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 8.4:
+        non_striker: KS Williamson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 8.5:
+        non_striker: S Dhawan
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 8.6:
+        non_striker: KS Williamson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 9.1:
+        non_striker: S Dhawan
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 9.2:
+        non_striker: S Dhawan
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 9.3:
+        non_striker: S Dhawan
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 9.4:
+        non_striker: S Dhawan
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 9.5:
+        non_striker: KS Williamson
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 9.6:
+        non_striker: S Dhawan
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 10.1:
+        non_striker: S Dhawan
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 10.2:
+        non_striker: KS Williamson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 10.3:
+        non_striker: S Dhawan
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Williamson
+    - 10.4:
+        non_striker: S Dhawan
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 10.5:
+        non_striker: KS Williamson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 10.6:
+        non_striker: KS Williamson
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 11.1:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 11.2:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 11.3:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 11.4:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 11.5:
+        non_striker: S Dhawan
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 11.6:
+        non_striker: S Dhawan
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 12.1:
+        non_striker: KS Williamson
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dhawan
+    - 12.2:
+        non_striker: KS Williamson
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 12.3:
+        non_striker: S Dhawan
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 12.4:
+        non_striker: S Dhawan
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 12.5:
+        non_striker: S Dhawan
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 12.6:
+        non_striker: KS Williamson
+        bowler: S Nadeem
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dhawan
+    - 13.1:
+        non_striker: S Dhawan
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 13.2:
+        non_striker: KS Williamson
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 13.3:
+        non_striker: KS Williamson
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Dhawan
+    - 13.4:
+        non_striker: KS Williamson
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 13.5:
+        non_striker: S Dhawan
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 13.6:
+        non_striker: S Dhawan
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 14.1:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 14.2:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 14.3:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 14.4:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 14.5:
+        non_striker: KS Williamson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 14.6:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 15.1:
+        non_striker: S Dhawan
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 15.2:
+        non_striker: KS Williamson
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 15.3:
+        non_striker: S Dhawan
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 15.4:
+        non_striker: S Dhawan
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Williamson
+    - 15.5:
+        non_striker: S Dhawan
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 15.6:
+        non_striker: KS Williamson
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 16.1:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 16.2:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 16.3:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 16.4:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 16.5:
+        non_striker: S Dhawan
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 16.6:
+        non_striker: S Dhawan
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 17.1:
+        non_striker: S Dhawan
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 17.2:
+        non_striker: KS Williamson
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Dhawan
+    - 17.3:
+        non_striker: KS Williamson
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 17.4:
+        non_striker: S Dhawan
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 17.5:
+        non_striker: KS Williamson
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 17.6:
+        non_striker: S Dhawan
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 18.1:
+        non_striker: KS Williamson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 18.2:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 18.3:
+        non_striker: KS Williamson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 18.4:
+        non_striker: KS Williamson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 18.5:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson

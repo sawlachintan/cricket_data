@@ -1,0 +1,2323 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-10-31'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Port Vila
+  dates:
+  - '2019-05-06'
+  gender: female
+  match_type: T20
+  match_type_number: 627
+  outcome:
+    winner: Papua New Guinea
+    by:
+      runs: 57
+  overs: 20
+  player_of_match:
+  - R Oa
+  players:
+    Papua New Guinea:
+    - S Jimmy
+    - K Arua
+    - T Ruma
+    - B Tau
+    - N Vare
+    - R Oa
+    - V Araa
+    - NM Ambo
+    - M Tom
+    - H Nou
+    - H Buruka
+    Vanuatu:
+    - A Chilia
+    - V Langiatu
+    - R Andrew
+    - S Solman
+    - N Navaika
+    - L Tastuki
+    - JC Sokomanu
+    - M Carlot
+    - MV Fare
+    - M Tarimiala
+    - V Mansale
+  registry:
+    people:
+      A Chilia: a0d07fd6
+      B Tau: 3a6cbb8e
+      H Buruka: b1af4423
+      H Nou: ca90651a
+      IA Thomson: 4b594b43
+      JC Sokomanu: 9e8d2c91
+      K Arua: 8ce69204
+      Kim Cotton: 67a7c2ee
+      L Tastuki: '55223171'
+      M Carlot: dac46b52
+      M Tarimiala: 0030a57d
+      M Tom: cebc1351
+      MV Fare: 314463cc
+      N Navaika: b0023708
+      N Vare: 20ace887
+      NM Ambo: 5aac4f00
+      R Andrew: 66c1accf
+      R Oa: dd468f06
+      S Jimmy: 2daa8e40
+      S Solman: 24ed1f75
+      SR Bernard: 800187dc
+      Suresh Subramanian: 4e869e23
+      T Ruma: 3697a0ff
+      V Araa: 040f11e8
+      V Langiatu: fdd18ca0
+      V Mansale: 7163637f
+  teams:
+  - Vanuatu
+  - Papua New Guinea
+  toss:
+    decision: bat
+    winner: Papua New Guinea
+  umpires:
+  - Kim Cotton
+  - IA Thomson
+  venue: Ground 1, Independence Park
+innings:
+- 1st innings:
+    team: Papua New Guinea
+    deliveries:
+    - 0.1:
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Arua
+        batsman: S Jimmy
+    - 0.2:
+        non_striker: S Jimmy
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Arua
+    - 0.3:
+        non_striker: S Jimmy
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Arua
+        wicket:
+          player_out: K Arua
+          kind: run out
+    - 0.4:
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Ruma
+        batsman: S Jimmy
+    - 0.5:
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Ruma
+        batsman: S Jimmy
+    - 0.6:
+        non_striker: S Jimmy
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: T Ruma
+    - 0.7:
+        non_striker: S Jimmy
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Ruma
+    - 0.8:
+        non_striker: S Jimmy
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Ruma
+    - 0.9:
+        non_striker: S Jimmy
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 0.10:
+        non_striker: S Jimmy
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 1.1:
+        non_striker: T Ruma
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 1.2:
+        non_striker: T Ruma
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 1.3:
+        non_striker: T Ruma
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jimmy
+    - 1.4:
+        non_striker: T Ruma
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 1.5:
+        non_striker: T Ruma
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 1.6:
+        non_striker: T Ruma
+        bowler: R Andrew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Jimmy
+    - 1.7:
+        non_striker: T Ruma
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 2.1:
+        non_striker: S Jimmy
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Ruma
+    - 2.2:
+        non_striker: S Jimmy
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Ruma
+    - 2.3:
+        non_striker: S Jimmy
+        bowler: V Mansale
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: T Ruma
+    - 2.4:
+        non_striker: T Ruma
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 2.5:
+        non_striker: S Jimmy
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 2.6:
+        non_striker: T Ruma
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 2.7:
+        non_striker: T Ruma
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 2.8:
+        non_striker: T Ruma
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 2.9:
+        non_striker: S Jimmy
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 3.1:
+        non_striker: T Ruma
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 3.2:
+        non_striker: S Jimmy
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 3.3:
+        non_striker: T Ruma
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 3.4:
+        non_striker: T Ruma
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 3.5:
+        non_striker: T Ruma
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Jimmy
+    - 3.6:
+        non_striker: S Jimmy
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 4.1:
+        non_striker: S Jimmy
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 4.2:
+        non_striker: S Jimmy
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 4.3:
+        non_striker: S Jimmy
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 4.4:
+        non_striker: S Jimmy
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 4.5:
+        non_striker: S Jimmy
+        bowler: S Solman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Ruma
+    - 4.6:
+        non_striker: S Jimmy
+        bowler: S Solman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Ruma
+    - 4.7:
+        non_striker: T Ruma
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 5.1:
+        non_striker: S Jimmy
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 5.2:
+        non_striker: S Jimmy
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 5.3:
+        non_striker: S Jimmy
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Ruma
+    - 5.4:
+        non_striker: S Jimmy
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 5.5:
+        non_striker: S Jimmy
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 5.6:
+        non_striker: T Ruma
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jimmy
+    - 6.1:
+        non_striker: S Jimmy
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Ruma
+    - 6.2:
+        non_striker: S Jimmy
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 6.3:
+        non_striker: T Ruma
+        bowler: S Solman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jimmy
+    - 6.4:
+        non_striker: T Ruma
+        bowler: S Solman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jimmy
+    - 6.5:
+        non_striker: T Ruma
+        bowler: S Solman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Jimmy
+    - 6.6:
+        non_striker: S Jimmy
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 6.7:
+        non_striker: S Jimmy
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 6.8:
+        non_striker: S Jimmy
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 7.1:
+        non_striker: S Jimmy
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 7.2:
+        non_striker: T Ruma
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 7.3:
+        non_striker: T Ruma
+        bowler: L Tastuki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Jimmy
+    - 7.4:
+        non_striker: S Jimmy
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 7.5:
+        non_striker: S Jimmy
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 7.6:
+        non_striker: S Jimmy
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 8.1:
+        non_striker: S Jimmy
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 8.2:
+        non_striker: T Ruma
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 8.3:
+        non_striker: S Jimmy
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 8.4:
+        non_striker: S Jimmy
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 8.5:
+        non_striker: S Jimmy
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 8.6:
+        non_striker: T Ruma
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 9.1:
+        non_striker: S Jimmy
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 9.2:
+        non_striker: S Jimmy
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 9.3:
+        non_striker: S Jimmy
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 9.4:
+        non_striker: T Ruma
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 9.5:
+        non_striker: T Ruma
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 9.6:
+        non_striker: T Ruma
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 10.1:
+        non_striker: S Jimmy
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 10.2:
+        non_striker: T Ruma
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 10.3:
+        non_striker: S Jimmy
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 10.4:
+        non_striker: T Ruma
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 10.5:
+        non_striker: S Jimmy
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 10.6:
+        non_striker: S Jimmy
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 11.1:
+        non_striker: T Ruma
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jimmy
+    - 11.2:
+        non_striker: T Ruma
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jimmy
+    - 11.3:
+        non_striker: T Ruma
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 11.4:
+        non_striker: S Jimmy
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Ruma
+    - 11.5:
+        non_striker: S Jimmy
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 11.6:
+        non_striker: T Ruma
+        bowler: N Navaika
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Jimmy
+    - 11.7:
+        non_striker: S Jimmy
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 12.1:
+        non_striker: T Ruma
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 12.2:
+        non_striker: S Jimmy
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 12.3:
+        non_striker: S Jimmy
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 12.4:
+        non_striker: T Ruma
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 12.5:
+        non_striker: T Ruma
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Jimmy
+    - 12.6:
+        non_striker: T Ruma
+        bowler: A Chilia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jimmy
+    - 13.1:
+        non_striker: S Jimmy
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 13.2:
+        non_striker: T Ruma
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 13.3:
+        non_striker: S Jimmy
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 13.4:
+        non_striker: T Ruma
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 13.5:
+        non_striker: S Jimmy
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 13.6:
+        non_striker: T Ruma
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+        wicket:
+          player_out: S Jimmy
+          fielders:
+          - L Tastuki
+          kind: caught
+    - 14.1:
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Tau
+        batsman: T Ruma
+    - 14.2:
+        non_striker: T Ruma
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 14.3:
+        non_striker: B Tau
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Ruma
+    - 14.4:
+        non_striker: B Tau
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 14.5:
+        non_striker: B Tau
+        bowler: S Solman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: T Ruma
+    - 14.6:
+        non_striker: B Tau
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 14.7:
+        non_striker: B Tau
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 15.1:
+        non_striker: T Ruma
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Tau
+    - 15.2:
+        non_striker: T Ruma
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 15.3:
+        non_striker: B Tau
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 15.4:
+        non_striker: B Tau
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 15.5:
+        non_striker: T Ruma
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 15.6:
+        non_striker: B Tau
+        bowler: R Andrew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Ruma
+    - 15.7:
+        non_striker: B Tau
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 16.1:
+        non_striker: T Ruma
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 16.2:
+        non_striker: B Tau
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 16.3:
+        non_striker: B Tau
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 16.4:
+        non_striker: B Tau
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Ruma
+    - 16.5:
+        non_striker: B Tau
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 16.6:
+        non_striker: B Tau
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 17.1:
+        non_striker: T Ruma
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 17.2:
+        non_striker: B Tau
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 17.3:
+        non_striker: B Tau
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 17.4:
+        non_striker: B Tau
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 17.5:
+        non_striker: B Tau
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 17.6:
+        non_striker: T Ruma
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Tau
+    - 18.1:
+        non_striker: B Tau
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 18.2:
+        non_striker: T Ruma
+        bowler: L Tastuki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: B Tau
+    - 18.3:
+        non_striker: B Tau
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 18.4:
+        non_striker: B Tau
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+        wicket:
+          player_out: T Ruma
+          fielders:
+          - R Andrew
+          kind: caught
+    - 18.5:
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Vare
+        batsman: B Tau
+    - 18.6:
+        non_striker: N Vare
+        bowler: L Tastuki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Tau
+    - 19.1:
+        non_striker: B Tau
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 19.2:
+        non_striker: N Vare
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Tau
+    - 19.3:
+        non_striker: N Vare
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 19.4:
+        non_striker: B Tau
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 19.5:
+        non_striker: N Vare
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 19.6:
+        non_striker: B Tau
+        bowler: R Andrew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Vare
+    - 19.7:
+        non_striker: B Tau
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+        wicket:
+          player_out: B Tau
+          fielders:
+          - L Tastuki
+          - R Andrew
+          kind: run out
+- 2nd innings:
+    team: Vanuatu
+    deliveries:
+    - 0.1:
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Langiatu
+        batsman: A Chilia
+    - 0.2:
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Langiatu
+        batsman: A Chilia
+    - 0.3:
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: V Langiatu
+        batsman: A Chilia
+    - 0.4:
+        non_striker: A Chilia
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 0.5:
+        non_striker: V Langiatu
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Chilia
+    - 0.6:
+        non_striker: V Langiatu
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 1.1:
+        non_striker: A Chilia
+        bowler: S Jimmy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 1.2:
+        non_striker: A Chilia
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 1.3:
+        non_striker: A Chilia
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 1.4:
+        non_striker: A Chilia
+        bowler: S Jimmy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 1.5:
+        non_striker: A Chilia
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 1.6:
+        non_striker: A Chilia
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 1.7:
+        non_striker: A Chilia
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 1.8:
+        non_striker: A Chilia
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 2.1:
+        non_striker: V Langiatu
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 2.2:
+        non_striker: V Langiatu
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Chilia
+    - 2.3:
+        non_striker: V Langiatu
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 2.4:
+        non_striker: V Langiatu
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Chilia
+    - 2.5:
+        non_striker: V Langiatu
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chilia
+    - 2.6:
+        non_striker: A Chilia
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Langiatu
+    - 3.1:
+        non_striker: V Langiatu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 3.2:
+        non_striker: V Langiatu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 3.3:
+        non_striker: V Langiatu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chilia
+    - 3.4:
+        non_striker: A Chilia
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+        wicket:
+          player_out: V Langiatu
+          kind: lbw
+    - 3.5:
+        non_striker: A Chilia
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 3.6:
+        non_striker: A Chilia
+        bowler: S Jimmy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Andrew
+    - 3.7:
+        non_striker: A Chilia
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 4.1:
+        non_striker: A Chilia
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 4.2:
+        non_striker: R Andrew
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 4.3:
+        non_striker: R Andrew
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+        wicket:
+          player_out: A Chilia
+          kind: bowled
+    - 4.4:
+        non_striker: R Andrew
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+        wicket:
+          player_out: S Solman
+          fielders:
+          - NM Ambo
+          kind: caught
+    - 4.5:
+        non_striker: R Andrew
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 4.6:
+        non_striker: R Andrew
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 5.1:
+        non_striker: N Navaika
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 5.2:
+        non_striker: N Navaika
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 5.3:
+        non_striker: N Navaika
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 5.4:
+        non_striker: R Andrew
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 5.5:
+        non_striker: R Andrew
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 5.6:
+        non_striker: R Andrew
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 6.1:
+        non_striker: R Andrew
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 6.2:
+        non_striker: R Andrew
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 6.3:
+        non_striker: R Andrew
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 6.4:
+        non_striker: R Andrew
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 6.5:
+        non_striker: N Navaika
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 6.6:
+        non_striker: N Navaika
+        bowler: R Oa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Andrew
+    - 6.7:
+        non_striker: N Navaika
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 7.1:
+        non_striker: N Navaika
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Andrew
+    - 7.2:
+        non_striker: N Navaika
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 7.3:
+        non_striker: N Navaika
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 7.4:
+        non_striker: R Andrew
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 7.5:
+        non_striker: R Andrew
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 7.6:
+        non_striker: R Andrew
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 8.1:
+        non_striker: N Navaika
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 8.2:
+        non_striker: R Andrew
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 8.3:
+        non_striker: N Navaika
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 8.4:
+        non_striker: R Andrew
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 8.5:
+        non_striker: R Andrew
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 8.6:
+        non_striker: N Navaika
+        bowler: K Arua
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: R Andrew
+    - 8.7:
+        non_striker: R Andrew
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Navaika
+    - 9.1:
+        non_striker: N Navaika
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 9.2:
+        non_striker: N Navaika
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 9.3:
+        non_striker: R Andrew
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 9.4:
+        non_striker: R Andrew
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 9.5:
+        non_striker: R Andrew
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+        wicket:
+          player_out: R Andrew
+          kind: run out
+    - 9.6:
+        non_striker: N Navaika
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tastuki
+    - 10.1:
+        non_striker: L Tastuki
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 10.2:
+        non_striker: L Tastuki
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 10.3:
+        non_striker: N Navaika
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tastuki
+    - 10.4:
+        non_striker: N Navaika
+        bowler: K Arua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Tastuki
+    - 10.5:
+        non_striker: N Navaika
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tastuki
+    - 10.6:
+        non_striker: L Tastuki
+        bowler: K Arua
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Navaika
+    - 10.7:
+        non_striker: N Navaika
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tastuki
+    - 10.8:
+        non_striker: N Navaika
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tastuki
+    - 11.1:
+        non_striker: N Navaika
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tastuki
+    - 11.2:
+        non_striker: N Navaika
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tastuki
+    - 11.3:
+        non_striker: N Navaika
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tastuki
+    - 11.4:
+        non_striker: N Navaika
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tastuki
+    - 11.5:
+        non_striker: N Navaika
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tastuki
+    - 11.6:
+        non_striker: L Tastuki
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 12.1:
+        non_striker: N Navaika
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tastuki
+    - 12.2:
+        non_striker: L Tastuki
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 12.3:
+        non_striker: L Tastuki
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+        wicket:
+          player_out: N Navaika
+          fielders:
+          - NM Ambo
+          kind: caught
+    - 12.4:
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JC Sokomanu
+        batsman: L Tastuki
+    - 12.5:
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JC Sokomanu
+        batsman: L Tastuki
+    - 12.6:
+        non_striker: L Tastuki
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Sokomanu
+    - 13.1:
+        non_striker: JC Sokomanu
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tastuki
+    - 13.2:
+        non_striker: JC Sokomanu
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tastuki
+    - 13.3:
+        non_striker: L Tastuki
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Sokomanu
+    - 13.4:
+        non_striker: L Tastuki
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Sokomanu
+    - 13.5:
+        non_striker: JC Sokomanu
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tastuki
+    - 13.6:
+        non_striker: JC Sokomanu
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tastuki
+    - 14.1:
+        non_striker: JC Sokomanu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tastuki
+    - 14.2:
+        non_striker: JC Sokomanu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tastuki
+    - 14.3:
+        non_striker: L Tastuki
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Sokomanu
+    - 14.4:
+        non_striker: L Tastuki
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Sokomanu
+    - 14.5:
+        non_striker: JC Sokomanu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tastuki
+    - 14.6:
+        non_striker: JC Sokomanu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tastuki
+    - 15.1:
+        non_striker: JC Sokomanu
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tastuki
+    - 15.2:
+        non_striker: JC Sokomanu
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tastuki
+    - 15.3:
+        non_striker: JC Sokomanu
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tastuki
+    - 15.4:
+        non_striker: L Tastuki
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Sokomanu
+    - 15.5:
+        non_striker: L Tastuki
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Sokomanu
+        wicket:
+          player_out: JC Sokomanu
+          kind: caught and bowled
+    - 15.6:
+        non_striker: L Tastuki
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carlot
+    - 16.1:
+        non_striker: L Tastuki
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carlot
+    - 16.2:
+        non_striker: L Tastuki
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carlot
+    - 16.3:
+        non_striker: M Carlot
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tastuki
+    - 16.4:
+        non_striker: L Tastuki
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carlot
+    - 16.5:
+        non_striker: L Tastuki
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carlot
+    - 16.6:
+        non_striker: L Tastuki
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carlot
+        wicket:
+          player_out: M Carlot
+          kind: bowled
+    - 17.1:
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MV Fare
+        batsman: L Tastuki
+    - 17.2:
+        non_striker: L Tastuki
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Fare
+    - 17.3:
+        non_striker: L Tastuki
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Fare
+    - 17.4:
+        non_striker: L Tastuki
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Fare
+    - 17.5:
+        non_striker: L Tastuki
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MV Fare
+    - 17.6:
+        non_striker: L Tastuki
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Fare
+    - 18.1:
+        non_striker: L Tastuki
+        bowler: NM Ambo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MV Fare
+    - 18.2:
+        non_striker: L Tastuki
+        bowler: NM Ambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Fare
+    - 18.3:
+        bowler: NM Ambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MV Fare
+        batsman: L Tastuki
+    - 18.4:
+        non_striker: L Tastuki
+        bowler: NM Ambo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MV Fare
+    - 18.5:
+        non_striker: L Tastuki
+        bowler: NM Ambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Fare
+    - 18.6:
+        bowler: NM Ambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MV Fare
+        batsman: L Tastuki
+        wicket:
+          player_out: L Tastuki
+          kind: bowled
+    - 18.7:
+        bowler: NM Ambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MV Fare
+        batsman: M Tarimiala
+    - 18.8:
+        non_striker: M Tarimiala
+        bowler: NM Ambo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MV Fare
+    - 18.9:
+        non_striker: M Tarimiala
+        bowler: NM Ambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Fare
+    - 19.1:
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MV Fare
+        batsman: M Tarimiala
+    - 19.2:
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MV Fare
+        batsman: M Tarimiala
+    - 19.3:
+        non_striker: M Tarimiala
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MV Fare
+    - 19.4:
+        non_striker: M Tarimiala
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Fare
+    - 19.5:
+        non_striker: M Tarimiala
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Fare
+        wicket:
+          player_out: MV Fare
+          kind: bowled
+    - 19.6:
+        non_striker: M Tarimiala
+        bowler: R Oa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mansale
+        wicket:
+          player_out: V Mansale
+          kind: bowled

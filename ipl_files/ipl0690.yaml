@@ -1,0 +1,2100 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-04-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Jaipur
+  competition: IPL
+  dates:
+  - '2018-05-19'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Rajasthan Royals
+    by:
+      runs: 30
+  overs: 20
+  player_of_match:
+  - S Gopal
+  players:
+    Rajasthan Royals:
+    - RA Tripathi
+    - JC Archer
+    - AM Rahane
+    - SV Samson
+    - H Klaasen
+    - K Gowtham
+    - STR Binny
+    - S Gopal
+    - IS Sodhi
+    - JD Unadkat
+    - B Laughlin
+    Royal Challengers Bangalore:
+    - V Kohli
+    - PA Patel
+    - AB de Villiers
+    - MM Ali
+    - Mandeep Singh
+    - C de Grandhomme
+    - SN Khan
+    - TG Southee
+    - UT Yadav
+    - Mohammed Siraj
+    - YS Chahal
+  registry:
+    people:
+      AB de Villiers: c4487b84
+      AJ Pycroft: 685d3f80
+      AM Rahane: 29e95537
+      B Laughlin: b2a79f17
+      BNJ Oxenford: c1add349
+      C Shamshuddin: 0f9d921b
+      C de Grandhomme: 94d7f855
+      GR Sadashiv Iyer: 0be62e31
+      H Klaasen: 235c2bb6
+      IS Sodhi: 641ac5ff
+      JC Archer: 5574750c
+      JD Unadkat: 1e66c162
+      K Gowtham: 90de905a
+      MM Ali: bb351c23
+      Mandeep Singh: c3a96caf
+      Mohammed Siraj: 2f49c897
+      PA Patel: b5da6c24
+      RA Tripathi: 77255a9e
+      S Gopal: 7a8bd078
+      SN Khan: f088b960
+      STR Binny: bd17b45f
+      SV Samson: a4cc73aa
+      TG Southee: 13c35c9e
+      UT Yadav: cc1e8c68
+      V Kohli: ba607b88
+      VK Sharma: a7a49df4
+      YS Chahal: 57ee1fde
+  teams:
+  - Rajasthan Royals
+  - Royal Challengers Bangalore
+  toss:
+    decision: bat
+    winner: Rajasthan Royals
+  umpires:
+  - BNJ Oxenford
+  - VK Sharma
+  venue: Sawai Mansingh Stadium
+innings:
+- 1st innings:
+    team: Rajasthan Royals
+    deliveries:
+    - 0.1:
+        non_striker: JC Archer
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Tripathi
+    - 0.2:
+        non_striker: JC Archer
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 0.3:
+        non_striker: JC Archer
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 0.4:
+        non_striker: JC Archer
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 0.5:
+        non_striker: JC Archer
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 0.6:
+        non_striker: JC Archer
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 1.1:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 1.2:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 1.3:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 1.4:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+        wicket:
+          player_out: JC Archer
+          fielders:
+          - PA Patel
+          kind: caught
+    - 1.5:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 1.6:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 2.1:
+        non_striker: AM Rahane
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 2.2:
+        non_striker: RA Tripathi
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Rahane
+    - 2.3:
+        non_striker: RA Tripathi
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 2.4:
+        non_striker: AM Rahane
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Tripathi
+    - 2.5:
+        non_striker: AM Rahane
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 2.6:
+        non_striker: AM Rahane
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 3.1:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 3.2:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 3.3:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 3.4:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 3.5:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 3.6:
+        non_striker: AM Rahane
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Tripathi
+    - 4.1:
+        non_striker: RA Tripathi
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 4.2:
+        non_striker: RA Tripathi
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 4.3:
+        non_striker: AM Rahane
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Tripathi
+    - 4.4:
+        non_striker: AM Rahane
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 4.5:
+        non_striker: RA Tripathi
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 4.6:
+        non_striker: AM Rahane
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 5.1:
+        non_striker: AM Rahane
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Tripathi
+    - 5.2:
+        non_striker: AM Rahane
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Tripathi
+    - 5.3:
+        non_striker: AM Rahane
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 5.4:
+        non_striker: RA Tripathi
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 5.5:
+        non_striker: RA Tripathi
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 5.6:
+        non_striker: AM Rahane
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 6.1:
+        non_striker: RA Tripathi
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 6.2:
+        non_striker: AM Rahane
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 6.3:
+        non_striker: RA Tripathi
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 6.4:
+        non_striker: AM Rahane
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 6.5:
+        non_striker: RA Tripathi
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 6.6:
+        non_striker: RA Tripathi
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 7.1:
+        non_striker: RA Tripathi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 7.2:
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 7.3:
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 7.4:
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 7.5:
+        non_striker: RA Tripathi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 7.6:
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 8.1:
+        non_striker: AM Rahane
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 8.2:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 8.3:
+        non_striker: AM Rahane
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 8.4:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 8.5:
+        non_striker: AM Rahane
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Tripathi
+    - 8.6:
+        non_striker: AM Rahane
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 9.1:
+        non_striker: AM Rahane
+        bowler: C de Grandhomme
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Tripathi
+    - 9.2:
+        non_striker: AM Rahane
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Tripathi
+    - 9.3:
+        non_striker: AM Rahane
+        bowler: C de Grandhomme
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Tripathi
+    - 9.4:
+        non_striker: AM Rahane
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 9.5:
+        non_striker: RA Tripathi
+        bowler: C de Grandhomme
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Rahane
+    - 9.6:
+        non_striker: RA Tripathi
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 9.7:
+        non_striker: AM Rahane
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Tripathi
+    - 9.8:
+        non_striker: AM Rahane
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 9.9:
+        non_striker: RA Tripathi
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 10.1:
+        non_striker: RA Tripathi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 10.2:
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 10.3:
+        non_striker: RA Tripathi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 10.4:
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 10.5:
+        non_striker: RA Tripathi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AM Rahane
+    - 10.6:
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 11.1:
+        non_striker: AM Rahane
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 11.2:
+        non_striker: RA Tripathi
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 11.3:
+        non_striker: AM Rahane
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 11.4:
+        non_striker: RA Tripathi
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 11.5:
+        non_striker: AM Rahane
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Tripathi
+    - 11.6:
+        non_striker: AM Rahane
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Tripathi
+    - 12.1:
+        non_striker: RA Tripathi
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 12.2:
+        non_striker: AM Rahane
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 12.3:
+        non_striker: AM Rahane
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Tripathi
+    - 12.4:
+        non_striker: AM Rahane
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Tripathi
+    - 12.5:
+        non_striker: AM Rahane
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 12.6:
+        non_striker: AM Rahane
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Tripathi
+    - 13.1:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+        wicket:
+          player_out: AM Rahane
+          kind: lbw
+    - 13.2:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+        wicket:
+          player_out: SV Samson
+          fielders:
+          - MM Ali
+          kind: caught
+    - 13.3:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 13.4:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 13.5:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 13.6:
+        non_striker: RA Tripathi
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 14.1:
+        non_striker: RA Tripathi
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 14.2:
+        non_striker: H Klaasen
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 14.3:
+        non_striker: H Klaasen
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Tripathi
+    - 14.4:
+        non_striker: H Klaasen
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 14.5:
+        non_striker: H Klaasen
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Tripathi
+    - 14.6:
+        non_striker: H Klaasen
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 15.1:
+        non_striker: RA Tripathi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 15.2:
+        non_striker: RA Tripathi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 15.3:
+        non_striker: RA Tripathi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 15.4:
+        non_striker: RA Tripathi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 15.5:
+        non_striker: RA Tripathi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 15.6:
+        non_striker: RA Tripathi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 16.1:
+        non_striker: RA Tripathi
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 16.2:
+        non_striker: H Klaasen
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 16.3:
+        non_striker: RA Tripathi
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 16.4:
+        non_striker: H Klaasen
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 16.5:
+        non_striker: RA Tripathi
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 16.6:
+        non_striker: H Klaasen
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 17.1:
+        non_striker: RA Tripathi
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 17.2:
+        non_striker: H Klaasen
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 17.3:
+        non_striker: RA Tripathi
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Klaasen
+    - 17.4:
+        non_striker: RA Tripathi
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 17.5:
+        non_striker: H Klaasen
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 17.6:
+        non_striker: H Klaasen
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Tripathi
+    - 17.7:
+        non_striker: H Klaasen
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 18.1:
+        non_striker: H Klaasen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 18.2:
+        non_striker: RA Tripathi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 18.3:
+        non_striker: RA Tripathi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 18.4:
+        non_striker: RA Tripathi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 18.5:
+        non_striker: RA Tripathi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 18.6:
+        non_striker: RA Tripathi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          fielders:
+          - MM Ali
+          kind: caught
+    - 19.1:
+        non_striker: K Gowtham
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 19.2:
+        non_striker: RA Tripathi
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Gowtham
+    - 19.3:
+        non_striker: RA Tripathi
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Gowtham
+    - 19.4:
+        non_striker: RA Tripathi
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Gowtham
+    - 19.5:
+        non_striker: RA Tripathi
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Gowtham
+    - 19.6:
+        non_striker: RA Tripathi
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Gowtham
+        wicket:
+          player_out: K Gowtham
+          kind: run out
+- 2nd innings:
+    team: Royal Challengers Bangalore
+    deliveries:
+    - 0.1:
+        non_striker: PA Patel
+        bowler: K Gowtham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 0.2:
+        non_striker: PA Patel
+        bowler: K Gowtham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 0.3:
+        non_striker: PA Patel
+        bowler: K Gowtham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 0.4:
+        non_striker: PA Patel
+        bowler: K Gowtham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 0.5:
+        non_striker: V Kohli
+        bowler: K Gowtham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 0.6:
+        non_striker: PA Patel
+        bowler: K Gowtham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 1.1:
+        non_striker: V Kohli
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PA Patel
+    - 1.2:
+        non_striker: V Kohli
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 1.3:
+        non_striker: V Kohli
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 1.4:
+        non_striker: V Kohli
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 1.5:
+        non_striker: PA Patel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 1.6:
+        non_striker: V Kohli
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PA Patel
+    - 2.1:
+        non_striker: PA Patel
+        bowler: K Gowtham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 2.2:
+        non_striker: V Kohli
+        bowler: K Gowtham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 2.3:
+        non_striker: PA Patel
+        bowler: K Gowtham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 2.4:
+        non_striker: V Kohli
+        bowler: K Gowtham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: PA Patel
+    - 2.5:
+        non_striker: PA Patel
+        bowler: K Gowtham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+        wicket:
+          player_out: V Kohli
+          kind: bowled
+    - 2.6:
+        non_striker: PA Patel
+        bowler: K Gowtham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 3.1:
+        non_striker: PA Patel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB de Villiers
+    - 3.2:
+        non_striker: PA Patel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 3.3:
+        non_striker: PA Patel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 3.4:
+        non_striker: PA Patel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 3.5:
+        non_striker: PA Patel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 3.6:
+        non_striker: PA Patel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 4.1:
+        non_striker: AB de Villiers
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 4.2:
+        non_striker: AB de Villiers
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 4.3:
+        non_striker: PA Patel
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 4.4:
+        non_striker: PA Patel
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 4.5:
+        non_striker: PA Patel
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 4.6:
+        non_striker: AB de Villiers
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 5.1:
+        non_striker: PA Patel
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 5.2:
+        non_striker: PA Patel
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 5.3:
+        non_striker: AB de Villiers
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 5.4:
+        non_striker: AB de Villiers
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 5.5:
+        non_striker: AB de Villiers
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 5.6:
+        non_striker: AB de Villiers
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 6.1:
+        non_striker: AB de Villiers
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 6.2:
+        non_striker: PA Patel
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 6.3:
+        non_striker: AB de Villiers
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 6.4:
+        non_striker: PA Patel
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AB de Villiers
+    - 6.5:
+        non_striker: AB de Villiers
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 6.6:
+        non_striker: PA Patel
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 7.1:
+        non_striker: PA Patel
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 7.2:
+        non_striker: PA Patel
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 7.3:
+        non_striker: PA Patel
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 7.4:
+        non_striker: AB de Villiers
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 7.5:
+        non_striker: PA Patel
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 7.6:
+        non_striker: AB de Villiers
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 8.1:
+        non_striker: PA Patel
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 8.2:
+        non_striker: PA Patel
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 8.3:
+        non_striker: AB de Villiers
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+        wicket:
+          player_out: PA Patel
+          fielders:
+          - H Klaasen
+          kind: stumped
+    - 8.4:
+        non_striker: AB de Villiers
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 8.5:
+        non_striker: MM Ali
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 8.6:
+        non_striker: AB de Villiers
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+        wicket:
+          player_out: MM Ali
+          kind: caught and bowled
+    - 9.1:
+        non_striker: Mandeep Singh
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 9.2:
+        non_striker: Mandeep Singh
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB de Villiers
+    - 9.3:
+        non_striker: Mandeep Singh
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 9.4:
+        non_striker: AB de Villiers
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mandeep Singh
+    - 9.5:
+        non_striker: Mandeep Singh
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 9.6:
+        non_striker: AB de Villiers
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mandeep Singh
+    - 10.1:
+        non_striker: Mandeep Singh
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 10.2:
+        non_striker: AB de Villiers
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mandeep Singh
+    - 10.3:
+        non_striker: AB de Villiers
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mandeep Singh
+        wicket:
+          player_out: Mandeep Singh
+          fielders:
+          - H Klaasen
+          kind: stumped
+    - 10.4:
+        non_striker: AB de Villiers
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 10.5:
+        non_striker: C de Grandhomme
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 10.6:
+        non_striker: C de Grandhomme
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 11.1:
+        non_striker: C de Grandhomme
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB de Villiers
+    - 11.2:
+        non_striker: C de Grandhomme
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 11.3:
+        non_striker: C de Grandhomme
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 11.4:
+        non_striker: AB de Villiers
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 11.5:
+        non_striker: C de Grandhomme
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 11.6:
+        non_striker: AB de Villiers
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+        wicket:
+          player_out: C de Grandhomme
+          fielders:
+          - AM Rahane
+          kind: caught
+    - 12.1:
+        non_striker: SN Khan
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 12.2:
+        non_striker: AB de Villiers
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Khan
+    - 12.3:
+        non_striker: AB de Villiers
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Khan
+    - 12.4:
+        non_striker: SN Khan
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+        wicket:
+          player_out: AB de Villiers
+          fielders:
+          - H Klaasen
+          kind: stumped
+    - 12.5:
+        non_striker: SN Khan
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 12.6:
+        non_striker: SN Khan
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 13.1:
+        non_striker: TG Southee
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Khan
+    - 13.2:
+        non_striker: SN Khan
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 13.3:
+        non_striker: SN Khan
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TG Southee
+    - 13.4:
+        non_striker: SN Khan
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 13.5:
+        non_striker: SN Khan
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 13.6:
+        non_striker: TG Southee
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Khan
+    - 14.1:
+        non_striker: SN Khan
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 14.2:
+        non_striker: TG Southee
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SN Khan
+    - 14.3:
+        non_striker: TG Southee
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Khan
+    - 14.4:
+        non_striker: TG Southee
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Khan
+    - 14.5:
+        non_striker: SN Khan
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 14.6:
+        non_striker: SN Khan
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 15.1:
+        non_striker: TG Southee
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Khan
+        wicket:
+          player_out: SN Khan
+          fielders:
+          - H Klaasen
+          kind: caught
+    - 15.2:
+        non_striker: TG Southee
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+        wicket:
+          player_out: UT Yadav
+          kind: bowled
+    - 15.3:
+        non_striker: TG Southee
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+    - 15.4:
+        non_striker: TG Southee
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+    - 15.5:
+        non_striker: TG Southee
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Siraj
+    - 15.6:
+        non_striker: TG Southee
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Siraj
+    - 16.1:
+        non_striker: TG Southee
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Siraj
+    - 16.2:
+        non_striker: Mohammed Siraj
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 16.3:
+        non_striker: Mohammed Siraj
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 16.4:
+        non_striker: Mohammed Siraj
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 16.5:
+        non_striker: TG Southee
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammed Siraj
+    - 16.6:
+        non_striker: TG Southee
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Siraj
+    - 16.7:
+        non_striker: Mohammed Siraj
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Southee
+    - 17.1:
+        non_striker: TG Southee
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Siraj
+    - 17.2:
+        non_striker: Mohammed Siraj
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Southee
+    - 17.3:
+        non_striker: Mohammed Siraj
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 17.4:
+        non_striker: TG Southee
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Siraj
+    - 17.5:
+        non_striker: Mohammed Siraj
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 17.6:
+        non_striker: Mohammed Siraj
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+        wicket:
+          player_out: TG Southee
+          fielders:
+          - K Gowtham
+          kind: caught
+    - 18.1:
+        non_striker: Mohammed Siraj
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: YS Chahal
+    - 18.2:
+        non_striker: YS Chahal
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+    - 18.3:
+        non_striker: YS Chahal
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Siraj
+    - 18.4:
+        non_striker: Mohammed Siraj
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 18.5:
+        non_striker: Mohammed Siraj
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 18.6:
+        non_striker: Mohammed Siraj
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 19.1:
+        non_striker: YS Chahal
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Siraj
+    - 19.2:
+        non_striker: YS Chahal
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+        wicket:
+          player_out: Mohammed Siraj
+          fielders:
+          - K Gowtham
+          kind: caught

@@ -1,0 +1,2032 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-04-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Pune
+  competition: IPL
+  dates:
+  - '2018-05-05'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Chennai Super Kings
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - RA Jadeja
+  players:
+    Royal Challengers Bangalore:
+    - PA Patel
+    - BB McCullum
+    - V Kohli
+    - AB de Villiers
+    - Mandeep Singh
+    - C de Grandhomme
+    - M Ashwin
+    - TG Southee
+    - UT Yadav
+    - Mohammed Siraj
+    - YS Chahal
+    Chennai Super Kings:
+    - SR Watson
+    - AT Rayudu
+    - SK Raina
+    - DR Shorey
+    - MS Dhoni
+    - DJ Bravo
+    - RA Jadeja
+    - DJ Willey
+    - Harbhajan Singh
+    - L Ngidi
+    - SN Thakur
+  registry:
+    people:
+      AB de Villiers: c4487b84
+      AT Rayudu: 70d205c9
+      BB McCullum: b8a55852
+      C de Grandhomme: 94d7f855
+      DJ Bravo: 87e562a9
+      DJ Willey: 7f048519
+      DR Shorey: faa7365d
+      Harbhajan Singh: 8b5b6769
+      J Srinath: bad31fac
+      L Ngidi: f834dcfc
+      M Ashwin: e2db2409
+      M Erasmus: 15d3c895
+      MS Dhoni: 4a8a2e3b
+      Mandeep Singh: c3a96caf
+      Mohammed Siraj: 2f49c897
+      N Pandit: 4947c258
+      Nitin Menon: e1d41d9e
+      PA Patel: b5da6c24
+      RA Jadeja: fe93fd9d
+      SK Raina: 1dc12ab9
+      SN Thakur: 1abb78f8
+      SR Watson: 4329fbb5
+      TG Southee: 13c35c9e
+      UT Yadav: cc1e8c68
+      V Kohli: ba607b88
+      YC Barde: b90f3346
+      YS Chahal: 57ee1fde
+  teams:
+  - Royal Challengers Bangalore
+  - Chennai Super Kings
+  toss:
+    decision: field
+    winner: Chennai Super Kings
+  umpires:
+  - Nitin Menon
+  - YC Barde
+  venue: Maharashtra Cricket Association Stadium
+innings:
+- 1st innings:
+    team: Royal Challengers Bangalore
+    deliveries:
+    - 0.1:
+        non_striker: BB McCullum
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 0.2:
+        non_striker: BB McCullum
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 0.3:
+        non_striker: BB McCullum
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 0.4:
+        non_striker: PA Patel
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 0.5:
+        non_striker: BB McCullum
+        bowler: DJ Willey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PA Patel
+    - 0.6:
+        non_striker: PA Patel
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BB McCullum
+    - 1.1:
+        non_striker: BB McCullum
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 1.2:
+        non_striker: PA Patel
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BB McCullum
+    - 1.3:
+        non_striker: PA Patel
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+        wicket:
+          player_out: BB McCullum
+          fielders:
+          - SN Thakur
+          kind: caught
+    - 1.4:
+        non_striker: V Kohli
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 1.5:
+        non_striker: V Kohli
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 1.6:
+        non_striker: V Kohli
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 1.7:
+        non_striker: V Kohli
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 2.1:
+        non_striker: PA Patel
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 2.2:
+        non_striker: PA Patel
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 2.3:
+        non_striker: V Kohli
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 2.4:
+        non_striker: PA Patel
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 2.5:
+        non_striker: PA Patel
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 2.6:
+        non_striker: V Kohli
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PA Patel
+    - 3.1:
+        non_striker: PA Patel
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: V Kohli
+    - 3.2:
+        non_striker: V Kohli
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 3.3:
+        non_striker: V Kohli
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 3.4:
+        non_striker: V Kohli
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 3.5:
+        non_striker: V Kohli
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 3.6:
+        non_striker: PA Patel
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 4.1:
+        non_striker: PA Patel
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 4.2:
+        non_striker: PA Patel
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 4.3:
+        non_striker: PA Patel
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 4.4:
+        non_striker: PA Patel
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 4.5:
+        non_striker: V Kohli
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Patel
+    - 4.6:
+        non_striker: V Kohli
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 5.1:
+        non_striker: V Kohli
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 5.2:
+        non_striker: V Kohli
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PA Patel
+    - 5.3:
+        non_striker: V Kohli
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 5.4:
+        non_striker: V Kohli
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 5.5:
+        non_striker: V Kohli
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 5.6:
+        non_striker: V Kohli
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 6.1:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+        wicket:
+          player_out: V Kohli
+          kind: bowled
+    - 6.2:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 6.3:
+        non_striker: AB de Villiers
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Patel
+    - 6.4:
+        non_striker: AB de Villiers
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 6.5:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 6.6:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 7.1:
+        non_striker: AB de Villiers
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 7.2:
+        non_striker: AB de Villiers
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 7.3:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+        wicket:
+          player_out: AB de Villiers
+          fielders:
+          - MS Dhoni
+          kind: stumped
+    - 7.4:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mandeep Singh
+    - 7.5:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mandeep Singh
+    - 7.6:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mandeep Singh
+    - 8.1:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mandeep Singh
+    - 8.2:
+        non_striker: Mandeep Singh
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 8.3:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mandeep Singh
+    - 8.4:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mandeep Singh
+    - 8.5:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mandeep Singh
+    - 8.6:
+        non_striker: Mandeep Singh
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 9.1:
+        non_striker: Mandeep Singh
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 9.2:
+        non_striker: Mandeep Singh
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 9.3:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mandeep Singh
+    - 9.4:
+        non_striker: Mandeep Singh
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 9.5:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mandeep Singh
+    - 9.6:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mandeep Singh
+    - 10.1:
+        non_striker: Mandeep Singh
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 10.2:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mandeep Singh
+    - 10.3:
+        non_striker: Mandeep Singh
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 10.4:
+        non_striker: Mandeep Singh
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 10.5:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mandeep Singh
+    - 10.6:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mandeep Singh
+        wicket:
+          player_out: Mandeep Singh
+          fielders:
+          - DJ Willey
+          kind: caught
+    - 11.1:
+        non_striker: C de Grandhomme
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 11.2:
+        non_striker: C de Grandhomme
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 11.3:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 11.4:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 11.5:
+        non_striker: C de Grandhomme
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 11.6:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C de Grandhomme
+    - 12.1:
+        non_striker: C de Grandhomme
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 12.2:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 12.3:
+        non_striker: C de Grandhomme
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 12.4:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 12.5:
+        non_striker: C de Grandhomme
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+        wicket:
+          player_out: PA Patel
+          kind: caught and bowled
+    - 12.6:
+        non_striker: C de Grandhomme
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ashwin
+    - 13.1:
+        non_striker: C de Grandhomme
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ashwin
+        wicket:
+          player_out: M Ashwin
+          fielders:
+          - MS Dhoni
+          kind: stumped
+    - 13.2:
+        non_striker: C de Grandhomme
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 13.3:
+        non_striker: C de Grandhomme
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 13.4:
+        non_striker: C de Grandhomme
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 13.5:
+        non_striker: TG Southee
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 13.6:
+        non_striker: TG Southee
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 14.1:
+        non_striker: TG Southee
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+        wicket:
+          player_out: C de Grandhomme
+          fielders:
+          - SK Raina
+          kind: caught
+    - 14.2:
+        non_striker: UT Yadav
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 14.3:
+        non_striker: TG Southee
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+    - 14.4:
+        non_striker: TG Southee
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+    - 14.5:
+        non_striker: TG Southee
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+    - 14.6:
+        non_striker: TG Southee
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Yadav
+    - 15.1:
+        non_striker: TG Southee
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+        wicket:
+          player_out: UT Yadav
+          kind: run out
+    - 15.2:
+        non_striker: Mohammed Siraj
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 15.3:
+        non_striker: TG Southee
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+    - 15.4:
+        non_striker: TG Southee
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+    - 15.5:
+        non_striker: TG Southee
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammed Siraj
+    - 15.6:
+        non_striker: Mohammed Siraj
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 16.1:
+        non_striker: Mohammed Siraj
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 16.2:
+        non_striker: Mohammed Siraj
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TG Southee
+    - 16.3:
+        non_striker: Mohammed Siraj
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 16.4:
+        non_striker: Mohammed Siraj
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Southee
+    - 16.5:
+        non_striker: Mohammed Siraj
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 16.6:
+        non_striker: Mohammed Siraj
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 17.1:
+        non_striker: Mohammed Siraj
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Southee
+    - 17.2:
+        non_striker: Mohammed Siraj
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 17.3:
+        non_striker: TG Southee
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Siraj
+    - 17.4:
+        non_striker: Mohammed Siraj
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 17.5:
+        non_striker: TG Southee
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Siraj
+    - 17.6:
+        non_striker: Mohammed Siraj
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: TG Southee
+    - 18.1:
+        non_striker: Mohammed Siraj
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 18.2:
+        non_striker: Mohammed Siraj
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TG Southee
+    - 18.3:
+        non_striker: Mohammed Siraj
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Southee
+    - 18.4:
+        non_striker: Mohammed Siraj
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 18.5:
+        non_striker: Mohammed Siraj
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 18.6:
+        non_striker: TG Southee
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+    - 19.1:
+        non_striker: Mohammed Siraj
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 19.2:
+        non_striker: Mohammed Siraj
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 19.3:
+        non_striker: Mohammed Siraj
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TG Southee
+    - 19.4:
+        non_striker: Mohammed Siraj
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 19.5:
+        non_striker: Mohammed Siraj
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 19.6:
+        non_striker: TG Southee
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Siraj
+        wicket:
+          player_out: Mohammed Siraj
+          kind: run out
+- 2nd innings:
+    team: Chennai Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: AT Rayudu
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Watson
+    - 0.2:
+        non_striker: AT Rayudu
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 0.3:
+        non_striker: AT Rayudu
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 0.4:
+        non_striker: AT Rayudu
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Watson
+    - 0.5:
+        non_striker: AT Rayudu
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 0.6:
+        non_striker: SR Watson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 1.1:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 1.2:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 1.3:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 1.4:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 1.5:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 1.6:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 2.1:
+        non_striker: SR Watson
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 2.2:
+        non_striker: SR Watson
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AT Rayudu
+    - 2.3:
+        non_striker: SR Watson
+        bowler: UT Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AT Rayudu
+    - 2.4:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 2.5:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Watson
+    - 2.6:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+        wicket:
+          player_out: SR Watson
+          kind: bowled
+    - 3.1:
+        non_striker: SK Raina
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 3.2:
+        non_striker: SK Raina
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 3.3:
+        non_striker: SK Raina
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 3.4:
+        non_striker: AT Rayudu
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SK Raina
+    - 3.5:
+        non_striker: AT Rayudu
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 3.6:
+        non_striker: SK Raina
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 4.1:
+        non_striker: SK Raina
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 4.2:
+        non_striker: SK Raina
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 4.3:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 4.4:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 4.5:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SK Raina
+    - 4.6:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 5.1:
+        non_striker: SK Raina
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 5.2:
+        non_striker: AT Rayudu
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 5.3:
+        non_striker: SK Raina
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 5.4:
+        non_striker: SK Raina
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AT Rayudu
+    - 5.5:
+        non_striker: SK Raina
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 5.6:
+        non_striker: SK Raina
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 6.1:
+        non_striker: AT Rayudu
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 6.2:
+        non_striker: AT Rayudu
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 6.3:
+        non_striker: AT Rayudu
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 6.4:
+        non_striker: AT Rayudu
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SK Raina
+    - 6.5:
+        non_striker: AT Rayudu
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SK Raina
+    - 6.6:
+        non_striker: AT Rayudu
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 7.1:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 7.2:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Raina
+    - 7.3:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 7.4:
+        non_striker: SK Raina
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 7.5:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 7.6:
+        non_striker: SK Raina
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 8.1:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Raina
+    - 8.2:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 8.3:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 8.4:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+        wicket:
+          player_out: SK Raina
+          fielders:
+          - TG Southee
+          kind: caught
+    - 8.5:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Shorey
+    - 8.6:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Shorey
+    - 9.1:
+        non_striker: DR Shorey
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 9.2:
+        non_striker: AT Rayudu
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Shorey
+    - 9.3:
+        non_striker: DR Shorey
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 9.4:
+        non_striker: DR Shorey
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 9.5:
+        non_striker: DR Shorey
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 9.6:
+        non_striker: AT Rayudu
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DR Shorey
+    - 10.1:
+        non_striker: DR Shorey
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 10.2:
+        non_striker: AT Rayudu
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Shorey
+    - 10.3:
+        non_striker: DR Shorey
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 10.4:
+        non_striker: DR Shorey
+        bowler: C de Grandhomme
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AT Rayudu
+    - 10.5:
+        non_striker: AT Rayudu
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Shorey
+    - 10.6:
+        non_striker: AT Rayudu
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Shorey
+    - 11.1:
+        non_striker: DR Shorey
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+        wicket:
+          player_out: AT Rayudu
+          fielders:
+          - Mohammed Siraj
+          kind: caught
+    - 11.2:
+        non_striker: DR Shorey
+        bowler: M Ashwin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Dhoni
+    - 11.3:
+        non_striker: DR Shorey
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 11.4:
+        non_striker: DR Shorey
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 11.5:
+        non_striker: DR Shorey
+        bowler: M Ashwin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Dhoni
+    - 11.6:
+        non_striker: DR Shorey
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 11.7:
+        non_striker: DR Shorey
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 11.8:
+        non_striker: DR Shorey
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 12.1:
+        non_striker: MS Dhoni
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Shorey
+    - 12.2:
+        non_striker: MS Dhoni
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Shorey
+        wicket:
+          player_out: DR Shorey
+          fielders:
+          - Mandeep Singh
+          kind: caught
+    - 12.3:
+        non_striker: MS Dhoni
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 12.4:
+        non_striker: MS Dhoni
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 12.5:
+        non_striker: MS Dhoni
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 12.6:
+        non_striker: DJ Bravo
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 13.1:
+        non_striker: DJ Bravo
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Dhoni
+    - 13.2:
+        non_striker: DJ Bravo
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 13.3:
+        non_striker: MS Dhoni
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 13.4:
+        non_striker: MS Dhoni
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 13.5:
+        non_striker: DJ Bravo
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 13.6:
+        non_striker: DJ Bravo
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 14.1:
+        non_striker: MS Dhoni
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 14.2:
+        non_striker: DJ Bravo
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 14.3:
+        non_striker: MS Dhoni
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 14.4:
+        non_striker: MS Dhoni
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 14.5:
+        non_striker: MS Dhoni
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 14.6:
+        non_striker: MS Dhoni
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 15.1:
+        non_striker: MS Dhoni
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 15.2:
+        non_striker: MS Dhoni
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Bravo
+    - 15.3:
+        non_striker: MS Dhoni
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 15.4:
+        non_striker: DJ Bravo
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 15.5:
+        non_striker: DJ Bravo
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Dhoni
+    - 15.6:
+        non_striker: DJ Bravo
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 16.1:
+        non_striker: MS Dhoni
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 16.2:
+        non_striker: DJ Bravo
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 16.3:
+        non_striker: MS Dhoni
+        bowler: C de Grandhomme
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DJ Bravo
+    - 16.4:
+        non_striker: DJ Bravo
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 16.5:
+        non_striker: MS Dhoni
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 16.6:
+        non_striker: DJ Bravo
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 17.1:
+        non_striker: DJ Bravo
+        bowler: YS Chahal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Dhoni
+    - 17.2:
+        non_striker: DJ Bravo
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 17.3:
+        non_striker: DJ Bravo
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Dhoni
+    - 17.4:
+        non_striker: DJ Bravo
+        bowler: YS Chahal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MS Dhoni
+    - 17.5:
+        non_striker: DJ Bravo
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Dhoni
+    - 17.6:
+        non_striker: DJ Bravo
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Dhoni
+    - 17.7:
+        non_striker: DJ Bravo
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 17.8:
+        non_striker: MS Dhoni
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo

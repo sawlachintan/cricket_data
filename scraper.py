@@ -7,24 +7,25 @@ from bs4 import BeautifulSoup
 
 def game_types():
     # url of the source
-    main_url = 'https://cricsheet.org/'
+    main_url = 'https://cricsheet.org/matches/'
 
     # requesting website for data with BS4
     page = requests.get(main_url)
     soup = BeautifulSoup(page.content, 'html.parser')
-    tag_dt = soup.find_all('dt')
+    tag_dl = soup.find_all('dl')
 
     # storing required links and their wrapped text in a dictionary called data_url
     data_url = dict()
-    for tag in tag_dt:
-        temp_text = tag.a['href']
-        match_type = tag.a.contents[0]
-        link = main_url + temp_text  # link of the match types
-        # abbreivated match_type stored as key
-        key = temp_text.split('/')[2][:-4]
-
-        # magical part of this cell :)
-        data_url[key] = [link, match_type]
+    match_type = [match.text for match in tag_dl[0].find_all('dt')]
+    count = 0
+    for i in tag_dl[0].find_all('dd'):
+        # print(type(i) == "<class 'bs4.element.Tag'>")
+        # print(isinstance(type(i), bs4.element.Tag))
+        # print(i.find_all('a')[1]['href'].split('/')[2][:-4])
+        key = i.find_all('a')[1]['href'].split('/')[2][:-4]
+        link = 'https://cricsheet.org/' + i.find_all('a')[1]['href']
+        data_url[key] = [link, match_type[count]]
+        count += 1
 
     # printing the dictionary for reference
     # for key in data_url:
@@ -45,6 +46,8 @@ def game_types():
     table = [x.split('| ') for x in table]
 
     input_list = [table[x][2].strip().lower() for x in range(0, len(table))]
+
+    print(data_url)
 
     return (data_url, input_list)
 

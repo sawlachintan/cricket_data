@@ -1,0 +1,2122 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-07-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Belfast
+  dates:
+  - '2021-07-22'
+  gender: male
+  match_type: T20
+  match_type_number: 1197
+  outcome:
+    winner: South Africa
+    by:
+      runs: 42
+  overs: 20
+  player_of_match:
+  - DA Miller
+  players:
+    South Africa:
+    - T Bavuma
+    - Q de Kock
+    - JN Malan
+    - AK Markram
+    - HE van der Dussen
+    - DA Miller
+    - PWA Mulder
+    - BC Fortuin
+    - BE Hendricks
+    - L Ngidi
+    - T Shamsi
+    Ireland:
+    - PR Stirling
+    - KJ O'Brien
+    - A Balbirnie
+    - GH Dockrell
+    - HT Tector
+    - SC Getkate
+    - L Tucker
+    - Simi Singh
+    - MR Adair
+    - CA Young
+    - J Little
+  registry:
+    people:
+      A Balbirnie: 6ef13460
+      AJ Neill: 7ffe0ce3
+      AK Markram: 6a26221c
+      BC Fortuin: 9a2fc964
+      BE Hendricks: b56dc5f7
+      CA Young: bd0a4a7d
+      DA Miller: d67d5f00
+      GH Dockrell: 99cddc5e
+      HE van der Dussen: 9948e262
+      HT Tector: 59ea70a4
+      J Little: 9061a703
+      JN Malan: f76d7466
+      K Gallagher: 704afd47
+      KJ O'Brien: 243431b5
+      L Ngidi: f834dcfc
+      L Tucker: 3979b5e0
+      M Hawthorne: ea123ee4
+      MR Adair: fc55ec67
+      PA Reynolds: a416c9c3
+      PR Stirling: cf494ffe
+      PWA Mulder: c96f6ac5
+      Q de Kock: 372455c4
+      R Black: 156c8fb1
+      SC Getkate: c8065f31
+      Simi Singh: c9945bdf
+      T Bavuma: 9ffd1ac1
+      T Shamsi: a03bba42
+  teams:
+  - South Africa
+  - Ireland
+  toss:
+    decision: bat
+    winner: South Africa
+  umpires:
+  - PA Reynolds
+  - R Black
+  venue: Civil Service Cricket Club, Stormont, Belfast
+innings:
+- 1st innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: Q de Kock
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 0.2:
+        non_striker: Q de Kock
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+        wicket:
+          player_out: T Bavuma
+          fielders:
+          - J Little
+          kind: caught
+    - 0.3:
+        non_striker: Q de Kock
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 0.4:
+        non_striker: Q de Kock
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+        wicket:
+          player_out: JN Malan
+          fielders:
+          - J Little
+          kind: caught
+    - 0.5:
+        non_striker: Q de Kock
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 0.6:
+        non_striker: AK Markram
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.1:
+        non_striker: AK Markram
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 1.2:
+        non_striker: AK Markram
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.3:
+        non_striker: Q de Kock
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AK Markram
+    - 1.4:
+        non_striker: AK Markram
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.5:
+        non_striker: AK Markram
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 1.6:
+        non_striker: AK Markram
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 1.7:
+        non_striker: AK Markram
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.1:
+        non_striker: AK Markram
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 2.2:
+        non_striker: AK Markram
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.3:
+        non_striker: Q de Kock
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 2.4:
+        non_striker: AK Markram
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.5:
+        non_striker: AK Markram
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.6:
+        non_striker: AK Markram
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.1:
+        non_striker: Q de Kock
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 3.2:
+        non_striker: Q de Kock
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 3.3:
+        non_striker: Q de Kock
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+        wicket:
+          player_out: AK Markram
+          kind: bowled
+    - 3.4:
+        non_striker: Q de Kock
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 3.5:
+        non_striker: Q de Kock
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 3.6:
+        non_striker: Q de Kock
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 4.1:
+        non_striker: HE van der Dussen
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.2:
+        non_striker: HE van der Dussen
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.3:
+        non_striker: HE van der Dussen
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 4.4:
+        non_striker: HE van der Dussen
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 4.5:
+        non_striker: HE van der Dussen
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.6:
+        non_striker: HE van der Dussen
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 5.1:
+        non_striker: Q de Kock
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 5.2:
+        non_striker: Q de Kock
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 5.3:
+        non_striker: HE van der Dussen
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 5.4:
+        non_striker: HE van der Dussen
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 5.5:
+        non_striker: Q de Kock
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 5.6:
+        non_striker: Q de Kock
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 6.1:
+        non_striker: HE van der Dussen
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          kind: lbw
+    - 6.2:
+        non_striker: HE van der Dussen
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 6.3:
+        non_striker: HE van der Dussen
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 6.4:
+        non_striker: HE van der Dussen
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 6.5:
+        non_striker: DA Miller
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 6.6:
+        non_striker: HE van der Dussen
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 7.1:
+        non_striker: HE van der Dussen
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 7.2:
+        non_striker: HE van der Dussen
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 7.3:
+        non_striker: DA Miller
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 7.4:
+        non_striker: HE van der Dussen
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 7.5:
+        non_striker: HE van der Dussen
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 7.6:
+        non_striker: DA Miller
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 8.1:
+        non_striker: HE van der Dussen
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 8.2:
+        non_striker: DA Miller
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 8.3:
+        non_striker: HE van der Dussen
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 8.4:
+        non_striker: DA Miller
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 8.5:
+        non_striker: HE van der Dussen
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 8.6:
+        non_striker: HE van der Dussen
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 9.1:
+        non_striker: DA Miller
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 9.2:
+        non_striker: HE van der Dussen
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 9.3:
+        non_striker: HE van der Dussen
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 9.4:
+        non_striker: HE van der Dussen
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 9.5:
+        non_striker: DA Miller
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 9.6:
+        non_striker: DA Miller
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+        wicket:
+          player_out: HE van der Dussen
+          fielders:
+          - L Tucker
+          kind: caught
+    - 10.1:
+        non_striker: PWA Mulder
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 10.2:
+        non_striker: DA Miller
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 10.3:
+        non_striker: PWA Mulder
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 10.4:
+        non_striker: PWA Mulder
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 10.5:
+        non_striker: PWA Mulder
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 10.6:
+        non_striker: DA Miller
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 11.1:
+        non_striker: DA Miller
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 11.2:
+        non_striker: DA Miller
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 11.3:
+        non_striker: DA Miller
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWA Mulder
+    - 11.4:
+        non_striker: DA Miller
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 11.5:
+        non_striker: DA Miller
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 11.6:
+        non_striker: PWA Mulder
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.1:
+        non_striker: PWA Mulder
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.2:
+        non_striker: DA Miller
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 12.3:
+        non_striker: PWA Mulder
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.4:
+        non_striker: DA Miller
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 12.5:
+        non_striker: DA Miller
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 12.6:
+        non_striker: PWA Mulder
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 13.1:
+        non_striker: DA Miller
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 13.2:
+        non_striker: PWA Mulder
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 13.3:
+        non_striker: PWA Mulder
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 13.4:
+        non_striker: DA Miller
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 13.5:
+        non_striker: PWA Mulder
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 13.6:
+        non_striker: DA Miller
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWA Mulder
+    - 14.1:
+        non_striker: PWA Mulder
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 14.2:
+        non_striker: DA Miller
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 14.3:
+        non_striker: PWA Mulder
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 14.4:
+        non_striker: DA Miller
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 14.5:
+        non_striker: DA Miller
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 14.6:
+        non_striker: DA Miller
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWA Mulder
+    - 15.1:
+        non_striker: PWA Mulder
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 15.2:
+        non_striker: DA Miller
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 15.3:
+        non_striker: PWA Mulder
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 15.4:
+        non_striker: PWA Mulder
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 15.5:
+        non_striker: DA Miller
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 15.6:
+        non_striker: DA Miller
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 16.1:
+        non_striker: DA Miller
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWA Mulder
+    - 16.2:
+        non_striker: DA Miller
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 16.3:
+        non_striker: DA Miller
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 16.4:
+        non_striker: PWA Mulder
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 16.5:
+        non_striker: DA Miller
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 16.6:
+        non_striker: DA Miller
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 17.1:
+        non_striker: DA Miller
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+        wicket:
+          player_out: PWA Mulder
+          fielders:
+          - A Balbirnie
+          kind: caught
+    - 17.2:
+        non_striker: BC Fortuin
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 17.3:
+        non_striker: BC Fortuin
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.4:
+        non_striker: DA Miller
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Fortuin
+    - 17.5:
+        non_striker: BC Fortuin
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.6:
+        non_striker: DA Miller
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Fortuin
+    - 18.1:
+        non_striker: BC Fortuin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 18.2:
+        non_striker: BC Fortuin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 18.3:
+        non_striker: DA Miller
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BC Fortuin
+    - 18.4:
+        non_striker: DA Miller
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Fortuin
+        wicket:
+          player_out: BC Fortuin
+          fielders:
+          - A Balbirnie
+          kind: caught
+    - 18.5:
+        non_striker: BE Hendricks
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 18.6:
+        non_striker: DA Miller
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Hendricks
+    - 19.1:
+        non_striker: BE Hendricks
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 19.2:
+        non_striker: BE Hendricks
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 19.3:
+        non_striker: BE Hendricks
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 19.4:
+        non_striker: BE Hendricks
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 19.5:
+        non_striker: BE Hendricks
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 19.6:
+        non_striker: BE Hendricks
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: KJ O'Brien
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.2:
+        non_striker: KJ O'Brien
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.3:
+        non_striker: KJ O'Brien
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.4:
+        non_striker: KJ O'Brien
+        bowler: BC Fortuin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PR Stirling
+    - 0.5:
+        non_striker: PR Stirling
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 0.6:
+        non_striker: PR Stirling
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+        wicket:
+          player_out: KJ O'Brien
+          kind: caught and bowled
+    - 1.1:
+        non_striker: A Balbirnie
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.2:
+        non_striker: A Balbirnie
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 1.3:
+        non_striker: A Balbirnie
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.4:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 1.5:
+        non_striker: A Balbirnie
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.6:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.1:
+        non_striker: A Balbirnie
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.2:
+        non_striker: A Balbirnie
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.3:
+        non_striker: A Balbirnie
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 2.4:
+        non_striker: A Balbirnie
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.5:
+        non_striker: A Balbirnie
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 2.6:
+        non_striker: PR Stirling
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.1:
+        non_striker: A Balbirnie
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 3.2:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Balbirnie
+    - 3.3:
+        non_striker: A Balbirnie
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 3.4:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 3.5:
+        non_striker: A Balbirnie
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.6:
+        non_striker: A Balbirnie
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 4.1:
+        non_striker: PR Stirling
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 4.2:
+        non_striker: PR Stirling
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+        wicket:
+          player_out: A Balbirnie
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 4.3:
+        non_striker: GH Dockrell
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 4.4:
+        non_striker: PR Stirling
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 4.5:
+        non_striker: PR Stirling
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 4.6:
+        non_striker: PR Stirling
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 5.1:
+        non_striker: PR Stirling
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 5.2:
+        non_striker: PR Stirling
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Dockrell
+    - 5.3:
+        non_striker: PR Stirling
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Dockrell
+    - 5.4:
+        non_striker: PR Stirling
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 5.5:
+        non_striker: PR Stirling
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Dockrell
+    - 5.6:
+        non_striker: PR Stirling
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 5.7:
+        non_striker: PR Stirling
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Dockrell
+    - 5.8:
+        non_striker: PR Stirling
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 6.1:
+        non_striker: PR Stirling
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 6.2:
+        non_striker: GH Dockrell
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 6.3:
+        non_striker: PR Stirling
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 6.4:
+        non_striker: GH Dockrell
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 6.5:
+        non_striker: GH Dockrell
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 6.6:
+        non_striker: PR Stirling
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 7.1:
+        non_striker: PR Stirling
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 7.2:
+        non_striker: PR Stirling
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 7.3:
+        non_striker: GH Dockrell
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 7.4:
+        non_striker: PR Stirling
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 7.5:
+        non_striker: PR Stirling
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 7.6:
+        non_striker: GH Dockrell
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - DA Miller
+          kind: caught
+    - 8.1:
+        non_striker: HT Tector
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 8.2:
+        non_striker: GH Dockrell
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 8.3:
+        non_striker: GH Dockrell
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 8.4:
+        non_striker: HT Tector
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 8.5:
+        non_striker: GH Dockrell
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          fielders:
+          - BC Fortuin
+          kind: caught
+    - 8.6:
+        non_striker: GH Dockrell
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 9.1:
+        non_striker: GH Dockrell
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 9.2:
+        non_striker: GH Dockrell
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 9.3:
+        non_striker: GH Dockrell
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 9.4:
+        non_striker: SC Getkate
+        bowler: T Shamsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Dockrell
+    - 9.5:
+        non_striker: SC Getkate
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 9.6:
+        non_striker: GH Dockrell
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 9.7:
+        non_striker: SC Getkate
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+        wicket:
+          player_out: GH Dockrell
+          fielders:
+          - AK Markram
+          kind: caught
+    - 10.1:
+        non_striker: L Tucker
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 10.2:
+        non_striker: L Tucker
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC Getkate
+    - 10.3:
+        non_striker: L Tucker
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 10.4:
+        non_striker: SC Getkate
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 10.5:
+        non_striker: SC Getkate
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 10.6:
+        non_striker: SC Getkate
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 11.1:
+        non_striker: L Tucker
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 11.2:
+        non_striker: L Tucker
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 11.3:
+        non_striker: L Tucker
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Getkate
+    - 11.4:
+        non_striker: L Tucker
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Getkate
+    - 11.5:
+        non_striker: L Tucker
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 11.6:
+        non_striker: SC Getkate
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 12.1:
+        non_striker: L Tucker
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 12.2:
+        non_striker: L Tucker
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 12.3:
+        non_striker: SC Getkate
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 12.4:
+        non_striker: SC Getkate
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 12.5:
+        non_striker: L Tucker
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC Getkate
+    - 12.6:
+        non_striker: L Tucker
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 13.1:
+        non_striker: SC Getkate
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 13.2:
+        non_striker: L Tucker
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+        wicket:
+          player_out: SC Getkate
+          fielders:
+          - T Bavuma
+          kind: caught
+    - 13.3:
+        non_striker: L Tucker
+        bowler: T Shamsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Simi Singh
+    - 13.4:
+        non_striker: L Tucker
+        bowler: T Shamsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Simi Singh
+    - 13.5:
+        non_striker: Simi Singh
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 13.6:
+        non_striker: L Tucker
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 13.7:
+        non_striker: Simi Singh
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 14.1:
+        non_striker: Simi Singh
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+        wicket:
+          player_out: L Tucker
+          kind: bowled
+    - 14.2:
+        non_striker: Simi Singh
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 14.3:
+        non_striker: Simi Singh
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 14.4:
+        non_striker: Simi Singh
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 14.5:
+        non_striker: MR Adair
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simi Singh
+        wicket:
+          player_out: Simi Singh
+          fielders:
+          - Q de Kock
+          kind: stumped
+    - 14.6:
+        non_striker: MR Adair
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 15.1:
+        non_striker: CA Young
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 15.2:
+        non_striker: MR Adair
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 15.3:
+        non_striker: MR Adair
+        bowler: T Shamsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CA Young
+    - 15.4:
+        non_striker: CA Young
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 15.5:
+        non_striker: CA Young
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 15.6:
+        non_striker: CA Young
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 16.1:
+        non_striker: CA Young
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MR Adair
+    - 16.2:
+        non_striker: MR Adair
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+        wicket:
+          player_out: CA Young
+          fielders:
+          - PWA Mulder
+          kind: caught
+    - 16.3:
+        non_striker: J Little
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 16.4:
+        non_striker: MR Adair
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Little
+    - 16.5:
+        non_striker: J Little
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Adair
+    - 16.6:
+        non_striker: J Little
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 17.1:
+        non_striker: J Little
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 17.2:
+        non_striker: MR Adair
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Little
+    - 17.3:
+        non_striker: MR Adair
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Little
+    - 17.4:
+        non_striker: MR Adair
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Little
+    - 17.5:
+        non_striker: J Little
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 17.6:
+        non_striker: J Little
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 18.1:
+        non_striker: MR Adair
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Little
+    - 18.2:
+        non_striker: MR Adair
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Little
+    - 18.3:
+        non_striker: MR Adair
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Little
+    - 18.4:
+        non_striker: J Little
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 18.5:
+        non_striker: MR Adair
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Little
+    - 18.6:
+        non_striker: MR Adair
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Little
+    - 19.1:
+        non_striker: MR Adair
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Little
+    - 19.2:
+        non_striker: J Little
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 19.3:
+        non_striker: MR Adair
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Little
+        wicket:
+          player_out: J Little
+          kind: bowled

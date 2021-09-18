@@ -1,0 +1,2251 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-08-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Albergaria
+  dates:
+  - '2021-08-21'
+  gender: male
+  match_type: T20
+  match_type_number: 1233
+  outcome:
+    winner: Portugal
+    by:
+      runs: 96
+  overs: 20
+  player_of_match:
+  - Azhar Andani
+  players:
+    Portugal:
+    - Mian Mehmood
+    - Azhar Andani
+    - ARA Chambers
+    - Amir Zaib
+    - Najjam Shahzad
+    - Imran Khan (4)
+    - P Buccimazza
+    - Sirajullah Khadim
+    - Amandeep Singh
+    - J Khan
+    - M Stoman
+    Gibraltar:
+    - L Bruce
+    - K Nestor
+    - CJ Delany
+    - E Packard
+    - P Hatchman
+    - JA Fitzgerald
+    - J Marples
+    - RJ Hatchman
+    - MD Garratt
+    - A Orfila
+    - CV Harrison
+  registry:
+    people:
+      A Orfila: 7c6293d1
+      ARA Chambers: 8db27a28
+      Amandeep Singh: d0d32c30
+      Amir Zaib: 973006cc
+      Azhar Andani: b5bd99da
+      CJ Delany: 3bc56bd6
+      CV Harrison: b0b80a99
+      E Packard: 03b9ec54
+      Imran Khan: a0a32dd1
+      J Marples: 9d75aec7
+      JA Fitzgerald: 4e6ff836
+      Junaid Khan: be0077ba
+      K Nestor: b89cde87
+      L Bruce: 2a03bd2f
+      M Stoman: 27aec396
+      MD Garratt: aa4154ad
+      Mian Mehmood: 4a4991c1
+      Najjam Shahzad: 58aa33cd
+      P Buccimazza: ddc7e056
+      P Hatchman: b504e8b8
+      RJ Hatchman: 01c05b6c
+      Sirajullah Khadim: ff36e706
+  teams:
+  - Portugal
+  - Gibraltar
+  toss:
+    decision: field
+    winner: Gibraltar
+  venue: Gucherre Cricket Ground
+innings:
+- 1st innings:
+    team: Portugal
+    deliveries:
+    - 0.1:
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Azhar Andani
+        batsman: Mian Mehmood
+    - 0.2:
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Azhar Andani
+        batsman: Mian Mehmood
+    - 0.3:
+        non_striker: Azhar Andani
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mian Mehmood
+        wicket:
+          player_out: Mian Mehmood
+          kind: bowled
+    - 0.4:
+        non_striker: Azhar Andani
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 0.5:
+        non_striker: ARA Chambers
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+    - 0.6:
+        non_striker: ARA Chambers
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Andani
+    - 1.1:
+        non_striker: ARA Chambers
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Andani
+    - 1.2:
+        non_striker: ARA Chambers
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azhar Andani
+    - 1.3:
+        non_striker: ARA Chambers
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Andani
+    - 1.4:
+        non_striker: Azhar Andani
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 1.5:
+        non_striker: ARA Chambers
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+    - 1.6:
+        non_striker: ARA Chambers
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+    - 2.1:
+        non_striker: Azhar Andani
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 2.2:
+        non_striker: ARA Chambers
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Andani
+    - 2.3:
+        non_striker: Azhar Andani
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 2.4:
+        non_striker: Azhar Andani
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 2.5:
+        non_striker: Azhar Andani
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 2.6:
+        non_striker: ARA Chambers
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+    - 3.1:
+        non_striker: Azhar Andani
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARA Chambers
+    - 3.2:
+        non_striker: Azhar Andani
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 3.3:
+        non_striker: Azhar Andani
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 3.4:
+        non_striker: Azhar Andani
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 3.5:
+        non_striker: Azhar Andani
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 3.6:
+        non_striker: Azhar Andani
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARA Chambers
+    - 4.1:
+        non_striker: ARA Chambers
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azhar Andani
+    - 4.2:
+        non_striker: ARA Chambers
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azhar Andani
+    - 4.3:
+        non_striker: ARA Chambers
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Andani
+    - 4.4:
+        non_striker: ARA Chambers
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Azhar Andani
+    - 4.5:
+        non_striker: Azhar Andani
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARA Chambers
+    - 4.6:
+        non_striker: Azhar Andani
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 5.1:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ARA Chambers
+    - 5.2:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 5.3:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ARA Chambers
+    - 5.4:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ARA Chambers
+    - 5.5:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 5.6:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 6.1:
+        non_striker: ARA Chambers
+        bowler: JA Fitzgerald
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Azhar Andani
+    - 6.2:
+        non_striker: ARA Chambers
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Andani
+    - 6.3:
+        non_striker: ARA Chambers
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Andani
+    - 6.4:
+        non_striker: Azhar Andani
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 6.5:
+        non_striker: Azhar Andani
+        bowler: JA Fitzgerald
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ARA Chambers
+    - 6.6:
+        non_striker: Azhar Andani
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 6.7:
+        non_striker: ARA Chambers
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+    - 6.8:
+        non_striker: ARA Chambers
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+    - 7.1:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 7.2:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 7.3:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 7.4:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARA Chambers
+    - 7.5:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 7.6:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 8.1:
+        non_striker: ARA Chambers
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Andani
+    - 8.2:
+        non_striker: ARA Chambers
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Andani
+    - 8.3:
+        non_striker: Azhar Andani
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARA Chambers
+    - 8.4:
+        non_striker: Azhar Andani
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 8.5:
+        non_striker: ARA Chambers
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+    - 8.6:
+        non_striker: ARA Chambers
+        bowler: JA Fitzgerald
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Azhar Andani
+    - 8.7:
+        non_striker: ARA Chambers
+        bowler: JA Fitzgerald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Andani
+    - 9.1:
+        non_striker: ARA Chambers
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azhar Andani
+    - 9.2:
+        non_striker: ARA Chambers
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azhar Andani
+    - 9.3:
+        non_striker: ARA Chambers
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Andani
+    - 9.4:
+        non_striker: ARA Chambers
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Andani
+    - 9.5:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 9.6:
+        non_striker: ARA Chambers
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azhar Andani
+    - 10.1:
+        non_striker: Azhar Andani
+        bowler: CV Harrison
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARA Chambers
+    - 10.2:
+        non_striker: Azhar Andani
+        bowler: CV Harrison
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ARA Chambers
+    - 10.3:
+        non_striker: Azhar Andani
+        bowler: CV Harrison
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 10.4:
+        non_striker: Azhar Andani
+        bowler: CV Harrison
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 10.5:
+        non_striker: ARA Chambers
+        bowler: CV Harrison
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Azhar Andani
+    - 10.6:
+        non_striker: ARA Chambers
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: CJ Delany
+            out: CV Harrison
+            reason: unknown
+            role: bowler
+        batsman: Azhar Andani
+    - 10.7:
+        non_striker: Azhar Andani
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 11.1:
+        non_striker: ARA Chambers
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Andani
+    - 11.2:
+        non_striker: Azhar Andani
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 11.3:
+        non_striker: ARA Chambers
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azhar Andani
+    - 11.4:
+        non_striker: ARA Chambers
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Andani
+    - 11.5:
+        non_striker: ARA Chambers
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+    - 11.6:
+        non_striker: ARA Chambers
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Andani
+    - 12.1:
+        non_striker: Azhar Andani
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 12.2:
+        non_striker: ARA Chambers
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Andani
+    - 12.3:
+        non_striker: ARA Chambers
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azhar Andani
+    - 12.4:
+        non_striker: ARA Chambers
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Andani
+    - 12.5:
+        non_striker: ARA Chambers
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Andani
+    - 12.6:
+        non_striker: ARA Chambers
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Andani
+    - 13.1:
+        non_striker: Azhar Andani
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 13.2:
+        non_striker: Azhar Andani
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 13.3:
+        non_striker: ARA Chambers
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+    - 13.4:
+        non_striker: ARA Chambers
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azhar Andani
+    - 13.5:
+        non_striker: ARA Chambers
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+        wicket:
+          player_out: ARA Chambers
+          kind: run out
+    - 13.6:
+        bowler: A Orfila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Amir Zaib
+        batsman: Azhar Andani
+    - 13.7:
+        non_striker: Amir Zaib
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+    - 14.1:
+        non_striker: Azhar Andani
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amir Zaib
+    - 14.2:
+        non_striker: Azhar Andani
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amir Zaib
+    - 14.3:
+        non_striker: Azhar Andani
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+    - 14.4:
+        non_striker: Azhar Andani
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amir Zaib
+    - 14.5:
+        non_striker: Azhar Andani
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Zaib
+    - 14.6:
+        non_striker: Amir Zaib
+        bowler: CJ Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Azhar Andani
+    - 14.7:
+        non_striker: Amir Zaib
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Andani
+    - 15.1:
+        non_striker: Amir Zaib
+        bowler: P Hatchman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Andani
+    - 15.2:
+        non_striker: Amir Zaib
+        bowler: P Hatchman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Andani
+    - 15.3:
+        non_striker: Amir Zaib
+        bowler: P Hatchman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azhar Andani
+    - 15.4:
+        non_striker: Amir Zaib
+        bowler: P Hatchman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Andani
+    - 15.5:
+        non_striker: Amir Zaib
+        bowler: P Hatchman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azhar Andani
+    - 15.6:
+        non_striker: Amir Zaib
+        bowler: P Hatchman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azhar Andani
+    - 16.1:
+        non_striker: Azhar Andani
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Amir Zaib
+    - 16.2:
+        non_striker: Azhar Andani
+        bowler: CJ Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Amir Zaib
+    - 16.3:
+        non_striker: Amir Zaib
+        bowler: CJ Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Azhar Andani
+    - 16.4:
+        non_striker: Azhar Andani
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amir Zaib
+    - 16.5:
+        non_striker: Azhar Andani
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+    - 16.6:
+        non_striker: Azhar Andani
+        bowler: CJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+        wicket:
+          player_out: Amir Zaib
+          fielders:
+          - K Nestor
+          kind: caught
+    - 17.1:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Najjam Shahzad
+    - 17.2:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najjam Shahzad
+    - 17.3:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Najjam Shahzad
+    - 17.4:
+        non_striker: Najjam Shahzad
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Andani
+    - 17.5:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Najjam Shahzad
+    - 17.6:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najjam Shahzad
+    - 17.7:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najjam Shahzad
+        wicket:
+          player_out: Azhar Andani
+          kind: run out
+    - 18.1:
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Imran Khan (4)
+        batsman: Najjam Shahzad
+    - 18.2:
+        non_striker: Najjam Shahzad
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Khan (4)
+        wicket:
+          player_out: Imran Khan (4)
+          fielders:
+          - P Hatchman
+          kind: caught
+    - 18.3:
+        non_striker: P Buccimazza
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najjam Shahzad
+        wicket:
+          player_out: Najjam Shahzad
+          fielders:
+          - JA Fitzgerald
+          kind: caught
+    - 18.4:
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sirajullah Khadim
+        batsman: P Buccimazza
+    - 18.5:
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Sirajullah Khadim
+        batsman: P Buccimazza
+    - 18.6:
+        non_striker: Sirajullah Khadim
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Buccimazza
+    - 19.1:
+        non_striker: P Buccimazza
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sirajullah Khadim
+    - 19.2:
+        non_striker: P Buccimazza
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sirajullah Khadim
+        wicket:
+          player_out: Sirajullah Khadim
+          fielders:
+          - J Marples
+          kind: caught
+    - 19.3:
+        non_striker: P Buccimazza
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Amandeep Singh
+    - 19.4:
+        non_striker: P Buccimazza
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Amandeep Singh
+    - 19.5:
+        non_striker: P Buccimazza
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amandeep Singh
+    - 19.6:
+        non_striker: P Buccimazza
+        bowler: A Orfila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amandeep Singh
+        wicket:
+          player_out: Amandeep Singh
+          fielders:
+          - P Hatchman
+          kind: caught
+- 2nd innings:
+    team: Gibraltar
+    deliveries:
+    - 0.1:
+        bowler: Najjam Shahzad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: K Nestor
+        batsman: L Bruce
+    - 0.2:
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: K Nestor
+        batsman: L Bruce
+    - 0.3:
+        non_striker: L Bruce
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 0.4:
+        non_striker: L Bruce
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 0.5:
+        non_striker: L Bruce
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 0.6:
+        non_striker: L Bruce
+        bowler: Najjam Shahzad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Nestor
+    - 0.7:
+        non_striker: K Nestor
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.1:
+        non_striker: L Bruce
+        bowler: J Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Nestor
+    - 1.2:
+        non_striker: L Bruce
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 1.3:
+        non_striker: L Bruce
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 1.4:
+        non_striker: L Bruce
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nestor
+    - 1.5:
+        non_striker: L Bruce
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+        wicket:
+          player_out: L Bruce
+          kind: run out
+    - 1.6:
+        non_striker: K Nestor
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Delany
+    - 1.7:
+        non_striker: K Nestor
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Delany
+    - 2.1:
+        non_striker: K Nestor
+        bowler: Najjam Shahzad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Delany
+    - 2.2:
+        non_striker: K Nestor
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Delany
+    - 2.3:
+        non_striker: K Nestor
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Delany
+    - 2.4:
+        non_striker: K Nestor
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Delany
+    - 2.5:
+        non_striker: K Nestor
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Delany
+    - 2.6:
+        non_striker: K Nestor
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Delany
+    - 2.7:
+        non_striker: CJ Delany
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nestor
+    - 3.1:
+        non_striker: K Nestor
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Delany
+    - 3.2:
+        non_striker: K Nestor
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Delany
+        wicket:
+          player_out: CJ Delany
+          kind: lbw
+    - 3.3:
+        non_striker: K Nestor
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Packard
+    - 3.4:
+        non_striker: K Nestor
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Packard
+    - 3.5:
+        non_striker: K Nestor
+        bowler: J Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: E Packard
+    - 3.6:
+        non_striker: E Packard
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nestor
+    - 4.1:
+        non_striker: K Nestor
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Packard
+    - 4.2:
+        non_striker: K Nestor
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Packard
+    - 4.3:
+        non_striker: K Nestor
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Packard
+    - 4.4:
+        non_striker: K Nestor
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Packard
+    - 4.5:
+        non_striker: K Nestor
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Packard
+    - 4.6:
+        non_striker: K Nestor
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Packard
+    - 4.7:
+        non_striker: K Nestor
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Packard
+    - 5.1:
+        non_striker: E Packard
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 5.2:
+        non_striker: E Packard
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nestor
+    - 5.3:
+        non_striker: E Packard
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 5.4:
+        non_striker: E Packard
+        bowler: J Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Nestor
+    - 5.5:
+        non_striker: K Nestor
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Packard
+        wicket:
+          player_out: E Packard
+          fielders:
+          - Najjam Shahzad
+          kind: caught
+    - 5.6:
+        non_striker: P Hatchman
+        bowler: J Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Nestor
+    - 6.1:
+        non_striker: P Hatchman
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Nestor
+    - 6.2:
+        non_striker: P Hatchman
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 6.3:
+        non_striker: P Hatchman
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 6.4:
+        non_striker: P Hatchman
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 6.5:
+        non_striker: P Hatchman
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 6.6:
+        non_striker: P Hatchman
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 7.1:
+        non_striker: K Nestor
+        bowler: Amir Zaib
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Hatchman
+    - 7.2:
+        non_striker: K Nestor
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Hatchman
+    - 7.3:
+        non_striker: K Nestor
+        bowler: Amir Zaib
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: P Hatchman
+    - 7.4:
+        non_striker: K Nestor
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Hatchman
+    - 7.5:
+        non_striker: K Nestor
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Hatchman
+    - 7.6:
+        non_striker: P Hatchman
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 7.7:
+        non_striker: K Nestor
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Hatchman
+    - 7.8:
+        non_striker: K Nestor
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Hatchman
+    - 8.1:
+        non_striker: K Nestor
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Hatchman
+    - 8.2:
+        non_striker: K Nestor
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Hatchman
+    - 8.3:
+        non_striker: K Nestor
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Hatchman
+        wicket:
+          player_out: P Hatchman
+          kind: bowled
+    - 8.4:
+        non_striker: K Nestor
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Fitzgerald
+    - 8.5:
+        non_striker: K Nestor
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 8.6:
+        non_striker: JA Fitzgerald
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 9.1:
+        non_striker: K Nestor
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Fitzgerald
+    - 9.2:
+        non_striker: K Nestor
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 9.3:
+        non_striker: JA Fitzgerald
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 9.4:
+        non_striker: JA Fitzgerald
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 9.5:
+        non_striker: JA Fitzgerald
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 9.6:
+        non_striker: JA Fitzgerald
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 10.1:
+        non_striker: JA Fitzgerald
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 10.2:
+        non_striker: JA Fitzgerald
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 10.3:
+        non_striker: JA Fitzgerald
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 10.4:
+        non_striker: K Nestor
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 10.5:
+        non_striker: JA Fitzgerald
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 10.6:
+        non_striker: JA Fitzgerald
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 11.1:
+        non_striker: JA Fitzgerald
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 11.2:
+        non_striker: JA Fitzgerald
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+        wicket:
+          player_out: K Nestor
+          kind: caught and bowled
+    - 11.3:
+        non_striker: JA Fitzgerald
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Marples
+    - 11.4:
+        non_striker: JA Fitzgerald
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Marples
+    - 11.5:
+        non_striker: J Marples
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 11.6:
+        non_striker: JA Fitzgerald
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Marples
+    - 12.1:
+        non_striker: JA Fitzgerald
+        bowler: Amandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Marples
+    - 12.2:
+        non_striker: J Marples
+        bowler: Amandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 12.3:
+        non_striker: JA Fitzgerald
+        bowler: Amandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Marples
+    - 12.4:
+        non_striker: JA Fitzgerald
+        bowler: Amandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Marples
+    - 12.5:
+        non_striker: J Marples
+        bowler: Amandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JA Fitzgerald
+    - 12.6:
+        non_striker: JA Fitzgerald
+        bowler: Amandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Marples
+    - 13.1:
+        non_striker: JA Fitzgerald
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Marples
+    - 13.2:
+        non_striker: JA Fitzgerald
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Marples
+    - 13.3:
+        non_striker: J Marples
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Fitzgerald
+    - 13.4:
+        non_striker: J Marples
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 13.5:
+        non_striker: JA Fitzgerald
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Marples
+    - 13.6:
+        non_striker: JA Fitzgerald
+        bowler: Amir Zaib
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Marples
+    - 13.7:
+        non_striker: JA Fitzgerald
+        bowler: Amir Zaib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Marples
+    - 14.1:
+        non_striker: J Marples
+        bowler: Amandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 14.2:
+        non_striker: JA Fitzgerald
+        bowler: Amandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Marples
+    - 14.3:
+        non_striker: JA Fitzgerald
+        bowler: Amandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Marples
+    - 14.4:
+        non_striker: JA Fitzgerald
+        bowler: Amandeep Singh
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          wides: 4
+        batsman: J Marples
+    - 14.5:
+        non_striker: J Marples
+        bowler: Amandeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Fitzgerald
+    - 14.6:
+        non_striker: J Marples
+        bowler: Amandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Fitzgerald
+    - 14.7:
+        non_striker: J Marples
+        bowler: Amandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Fitzgerald
+    - 14.8:
+        non_striker: J Marples
+        bowler: Amandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Fitzgerald
+    - 15.1:
+        non_striker: JA Fitzgerald
+        bowler: Imran Khan (4)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Marples
+    - 15.2:
+        non_striker: J Marples
+        bowler: Imran Khan (4)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 15.3:
+        non_striker: JA Fitzgerald
+        bowler: Imran Khan (4)
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Marples
+    - 15.4:
+        non_striker: JA Fitzgerald
+        bowler: Imran Khan (4)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Marples
+    - 15.5:
+        non_striker: JA Fitzgerald
+        bowler: Imran Khan (4)
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Marples
+    - 15.6:
+        non_striker: J Marples
+        bowler: Imran Khan (4)
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Fitzgerald
+    - 16.1:
+        non_striker: JA Fitzgerald
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Marples
+    - 16.2:
+        non_striker: JA Fitzgerald
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Marples
+        wicket:
+          player_out: J Marples
+          fielders:
+          - P Buccimazza
+          kind: caught
+    - 16.3:
+        non_striker: JA Fitzgerald
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Hatchman
+    - 16.4:
+        non_striker: RJ Hatchman
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 16.5:
+        non_striker: JA Fitzgerald
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Hatchman
+    - 16.6:
+        non_striker: RJ Hatchman
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Fitzgerald
+    - 17.1:
+        non_striker: JA Fitzgerald
+        bowler: Imran Khan (4)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Hatchman
+    - 17.2:
+        non_striker: RJ Hatchman
+        bowler: Imran Khan (4)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Fitzgerald
+    - 17.3:
+        non_striker: RJ Hatchman
+        bowler: Imran Khan (4)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 17.4:
+        non_striker: JA Fitzgerald
+        bowler: Imran Khan (4)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Hatchman
+    - 17.5:
+        non_striker: JA Fitzgerald
+        bowler: Imran Khan (4)
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RJ Hatchman
+    - 17.6:
+        non_striker: RJ Hatchman
+        bowler: Imran Khan (4)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 18.1:
+        non_striker: RJ Hatchman
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 18.2:
+        non_striker: JA Fitzgerald
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Hatchman
+        wicket:
+          player_out: RJ Hatchman
+          fielders:
+          - Imran Khan (4)
+          kind: caught
+    - 18.3:
+        non_striker: JA Fitzgerald
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Garratt
+    - 18.4:
+        non_striker: JA Fitzgerald
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Garratt
+    - 18.5:
+        non_striker: MD Garratt
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Fitzgerald
+    - 18.6:
+        non_striker: MD Garratt
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 19.1:
+        non_striker: MD Garratt
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Fitzgerald
+        wicket:
+          player_out: JA Fitzgerald
+          kind: bowled
+    - 19.2:
+        non_striker: MD Garratt
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Orfila
+    - 19.3:
+        non_striker: A Orfila
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Garratt
+    - 19.4:
+        non_striker: MD Garratt
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Orfila
+    - 19.5:
+        non_striker: MD Garratt
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Orfila
+    - 19.6:
+        non_striker: MD Garratt
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Orfila

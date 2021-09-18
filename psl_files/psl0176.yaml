@@ -1,0 +1,2154 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-06-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Abu Dhabi
+  competition: Pakistan Super League
+  dates:
+  - '2021-06-19'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Karachi Kings
+    by:
+      runs: 14
+  overs: 20
+  player_of_match:
+  - Danish Aziz
+  players:
+    Karachi Kings:
+    - Sharjeel Khan
+    - Babar Azam
+    - MJ Guptill
+    - Najibullah Zadran
+    - CAK Walton
+    - Imad Wasim
+    - Danish Aziz
+    - Mohammad Ilyas
+    - Arshad Iqbal
+    - Mohammad Amir
+    - Noor Ahmad
+    Quetta Gladiators:
+    - J Weatherald
+    - Saim Ayub
+    - Usman Khan (2)
+    - Sarfraz Ahmed
+    - Azam Khan
+    - Hassan Khan
+    - Abdul Nasir
+    - JD Wildermuth
+    - Khurram Shahzad (2)
+    - Arish Ali
+    - Naseem Shah
+  registry:
+    people:
+      Abdul Nasir: 494a0503
+      Ahsan Raza: e0e5b209
+      Arish Ali: 1e9b3b23
+      Arshad Iqbal: ed031922
+      Asif Yaqoob: 6b35790c
+      Azam Khan: ee8f1a6d
+      Babar Azam: 8a75e999
+      CAK Walton: bbff906c
+      Danish Aziz: a4799701
+      Hassan Khan: 486065b3
+      Imad Wasim: 9cb8d7a6
+      J Weatherald: edc7ddb6
+      JD Wildermuth: f1c61793
+      Khurram Shahzad (2): 27c5715d
+      MJ Guptill: 2be41edb
+      Mohammad Amir: e174dadd
+      Mohammad Ilyas: bbfa0b42
+      Muhammad Javed: bde2d0ea
+      Najibullah Zadran: 1212cbec
+      Naseem Shah: 9c9af282
+      Noor Ahmad: efc04be7
+      Saim Ayub: 33609a8c
+      Sarfraz Ahmed: 2254ab79
+      Sharjeel Khan: 193ef196
+      Shozab Raza: 153c67dc
+      Usman Khan (2): bafb9238
+      Zameer Haider: 5537565f
+  teams:
+  - Karachi Kings
+  - Quetta Gladiators
+  toss:
+    decision: bat
+    winner: Karachi Kings
+  umpires:
+  - Asif Yaqoob
+  - Shozab Raza
+  venue: Sheikh Zayed Stadium, Abu Dhabi
+innings:
+- 1st innings:
+    team: Karachi Kings
+    deliveries:
+    - 0.1:
+        non_striker: Babar Azam
+        bowler: Naseem Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Sharjeel Khan
+    - 0.2:
+        non_striker: Babar Azam
+        bowler: Naseem Shah
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Sharjeel Khan
+    - 0.3:
+        non_striker: Babar Azam
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 0.4:
+        non_striker: Babar Azam
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 0.5:
+        non_striker: Babar Azam
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharjeel Khan
+    - 0.6:
+        non_striker: Sharjeel Khan
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 0.7:
+        non_striker: Sharjeel Khan
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 0.8:
+        non_striker: Sharjeel Khan
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 1.1:
+        non_striker: Babar Azam
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 1.2:
+        non_striker: Babar Azam
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 1.3:
+        non_striker: Babar Azam
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sharjeel Khan
+    - 1.4:
+        non_striker: Babar Azam
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharjeel Khan
+    - 1.5:
+        non_striker: Sharjeel Khan
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 1.6:
+        non_striker: Sharjeel Khan
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 2.1:
+        non_striker: Sharjeel Khan
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 2.2:
+        non_striker: Sharjeel Khan
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 2.3:
+        non_striker: Sharjeel Khan
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 2.4:
+        non_striker: Sharjeel Khan
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 2.5:
+        non_striker: Babar Azam
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 2.6:
+        non_striker: Babar Azam
+        bowler: Naseem Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sharjeel Khan
+    - 2.7:
+        non_striker: Babar Azam
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sharjeel Khan
+    - 3.1:
+        non_striker: Sharjeel Khan
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 3.2:
+        non_striker: Babar Azam
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 3.3:
+        non_striker: Babar Azam
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sharjeel Khan
+    - 3.4:
+        non_striker: Babar Azam
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharjeel Khan
+    - 3.5:
+        non_striker: Sharjeel Khan
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 3.6:
+        non_striker: Sharjeel Khan
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 4.1:
+        non_striker: Babar Azam
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 4.2:
+        non_striker: Babar Azam
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 4.3:
+        non_striker: Babar Azam
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharjeel Khan
+    - 4.4:
+        non_striker: Babar Azam
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 4.5:
+        non_striker: Babar Azam
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 4.6:
+        non_striker: Babar Azam
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 5.1:
+        non_striker: Sharjeel Khan
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 5.2:
+        non_striker: Babar Azam
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 5.3:
+        non_striker: Babar Azam
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharjeel Khan
+    - 5.4:
+        non_striker: Sharjeel Khan
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 5.5:
+        non_striker: Sharjeel Khan
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 5.6:
+        non_striker: Babar Azam
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 6.1:
+        non_striker: Sharjeel Khan
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 6.2:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharjeel Khan
+    - 6.3:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharjeel Khan
+    - 6.4:
+        non_striker: Sharjeel Khan
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 6.5:
+        non_striker: Sharjeel Khan
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 6.6:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 7.1:
+        non_striker: Sharjeel Khan
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 7.2:
+        non_striker: Sharjeel Khan
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 7.3:
+        non_striker: Babar Azam
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 7.4:
+        non_striker: Babar Azam
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharjeel Khan
+    - 7.5:
+        non_striker: Sharjeel Khan
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 7.6:
+        non_striker: Sharjeel Khan
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.1:
+        non_striker: Sharjeel Khan
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.2:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharjeel Khan
+    - 8.3:
+        non_striker: Sharjeel Khan
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.4:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 8.5:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sharjeel Khan
+    - 8.6:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sharjeel Khan
+    - 9.1:
+        non_striker: Sharjeel Khan
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+        wicket:
+          player_out: Babar Azam
+          fielders:
+          - Hassan Khan
+          kind: caught
+    - 9.2:
+        non_striker: Sharjeel Khan
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 9.3:
+        non_striker: Sharjeel Khan
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 9.4:
+        non_striker: Sharjeel Khan
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 9.5:
+        non_striker: Sharjeel Khan
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 9.6:
+        non_striker: MJ Guptill
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 10.1:
+        non_striker: Sharjeel Khan
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+        wicket:
+          player_out: MJ Guptill
+          fielders:
+          - Hassan Khan
+          kind: caught
+    - 10.2:
+        non_striker: Najibullah Zadran
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharjeel Khan
+    - 10.3:
+        non_striker: Najibullah Zadran
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+        wicket:
+          player_out: Sharjeel Khan
+          kind: bowled
+    - 10.4:
+        non_striker: Najibullah Zadran
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 10.5:
+        non_striker: Najibullah Zadran
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CAK Walton
+    - 10.6:
+        non_striker: Najibullah Zadran
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 11.1:
+        non_striker: CAK Walton
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 11.2:
+        non_striker: CAK Walton
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 11.3:
+        non_striker: Najibullah Zadran
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 11.4:
+        non_striker: CAK Walton
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Najibullah Zadran
+    - 11.5:
+        non_striker: CAK Walton
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 11.6:
+        non_striker: CAK Walton
+        bowler: Abdul Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 12.1:
+        non_striker: Najibullah Zadran
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 12.2:
+        non_striker: Najibullah Zadran
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 12.3:
+        non_striker: Najibullah Zadran
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 12.4:
+        non_striker: CAK Walton
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 12.5:
+        non_striker: CAK Walton
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 12.6:
+        non_striker: Najibullah Zadran
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 13.1:
+        non_striker: CAK Walton
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 13.2:
+        non_striker: Najibullah Zadran
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 13.3:
+        non_striker: CAK Walton
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 13.4:
+        non_striker: CAK Walton
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 13.5:
+        non_striker: Najibullah Zadran
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 13.6:
+        non_striker: CAK Walton
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 14.1:
+        non_striker: Najibullah Zadran
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 14.2:
+        non_striker: Najibullah Zadran
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 14.3:
+        non_striker: Najibullah Zadran
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 14.4:
+        non_striker: Najibullah Zadran
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 14.5:
+        non_striker: CAK Walton
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Najibullah Zadran
+    - 14.6:
+        non_striker: CAK Walton
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+        wicket:
+          player_out: Najibullah Zadran
+          kind: bowled
+    - 15.1:
+        non_striker: Imad Wasim
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CAK Walton
+    - 15.2:
+        non_striker: Imad Wasim
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 15.3:
+        non_striker: CAK Walton
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 15.4:
+        non_striker: Imad Wasim
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 15.5:
+        non_striker: Imad Wasim
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 15.6:
+        non_striker: CAK Walton
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 16.1:
+        non_striker: CAK Walton
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 16.2:
+        non_striker: Imad Wasim
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CAK Walton
+    - 16.3:
+        non_striker: Imad Wasim
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CAK Walton
+    - 16.4:
+        non_striker: Imad Wasim
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 16.5:
+        non_striker: CAK Walton
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+        wicket:
+          player_out: Imad Wasim
+          fielders:
+          - Hassan Khan
+          kind: caught
+    - 16.6:
+        non_striker: Danish Aziz
+        bowler: Arish Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 17.1:
+        non_striker: Danish Aziz
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 17.2:
+        non_striker: CAK Walton
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Danish Aziz
+    - 17.3:
+        non_striker: CAK Walton
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Danish Aziz
+    - 17.4:
+        non_striker: CAK Walton
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Danish Aziz
+    - 17.5:
+        non_striker: CAK Walton
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Danish Aziz
+    - 17.6:
+        non_striker: CAK Walton
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Danish Aziz
+    - 18.1:
+        non_striker: CAK Walton
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Danish Aziz
+    - 18.2:
+        non_striker: CAK Walton
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Danish Aziz
+    - 18.3:
+        non_striker: CAK Walton
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Danish Aziz
+    - 18.4:
+        non_striker: CAK Walton
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Danish Aziz
+    - 18.5:
+        non_striker: CAK Walton
+        bowler: JD Wildermuth
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: Danish Aziz
+    - 18.6:
+        non_striker: CAK Walton
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Danish Aziz
+    - 18.7:
+        non_striker: CAK Walton
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Danish Aziz
+    - 19.1:
+        non_striker: Danish Aziz
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 19.2:
+        non_striker: Danish Aziz
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CAK Walton
+    - 19.3:
+        non_striker: Danish Aziz
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 19.4:
+        non_striker: CAK Walton
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Danish Aziz
+        wicket:
+          player_out: Danish Aziz
+          kind: bowled
+    - 19.5:
+        non_striker: CAK Walton
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Ilyas
+    - 19.6:
+        non_striker: Mohammad Ilyas
+        bowler: Khurram Shahzad (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+        wicket:
+          player_out: Mohammad Ilyas
+          kind: run out
+- 2nd innings:
+    team: Quetta Gladiators
+    deliveries:
+    - 0.1:
+        non_striker: Saim Ayub
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 0.2:
+        non_striker: Saim Ayub
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 0.3:
+        non_striker: Saim Ayub
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 0.4:
+        non_striker: Saim Ayub
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Weatherald
+    - 0.5:
+        non_striker: Saim Ayub
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 0.6:
+        non_striker: Saim Ayub
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 1.1:
+        non_striker: Saim Ayub
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 1.2:
+        non_striker: Saim Ayub
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 1.3:
+        non_striker: J Weatherald
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 1.4:
+        non_striker: J Weatherald
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 1.5:
+        non_striker: J Weatherald
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 1.6:
+        non_striker: Saim Ayub
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 2.1:
+        non_striker: J Weatherald
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saim Ayub
+    - 2.2:
+        non_striker: J Weatherald
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saim Ayub
+    - 2.3:
+        non_striker: J Weatherald
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 2.4:
+        non_striker: J Weatherald
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 2.5:
+        non_striker: J Weatherald
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Ayub
+    - 2.6:
+        non_striker: J Weatherald
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 3.1:
+        non_striker: Saim Ayub
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 3.2:
+        non_striker: Saim Ayub
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 3.3:
+        non_striker: Saim Ayub
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 3.4:
+        non_striker: J Weatherald
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 3.5:
+        non_striker: J Weatherald
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 3.6:
+        non_striker: J Weatherald
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 4.1:
+        non_striker: Saim Ayub
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 4.2:
+        non_striker: Saim Ayub
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Weatherald
+    - 4.3:
+        non_striker: Saim Ayub
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 4.4:
+        non_striker: J Weatherald
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 4.5:
+        non_striker: J Weatherald
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 4.6:
+        non_striker: J Weatherald
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saim Ayub
+    - 4.7:
+        non_striker: J Weatherald
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+        wicket:
+          player_out: Saim Ayub
+          fielders:
+          - CAK Walton
+          kind: caught
+    - 5.1:
+        non_striker: Usman Khan (2)
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Weatherald
+    - 5.2:
+        non_striker: Usman Khan (2)
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 5.3:
+        non_striker: J Weatherald
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan (2)
+    - 5.4:
+        non_striker: Usman Khan (2)
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Weatherald
+    - 5.5:
+        non_striker: Usman Khan (2)
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 5.6:
+        non_striker: Usman Khan (2)
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 6.1:
+        non_striker: J Weatherald
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan (2)
+    - 6.2:
+        non_striker: J Weatherald
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan (2)
+    - 6.3:
+        non_striker: Usman Khan (2)
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 6.4:
+        non_striker: Usman Khan (2)
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 6.5:
+        non_striker: J Weatherald
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan (2)
+    - 6.6:
+        non_striker: Usman Khan (2)
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 7.1:
+        non_striker: Usman Khan (2)
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+        wicket:
+          player_out: J Weatherald
+          kind: bowled
+    - 7.2:
+        non_striker: Usman Khan (2)
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfraz Ahmed
+    - 7.3:
+        non_striker: Sarfraz Ahmed
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan (2)
+    - 7.4:
+        non_striker: Usman Khan (2)
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfraz Ahmed
+    - 7.5:
+        non_striker: Usman Khan (2)
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfraz Ahmed
+    - 7.6:
+        non_striker: Sarfraz Ahmed
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan (2)
+    - 8.1:
+        non_striker: Usman Khan (2)
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfraz Ahmed
+    - 8.2:
+        non_striker: Sarfraz Ahmed
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Usman Khan (2)
+    - 8.3:
+        non_striker: Sarfraz Ahmed
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan (2)
+    - 8.4:
+        non_striker: Sarfraz Ahmed
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan (2)
+    - 8.5:
+        non_striker: Usman Khan (2)
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfraz Ahmed
+    - 8.6:
+        non_striker: Sarfraz Ahmed
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan (2)
+    - 9.1:
+        non_striker: Usman Khan (2)
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sarfraz Ahmed
+    - 9.2:
+        non_striker: Usman Khan (2)
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sarfraz Ahmed
+    - 9.3:
+        non_striker: Usman Khan (2)
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sarfraz Ahmed
+    - 9.4:
+        non_striker: Usman Khan (2)
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfraz Ahmed
+    - 9.5:
+        non_striker: Usman Khan (2)
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfraz Ahmed
+    - 9.6:
+        non_striker: Sarfraz Ahmed
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan (2)
+    - 9.7:
+        non_striker: Usman Khan (2)
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfraz Ahmed
+    - 9.8:
+        non_striker: Sarfraz Ahmed
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan (2)
+    - 10.1:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan (2)
+        wicket:
+          player_out: Usman Khan (2)
+          fielders:
+          - Imad Wasim
+          kind: caught
+    - 10.2:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 10.3:
+        non_striker: Azam Khan
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfraz Ahmed
+    - 10.4:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 10.5:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 10.6:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Azam Khan
+    - 10.7:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 11.1:
+        non_striker: Azam Khan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfraz Ahmed
+    - 11.2:
+        non_striker: Azam Khan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfraz Ahmed
+    - 11.3:
+        non_striker: Sarfraz Ahmed
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 11.4:
+        non_striker: Sarfraz Ahmed
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 11.5:
+        non_striker: Sarfraz Ahmed
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 11.6:
+        non_striker: Sarfraz Ahmed
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azam Khan
+    - 12.1:
+        non_striker: Azam Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfraz Ahmed
+    - 12.2:
+        non_striker: Azam Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfraz Ahmed
+    - 12.3:
+        non_striker: Sarfraz Ahmed
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azam Khan
+    - 12.4:
+        non_striker: Sarfraz Ahmed
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 12.5:
+        non_striker: Sarfraz Ahmed
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azam Khan
+    - 12.6:
+        non_striker: Sarfraz Ahmed
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+        wicket:
+          player_out: Azam Khan
+          fielders:
+          - Mohammad Amir
+          kind: caught
+    - 13.1:
+        non_striker: Hassan Khan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfraz Ahmed
+    - 13.2:
+        non_striker: Sarfraz Ahmed
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 13.3:
+        non_striker: Hassan Khan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfraz Ahmed
+    - 13.4:
+        non_striker: Hassan Khan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfraz Ahmed
+    - 13.5:
+        non_striker: Hassan Khan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfraz Ahmed
+    - 13.6:
+        non_striker: Sarfraz Ahmed
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 14.1:
+        non_striker: Sarfraz Ahmed
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hassan Khan
+    - 14.2:
+        non_striker: Sarfraz Ahmed
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 14.3:
+        non_striker: Sarfraz Ahmed
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hassan Khan
+    - 14.4:
+        non_striker: Sarfraz Ahmed
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hassan Khan
+    - 14.5:
+        non_striker: Sarfraz Ahmed
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 14.6:
+        non_striker: Hassan Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sarfraz Ahmed
+    - 15.1:
+        non_striker: Sarfraz Ahmed
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 15.2:
+        non_striker: Hassan Khan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfraz Ahmed
+    - 15.3:
+        non_striker: Sarfraz Ahmed
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 15.4:
+        non_striker: Sarfraz Ahmed
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hassan Khan
+    - 15.5:
+        non_striker: Sarfraz Ahmed
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hassan Khan
+    - 15.6:
+        non_striker: Sarfraz Ahmed
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 15.7:
+        non_striker: Hassan Khan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfraz Ahmed
+    - 16.1:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hassan Khan
+    - 16.2:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 16.3:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 16.4:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 16.5:
+        non_striker: Hassan Khan
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfraz Ahmed
+        wicket:
+          player_out: Hassan Khan
+          kind: run out
+    - 16.6:
+        non_striker: Abdul Nasir
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sarfraz Ahmed
+    - 17.1:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Nasir
+    - 17.2:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Nasir
+        wicket:
+          player_out: Abdul Nasir
+          fielders:
+          - Danish Aziz
+          kind: caught
+    - 17.3:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Wildermuth
+    - 17.4:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 17.5:
+        non_striker: JD Wildermuth
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sarfraz Ahmed
+    - 17.6:
+        non_striker: JD Wildermuth
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sarfraz Ahmed
+    - 18.1:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 18.2:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 18.3:
+        non_striker: JD Wildermuth
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sarfraz Ahmed
+    - 18.4:
+        non_striker: JD Wildermuth
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfraz Ahmed
+    - 18.5:
+        non_striker: JD Wildermuth
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfraz Ahmed
+    - 18.6:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 19.1:
+        non_striker: Sarfraz Ahmed
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 19.2:
+        non_striker: JD Wildermuth
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sarfraz Ahmed
+    - 19.3:
+        non_striker: JD Wildermuth
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sarfraz Ahmed
+    - 19.4:
+        non_striker: JD Wildermuth
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sarfraz Ahmed
+    - 19.5:
+        non_striker: JD Wildermuth
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sarfraz Ahmed
+    - 19.6:
+        non_striker: JD Wildermuth
+        bowler: Mohammad Ilyas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sarfraz Ahmed

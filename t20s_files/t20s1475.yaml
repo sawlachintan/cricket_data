@@ -1,0 +1,2211 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-04-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kirtipur
+  dates:
+  - '2021-04-18'
+  gender: male
+  match_type: T20
+  match_type_number: 1150
+  outcome:
+    winner: Netherlands
+    by:
+      runs: 15
+  overs: 20
+  player_of_match:
+  - MP O'Dowd
+  players:
+    Netherlands:
+    - MP O'Dowd
+    - TP Visee
+    - SA Edwards
+    - BN Cooper
+    - BFW de Leede
+    - TS Braat
+    - AJ Staal
+    - A Dutt
+    - PRP Boissevain
+    - PM Seelaar
+    - VJ Kingma
+    Malaysia:
+    - Syed Aziz
+    - Anwar Arudin
+    - Ahmed Faiz Mohammad Noor
+    - Virandeep Singh
+    - S Muniandy
+    - Shafiq Sharif
+    - Aminuddin Ramly
+    - Khizar Hayat
+    - Muhammad Wafiq
+    - Anwar Rahman
+    - Pavandeep Singh
+  registry:
+    people:
+      A Dutt: 803dbf1d
+      AJ Staal: 62c713bf
+      Ahmed Faiz Mohammad Noor: f6b4f746
+      Aminuddin Ramly: 8cae5b48
+      Anwar Arudin: 6d24561a
+      Anwar Rahman: 28adcce9
+      BB Pradhan: 8603d942
+      BFW de Leede: fc4375ef
+      BN Cooper: 634a7b21
+      DN Subedi: fb0a571f
+      HR Giri: fea1e74f
+      Khizar Hayat: 78bbeba1
+      MP O'Dowd: b699df47
+      Muhammad Wafiq: f104c434
+      PM Seelaar: abbdca1a
+      PRP Boissevain: a300e810
+      Pavandeep Singh: 78fcc740
+      S Muniandy: 57fcfd3b
+      SA Edwards: b59db04f
+      Shafiq Sharif: 033ac24e
+      Syed Aziz: 6667067e
+      TP Visee: 881b3f8e
+      TS Braat: 95d3c4a6
+      VJ Kingma: 3a7ea906
+      VK Jha: 5d46eb72
+      Virandeep Singh: 415d30b6
+      WC Labrooy: 29d4e29b
+  teams:
+  - Netherlands
+  - Malaysia
+  toss:
+    decision: bat
+    winner: Netherlands
+  umpires:
+  - HR Giri
+  - VK Jha
+  venue: Tribhuvan University International Cricket Ground, Kirtipur
+innings:
+- 1st innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: TP Visee
+        batsman: MP O'Dowd
+    - 0.2:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TP Visee
+        batsman: MP O'Dowd
+    - 0.3:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TP Visee
+        batsman: MP O'Dowd
+    - 0.4:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TP Visee
+        batsman: MP O'Dowd
+    - 0.5:
+        non_striker: MP O'Dowd
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Visee
+    - 0.6:
+        non_striker: MP O'Dowd
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Visee
+    - 1.1:
+        non_striker: TP Visee
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP O'Dowd
+    - 1.2:
+        non_striker: TP Visee
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 1.3:
+        non_striker: TP Visee
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP O'Dowd
+    - 1.4:
+        non_striker: TP Visee
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 1.5:
+        non_striker: TP Visee
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 1.6:
+        non_striker: TP Visee
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 1.7:
+        non_striker: TP Visee
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 1.8:
+        non_striker: MP O'Dowd
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Visee
+    - 2.1:
+        non_striker: MP O'Dowd
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Visee
+        wicket:
+          player_out: TP Visee
+          kind: bowled
+    - 2.2:
+        non_striker: MP O'Dowd
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 2.3:
+        non_striker: MP O'Dowd
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 2.4:
+        non_striker: MP O'Dowd
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 2.5:
+        non_striker: SA Edwards
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 2.6:
+        non_striker: SA Edwards
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MP O'Dowd
+    - 3.1:
+        non_striker: SA Edwards
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 3.2:
+        non_striker: MP O'Dowd
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 3.3:
+        non_striker: MP O'Dowd
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 3.4:
+        non_striker: SA Edwards
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 3.5:
+        non_striker: MP O'Dowd
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 3.6:
+        non_striker: MP O'Dowd
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 4.1:
+        non_striker: SA Edwards
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 4.2:
+        non_striker: MP O'Dowd
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 4.3:
+        non_striker: MP O'Dowd
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 4.4:
+        non_striker: MP O'Dowd
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 4.5:
+        non_striker: SA Edwards
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 4.6:
+        non_striker: MP O'Dowd
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 5.1:
+        non_striker: SA Edwards
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 5.2:
+        non_striker: SA Edwards
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 5.3:
+        non_striker: SA Edwards
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 5.4:
+        non_striker: SA Edwards
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 5.5:
+        non_striker: MP O'Dowd
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 5.6:
+        non_striker: MP O'Dowd
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Edwards
+    - 5.7:
+        non_striker: MP O'Dowd
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 6.1:
+        non_striker: SA Edwards
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 6.2:
+        non_striker: MP O'Dowd
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 6.3:
+        non_striker: MP O'Dowd
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 6.4:
+        non_striker: MP O'Dowd
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 6.5:
+        non_striker: MP O'Dowd
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 6.6:
+        non_striker: MP O'Dowd
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Edwards
+    - 7.1:
+        non_striker: SA Edwards
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 7.2:
+        non_striker: MP O'Dowd
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 7.3:
+        non_striker: MP O'Dowd
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 7.4:
+        non_striker: SA Edwards
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 7.5:
+        non_striker: MP O'Dowd
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 7.6:
+        non_striker: SA Edwards
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 8.1:
+        non_striker: SA Edwards
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 8.2:
+        non_striker: MP O'Dowd
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 8.3:
+        non_striker: MP O'Dowd
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+        wicket:
+          player_out: SA Edwards
+          kind: lbw
+    - 8.4:
+        non_striker: MP O'Dowd
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 8.5:
+        non_striker: MP O'Dowd
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 8.6:
+        non_striker: BN Cooper
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 9.1:
+        non_striker: BN Cooper
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 9.2:
+        non_striker: MP O'Dowd
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BN Cooper
+    - 9.3:
+        non_striker: MP O'Dowd
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 9.4:
+        non_striker: BN Cooper
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 9.5:
+        non_striker: MP O'Dowd
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 9.6:
+        non_striker: MP O'Dowd
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 10.1:
+        non_striker: MP O'Dowd
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 10.2:
+        non_striker: MP O'Dowd
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 10.3:
+        non_striker: MP O'Dowd
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 10.4:
+        non_striker: BN Cooper
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 10.5:
+        non_striker: MP O'Dowd
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 10.6:
+        non_striker: BN Cooper
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 11.1:
+        non_striker: BN Cooper
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 11.2:
+        non_striker: MP O'Dowd
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 11.3:
+        non_striker: BN Cooper
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 11.4:
+        non_striker: BN Cooper
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 11.5:
+        non_striker: BN Cooper
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 11.6:
+        non_striker: BN Cooper
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 12.1:
+        non_striker: BN Cooper
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 12.2:
+        non_striker: BN Cooper
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP O'Dowd
+    - 12.3:
+        non_striker: BN Cooper
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 12.4:
+        non_striker: BN Cooper
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 12.5:
+        non_striker: BN Cooper
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 12.6:
+        non_striker: MP O'Dowd
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 13.1:
+        non_striker: BN Cooper
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 13.2:
+        non_striker: BN Cooper
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP O'Dowd
+    - 13.3:
+        non_striker: BN Cooper
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 13.4:
+        non_striker: BN Cooper
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 13.5:
+        non_striker: BN Cooper
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 13.6:
+        non_striker: BN Cooper
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 14.1:
+        non_striker: BN Cooper
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 14.2:
+        non_striker: MP O'Dowd
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BN Cooper
+    - 14.3:
+        non_striker: MP O'Dowd
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 14.4:
+        non_striker: BN Cooper
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP O'Dowd
+    - 14.5:
+        non_striker: BN Cooper
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 14.6:
+        non_striker: BN Cooper
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 15.1:
+        non_striker: BN Cooper
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP O'Dowd
+    - 15.2:
+        non_striker: BN Cooper
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP O'Dowd
+    - 15.3:
+        non_striker: BN Cooper
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 15.4:
+        non_striker: MP O'Dowd
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 15.5:
+        non_striker: BN Cooper
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 15.6:
+        non_striker: BN Cooper
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 16.1:
+        non_striker: BN Cooper
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 16.2:
+        non_striker: BN Cooper
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 16.3:
+        non_striker: BN Cooper
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 16.4:
+        non_striker: MP O'Dowd
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 16.5:
+        non_striker: BN Cooper
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 16.6:
+        non_striker: MP O'Dowd
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 17.1:
+        non_striker: BN Cooper
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 17.2:
+        non_striker: BN Cooper
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 17.3:
+        non_striker: MP O'Dowd
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 17.4:
+        non_striker: BN Cooper
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 17.5:
+        non_striker: MP O'Dowd
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 17.6:
+        non_striker: BN Cooper
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 18.1:
+        non_striker: BN Cooper
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 18.2:
+        non_striker: BN Cooper
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 18.3:
+        non_striker: BN Cooper
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP O'Dowd
+    - 18.4:
+        non_striker: BN Cooper
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 18.5:
+        non_striker: BN Cooper
+        bowler: S Muniandy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP O'Dowd
+    - 18.6:
+        non_striker: BN Cooper
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 18.7:
+        non_striker: BN Cooper
+        bowler: S Muniandy
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: MP O'Dowd
+    - 19.1:
+        non_striker: MP O'Dowd
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 19.2:
+        non_striker: BN Cooper
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 19.3:
+        non_striker: BN Cooper
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 19.4:
+        non_striker: BN Cooper
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 19.5:
+        non_striker: BN Cooper
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 19.6:
+        non_striker: BN Cooper
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Anwar Arudin
+        batsman: Syed Aziz
+    - 0.2:
+        bowler: A Dutt
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        non_striker: Anwar Arudin
+        batsman: Syed Aziz
+    - 0.3:
+        non_striker: Syed Aziz
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anwar Arudin
+    - 0.4:
+        non_striker: Syed Aziz
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anwar Arudin
+        wicket:
+          player_out: Anwar Arudin
+          kind: bowled
+    - 0.5:
+        non_striker: Syed Aziz
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 0.6:
+        non_striker: Syed Aziz
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 0.7:
+        non_striker: Syed Aziz
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+        wicket:
+          player_out: Ahmed Faiz Mohammad Noor
+          fielders:
+          - SA Edwards
+          kind: caught
+    - 1.1:
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Virandeep Singh
+        batsman: Syed Aziz
+    - 1.2:
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Virandeep Singh
+        batsman: Syed Aziz
+    - 1.3:
+        bowler: VJ Kingma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Virandeep Singh
+        batsman: Syed Aziz
+    - 1.4:
+        non_striker: Syed Aziz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 1.5:
+        non_striker: Syed Aziz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 1.6:
+        non_striker: Syed Aziz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 2.1:
+        non_striker: Syed Aziz
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 2.2:
+        non_striker: Syed Aziz
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 2.3:
+        non_striker: Virandeep Singh
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 2.4:
+        non_striker: Virandeep Singh
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 2.5:
+        non_striker: Virandeep Singh
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 2.6:
+        non_striker: Virandeep Singh
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 3.1:
+        non_striker: Virandeep Singh
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 3.2:
+        non_striker: Syed Aziz
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 3.3:
+        non_striker: Virandeep Singh
+        bowler: BFW de Leede
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Aziz
+    - 3.4:
+        non_striker: Virandeep Singh
+        bowler: BFW de Leede
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Aziz
+    - 3.5:
+        non_striker: Virandeep Singh
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+        wicket:
+          player_out: Syed Aziz
+          fielders:
+          - PM Seelaar
+          kind: caught
+    - 3.6:
+        non_striker: Virandeep Singh
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 3.7:
+        non_striker: Virandeep Singh
+        bowler: BFW de Leede
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Muniandy
+    - 3.8:
+        non_striker: Virandeep Singh
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 3.9:
+        non_striker: Virandeep Singh
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 4.1:
+        non_striker: Virandeep Singh
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 4.2:
+        non_striker: S Muniandy
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 4.3:
+        non_striker: S Muniandy
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 4.4:
+        non_striker: S Muniandy
+        bowler: TS Braat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Virandeep Singh
+    - 4.5:
+        non_striker: S Muniandy
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 4.6:
+        non_striker: S Muniandy
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Virandeep Singh
+    - 4.7:
+        non_striker: S Muniandy
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Virandeep Singh
+    - 5.1:
+        non_striker: Virandeep Singh
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 5.2:
+        non_striker: Virandeep Singh
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 5.3:
+        non_striker: Virandeep Singh
+        bowler: VJ Kingma
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: S Muniandy
+    - 5.4:
+        non_striker: Virandeep Singh
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Muniandy
+    - 5.5:
+        non_striker: Virandeep Singh
+        bowler: VJ Kingma
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: S Muniandy
+    - 5.6:
+        non_striker: Virandeep Singh
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 5.7:
+        non_striker: Virandeep Singh
+        bowler: VJ Kingma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Muniandy
+    - 5.8:
+        non_striker: Virandeep Singh
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 5.9:
+        non_striker: S Muniandy
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 6.1:
+        non_striker: Virandeep Singh
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Muniandy
+    - 6.2:
+        non_striker: Virandeep Singh
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 6.3:
+        non_striker: S Muniandy
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virandeep Singh
+    - 6.4:
+        non_striker: S Muniandy
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 6.5:
+        non_striker: S Muniandy
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virandeep Singh
+    - 6.6:
+        non_striker: S Muniandy
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 7.1:
+        non_striker: S Muniandy
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 7.2:
+        non_striker: Virandeep Singh
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 7.3:
+        non_striker: S Muniandy
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 7.4:
+        non_striker: S Muniandy
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 7.5:
+        non_striker: Virandeep Singh
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 7.6:
+        non_striker: Virandeep Singh
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 8.1:
+        non_striker: S Muniandy
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 8.2:
+        non_striker: Virandeep Singh
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 8.3:
+        non_striker: S Muniandy
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 8.4:
+        non_striker: Virandeep Singh
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 8.5:
+        non_striker: Virandeep Singh
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Muniandy
+    - 8.6:
+        non_striker: Virandeep Singh
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+        wicket:
+          player_out: S Muniandy
+          fielders:
+          - BN Cooper
+          kind: caught
+    - 9.1:
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shafiq Sharif
+        batsman: Virandeep Singh
+    - 9.2:
+        non_striker: Virandeep Singh
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafiq Sharif
+    - 9.3:
+        non_striker: Virandeep Singh
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafiq Sharif
+    - 9.4:
+        non_striker: Virandeep Singh
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafiq Sharif
+        wicket:
+          player_out: Shafiq Sharif
+          fielders:
+          - BN Cooper
+          kind: caught
+    - 9.5:
+        non_striker: Virandeep Singh
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aminuddin Ramly
+    - 9.6:
+        non_striker: Aminuddin Ramly
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 10.1:
+        non_striker: Virandeep Singh
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aminuddin Ramly
+    - 10.2:
+        non_striker: Virandeep Singh
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminuddin Ramly
+    - 10.3:
+        non_striker: Virandeep Singh
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminuddin Ramly
+    - 10.4:
+        non_striker: Virandeep Singh
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aminuddin Ramly
+    - 10.5:
+        non_striker: Aminuddin Ramly
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 10.6:
+        non_striker: Virandeep Singh
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aminuddin Ramly
+    - 11.1:
+        non_striker: Aminuddin Ramly
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 11.2:
+        non_striker: Aminuddin Ramly
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 11.3:
+        non_striker: Virandeep Singh
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminuddin Ramly
+    - 11.4:
+        non_striker: Virandeep Singh
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aminuddin Ramly
+    - 11.5:
+        non_striker: Virandeep Singh
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aminuddin Ramly
+    - 11.6:
+        non_striker: Aminuddin Ramly
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 12.1:
+        non_striker: Aminuddin Ramly
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 12.2:
+        non_striker: Aminuddin Ramly
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 12.3:
+        non_striker: Virandeep Singh
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aminuddin Ramly
+    - 12.4:
+        non_striker: Aminuddin Ramly
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 12.5:
+        non_striker: Aminuddin Ramly
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 12.6:
+        non_striker: Virandeep Singh
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aminuddin Ramly
+    - 13.1:
+        non_striker: Virandeep Singh
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aminuddin Ramly
+    - 13.2:
+        non_striker: Virandeep Singh
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminuddin Ramly
+    - 13.3:
+        non_striker: Virandeep Singh
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aminuddin Ramly
+    - 13.4:
+        non_striker: Aminuddin Ramly
+        bowler: BFW de Leede
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Virandeep Singh
+    - 13.5:
+        non_striker: Aminuddin Ramly
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 13.6:
+        non_striker: Virandeep Singh
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminuddin Ramly
+        wicket:
+          player_out: Aminuddin Ramly
+          fielders:
+          - TS Braat
+          kind: caught
+    - 13.7:
+        bowler: BFW de Leede
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Khizar Hayat
+        batsman: Virandeep Singh
+    - 13.8:
+        non_striker: Khizar Hayat
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 14.1:
+        non_striker: Khizar Hayat
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 14.2:
+        non_striker: Virandeep Singh
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 14.3:
+        non_striker: Virandeep Singh
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 14.4:
+        non_striker: Virandeep Singh
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 14.5:
+        non_striker: Khizar Hayat
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 14.6:
+        non_striker: Khizar Hayat
+        bowler: PM Seelaar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Virandeep Singh
+    - 15.1:
+        non_striker: Khizar Hayat
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Virandeep Singh
+    - 15.2:
+        non_striker: Khizar Hayat
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 15.3:
+        non_striker: Virandeep Singh
+        bowler: TS Braat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khizar Hayat
+    - 15.4:
+        non_striker: Virandeep Singh
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 15.5:
+        non_striker: Khizar Hayat
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 15.6:
+        non_striker: Khizar Hayat
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 15.7:
+        non_striker: Virandeep Singh
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+        wicket:
+          player_out: Khizar Hayat
+          fielders:
+          - BN Cooper
+          kind: caught
+    - 16.1:
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Wafiq
+        batsman: Virandeep Singh
+    - 16.2:
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Muhammad Wafiq
+        batsman: Virandeep Singh
+    - 16.3:
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Muhammad Wafiq
+        batsman: Virandeep Singh
+    - 16.4:
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Wafiq
+        batsman: Virandeep Singh
+    - 16.5:
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Muhammad Wafiq
+        batsman: Virandeep Singh
+    - 16.6:
+        non_striker: Virandeep Singh
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Wafiq
+    - 17.1:
+        non_striker: Muhammad Wafiq
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 17.2:
+        non_striker: Muhammad Wafiq
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 17.3:
+        non_striker: Muhammad Wafiq
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Virandeep Singh
+    - 17.4:
+        non_striker: Muhammad Wafiq
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 17.5:
+        non_striker: Virandeep Singh
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Wafiq
+    - 17.6:
+        non_striker: Virandeep Singh
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Wafiq
+    - 18.1:
+        non_striker: Muhammad Wafiq
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Virandeep Singh
+    - 18.2:
+        non_striker: Muhammad Wafiq
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Virandeep Singh
+    - 18.3:
+        non_striker: Muhammad Wafiq
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virandeep Singh
+    - 18.4:
+        non_striker: Muhammad Wafiq
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+        wicket:
+          player_out: Virandeep Singh
+          fielders:
+          - TP Visee
+          kind: caught
+    - 18.5:
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anwar Rahman
+        batsman: Muhammad Wafiq
+    - 18.6:
+        non_striker: Anwar Rahman
+        bowler: TS Braat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Wafiq
+    - 19.1:
+        non_striker: Muhammad Wafiq
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anwar Rahman
+    - 19.2:
+        non_striker: Muhammad Wafiq
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anwar Rahman
+    - 19.3:
+        non_striker: Muhammad Wafiq
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anwar Rahman
+    - 19.4:
+        non_striker: Muhammad Wafiq
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anwar Rahman
+    - 19.5:
+        non_striker: Anwar Rahman
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Wafiq
+    - 19.6:
+        non_striker: Anwar Rahman
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Wafiq

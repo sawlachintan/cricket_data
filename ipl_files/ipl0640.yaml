@@ -1,0 +1,1961 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-04-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hyderabad
+  competition: IPL
+  dates:
+  - '2018-04-09'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sunrisers Hyderabad
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - S Dhawan
+  players:
+    Rajasthan Royals:
+    - AM Rahane
+    - DJM Short
+    - SV Samson
+    - BA Stokes
+    - RA Tripathi
+    - JC Buttler
+    - K Gowtham
+    - S Gopal
+    - DS Kulkarni
+    - JD Unadkat
+    - B Laughlin
+    Sunrisers Hyderabad:
+    - WP Saha
+    - S Dhawan
+    - KS Williamson
+    - MK Pandey
+    - DJ Hooda
+    - YK Pathan
+    - Shakib Al Hasan
+    - Rashid Khan
+    - B Kumar
+    - B Stanlake
+    - S Kaul
+  registry:
+    people:
+      AM Rahane: 29e95537
+      B Kumar: 2e81a32d
+      B Laughlin: b2a79f17
+      B Stanlake: 6834d1f2
+      BA Stokes: e087956b
+      CK Nandan: 012de9c4
+      DJ Hooda: 73ad96ed
+      DJM Short: 1a156c88
+      DS Kulkarni: d2a989fc
+      JC Buttler: 99b75528
+      JD Unadkat: 1e66c162
+      K Gowtham: 90de905a
+      KS Williamson: d027ba9f
+      MK Pandey: 93b4fc78
+      NJ Llong: 573fb985
+      R Pandit: 8a604384
+      RA Tripathi: 77255a9e
+      Rashid Khan: 5f547c8b
+      S Chaturvedi: c8ec02e1
+      S Dhawan: 0a476045
+      S Gopal: 7a8bd078
+      S Kaul: dcf81436
+      SV Samson: a4cc73aa
+      Shakib Al Hasan: 7dc35884
+      VA Kulkarni: 8fe0c4f8
+      WP Saha: fe11caa6
+      YK Pathan: 3c6ffae8
+  teams:
+  - Rajasthan Royals
+  - Sunrisers Hyderabad
+  toss:
+    decision: field
+    winner: Sunrisers Hyderabad
+  umpires:
+  - NJ Llong
+  - VA Kulkarni
+  venue: Rajiv Gandhi International Stadium
+innings:
+- 1st innings:
+    team: Rajasthan Royals
+    deliveries:
+    - 0.1:
+        non_striker: DJM Short
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 0.2:
+        non_striker: DJM Short
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 0.3:
+        non_striker: AM Rahane
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 0.4:
+        non_striker: AM Rahane
+        bowler: B Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJM Short
+    - 0.5:
+        non_striker: AM Rahane
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJM Short
+    - 0.6:
+        non_striker: AM Rahane
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 0.7:
+        non_striker: AM Rahane
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+        wicket:
+          player_out: DJM Short
+          kind: run out
+    - 1.1:
+        non_striker: AM Rahane
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 1.2:
+        non_striker: AM Rahane
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 1.3:
+        non_striker: AM Rahane
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 1.4:
+        non_striker: AM Rahane
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Samson
+    - 1.5:
+        non_striker: AM Rahane
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 1.6:
+        non_striker: AM Rahane
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SV Samson
+    - 2.1:
+        non_striker: AM Rahane
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 2.2:
+        non_striker: AM Rahane
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 2.3:
+        non_striker: AM Rahane
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 2.4:
+        non_striker: AM Rahane
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 2.5:
+        non_striker: SV Samson
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 2.6:
+        non_striker: AM Rahane
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 3.1:
+        non_striker: SV Samson
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 3.2:
+        non_striker: SV Samson
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 3.3:
+        non_striker: SV Samson
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 3.4:
+        non_striker: SV Samson
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 3.5:
+        non_striker: AM Rahane
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 3.6:
+        non_striker: SV Samson
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 4.1:
+        non_striker: AM Rahane
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 4.2:
+        non_striker: SV Samson
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 4.3:
+        non_striker: SV Samson
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 4.4:
+        non_striker: AM Rahane
+        bowler: B Stanlake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SV Samson
+    - 4.5:
+        non_striker: AM Rahane
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Samson
+    - 4.6:
+        non_striker: AM Rahane
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 4.7:
+        non_striker: AM Rahane
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 5.1:
+        non_striker: AM Rahane
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 5.2:
+        non_striker: AM Rahane
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 5.3:
+        non_striker: AM Rahane
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 5.4:
+        non_striker: AM Rahane
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 5.5:
+        non_striker: SV Samson
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AM Rahane
+    - 5.6:
+        non_striker: AM Rahane
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 6.1:
+        non_striker: AM Rahane
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 6.2:
+        non_striker: AM Rahane
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 6.3:
+        non_striker: SV Samson
+        bowler: S Kaul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Rahane
+    - 6.4:
+        non_striker: SV Samson
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 6.5:
+        non_striker: AM Rahane
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 6.6:
+        non_striker: SV Samson
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+        wicket:
+          player_out: AM Rahane
+          fielders:
+          - Rashid Khan
+          kind: caught
+    - 6.7:
+        non_striker: BA Stokes
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 7.1:
+        non_striker: SV Samson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 7.2:
+        non_striker: SV Samson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 7.3:
+        non_striker: SV Samson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 7.4:
+        non_striker: SV Samson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 7.5:
+        non_striker: BA Stokes
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 7.6:
+        non_striker: BA Stokes
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 8.1:
+        non_striker: SV Samson
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 8.2:
+        non_striker: BA Stokes
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 8.3:
+        non_striker: SV Samson
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Stokes
+    - 8.4:
+        non_striker: SV Samson
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 8.5:
+        non_striker: BA Stokes
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 8.6:
+        non_striker: SV Samson
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+        wicket:
+          player_out: BA Stokes
+          fielders:
+          - KS Williamson
+          kind: caught
+    - 9.1:
+        non_striker: RA Tripathi
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 9.2:
+        non_striker: SV Samson
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 9.3:
+        non_striker: RA Tripathi
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 9.4:
+        non_striker: SV Samson
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 9.5:
+        non_striker: RA Tripathi
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Samson
+    - 9.6:
+        non_striker: RA Tripathi
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Samson
+    - 10.1:
+        non_striker: SV Samson
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 10.2:
+        non_striker: RA Tripathi
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 10.3:
+        non_striker: SV Samson
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 10.4:
+        non_striker: SV Samson
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 10.5:
+        non_striker: SV Samson
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 10.6:
+        non_striker: RA Tripathi
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 11.1:
+        non_striker: RA Tripathi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 11.2:
+        non_striker: SV Samson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 11.3:
+        non_striker: RA Tripathi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 11.4:
+        non_striker: SV Samson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Tripathi
+    - 11.5:
+        non_striker: SV Samson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Tripathi
+    - 11.6:
+        non_striker: SV Samson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 12.1:
+        non_striker: SV Samson
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 12.2:
+        non_striker: RA Tripathi
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 12.3:
+        non_striker: SV Samson
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 12.4:
+        non_striker: RA Tripathi
+        bowler: S Kaul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SV Samson
+    - 12.5:
+        non_striker: SV Samson
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 12.6:
+        non_striker: RA Tripathi
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 13.1:
+        non_striker: SV Samson
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 13.2:
+        non_striker: SV Samson
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+        wicket:
+          player_out: RA Tripathi
+          fielders:
+          - MK Pandey
+          kind: caught
+    - 13.3:
+        non_striker: JC Buttler
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 13.4:
+        non_striker: SV Samson
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 13.5:
+        non_striker: JC Buttler
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+        wicket:
+          player_out: SV Samson
+          fielders:
+          - Rashid Khan
+          kind: caught
+    - 13.6:
+        non_striker: K Gowtham
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 14.1:
+        non_striker: K Gowtham
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 14.2:
+        non_striker: K Gowtham
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 14.3:
+        non_striker: JC Buttler
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Gowtham
+    - 14.4:
+        non_striker: JC Buttler
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Gowtham
+        wicket:
+          player_out: K Gowtham
+          fielders:
+          - WP Saha
+          kind: caught
+    - 14.5:
+        non_striker: JC Buttler
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gopal
+    - 14.6:
+        non_striker: JC Buttler
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gopal
+    - 15.1:
+        non_striker: JC Buttler
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Gopal
+    - 15.2:
+        non_striker: JC Buttler
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Gopal
+    - 15.3:
+        non_striker: JC Buttler
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gopal
+    - 15.4:
+        non_striker: S Gopal
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 15.5:
+        non_striker: JC Buttler
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gopal
+    - 15.6:
+        non_striker: JC Buttler
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gopal
+    - 16.1:
+        non_striker: JC Buttler
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gopal
+    - 16.2:
+        non_striker: JC Buttler
+        bowler: B Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Gopal
+    - 16.3:
+        non_striker: JC Buttler
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Gopal
+    - 16.4:
+        non_striker: JC Buttler
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gopal
+    - 16.5:
+        non_striker: S Gopal
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 16.6:
+        non_striker: JC Buttler
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gopal
+    - 16.7:
+        non_striker: S Gopal
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 17.1:
+        non_striker: S Gopal
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 17.2:
+        non_striker: S Gopal
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          kind: bowled
+    - 17.3:
+        non_striker: S Gopal
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Kulkarni
+    - 17.4:
+        non_striker: DS Kulkarni
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gopal
+    - 17.5:
+        non_striker: DS Kulkarni
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gopal
+    - 17.6:
+        non_striker: DS Kulkarni
+        bowler: Rashid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Gopal
+    - 18.1:
+        non_striker: DS Kulkarni
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Gopal
+    - 18.2:
+        non_striker: DS Kulkarni
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gopal
+    - 18.3:
+        non_striker: DS Kulkarni
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gopal
+    - 18.4:
+        non_striker: S Gopal
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Kulkarni
+    - 18.5:
+        non_striker: S Gopal
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Kulkarni
+    - 18.6:
+        non_striker: DS Kulkarni
+        bowler: B Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Gopal
+    - 18.7:
+        non_striker: DS Kulkarni
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gopal
+        wicket:
+          player_out: S Gopal
+          fielders:
+          - YK Pathan
+          kind: caught
+    - 19.1:
+        non_striker: DS Kulkarni
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Unadkat
+    - 19.2:
+        non_striker: DS Kulkarni
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Unadkat
+        wicket:
+          player_out: JD Unadkat
+          kind: run out
+    - 19.3:
+        non_striker: DS Kulkarni
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Laughlin
+    - 19.4:
+        non_striker: B Laughlin
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Kulkarni
+    - 19.5:
+        non_striker: DS Kulkarni
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Laughlin
+    - 19.6:
+        non_striker: DS Kulkarni
+        bowler: S Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Laughlin
+- 2nd innings:
+    team: Sunrisers Hyderabad
+    deliveries:
+    - 0.1:
+        non_striker: S Dhawan
+        bowler: DS Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 0.2:
+        non_striker: S Dhawan
+        bowler: DS Kulkarni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Saha
+    - 0.3:
+        non_striker: WP Saha
+        bowler: DS Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 0.4:
+        non_striker: WP Saha
+        bowler: DS Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 0.5:
+        non_striker: WP Saha
+        bowler: DS Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 0.6:
+        non_striker: WP Saha
+        bowler: DS Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 1.1:
+        non_striker: S Dhawan
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WP Saha
+    - 1.2:
+        non_striker: S Dhawan
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 1.3:
+        non_striker: S Dhawan
+        bowler: JD Unadkat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WP Saha
+    - 1.4:
+        non_striker: S Dhawan
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+        wicket:
+          player_out: WP Saha
+          fielders:
+          - B Laughlin
+          kind: caught
+    - 1.5:
+        non_striker: KS Williamson
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 1.6:
+        non_striker: KS Williamson
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 1.7:
+        non_striker: KS Williamson
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 2.1:
+        non_striker: KS Williamson
+        bowler: DS Kulkarni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Dhawan
+    - 2.2:
+        non_striker: KS Williamson
+        bowler: DS Kulkarni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 2.3:
+        non_striker: KS Williamson
+        bowler: DS Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 2.4:
+        non_striker: KS Williamson
+        bowler: DS Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 2.5:
+        non_striker: KS Williamson
+        bowler: DS Kulkarni
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dhawan
+    - 2.6:
+        non_striker: KS Williamson
+        bowler: DS Kulkarni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Dhawan
+    - 2.7:
+        non_striker: KS Williamson
+        bowler: DS Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 3.1:
+        non_striker: S Dhawan
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 3.2:
+        non_striker: S Dhawan
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 3.3:
+        non_striker: S Dhawan
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 3.4:
+        non_striker: S Dhawan
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 3.5:
+        non_striker: S Dhawan
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Williamson
+    - 3.6:
+        non_striker: S Dhawan
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 4.1:
+        non_striker: KS Williamson
+        bowler: K Gowtham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 4.2:
+        non_striker: KS Williamson
+        bowler: K Gowtham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 4.3:
+        non_striker: KS Williamson
+        bowler: K Gowtham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 4.4:
+        non_striker: KS Williamson
+        bowler: K Gowtham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 4.5:
+        non_striker: S Dhawan
+        bowler: K Gowtham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 4.6:
+        non_striker: S Dhawan
+        bowler: K Gowtham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 5.1:
+        non_striker: KS Williamson
+        bowler: B Laughlin
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Dhawan
+    - 5.2:
+        non_striker: S Dhawan
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 5.3:
+        non_striker: S Dhawan
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 5.4:
+        non_striker: KS Williamson
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 5.5:
+        non_striker: KS Williamson
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 5.6:
+        non_striker: KS Williamson
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 5.7:
+        non_striker: S Dhawan
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 6.1:
+        non_striker: KS Williamson
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 6.2:
+        non_striker: KS Williamson
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 6.3:
+        non_striker: S Dhawan
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.4:
+        non_striker: S Dhawan
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 6.5:
+        non_striker: KS Williamson
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 6.6:
+        non_striker: KS Williamson
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 7.1:
+        non_striker: KS Williamson
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 7.2:
+        non_striker: KS Williamson
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 7.3:
+        non_striker: KS Williamson
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 7.4:
+        non_striker: S Dhawan
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 7.5:
+        non_striker: KS Williamson
+        bowler: BA Stokes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Dhawan
+    - 7.6:
+        non_striker: KS Williamson
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 7.7:
+        non_striker: KS Williamson
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 8.1:
+        non_striker: S Dhawan
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 8.2:
+        non_striker: KS Williamson
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 8.3:
+        non_striker: S Dhawan
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 8.4:
+        non_striker: S Dhawan
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 8.5:
+        non_striker: S Dhawan
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 8.6:
+        non_striker: KS Williamson
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 9.1:
+        non_striker: KS Williamson
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 9.2:
+        non_striker: KS Williamson
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 9.3:
+        non_striker: KS Williamson
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 9.4:
+        non_striker: KS Williamson
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 9.5:
+        non_striker: KS Williamson
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 9.6:
+        non_striker: S Dhawan
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 10.1:
+        non_striker: S Dhawan
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 10.2:
+        non_striker: S Dhawan
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 10.3:
+        non_striker: KS Williamson
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 10.4:
+        non_striker: S Dhawan
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 10.5:
+        non_striker: S Dhawan
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 10.6:
+        non_striker: S Dhawan
+        bowler: S Gopal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 11.1:
+        non_striker: S Dhawan
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 11.2:
+        non_striker: S Dhawan
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 11.3:
+        non_striker: KS Williamson
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 11.4:
+        non_striker: KS Williamson
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 11.5:
+        non_striker: S Dhawan
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 11.6:
+        non_striker: KS Williamson
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 11.7:
+        non_striker: KS Williamson
+        bowler: B Laughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 12.1:
+        non_striker: KS Williamson
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 12.2:
+        non_striker: KS Williamson
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 12.3:
+        non_striker: KS Williamson
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Dhawan
+    - 12.4:
+        non_striker: KS Williamson
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 12.5:
+        non_striker: KS Williamson
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 12.6:
+        non_striker: KS Williamson
+        bowler: DJM Short
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: S Dhawan
+    - 13.1:
+        non_striker: S Dhawan
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 13.2:
+        non_striker: S Dhawan
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 13.3:
+        non_striker: S Dhawan
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 13.4:
+        non_striker: S Dhawan
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 13.5:
+        non_striker: S Dhawan
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 13.6:
+        non_striker: KS Williamson
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 14.1:
+        non_striker: KS Williamson
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 14.2:
+        non_striker: S Dhawan
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 14.3:
+        non_striker: KS Williamson
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 14.4:
+        non_striker: KS Williamson
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 14.5:
+        non_striker: S Dhawan
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 14.6:
+        non_striker: S Dhawan
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 15.1:
+        non_striker: KS Williamson
+        bowler: DS Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 15.2:
+        non_striker: KS Williamson
+        bowler: DS Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 15.3:
+        non_striker: KS Williamson
+        bowler: DS Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 15.4:
+        non_striker: KS Williamson
+        bowler: DS Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 15.5:
+        non_striker: KS Williamson
+        bowler: DS Kulkarni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan

@@ -1,0 +1,2162 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-09-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Edinburgh
+  dates:
+  - '2021-09-15'
+  gender: male
+  match_type: T20
+  match_type_number: 1276
+  outcome:
+    winner: Scotland
+    by:
+      runs: 7
+  overs: 20
+  players:
+    Scotland:
+    - HG Munsey
+    - KJ Coetzer
+    - OJ Hairs
+    - RD Berrington
+    - CS MacLeod
+    - MH Cross
+    - MA Leask
+    - SM Sharif
+    - MRJ Watt
+    - AC Evans
+    - CB Sole
+    Zimbabwe:
+    - W Madhevere
+    - T Marumani
+    - RW Chakabva
+    - CR Ervine
+    - SC Williams
+    - M Shumba
+    - RP Burl
+    - LM Jongwe
+    - WP Masakadza
+    - TL Chatara
+    - R Ngarava
+  registry:
+    people:
+      AC Evans: e9a870ed
+      CB Sole: 469ccead
+      CR Ervine: c96311d4
+      CS MacLeod: 9c376401
+      HG Munsey: ff014c34
+      KJ Coetzer: 85d8110a
+      LM Jongwe: b8704508
+      M Shumba: 6766ca00
+      MA Leask: '28131839'
+      MH Cross: 8b261d84
+      MRJ Watt: 1252f71a
+      OJ Hairs: c8a7b014
+      R Ngarava: 6e3f5a5c
+      RD Berrington: e21bc7f3
+      RP Burl: b08252b8
+      RW Chakabva: 2f0d7e4a
+      SC Williams: afe57f7a
+      SM Sharif: f43dd8c2
+      T Marumani: 3d5d51a5
+      TL Chatara: 5bbabe59
+      W Madhevere: a879b92c
+      WP Masakadza: 4bc0a378
+  teams:
+  - Scotland
+  - Zimbabwe
+  toss:
+    winner: Scotland
+    decision: bat
+  venue: Grange Cricket Club Ground, Raeburn Place, Edinburgh
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KJ Coetzer
+        batsman: HG Munsey
+    - 0.2:
+        non_striker: HG Munsey
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Coetzer
+    - 0.3:
+        non_striker: KJ Coetzer
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+        wicket:
+          player_out: HG Munsey
+          kind: lbw
+    - 0.4:
+        non_striker: KJ Coetzer
+        bowler: WP Masakadza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OJ Hairs
+    - 0.5:
+        non_striker: KJ Coetzer
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Hairs
+    - 0.6:
+        non_striker: KJ Coetzer
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Hairs
+    - 0.7:
+        non_striker: OJ Hairs
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Coetzer
+    - 1.1:
+        non_striker: OJ Hairs
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+        wicket:
+          player_out: KJ Coetzer
+          kind: bowled
+    - 1.2:
+        non_striker: OJ Hairs
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 1.3:
+        non_striker: OJ Hairs
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 1.4:
+        non_striker: OJ Hairs
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 1.5:
+        non_striker: OJ Hairs
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 1.6:
+        non_striker: OJ Hairs
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 2.1:
+        non_striker: OJ Hairs
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 2.2:
+        non_striker: OJ Hairs
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 2.3:
+        non_striker: OJ Hairs
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RD Berrington
+    - 2.4:
+        non_striker: RD Berrington
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Hairs
+        wicket:
+          player_out: OJ Hairs
+          fielders:
+          - CR Ervine
+          kind: caught
+    - 2.5:
+        non_striker: RD Berrington
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 2.6:
+        non_striker: RD Berrington
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 3.1:
+        non_striker: CS MacLeod
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 3.2:
+        non_striker: CS MacLeod
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 3.3:
+        non_striker: CS MacLeod
+        bowler: TL Chatara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RD Berrington
+    - 3.4:
+        non_striker: RD Berrington
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 3.5:
+        non_striker: CS MacLeod
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 3.6:
+        non_striker: RD Berrington
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 4.1:
+        non_striker: RD Berrington
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 4.2:
+        non_striker: RD Berrington
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 4.3:
+        non_striker: RD Berrington
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 4.4:
+        non_striker: RD Berrington
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 4.5:
+        non_striker: RD Berrington
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 4.6:
+        non_striker: RD Berrington
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS MacLeod
+    - 5.1:
+        non_striker: CS MacLeod
+        bowler: TL Chatara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RD Berrington
+    - 5.2:
+        non_striker: RD Berrington
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 5.3:
+        non_striker: RD Berrington
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+        wicket:
+          player_out: CS MacLeod
+          kind: bowled
+    - 5.4:
+        non_striker: RD Berrington
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 5.5:
+        non_striker: MH Cross
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 5.6:
+        non_striker: MH Cross
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 6.1:
+        non_striker: MH Cross
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 6.2:
+        non_striker: RD Berrington
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 6.3:
+        non_striker: MH Cross
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 6.4:
+        non_striker: RD Berrington
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 6.5:
+        non_striker: MH Cross
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 6.6:
+        non_striker: MH Cross
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 7.1:
+        non_striker: RD Berrington
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 7.2:
+        non_striker: MH Cross
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 7.3:
+        non_striker: RD Berrington
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 7.4:
+        non_striker: RD Berrington
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 7.5:
+        non_striker: RD Berrington
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 7.6:
+        non_striker: MH Cross
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 8.1:
+        non_striker: MH Cross
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 8.2:
+        non_striker: MH Cross
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 8.3:
+        non_striker: MH Cross
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Berrington
+    - 8.4:
+        non_striker: MH Cross
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 8.5:
+        non_striker: RD Berrington
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 8.6:
+        non_striker: MH Cross
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 9.1:
+        non_striker: RD Berrington
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 9.2:
+        non_striker: MH Cross
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 9.3:
+        non_striker: RD Berrington
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 9.4:
+        non_striker: RD Berrington
+        bowler: SC Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MH Cross
+    - 9.5:
+        non_striker: MH Cross
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 9.6:
+        non_striker: MH Cross
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 10.1:
+        non_striker: RD Berrington
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Cross
+    - 10.2:
+        non_striker: RD Berrington
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 10.3:
+        non_striker: MH Cross
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 10.4:
+        non_striker: MH Cross
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 10.5:
+        non_striker: RD Berrington
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 10.6:
+        non_striker: MH Cross
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 11.1:
+        non_striker: MH Cross
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 11.2:
+        non_striker: MH Cross
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 11.3:
+        non_striker: MH Cross
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 11.4:
+        non_striker: RD Berrington
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 11.5:
+        non_striker: RD Berrington
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 11.6:
+        non_striker: MH Cross
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 12.1:
+        non_striker: MH Cross
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 12.2:
+        non_striker: RD Berrington
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 12.3:
+        non_striker: RD Berrington
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+        wicket:
+          player_out: MH Cross
+          fielders:
+          - SC Williams
+          kind: caught
+    - 12.4:
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MA Leask
+        batsman: RD Berrington
+    - 12.5:
+        non_striker: RD Berrington
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 12.6:
+        non_striker: MA Leask
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 13.1:
+        non_striker: RD Berrington
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 13.2:
+        non_striker: MA Leask
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Berrington
+    - 13.3:
+        non_striker: MA Leask
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 13.4:
+        non_striker: RD Berrington
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Leask
+    - 13.5:
+        non_striker: RD Berrington
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 13.6:
+        non_striker: RD Berrington
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Leask
+    - 14.1:
+        non_striker: MA Leask
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 14.2:
+        non_striker: RD Berrington
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 14.3:
+        non_striker: MA Leask
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 14.4:
+        non_striker: RD Berrington
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 14.5:
+        non_striker: RD Berrington
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 14.6:
+        non_striker: MA Leask
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 15.1:
+        non_striker: RD Berrington
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 15.2:
+        non_striker: MA Leask
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 15.3:
+        non_striker: RD Berrington
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 15.4:
+        non_striker: MA Leask
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 15.5:
+        non_striker: MA Leask
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 15.6:
+        non_striker: MA Leask
+        bowler: RP Burl
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: RD Berrington
+    - 16.1:
+        non_striker: RD Berrington
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 16.2:
+        non_striker: MA Leask
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 16.3:
+        non_striker: MA Leask
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 16.4:
+        non_striker: RD Berrington
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 16.5:
+        non_striker: RD Berrington
+        bowler: LM Jongwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Leask
+    - 16.6:
+        non_striker: RD Berrington
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+        wicket:
+          player_out: MA Leask
+          fielders:
+          - WP Masakadza
+          kind: caught
+    - 16.7:
+        non_striker: SM Sharif
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 17.1:
+        non_striker: SM Sharif
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RD Berrington
+    - 17.2:
+        non_striker: RD Berrington
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 17.3:
+        non_striker: RD Berrington
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 17.4:
+        non_striker: SM Sharif
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 17.5:
+        non_striker: SM Sharif
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 17.6:
+        non_striker: SM Sharif
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 18.1:
+        non_striker: SM Sharif
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 18.2:
+        non_striker: RD Berrington
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 18.3:
+        non_striker: SM Sharif
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 18.4:
+        non_striker: SM Sharif
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RD Berrington
+    - 18.5:
+        non_striker: RD Berrington
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 18.6:
+        non_striker: RD Berrington
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 19.1:
+        non_striker: RD Berrington
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 19.2:
+        non_striker: SM Sharif
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Berrington
+    - 19.3:
+        non_striker: SM Sharif
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 19.4:
+        non_striker: RD Berrington
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 19.5:
+        non_striker: SM Sharif
+        bowler: LM Jongwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RD Berrington
+    - 19.6:
+        non_striker: RD Berrington
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Sharif
+- 2nd innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: T Marumani
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+        wicket:
+          player_out: W Madhevere
+          fielders:
+          - MH Cross
+          kind: caught
+    - 0.2:
+        non_striker: T Marumani
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 0.3:
+        non_striker: T Marumani
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 0.4:
+        non_striker: RW Chakabva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 0.5:
+        non_striker: RW Chakabva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 0.6:
+        non_striker: RW Chakabva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 1.1:
+        non_striker: T Marumani
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 1.2:
+        non_striker: RW Chakabva
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 1.3:
+        non_striker: RW Chakabva
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 1.4:
+        non_striker: RW Chakabva
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 1.5:
+        non_striker: RW Chakabva
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 1.6:
+        non_striker: T Marumani
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 2.1:
+        non_striker: RW Chakabva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Marumani
+    - 2.2:
+        non_striker: RW Chakabva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+        wicket:
+          player_out: T Marumani
+          fielders:
+          - AC Evans
+          kind: caught
+    - 2.3:
+        non_striker: RW Chakabva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 2.4:
+        non_striker: RW Chakabva
+        bowler: SM Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Ervine
+    - 2.5:
+        non_striker: RW Chakabva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 2.6:
+        non_striker: RW Chakabva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 2.7:
+        non_striker: RW Chakabva
+        bowler: SM Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Ervine
+    - 2.8:
+        non_striker: RW Chakabva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.1:
+        non_striker: CR Ervine
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 3.2:
+        non_striker: RW Chakabva
+        bowler: CB Sole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Ervine
+    - 3.3:
+        non_striker: RW Chakabva
+        bowler: CB Sole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CR Ervine
+    - 3.4:
+        non_striker: CR Ervine
+        bowler: CB Sole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RW Chakabva
+    - 3.5:
+        non_striker: CR Ervine
+        bowler: CB Sole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RW Chakabva
+    - 3.6:
+        non_striker: CR Ervine
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 3.7:
+        non_striker: RW Chakabva
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.8:
+        non_striker: RW Chakabva
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.9:
+        non_striker: RW Chakabva
+        bowler: CB Sole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CR Ervine
+    - 4.1:
+        non_striker: RW Chakabva
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 4.2:
+        non_striker: CR Ervine
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RW Chakabva
+    - 4.3:
+        non_striker: CR Ervine
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 4.4:
+        non_striker: CR Ervine
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 4.5:
+        non_striker: CR Ervine
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 4.6:
+        non_striker: RW Chakabva
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 5.1:
+        non_striker: RW Chakabva
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 5.2:
+        non_striker: RW Chakabva
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 5.3:
+        non_striker: RW Chakabva
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 5.4:
+        non_striker: RW Chakabva
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 5.5:
+        non_striker: RW Chakabva
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 5.6:
+        non_striker: RW Chakabva
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 6.1:
+        non_striker: CR Ervine
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 6.2:
+        non_striker: RW Chakabva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 6.3:
+        non_striker: CR Ervine
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RW Chakabva
+    - 6.4:
+        non_striker: CR Ervine
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 6.5:
+        non_striker: CR Ervine
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 6.6:
+        non_striker: RW Chakabva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 7.1:
+        non_striker: RW Chakabva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 7.2:
+        non_striker: RW Chakabva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 7.3:
+        non_striker: RW Chakabva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 7.4:
+        non_striker: RW Chakabva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 7.5:
+        non_striker: CR Ervine
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 7.6:
+        non_striker: RW Chakabva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 8.1:
+        non_striker: CR Ervine
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 8.2:
+        non_striker: RW Chakabva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CR Ervine
+    - 8.3:
+        non_striker: RW Chakabva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 8.4:
+        non_striker: CR Ervine
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+        wicket:
+          player_out: RW Chakabva
+          kind: lbw
+    - 8.5:
+        non_striker: CR Ervine
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 8.6:
+        non_striker: CR Ervine
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 9.1:
+        non_striker: CR Ervine
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 9.2:
+        non_striker: CR Ervine
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 9.3:
+        non_striker: CR Ervine
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 9.4:
+        non_striker: CR Ervine
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 9.5:
+        non_striker: CR Ervine
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 9.6:
+        non_striker: CR Ervine
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 10.1:
+        non_striker: CR Ervine
+        bowler: OJ Hairs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 10.2:
+        non_striker: SC Williams
+        bowler: OJ Hairs
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 10.3:
+        non_striker: SC Williams
+        bowler: OJ Hairs
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+        wicket:
+          player_out: CR Ervine
+          fielders:
+          - HG Munsey
+          kind: caught
+    - 10.4:
+        non_striker: SC Williams
+        bowler: OJ Hairs
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Shumba
+    - 10.5:
+        non_striker: SC Williams
+        bowler: OJ Hairs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 10.6:
+        non_striker: M Shumba
+        bowler: OJ Hairs
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 11.1:
+        non_striker: SC Williams
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 11.2:
+        non_striker: SC Williams
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 11.3:
+        non_striker: M Shumba
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 11.4:
+        non_striker: M Shumba
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 11.5:
+        non_striker: M Shumba
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 11.6:
+        non_striker: M Shumba
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 12.1:
+        non_striker: M Shumba
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 12.2:
+        non_striker: M Shumba
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 12.3:
+        non_striker: SC Williams
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 12.4:
+        non_striker: M Shumba
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 12.5:
+        non_striker: M Shumba
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 12.6:
+        non_striker: SC Williams
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 13.1:
+        non_striker: SC Williams
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 13.2:
+        non_striker: SC Williams
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Shumba
+    - 13.3:
+        non_striker: SC Williams
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 13.4:
+        non_striker: M Shumba
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 13.5:
+        non_striker: M Shumba
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 13.6:
+        non_striker: SC Williams
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 14.1:
+        non_striker: M Shumba
+        bowler: OJ Hairs
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SC Williams
+    - 14.2:
+        non_striker: SC Williams
+        bowler: OJ Hairs
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Shumba
+    - 14.3:
+        non_striker: SC Williams
+        bowler: OJ Hairs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 14.4:
+        non_striker: M Shumba
+        bowler: OJ Hairs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 14.5:
+        non_striker: SC Williams
+        bowler: OJ Hairs
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M Shumba
+    - 14.6:
+        non_striker: M Shumba
+        bowler: OJ Hairs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 14.7:
+        non_striker: SC Williams
+        bowler: OJ Hairs
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Shumba
+    - 15.1:
+        non_striker: M Shumba
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 15.2:
+        non_striker: M Shumba
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 15.3:
+        non_striker: M Shumba
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 15.4:
+        non_striker: SC Williams
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Shumba
+    - 15.5:
+        non_striker: SC Williams
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 15.6:
+        non_striker: M Shumba
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC Williams
+    - 16.1:
+        non_striker: SC Williams
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 16.2:
+        non_striker: SC Williams
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Shumba
+    - 16.3:
+        non_striker: SC Williams
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 16.4:
+        non_striker: M Shumba
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+        wicket:
+          player_out: SC Williams
+          fielders:
+          - MA Leask
+          kind: caught
+    - 16.5:
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RP Burl
+        batsman: M Shumba
+    - 16.6:
+        non_striker: RP Burl
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 17.1:
+        non_striker: RP Burl
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 17.2:
+        non_striker: M Shumba
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 17.3:
+        non_striker: RP Burl
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Shumba
+    - 17.4:
+        non_striker: RP Burl
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 17.5:
+        non_striker: M Shumba
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+        wicket:
+          player_out: RP Burl
+          kind: bowled
+    - 17.6:
+        non_striker: M Shumba
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Jongwe
+    - 18.1:
+        non_striker: M Shumba
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Jongwe
+    - 18.2:
+        non_striker: LM Jongwe
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 18.3:
+        non_striker: M Shumba
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Jongwe
+        wicket:
+          player_out: LM Jongwe
+          fielders:
+          - SM Sharif
+          kind: caught
+    - 18.4:
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: WP Masakadza
+        batsman: M Shumba
+    - 18.5:
+        non_striker: M Shumba
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Masakadza
+    - 18.6:
+        non_striker: WP Masakadza
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 19.1:
+        non_striker: WP Masakadza
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Shumba
+    - 19.2:
+        non_striker: WP Masakadza
+        bowler: SM Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: M Shumba
+    - 19.3:
+        non_striker: M Shumba
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Masakadza
+        wicket:
+          player_out: WP Masakadza
+          kind: bowled
+    - 19.4:
+        non_striker: M Shumba
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Chatara
+        wicket:
+          player_out: TL Chatara
+          kind: run out
+    - 19.5:
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Ngarava
+        batsman: M Shumba
+    - 19.6:
+        non_striker: R Ngarava
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba

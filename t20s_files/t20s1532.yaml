@@ -1,0 +1,2232 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-07-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gros Islet
+  dates:
+  - '2021-07-10'
+  gender: male
+  match_type: T20
+  match_type_number: 1188
+  outcome:
+    winner: West Indies
+    by:
+      runs: 56
+  overs: 20
+  player_of_match:
+  - SO Hetmyer
+  players:
+    West Indies:
+    - LMP Simmons
+    - ADS Fletcher
+    - CH Gayle
+    - SO Hetmyer
+    - DJ Bravo
+    - AD Russell
+    - N Pooran
+    - FA Allen
+    - HR Walsh
+    - SS Cottrell
+    - FH Edwards
+    Australia:
+    - MS Wade
+    - AJ Finch
+    - MR Marsh
+    - JR Philippe
+    - MC Henriques
+    - BR McDermott
+    - DT Christian
+    - AC Agar
+    - MA Starc
+    - A Zampa
+    - JR Hazlewood
+  registry:
+    people:
+      A Zampa: 14f96089
+      AC Agar: a2421394
+      AD Russell: bbd41817
+      ADS Fletcher: 1bae756b
+      AJ Finch: b8d490fd
+      AJ Hosein: 4d7f517e
+      BR McDermott: c41043e6
+      CH Gayle: db584dad
+      DJ Bravo: 87e562a9
+      DT Christian: 2a2e6343
+      FA Allen: b52ffbbd
+      FH Edwards: a7c226e1
+      GO Brathwaite: 1ace56d4
+      HR Walsh: 1ac2a995
+      JR Hazlewood: '03806cf8'
+      JR Philippe: '39086549'
+      JS Wilson: d7f3b72f
+      LMP Simmons: 89f64c19
+      LS Reifer: 5dee559a
+      MA Starc: 3fb19989
+      MC Henriques: 32198ae0
+      MR Marsh: 3d8feaf8
+      MS Wade: afa7e784
+      N Pooran: 3241e3fd
+      PA Gustard: 25bcf808
+      RB Richardson: 410e2f12
+      SO Hetmyer: 48a1d7b7
+      SS Cottrell: a1d053dd
+  teams:
+  - West Indies
+  - Australia
+  toss:
+    decision: field
+    winner: Australia
+  umpires:
+  - GO Brathwaite
+  - JS Wilson
+  venue: Daren Sammy National Cricket Stadium, Gros Islet, St Lucia
+innings:
+- 1st innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: ADS Fletcher
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 0.2:
+        non_striker: ADS Fletcher
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 0.3:
+        non_striker: LMP Simmons
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 0.4:
+        non_striker: LMP Simmons
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.5:
+        non_striker: LMP Simmons
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.6:
+        non_striker: LMP Simmons
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 1.1:
+        non_striker: ADS Fletcher
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 1.2:
+        non_striker: ADS Fletcher
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 1.3:
+        non_striker: ADS Fletcher
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 1.4:
+        non_striker: LMP Simmons
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 1.5:
+        non_striker: ADS Fletcher
+        bowler: JR Hazlewood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LMP Simmons
+    - 1.6:
+        non_striker: LMP Simmons
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.1:
+        non_striker: ADS Fletcher
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 2.2:
+        non_striker: ADS Fletcher
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 2.3:
+        non_striker: ADS Fletcher
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 2.4:
+        non_striker: LMP Simmons
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+        wicket:
+          player_out: ADS Fletcher
+          kind: bowled
+    - 2.5:
+        non_striker: LMP Simmons
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 2.6:
+        non_striker: LMP Simmons
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 3.1:
+        non_striker: CH Gayle
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 3.2:
+        non_striker: CH Gayle
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LMP Simmons
+    - 3.3:
+        non_striker: CH Gayle
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LMP Simmons
+    - 3.4:
+        non_striker: CH Gayle
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 3.5:
+        non_striker: LMP Simmons
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 3.6:
+        non_striker: CH Gayle
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LMP Simmons
+    - 4.1:
+        non_striker: LMP Simmons
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 4.2:
+        non_striker: LMP Simmons
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 4.3:
+        non_striker: CH Gayle
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LMP Simmons
+    - 4.4:
+        non_striker: CH Gayle
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: LMP Simmons
+    - 4.5:
+        non_striker: CH Gayle
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 4.6:
+        non_striker: CH Gayle
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 4.7:
+        non_striker: CH Gayle
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LMP Simmons
+    - 5.1:
+        non_striker: LMP Simmons
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 5.2:
+        non_striker: CH Gayle
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LMP Simmons
+    - 5.3:
+        non_striker: CH Gayle
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+        wicket:
+          player_out: LMP Simmons
+          fielders:
+          - MS Wade
+          kind: caught
+    - 5.4:
+        non_striker: CH Gayle
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 5.5:
+        non_striker: SO Hetmyer
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 5.6:
+        non_striker: SO Hetmyer
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 6.1:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 6.2:
+        non_striker: CH Gayle
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 6.3:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CH Gayle
+    - 6.4:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CH Gayle
+    - 6.5:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 6.6:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 6.7:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 7.1:
+        non_striker: CH Gayle
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 7.2:
+        non_striker: SO Hetmyer
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CH Gayle
+    - 7.3:
+        non_striker: SO Hetmyer
+        bowler: MR Marsh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CH Gayle
+    - 7.4:
+        non_striker: SO Hetmyer
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 7.5:
+        non_striker: SO Hetmyer
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+        wicket:
+          player_out: CH Gayle
+          kind: bowled
+    - 7.6:
+        non_striker: SO Hetmyer
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 7.7:
+        non_striker: SO Hetmyer
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 8.1:
+        non_striker: DJ Bravo
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 8.2:
+        non_striker: SO Hetmyer
+        bowler: AC Agar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Bravo
+    - 8.3:
+        non_striker: SO Hetmyer
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 8.4:
+        non_striker: SO Hetmyer
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 8.5:
+        non_striker: DJ Bravo
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 8.6:
+        non_striker: SO Hetmyer
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 8.7:
+        non_striker: DJ Bravo
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 9.1:
+        non_striker: DJ Bravo
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SO Hetmyer
+    - 9.2:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 9.3:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 9.4:
+        non_striker: DJ Bravo
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 9.5:
+        non_striker: DJ Bravo
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 9.6:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 10.1:
+        non_striker: SO Hetmyer
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 10.2:
+        non_striker: DJ Bravo
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 10.3:
+        non_striker: DJ Bravo
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 10.4:
+        non_striker: SO Hetmyer
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Bravo
+    - 10.5:
+        non_striker: SO Hetmyer
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 10.6:
+        non_striker: SO Hetmyer
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 11.1:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 11.2:
+        non_striker: DJ Bravo
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 11.3:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Bravo
+    - 11.4:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 11.5:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Bravo
+    - 11.6:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 12.1:
+        non_striker: DJ Bravo
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 12.2:
+        non_striker: DJ Bravo
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 12.3:
+        non_striker: DJ Bravo
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.4:
+        non_striker: SO Hetmyer
+        bowler: AC Agar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Bravo
+    - 12.5:
+        non_striker: SO Hetmyer
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Bravo
+    - 12.6:
+        non_striker: SO Hetmyer
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 12.7:
+        non_striker: DJ Bravo
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.1:
+        non_striker: DJ Bravo
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.2:
+        non_striker: SO Hetmyer
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 13.3:
+        non_striker: DJ Bravo
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 13.4:
+        non_striker: DJ Bravo
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 13.5:
+        non_striker: DJ Bravo
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.6:
+        non_striker: SO Hetmyer
+        bowler: MR Marsh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Bravo
+    - 13.7:
+        non_striker: SO Hetmyer
+        bowler: MR Marsh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: DJ Bravo
+    - 14.1:
+        non_striker: DJ Bravo
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 14.2:
+        non_striker: DJ Bravo
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.3:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 14.4:
+        non_striker: DJ Bravo
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 14.5:
+        non_striker: DJ Bravo
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.6:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Bravo
+    - 15.1:
+        non_striker: DJ Bravo
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 15.2:
+        non_striker: SO Hetmyer
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 15.3:
+        non_striker: DJ Bravo
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 15.4:
+        non_striker: DJ Bravo
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 15.5:
+        non_striker: SO Hetmyer
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 15.6:
+        non_striker: DJ Bravo
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 16.1:
+        non_striker: SO Hetmyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 16.2:
+        non_striker: SO Hetmyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 16.3:
+        non_striker: DJ Bravo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 16.4:
+        non_striker: DJ Bravo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 16.5:
+        non_striker: DJ Bravo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 16.6:
+        non_striker: SO Hetmyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Bravo
+    - 17.1:
+        non_striker: DJ Bravo
+        bowler: JR Hazlewood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SO Hetmyer
+    - 17.2:
+        non_striker: SO Hetmyer
+        bowler: JR Hazlewood
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: DJ Bravo
+    - 17.3:
+        non_striker: DJ Bravo
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 17.4:
+        non_striker: DJ Bravo
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 17.5:
+        non_striker: DJ Bravo
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 17.6:
+        non_striker: DJ Bravo
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          kind: run out
+    - 17.7:
+        non_striker: AD Russell
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Bravo
+    - 18.1:
+        non_striker: DJ Bravo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 18.2:
+        non_striker: DJ Bravo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 18.3:
+        non_striker: DJ Bravo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 18.4:
+        non_striker: DJ Bravo
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 18.5:
+        non_striker: AD Russell
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Bravo
+    - 18.6:
+        non_striker: AD Russell
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 19.1:
+        non_striker: AD Russell
+        bowler: DT Christian
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Bravo
+    - 19.2:
+        non_striker: AD Russell
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 19.3:
+        non_striker: DJ Bravo
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 19.4:
+        non_striker: DJ Bravo
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Russell
+    - 19.5:
+        non_striker: DJ Bravo
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 19.6:
+        non_striker: AD Russell
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 19.7:
+        non_striker: DJ Bravo
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: AJ Finch
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Wade
+    - 0.2:
+        non_striker: AJ Finch
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Wade
+        wicket:
+          player_out: MS Wade
+          fielders:
+          - AD Russell
+          kind: caught
+    - 0.3:
+        non_striker: AJ Finch
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 0.4:
+        non_striker: AJ Finch
+        bowler: SS Cottrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Marsh
+    - 0.5:
+        non_striker: AJ Finch
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 0.6:
+        non_striker: AJ Finch
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 0.7:
+        non_striker: AJ Finch
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 1.1:
+        non_striker: MR Marsh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 1.2:
+        non_striker: MR Marsh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Finch
+    - 1.3:
+        non_striker: MR Marsh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 1.4:
+        non_striker: MR Marsh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 1.5:
+        non_striker: AJ Finch
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 1.6:
+        non_striker: MR Marsh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 2.1:
+        non_striker: MR Marsh
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 2.2:
+        non_striker: AJ Finch
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 2.3:
+        non_striker: AJ Finch
+        bowler: SS Cottrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Marsh
+    - 2.4:
+        non_striker: AJ Finch
+        bowler: SS Cottrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Marsh
+    - 2.5:
+        non_striker: AJ Finch
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 2.6:
+        non_striker: AJ Finch
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 2.7:
+        non_striker: AJ Finch
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 2.8:
+        non_striker: MR Marsh
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 3.1:
+        non_striker: MR Marsh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+        wicket:
+          player_out: AJ Finch
+          kind: bowled
+    - 3.2:
+        non_striker: MR Marsh
+        bowler: FH Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JR Philippe
+    - 3.3:
+        non_striker: MR Marsh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 3.4:
+        non_striker: JR Philippe
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 3.5:
+        non_striker: JR Philippe
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 3.6:
+        non_striker: MR Marsh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 3.7:
+        non_striker: MR Marsh
+        bowler: LMP Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: LMP Simmons
+            out: FH Edwards
+            reason: injury
+            role: bowler
+        batsman: JR Philippe
+    - 4.1:
+        non_striker: MR Marsh
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 4.2:
+        non_striker: JR Philippe
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Marsh
+    - 4.3:
+        non_striker: JR Philippe
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 4.4:
+        non_striker: JR Philippe
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 4.5:
+        non_striker: JR Philippe
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 4.6:
+        non_striker: MR Marsh
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 5.1:
+        non_striker: MR Marsh
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 5.2:
+        non_striker: JR Philippe
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 5.3:
+        non_striker: JR Philippe
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 5.4:
+        non_striker: MR Marsh
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 5.5:
+        non_striker: JR Philippe
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Marsh
+    - 5.6:
+        non_striker: JR Philippe
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 6.1:
+        non_striker: JR Philippe
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 6.2:
+        non_striker: MR Marsh
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 6.3:
+        non_striker: MR Marsh
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 6.4:
+        non_striker: JR Philippe
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 6.5:
+        non_striker: MR Marsh
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JR Philippe
+    - 6.6:
+        non_striker: MR Marsh
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 7.1:
+        non_striker: JR Philippe
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Marsh
+    - 7.2:
+        non_striker: JR Philippe
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 7.3:
+        non_striker: JR Philippe
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 7.4:
+        non_striker: JR Philippe
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 7.5:
+        non_striker: MR Marsh
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+        wicket:
+          player_out: JR Philippe
+          kind: bowled
+    - 7.6:
+        non_striker: MR Marsh
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 8.1:
+        non_striker: MR Marsh
+        bowler: FA Allen
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: MC Henriques
+    - 8.2:
+        non_striker: MR Marsh
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 8.3:
+        non_striker: MC Henriques
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 8.4:
+        non_striker: MR Marsh
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 8.5:
+        non_striker: MR Marsh
+        bowler: FA Allen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MC Henriques
+    - 8.6:
+        non_striker: MC Henriques
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 9.1:
+        non_striker: MC Henriques
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 9.2:
+        non_striker: MR Marsh
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MC Henriques
+    - 9.3:
+        non_striker: MR Marsh
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 9.4:
+        non_striker: MC Henriques
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 9.5:
+        non_striker: MC Henriques
+        bowler: HR Walsh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Marsh
+    - 9.6:
+        non_striker: MC Henriques
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 9.7:
+        non_striker: MR Marsh
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 10.1:
+        non_striker: MR Marsh
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 10.2:
+        non_striker: MR Marsh
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MC Henriques
+    - 10.3:
+        non_striker: MR Marsh
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 10.4:
+        non_striker: MC Henriques
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 10.5:
+        non_striker: MR Marsh
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 10.6:
+        non_striker: MC Henriques
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 11.1:
+        non_striker: MC Henriques
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Marsh
+    - 11.2:
+        non_striker: MC Henriques
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 11.3:
+        non_striker: MR Marsh
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 11.4:
+        non_striker: MC Henriques
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Marsh
+    - 11.5:
+        non_striker: MC Henriques
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 11.6:
+        non_striker: MC Henriques
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Marsh
+    - 11.7:
+        non_striker: MC Henriques
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 12.1:
+        non_striker: MC Henriques
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 12.2:
+        non_striker: MR Marsh
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 12.3:
+        non_striker: MR Marsh
+        bowler: FA Allen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MC Henriques
+    - 12.4:
+        non_striker: MC Henriques
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 12.5:
+        non_striker: MR Marsh
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 12.6:
+        non_striker: MC Henriques
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 13.1:
+        non_striker: MC Henriques
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 13.2:
+        non_striker: MC Henriques
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+        wicket:
+          player_out: MR Marsh
+          fielders:
+          - DJ Bravo
+          kind: caught
+    - 13.3:
+        non_striker: BR McDermott
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 13.4:
+        non_striker: BR McDermott
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 13.5:
+        non_striker: MC Henriques
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BR McDermott
+    - 13.6:
+        non_striker: MC Henriques
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 14.1:
+        non_striker: MC Henriques
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 14.2:
+        non_striker: MC Henriques
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 14.3:
+        non_striker: BR McDermott
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 14.4:
+        non_striker: MC Henriques
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 14.5:
+        non_striker: BR McDermott
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 14.6:
+        non_striker: MC Henriques
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+        wicket:
+          player_out: BR McDermott
+          fielders:
+          - DJ Bravo
+          kind: caught
+    - 15.1:
+        non_striker: MC Henriques
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 15.2:
+        non_striker: DT Christian
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+        wicket:
+          player_out: MC Henriques
+          fielders:
+          - FA Allen
+          kind: caught
+    - 15.3:
+        non_striker: DT Christian
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 15.4:
+        non_striker: AC Agar
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+        wicket:
+          player_out: AC Agar
+          kind: run out
+    - 15.5:
+        non_striker: DT Christian
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 15.6:
+        non_striker: MA Starc
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 16.1:
+        non_striker: MA Starc
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 16.2:
+        non_striker: MA Starc
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DT Christian
+    - 16.3:
+        non_striker: MA Starc
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DT Christian
+    - 16.4:
+        non_striker: MA Starc
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 16.5:
+        non_striker: MA Starc
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DT Christian
+    - 16.6:
+        non_striker: MA Starc
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 16.7:
+        non_striker: MA Starc
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DT Christian
+    - 16.8:
+        non_striker: MA Starc
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 17.1:
+        non_striker: MA Starc
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+        wicket:
+          player_out: DT Christian
+          kind: bowled
+    - 17.2:
+        non_striker: MA Starc
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Zampa
+    - 17.3:
+        non_striker: A Zampa
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 17.4:
+        non_striker: MA Starc
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Zampa
+    - 17.5:
+        non_striker: A Zampa
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Starc
+    - 17.6:
+        non_striker: A Zampa
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Starc
+    - 17.7:
+        non_striker: A Zampa
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 18.1:
+        non_striker: A Zampa
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 18.2:
+        non_striker: A Zampa
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 18.3:
+        non_striker: MA Starc
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Zampa
+    - 18.4:
+        non_striker: A Zampa
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 18.5:
+        non_striker: MA Starc
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Zampa
+        wicket:
+          player_out: A Zampa
+          fielders:
+          - AJ Hosein (sub)
+          kind: caught
+    - 18.6:
+        non_striker: MA Starc
+        bowler: SS Cottrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JR Hazlewood
+    - 18.7:
+        non_striker: MA Starc
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Hazlewood
+    - 19.1:
+        non_striker: JR Hazlewood
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 19.2:
+        non_striker: MA Starc
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Hazlewood
+        wicket:
+          player_out: JR Hazlewood
+          kind: bowled

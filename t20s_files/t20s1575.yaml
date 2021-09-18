@@ -1,0 +1,2134 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-08-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kerava
+  dates:
+  - '2021-08-21'
+  gender: male
+  match_type: T20
+  match_type_number: 1235
+  outcome:
+    winner: Finland
+    by:
+      wickets: 4
+  overs: 20
+  players:
+    Sweden:
+    - Rahel Khan
+    - W Boshoff
+    - A Venkatesh
+    - Imal Zuwak
+    - Dipanjan Dey
+    - Khalid Zahid
+    - Hassan Mehmood
+    - Qudratullah Mir Afzail
+    - L Karlsson
+    - Lemar Momand
+    - Baz Aybui
+    Finland:
+    - NG Collins
+    - PF Gallagher
+    - A Pusthay
+    - AK Mohan
+    - VS Padhaal
+    - JOP Scamans
+    - Amjad Sher
+    - MB Tambe
+    - H Dandapani
+    - Naveed Shahid
+    - Raaz Mohammad
+  registry:
+    people:
+      A Pusthay: '0393fbdc'
+      A Venkatesh: 06b45b20
+      AK Mohan: d55474ac
+      Amjad Sher: 3b4a8cfb
+      Baz Aybui: 58a7f842
+      Dipanjan Dey: fa180043
+      H Dandapani: 9960a421
+      Hassan Mehmood: 0331c99a
+      Humayun Kabir: 452024ef
+      Imal Zuwak: 1283e17b
+      JOP Scamans: 4e56e796
+      Khalid Zahid: 5c93efb1
+      L Karlsson: 90a41671
+      Lemar Momand: 249fe400
+      MB Tambe: 1c1bb0d5
+      NG Collins: be3bdc15
+      Naveed Shahid: 9e51462f
+      PF Gallagher: 8e9d3dc4
+      Qudratullah Mir Afzail: bd021695
+      Raaz Mohammad: f83b77f9
+      Rahel Khan: c443b748
+      VS Padhaal: c4fb0b39
+      W Boshoff: cad11a02
+  teams:
+  - Sweden
+  - Finland
+  toss:
+    decision: bat
+    winner: Sweden
+  venue: Kerava National Cricket Ground
+innings:
+- 1st innings:
+    team: Sweden
+    deliveries:
+    - 0.1:
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Boshoff
+        batsman: Rahel Khan
+    - 0.2:
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: W Boshoff
+        batsman: Rahel Khan
+    - 0.3:
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Boshoff
+        batsman: Rahel Khan
+    - 0.4:
+        bowler: Amjad Sher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: W Boshoff
+        batsman: Rahel Khan
+    - 0.5:
+        non_striker: W Boshoff
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahel Khan
+        wicket:
+          player_out: Rahel Khan
+          fielders:
+          - AK Mohan
+          kind: caught
+    - 0.6:
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Venkatesh
+        batsman: W Boshoff
+    - 0.7:
+        non_striker: W Boshoff
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Venkatesh
+    - 1.1:
+        non_striker: A Venkatesh
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 1.2:
+        non_striker: W Boshoff
+        bowler: Naveed Shahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Venkatesh
+    - 1.3:
+        non_striker: W Boshoff
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Venkatesh
+    - 1.4:
+        non_striker: W Boshoff
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Venkatesh
+    - 1.5:
+        non_striker: W Boshoff
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Venkatesh
+    - 1.6:
+        non_striker: A Venkatesh
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Boshoff
+    - 1.7:
+        non_striker: A Venkatesh
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 2.1:
+        non_striker: W Boshoff
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Venkatesh
+        wicket:
+          player_out: A Venkatesh
+          fielders:
+          - Raaz Mohammad
+          kind: caught
+    - 2.2:
+        non_striker: W Boshoff
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+    - 2.3:
+        non_striker: W Boshoff
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+    - 2.4:
+        non_striker: W Boshoff
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+    - 2.5:
+        non_striker: W Boshoff
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 2.6:
+        non_striker: Imal Zuwak
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 3.1:
+        non_striker: W Boshoff
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+    - 3.2:
+        non_striker: W Boshoff
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 3.3:
+        non_striker: Imal Zuwak
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Boshoff
+    - 3.4:
+        non_striker: Imal Zuwak
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 3.5:
+        non_striker: Imal Zuwak
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 3.6:
+        non_striker: Imal Zuwak
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 4.1:
+        non_striker: W Boshoff
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+        wicket:
+          player_out: Imal Zuwak
+          fielders:
+          - JOP Scamans
+          kind: caught
+    - 4.2:
+        non_striker: W Boshoff
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dipanjan Dey
+    - 4.3:
+        non_striker: W Boshoff
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dipanjan Dey
+    - 4.4:
+        non_striker: W Boshoff
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dipanjan Dey
+    - 4.5:
+        non_striker: Dipanjan Dey
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 4.6:
+        non_striker: Dipanjan Dey
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 5.1:
+        non_striker: W Boshoff
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dipanjan Dey
+    - 5.2:
+        non_striker: Dipanjan Dey
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 5.3:
+        non_striker: W Boshoff
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dipanjan Dey
+    - 5.4:
+        non_striker: W Boshoff
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dipanjan Dey
+    - 5.5:
+        non_striker: W Boshoff
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dipanjan Dey
+    - 5.6:
+        non_striker: W Boshoff
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dipanjan Dey
+    - 6.1:
+        non_striker: Dipanjan Dey
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Boshoff
+    - 6.2:
+        non_striker: Dipanjan Dey
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 6.3:
+        non_striker: W Boshoff
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dipanjan Dey
+    - 6.4:
+        non_striker: Dipanjan Dey
+        bowler: Amjad Sher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Boshoff
+    - 6.5:
+        non_striker: Dipanjan Dey
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 6.6:
+        non_striker: Dipanjan Dey
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: W Boshoff
+    - 6.7:
+        non_striker: W Boshoff
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dipanjan Dey
+    - 7.1:
+        non_striker: Dipanjan Dey
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 7.2:
+        non_striker: W Boshoff
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dipanjan Dey
+    - 7.3:
+        non_striker: Dipanjan Dey
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 7.4:
+        non_striker: Dipanjan Dey
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 7.5:
+        non_striker: W Boshoff
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dipanjan Dey
+    - 7.6:
+        non_striker: Dipanjan Dey
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 8.1:
+        non_striker: Dipanjan Dey
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 8.2:
+        non_striker: Dipanjan Dey
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 8.3:
+        non_striker: W Boshoff
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dipanjan Dey
+    - 8.4:
+        non_striker: Dipanjan Dey
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 8.5:
+        non_striker: Dipanjan Dey
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 8.6:
+        non_striker: Dipanjan Dey
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 9.1:
+        non_striker: Dipanjan Dey
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 9.2:
+        non_striker: W Boshoff
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dipanjan Dey
+    - 9.3:
+        non_striker: Dipanjan Dey
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 9.4:
+        non_striker: Dipanjan Dey
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Boshoff
+    - 9.5:
+        non_striker: Dipanjan Dey
+        bowler: PF Gallagher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Boshoff
+    - 9.6:
+        non_striker: Dipanjan Dey
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 9.7:
+        non_striker: W Boshoff
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dipanjan Dey
+    - 10.1:
+        non_striker: W Boshoff
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dipanjan Dey
+    - 10.2:
+        non_striker: Dipanjan Dey
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 10.3:
+        non_striker: W Boshoff
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dipanjan Dey
+        wicket:
+          player_out: W Boshoff
+          kind: run out
+    - 10.4:
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Khalid Zahid
+        batsman: Dipanjan Dey
+    - 10.5:
+        non_striker: Dipanjan Dey
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khalid Zahid
+    - 10.6:
+        non_striker: Khalid Zahid
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dipanjan Dey
+    - 11.1:
+        non_striker: Dipanjan Dey
+        bowler: H Dandapani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khalid Zahid
+    - 11.2:
+        non_striker: Khalid Zahid
+        bowler: H Dandapani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dipanjan Dey
+    - 11.3:
+        non_striker: Dipanjan Dey
+        bowler: H Dandapani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khalid Zahid
+    - 11.4:
+        non_striker: Khalid Zahid
+        bowler: H Dandapani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dipanjan Dey
+    - 11.5:
+        non_striker: Dipanjan Dey
+        bowler: H Dandapani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khalid Zahid
+    - 11.6:
+        non_striker: Dipanjan Dey
+        bowler: H Dandapani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khalid Zahid
+        wicket:
+          player_out: Khalid Zahid
+          fielders:
+          - MB Tambe
+          kind: caught
+    - 12.1:
+        non_striker: Dipanjan Dey
+        bowler: Raaz Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hassan Mehmood
+    - 12.2:
+        non_striker: Dipanjan Dey
+        bowler: Raaz Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Mehmood
+    - 12.3:
+        non_striker: Dipanjan Dey
+        bowler: Raaz Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Mehmood
+    - 12.4:
+        non_striker: Dipanjan Dey
+        bowler: Raaz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Mehmood
+    - 12.5:
+        non_striker: Hassan Mehmood
+        bowler: Raaz Mohammad
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Dipanjan Dey
+    - 12.6:
+        non_striker: Dipanjan Dey
+        bowler: Raaz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Mehmood
+    - 12.7:
+        non_striker: Hassan Mehmood
+        bowler: Raaz Mohammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Dipanjan Dey
+    - 13.1:
+        non_striker: Dipanjan Dey
+        bowler: H Dandapani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Mehmood
+    - 13.2:
+        non_striker: Hassan Mehmood
+        bowler: H Dandapani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dipanjan Dey
+    - 13.3:
+        non_striker: Hassan Mehmood
+        bowler: H Dandapani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Dipanjan Dey
+    - 13.4:
+        non_striker: Hassan Mehmood
+        bowler: H Dandapani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dipanjan Dey
+    - 13.5:
+        non_striker: Dipanjan Dey
+        bowler: H Dandapani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hassan Mehmood
+    - 13.6:
+        non_striker: Dipanjan Dey
+        bowler: H Dandapani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Mehmood
+    - 13.7:
+        non_striker: Hassan Mehmood
+        bowler: H Dandapani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dipanjan Dey
+    - 14.1:
+        non_striker: Dipanjan Dey
+        bowler: Raaz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Mehmood
+    - 14.2:
+        non_striker: Hassan Mehmood
+        bowler: Raaz Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dipanjan Dey
+    - 14.3:
+        non_striker: Hassan Mehmood
+        bowler: Raaz Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dipanjan Dey
+    - 14.4:
+        non_striker: Hassan Mehmood
+        bowler: Raaz Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dipanjan Dey
+    - 14.5:
+        non_striker: Hassan Mehmood
+        bowler: Raaz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dipanjan Dey
+    - 14.6:
+        non_striker: Dipanjan Dey
+        bowler: Raaz Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Hassan Mehmood
+    - 15.1:
+        non_striker: Dipanjan Dey
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Mehmood
+    - 15.2:
+        non_striker: Dipanjan Dey
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Mehmood
+    - 15.3:
+        non_striker: Hassan Mehmood
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dipanjan Dey
+    - 15.4:
+        non_striker: Hassan Mehmood
+        bowler: PF Gallagher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Dipanjan Dey
+    - 15.5:
+        non_striker: Dipanjan Dey
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Mehmood
+    - 15.6:
+        non_striker: Dipanjan Dey
+        bowler: PF Gallagher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Mehmood
+        wicket:
+          player_out: Hassan Mehmood
+          fielders:
+          - MB Tambe
+          kind: caught
+    - 16.1:
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Qudratullah Mir Afzail
+        batsman: Dipanjan Dey
+    - 16.2:
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Qudratullah Mir Afzail
+        batsman: Dipanjan Dey
+    - 16.3:
+        non_striker: Dipanjan Dey
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qudratullah Mir Afzail
+    - 16.4:
+        non_striker: Dipanjan Dey
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qudratullah Mir Afzail
+    - 16.5:
+        non_striker: Dipanjan Dey
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qudratullah Mir Afzail
+    - 16.6:
+        non_striker: Dipanjan Dey
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Qudratullah Mir Afzail
+    - 17.1:
+        non_striker: Dipanjan Dey
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qudratullah Mir Afzail
+    - 17.2:
+        non_striker: Dipanjan Dey
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Qudratullah Mir Afzail
+    - 17.3:
+        non_striker: Qudratullah Mir Afzail
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Dipanjan Dey
+    - 17.4:
+        non_striker: Qudratullah Mir Afzail
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Dipanjan Dey
+    - 17.5:
+        non_striker: Qudratullah Mir Afzail
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dipanjan Dey
+    - 17.6:
+        non_striker: Qudratullah Mir Afzail
+        bowler: MB Tambe
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Dipanjan Dey
+    - 17.7:
+        non_striker: Qudratullah Mir Afzail
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Dipanjan Dey
+    - 18.1:
+        non_striker: Qudratullah Mir Afzail
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Dipanjan Dey
+    - 18.2:
+        non_striker: Qudratullah Mir Afzail
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dipanjan Dey
+    - 18.3:
+        non_striker: Dipanjan Dey
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Qudratullah Mir Afzail
+    - 18.4:
+        non_striker: Qudratullah Mir Afzail
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dipanjan Dey
+    - 18.5:
+        non_striker: Qudratullah Mir Afzail
+        bowler: Naveed Shahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Dipanjan Dey
+    - 18.6:
+        non_striker: Dipanjan Dey
+        bowler: Naveed Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qudratullah Mir Afzail
+        wicket:
+          player_out: Qudratullah Mir Afzail
+          kind: bowled
+    - 19.1:
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: L Karlsson
+        batsman: Dipanjan Dey
+    - 19.2:
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: L Karlsson
+        batsman: Dipanjan Dey
+    - 19.3:
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: L Karlsson
+        batsman: Dipanjan Dey
+    - 19.4:
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: L Karlsson
+        batsman: Dipanjan Dey
+    - 19.5:
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Karlsson
+        batsman: Dipanjan Dey
+    - 19.6:
+        non_striker: Dipanjan Dey
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Karlsson
+        wicket:
+          player_out: L Karlsson
+          fielders:
+          - Amjad Sher
+          kind: caught
+- 2nd innings:
+    team: Finland
+    deliveries:
+    - 0.1:
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PF Gallagher
+        batsman: NG Collins
+    - 0.2:
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PF Gallagher
+        batsman: NG Collins
+    - 0.3:
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PF Gallagher
+        batsman: NG Collins
+    - 0.4:
+        non_striker: NG Collins
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PF Gallagher
+    - 0.5:
+        non_striker: NG Collins
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PF Gallagher
+    - 0.6:
+        non_striker: PF Gallagher
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NG Collins
+    - 1.1:
+        non_striker: NG Collins
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PF Gallagher
+    - 1.2:
+        non_striker: PF Gallagher
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NG Collins
+    - 1.3:
+        non_striker: PF Gallagher
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NG Collins
+    - 1.4:
+        non_striker: PF Gallagher
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NG Collins
+    - 1.5:
+        non_striker: PF Gallagher
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NG Collins
+    - 1.6:
+        non_striker: PF Gallagher
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NG Collins
+    - 2.1:
+        non_striker: NG Collins
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PF Gallagher
+    - 2.2:
+        non_striker: NG Collins
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PF Gallagher
+    - 2.3:
+        non_striker: NG Collins
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PF Gallagher
+        wicket:
+          player_out: PF Gallagher
+          fielders:
+          - W Boshoff
+          kind: caught
+    - 2.4:
+        non_striker: NG Collins
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Pusthay
+    - 2.5:
+        non_striker: A Pusthay
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: NG Collins
+    - 2.6:
+        non_striker: NG Collins
+        bowler: Khalid Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Pusthay
+    - 2.7:
+        non_striker: NG Collins
+        bowler: Khalid Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Pusthay
+    - 2.8:
+        non_striker: NG Collins
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Pusthay
+    - 3.1:
+        non_striker: A Pusthay
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NG Collins
+    - 3.2:
+        non_striker: A Pusthay
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NG Collins
+    - 3.3:
+        non_striker: A Pusthay
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NG Collins
+        wicket:
+          player_out: NG Collins
+          fielders:
+          - Baz Aybui
+          kind: caught
+    - 3.4:
+        non_striker: A Pusthay
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+    - 3.5:
+        non_striker: A Pusthay
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+    - 3.6:
+        non_striker: A Pusthay
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Mohan
+    - 4.1:
+        non_striker: A Pusthay
+        bowler: Lemar Momand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+    - 4.2:
+        non_striker: A Pusthay
+        bowler: Lemar Momand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+    - 4.3:
+        non_striker: A Pusthay
+        bowler: Lemar Momand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+    - 4.4:
+        non_striker: A Pusthay
+        bowler: Lemar Momand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Mohan
+    - 4.5:
+        non_striker: AK Mohan
+        bowler: Lemar Momand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Pusthay
+    - 4.6:
+        non_striker: AK Mohan
+        bowler: Lemar Momand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Pusthay
+    - 5.1:
+        non_striker: A Pusthay
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+    - 5.2:
+        non_striker: A Pusthay
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+    - 5.3:
+        non_striker: A Pusthay
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Mohan
+    - 5.4:
+        non_striker: A Pusthay
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+    - 5.5:
+        non_striker: A Pusthay
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+    - 5.6:
+        non_striker: A Pusthay
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Mohan
+    - 6.1:
+        non_striker: AK Mohan
+        bowler: Lemar Momand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Pusthay
+    - 6.2:
+        non_striker: AK Mohan
+        bowler: Lemar Momand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Pusthay
+    - 6.3:
+        non_striker: AK Mohan
+        bowler: Lemar Momand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Pusthay
+    - 6.4:
+        non_striker: A Pusthay
+        bowler: Lemar Momand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Mohan
+    - 6.5:
+        non_striker: AK Mohan
+        bowler: Lemar Momand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Pusthay
+    - 6.6:
+        non_striker: A Pusthay
+        bowler: Lemar Momand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+    - 7.1:
+        non_striker: AK Mohan
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Pusthay
+    - 7.2:
+        non_striker: A Pusthay
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+    - 7.3:
+        non_striker: A Pusthay
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+    - 7.4:
+        non_striker: A Pusthay
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+    - 7.5:
+        non_striker: A Pusthay
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+    - 7.6:
+        non_striker: A Pusthay
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Mohan
+    - 8.1:
+        non_striker: A Pusthay
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Mohan
+    - 8.2:
+        non_striker: AK Mohan
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Pusthay
+    - 8.3:
+        non_striker: A Pusthay
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Mohan
+    - 8.4:
+        non_striker: A Pusthay
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Mohan
+    - 8.5:
+        non_striker: AK Mohan
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Pusthay
+    - 8.6:
+        non_striker: AK Mohan
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Pusthay
+    - 9.1:
+        non_striker: AK Mohan
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Pusthay
+    - 9.2:
+        non_striker: AK Mohan
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Pusthay
+    - 9.3:
+        non_striker: AK Mohan
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Pusthay
+    - 9.4:
+        non_striker: AK Mohan
+        bowler: A Venkatesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Pusthay
+    - 9.5:
+        non_striker: AK Mohan
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Pusthay
+    - 9.6:
+        non_striker: AK Mohan
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Pusthay
+    - 9.7:
+        non_striker: A Pusthay
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Mohan
+    - 10.1:
+        non_striker: A Pusthay
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+    - 10.2:
+        non_striker: A Pusthay
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Mohan
+    - 10.3:
+        non_striker: A Pusthay
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Mohan
+    - 10.4:
+        non_striker: AK Mohan
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Pusthay
+    - 10.5:
+        non_striker: AK Mohan
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Pusthay
+    - 10.6:
+        non_striker: AK Mohan
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Pusthay
+    - 11.1:
+        non_striker: AK Mohan
+        bowler: Baz Aybui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Pusthay
+        wicket:
+          player_out: A Pusthay
+          fielders:
+          - Dipanjan Dey
+          kind: caught
+    - 11.2:
+        non_striker: AK Mohan
+        bowler: Baz Aybui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Padhaal
+    - 11.3:
+        non_striker: VS Padhaal
+        bowler: Baz Aybui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+    - 11.4:
+        non_striker: VS Padhaal
+        bowler: Baz Aybui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+    - 11.5:
+        non_striker: VS Padhaal
+        bowler: Baz Aybui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Mohan
+    - 11.6:
+        non_striker: VS Padhaal
+        bowler: Baz Aybui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Mohan
+    - 11.7:
+        non_striker: VS Padhaal
+        bowler: Baz Aybui
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Mohan
+    - 12.1:
+        non_striker: AK Mohan
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Padhaal
+    - 12.2:
+        non_striker: AK Mohan
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VS Padhaal
+    - 12.3:
+        non_striker: AK Mohan
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VS Padhaal
+    - 12.4:
+        non_striker: AK Mohan
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Padhaal
+    - 12.5:
+        non_striker: AK Mohan
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Padhaal
+    - 12.6:
+        non_striker: VS Padhaal
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Mohan
+    - 13.1:
+        non_striker: VS Padhaal
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Mohan
+    - 13.2:
+        non_striker: AK Mohan
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Padhaal
+    - 13.3:
+        non_striker: VS Padhaal
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AK Mohan
+    - 13.4:
+        non_striker: AK Mohan
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Padhaal
+        wicket:
+          player_out: VS Padhaal
+          fielders:
+          - Hassan Mehmood
+          kind: caught
+    - 13.5:
+        non_striker: JOP Scamans
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Mohan
+        wicket:
+          player_out: AK Mohan
+          fielders:
+          - W Boshoff
+          kind: caught
+    - 13.6:
+        non_striker: Amjad Sher
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JOP Scamans
+    - 14.1:
+        non_striker: Amjad Sher
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JOP Scamans
+    - 14.2:
+        non_striker: Amjad Sher
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JOP Scamans
+    - 14.3:
+        non_striker: Amjad Sher
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JOP Scamans
+    - 14.4:
+        non_striker: JOP Scamans
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amjad Sher
+    - 14.5:
+        non_striker: Amjad Sher
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JOP Scamans
+    - 14.6:
+        non_striker: JOP Scamans
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Amjad Sher
+    - 15.1:
+        non_striker: Amjad Sher
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JOP Scamans
+        wicket:
+          player_out: JOP Scamans
+          fielders:
+          - Humayun Kabir (sub)
+          kind: caught
+    - 15.2:
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MB Tambe
+        batsman: Amjad Sher
+    - 15.3:
+        non_striker: Amjad Sher
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MB Tambe
+    - 15.4:
+        non_striker: Amjad Sher
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MB Tambe
+    - 15.5:
+        non_striker: Amjad Sher
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Tambe
+    - 15.6:
+        non_striker: Amjad Sher
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Tambe
+    - 16.1:
+        non_striker: Amjad Sher
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Tambe
+    - 16.2:
+        non_striker: MB Tambe
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amjad Sher
+    - 16.3:
+        non_striker: MB Tambe
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Amjad Sher
+    - 16.4:
+        non_striker: MB Tambe
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amjad Sher
+    - 16.5:
+        non_striker: MB Tambe
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amjad Sher
+    - 16.6:
+        non_striker: MB Tambe
+        bowler: Hassan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amjad Sher
+    - 17.1:
+        non_striker: MB Tambe
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amjad Sher
+    - 17.2:
+        non_striker: Amjad Sher
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Tambe
+    - 17.3:
+        non_striker: MB Tambe
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amjad Sher
+    - 17.4:
+        non_striker: Amjad Sher
+        bowler: A Venkatesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MB Tambe
+    - 17.5:
+        non_striker: MB Tambe
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amjad Sher
+    - 17.6:
+        non_striker: Amjad Sher
+        bowler: A Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Tambe
+    - 18.1:
+        non_striker: Amjad Sher
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Tambe
+    - 18.2:
+        non_striker: MB Tambe
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amjad Sher
+    - 18.3:
+        non_striker: MB Tambe
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amjad Sher
+    - 18.4:
+        non_striker: MB Tambe
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Amjad Sher
+    - 18.5:
+        non_striker: MB Tambe
+        bowler: Qudratullah Mir Afzail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amjad Sher

@@ -1,0 +1,2164 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-04-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bengaluru
+  competition: IPL
+  dates:
+  - '2019-04-24'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Royal Challengers Bangalore
+    by:
+      runs: 17
+  overs: 20
+  player_of_match:
+  - AB de Villiers
+  players:
+    Royal Challengers Bangalore:
+    - PA Patel
+    - V Kohli
+    - AB de Villiers
+    - MM Ali
+    - AD Nath
+    - MP Stoinis
+    - Washington Sundar
+    - UT Yadav
+    - TG Southee
+    - YS Chahal
+    - NA Saini
+    Kings XI Punjab:
+    - KL Rahul
+    - CH Gayle
+    - MA Agarwal
+    - DA Miller
+    - N Pooran
+    - Mandeep Singh
+    - R Ashwin
+    - GC Viljoen
+    - M Ashwin
+    - AS Rajpoot
+    - Mohammed Shami
+  registry:
+    people:
+      AB de Villiers: c4487b84
+      AD Nath: f10e94c4
+      AS Rajpoot: db31895a
+      BNJ Oxenford: c1add349
+      C Shamshuddin: 0f9d921b
+      CH Gayle: db584dad
+      DA Miller: d67d5f00
+      GC Viljoen: a316d663
+      J Srinath: bad31fac
+      K Srinivasan: 042a8b69
+      KL Rahul: b17e2f24
+      M Ashwin: e2db2409
+      MA Agarwal: 00ea847a
+      MM Ali: bb351c23
+      MP Stoinis: d9273ee7
+      Mandeep Singh: c3a96caf
+      Mohammed Shami: 8cf9814c
+      N Pooran: 3241e3fd
+      NA Saini: 21d4e29b
+      PA Patel: b5da6c24
+      R Ashwin: 495d42a5
+      RJ Tucker: 38810cfc
+      TG Southee: 13c35c9e
+      UT Yadav: cc1e8c68
+      V Kohli: ba607b88
+      Washington Sundar: f19ccfad
+      YS Chahal: 57ee1fde
+  teams:
+  - Royal Challengers Bangalore
+  - Kings XI Punjab
+  toss:
+    decision: field
+    winner: Kings XI Punjab
+  umpires:
+  - BNJ Oxenford
+  - C Shamshuddin
+  venue: M.Chinnaswamy Stadium
+innings:
+- 1st innings:
+    team: Royal Challengers Bangalore
+    deliveries:
+    - 0.1:
+        non_striker: V Kohli
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 0.2:
+        non_striker: V Kohli
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 0.3:
+        non_striker: V Kohli
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 0.4:
+        non_striker: V Kohli
+        bowler: AS Rajpoot
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PA Patel
+    - 0.5:
+        non_striker: PA Patel
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 0.6:
+        non_striker: PA Patel
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 1.1:
+        non_striker: PA Patel
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 1.2:
+        non_striker: PA Patel
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 1.3:
+        non_striker: PA Patel
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 1.4:
+        non_striker: PA Patel
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 1.5:
+        non_striker: V Kohli
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 1.6:
+        non_striker: V Kohli
+        bowler: Mohammed Shami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PA Patel
+    - 1.7:
+        non_striker: V Kohli
+        bowler: Mohammed Shami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PA Patel
+    - 2.1:
+        non_striker: V Kohli
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 2.2:
+        non_striker: V Kohli
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 2.3:
+        non_striker: V Kohli
+        bowler: AS Rajpoot
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: PA Patel
+    - 2.4:
+        non_striker: V Kohli
+        bowler: AS Rajpoot
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: PA Patel
+    - 2.5:
+        non_striker: V Kohli
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 2.6:
+        non_striker: PA Patel
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 2.7:
+        non_striker: V Kohli
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 2.8:
+        non_striker: V Kohli
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 3.1:
+        non_striker: PA Patel
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+        wicket:
+          player_out: V Kohli
+          fielders:
+          - Mandeep Singh
+          kind: caught
+    - 3.2:
+        non_striker: PA Patel
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 3.3:
+        non_striker: PA Patel
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 3.4:
+        non_striker: PA Patel
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 3.5:
+        non_striker: AB de Villiers
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 3.6:
+        non_striker: PA Patel
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 4.1:
+        non_striker: PA Patel
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 4.2:
+        non_striker: PA Patel
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 4.3:
+        non_striker: PA Patel
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AB de Villiers
+    - 4.4:
+        non_striker: AB de Villiers
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PA Patel
+    - 4.5:
+        non_striker: AB de Villiers
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 4.6:
+        non_striker: AB de Villiers
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 5.1:
+        non_striker: AB de Villiers
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 5.2:
+        non_striker: AB de Villiers
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 5.3:
+        non_striker: AB de Villiers
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 5.4:
+        non_striker: AB de Villiers
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 5.5:
+        non_striker: AB de Villiers
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PA Patel
+    - 5.6:
+        non_striker: AB de Villiers
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 6.1:
+        non_striker: PA Patel
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 6.2:
+        non_striker: AB de Villiers
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+        wicket:
+          player_out: PA Patel
+          kind: caught and bowled
+    - 6.3:
+        non_striker: AB de Villiers
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Ali
+    - 6.4:
+        non_striker: AB de Villiers
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 6.5:
+        non_striker: AB de Villiers
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 6.6:
+        non_striker: AB de Villiers
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 7.1:
+        non_striker: MM Ali
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 7.2:
+        non_striker: MM Ali
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 7.3:
+        non_striker: AB de Villiers
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+        wicket:
+          player_out: MM Ali
+          kind: bowled
+    - 7.4:
+        non_striker: AB de Villiers
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Nath
+    - 7.5:
+        non_striker: AB de Villiers
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Nath
+    - 7.6:
+        non_striker: AB de Villiers
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Nath
+    - 8.1:
+        non_striker: AB de Villiers
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Nath
+    - 8.2:
+        non_striker: AD Nath
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 8.3:
+        non_striker: AB de Villiers
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Nath
+    - 8.4:
+        non_striker: AD Nath
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 8.5:
+        non_striker: AB de Villiers
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Nath
+    - 8.6:
+        non_striker: AB de Villiers
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Nath
+        wicket:
+          player_out: AD Nath
+          fielders:
+          - Mandeep Singh
+          kind: caught
+    - 9.1:
+        non_striker: MP Stoinis
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 9.2:
+        non_striker: AB de Villiers
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 9.3:
+        non_striker: AB de Villiers
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 9.4:
+        non_striker: AB de Villiers
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 9.5:
+        non_striker: AB de Villiers
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 9.6:
+        non_striker: MP Stoinis
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 10.1:
+        non_striker: MP Stoinis
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 10.2:
+        non_striker: AB de Villiers
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 10.3:
+        non_striker: MP Stoinis
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 10.4:
+        non_striker: AB de Villiers
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 10.5:
+        non_striker: AB de Villiers
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 10.6:
+        non_striker: MP Stoinis
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 11.1:
+        non_striker: MP Stoinis
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 11.2:
+        non_striker: AB de Villiers
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 11.3:
+        non_striker: AB de Villiers
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 11.4:
+        non_striker: MP Stoinis
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 11.5:
+        non_striker: AB de Villiers
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 11.6:
+        non_striker: MP Stoinis
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 12.1:
+        non_striker: MP Stoinis
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 12.2:
+        non_striker: MP Stoinis
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 12.3:
+        non_striker: AB de Villiers
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP Stoinis
+    - 12.4:
+        non_striker: MP Stoinis
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 12.5:
+        non_striker: AB de Villiers
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 12.6:
+        non_striker: AB de Villiers
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 13.1:
+        non_striker: MP Stoinis
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 13.2:
+        non_striker: AB de Villiers
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 13.3:
+        non_striker: AB de Villiers
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 13.4:
+        non_striker: MP Stoinis
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 13.5:
+        non_striker: AB de Villiers
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 13.6:
+        non_striker: AB de Villiers
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 14.1:
+        non_striker: AB de Villiers
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 14.2:
+        non_striker: MP Stoinis
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 14.3:
+        non_striker: MP Stoinis
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AB de Villiers
+    - 14.4:
+        non_striker: MP Stoinis
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 14.5:
+        non_striker: AB de Villiers
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 14.6:
+        non_striker: MP Stoinis
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 15.1:
+        non_striker: AB de Villiers
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 15.2:
+        non_striker: AB de Villiers
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 15.3:
+        non_striker: MP Stoinis
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB de Villiers
+    - 15.4:
+        non_striker: MP Stoinis
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AB de Villiers
+    - 15.5:
+        non_striker: MP Stoinis
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 15.6:
+        non_striker: AB de Villiers
+        bowler: M Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 16.1:
+        non_striker: AB de Villiers
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 16.2:
+        non_striker: MP Stoinis
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 16.3:
+        non_striker: AB de Villiers
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 16.4:
+        non_striker: AB de Villiers
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 16.5:
+        non_striker: AB de Villiers
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 16.6:
+        non_striker: MP Stoinis
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 17.1:
+        non_striker: AB de Villiers
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 17.2:
+        non_striker: MP Stoinis
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 17.3:
+        non_striker: MP Stoinis
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AB de Villiers
+    - 17.4:
+        non_striker: MP Stoinis
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AB de Villiers
+    - 17.5:
+        non_striker: MP Stoinis
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AB de Villiers
+    - 17.6:
+        non_striker: MP Stoinis
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 17.7:
+        non_striker: AB de Villiers
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 17.8:
+        non_striker: AB de Villiers
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 18.1:
+        non_striker: MP Stoinis
+        bowler: Mohammed Shami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AB de Villiers
+    - 18.2:
+        non_striker: AB de Villiers
+        bowler: Mohammed Shami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MP Stoinis
+    - 18.3:
+        non_striker: MP Stoinis
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AB de Villiers
+    - 18.4:
+        non_striker: MP Stoinis
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AB de Villiers
+    - 18.5:
+        non_striker: MP Stoinis
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AB de Villiers
+    - 18.6:
+        non_striker: MP Stoinis
+        bowler: Mohammed Shami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AB de Villiers
+    - 19.1:
+        non_striker: MP Stoinis
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AB de Villiers
+    - 19.2:
+        non_striker: MP Stoinis
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 19.3:
+        non_striker: AB de Villiers
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 19.4:
+        non_striker: AB de Villiers
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 19.5:
+        non_striker: AB de Villiers
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 19.6:
+        non_striker: AB de Villiers
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+- 2nd innings:
+    team: Kings XI Punjab
+    deliveries:
+    - 0.1:
+        non_striker: CH Gayle
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 0.2:
+        non_striker: KL Rahul
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 0.3:
+        non_striker: KL Rahul
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CH Gayle
+    - 0.4:
+        non_striker: KL Rahul
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CH Gayle
+    - 0.5:
+        non_striker: KL Rahul
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 0.6:
+        non_striker: KL Rahul
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CH Gayle
+    - 0.7:
+        non_striker: KL Rahul
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CH Gayle
+    - 1.1:
+        non_striker: CH Gayle
+        bowler: UT Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL Rahul
+    - 1.2:
+        non_striker: CH Gayle
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 1.3:
+        non_striker: CH Gayle
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 1.4:
+        non_striker: CH Gayle
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.5:
+        non_striker: CH Gayle
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.6:
+        non_striker: CH Gayle
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.7:
+        non_striker: CH Gayle
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 2.1:
+        non_striker: KL Rahul
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CH Gayle
+    - 2.2:
+        non_striker: KL Rahul
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 2.3:
+        non_striker: KL Rahul
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 2.4:
+        non_striker: CH Gayle
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 2.5:
+        non_striker: CH Gayle
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 2.6:
+        non_striker: CH Gayle
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.1:
+        non_striker: KL Rahul
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CH Gayle
+    - 3.2:
+        non_striker: KL Rahul
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+        wicket:
+          player_out: CH Gayle
+          fielders:
+          - AB de Villiers
+          kind: caught
+    - 3.3:
+        non_striker: KL Rahul
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 3.4:
+        non_striker: MA Agarwal
+        bowler: UT Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL Rahul
+    - 3.5:
+        non_striker: MA Agarwal
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.6:
+        non_striker: MA Agarwal
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 3.7:
+        non_striker: MA Agarwal
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 4.1:
+        non_striker: KL Rahul
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 4.2:
+        non_striker: KL Rahul
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Agarwal
+    - 4.3:
+        non_striker: KL Rahul
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Agarwal
+    - 4.4:
+        non_striker: KL Rahul
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 4.5:
+        non_striker: KL Rahul
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 4.6:
+        non_striker: KL Rahul
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 5.1:
+        non_striker: MA Agarwal
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.2:
+        non_striker: MA Agarwal
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 5.3:
+        non_striker: MA Agarwal
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 5.4:
+        non_striker: MA Agarwal
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.5:
+        non_striker: MA Agarwal
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 5.6:
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 6.1:
+        non_striker: KL Rahul
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 6.2:
+        non_striker: KL Rahul
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Agarwal
+    - 6.3:
+        non_striker: KL Rahul
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 6.4:
+        non_striker: MA Agarwal
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 6.5:
+        non_striker: MA Agarwal
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 6.6:
+        non_striker: MA Agarwal
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 7.1:
+        non_striker: KL Rahul
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 7.2:
+        non_striker: MA Agarwal
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 7.3:
+        non_striker: KL Rahul
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 7.4:
+        non_striker: KL Rahul
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Agarwal
+    - 7.5:
+        non_striker: KL Rahul
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 7.6:
+        non_striker: MA Agarwal
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 8.1:
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 8.2:
+        non_striker: MA Agarwal
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 8.3:
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Agarwal
+    - 8.4:
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Agarwal
+    - 8.5:
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Agarwal
+    - 8.6:
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 9.1:
+        non_striker: KL Rahul
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+        wicket:
+          player_out: MA Agarwal
+          fielders:
+          - YS Chahal
+          kind: caught
+    - 9.2:
+        non_striker: KL Rahul
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 9.3:
+        non_striker: KL Rahul
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 9.4:
+        non_striker: DA Miller
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 9.5:
+        non_striker: KL Rahul
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 9.6:
+        non_striker: DA Miller
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 10.1:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+        wicket:
+          player_out: KL Rahul
+          fielders:
+          - TG Southee
+          kind: caught
+    - 10.2:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 10.3:
+        non_striker: N Pooran
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 10.4:
+        non_striker: N Pooran
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 10.5:
+        non_striker: N Pooran
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 10.6:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 11.1:
+        non_striker: DA Miller
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 11.2:
+        non_striker: DA Miller
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 11.3:
+        non_striker: DA Miller
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 11.4:
+        non_striker: N Pooran
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 11.5:
+        non_striker: N Pooran
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 11.6:
+        non_striker: DA Miller
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 12.1:
+        non_striker: N Pooran
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.2:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 12.3:
+        non_striker: N Pooran
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.4:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 12.5:
+        non_striker: N Pooran
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.6:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 13.1:
+        non_striker: DA Miller
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 13.2:
+        non_striker: DA Miller
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 13.3:
+        non_striker: DA Miller
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 13.4:
+        non_striker: DA Miller
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 13.5:
+        non_striker: DA Miller
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 13.6:
+        non_striker: DA Miller
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 14.1:
+        non_striker: DA Miller
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 14.2:
+        non_striker: DA Miller
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 14.3:
+        non_striker: DA Miller
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 14.4:
+        non_striker: N Pooran
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 14.5:
+        non_striker: N Pooran
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 14.6:
+        non_striker: N Pooran
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 15.1:
+        non_striker: N Pooran
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 15.2:
+        non_striker: N Pooran
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 15.3:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 15.4:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 15.5:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 15.6:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 16.1:
+        non_striker: N Pooran
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 16.2:
+        non_striker: N Pooran
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 16.3:
+        non_striker: N Pooran
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 16.4:
+        non_striker: DA Miller
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 16.5:
+        non_striker: N Pooran
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 16.6:
+        non_striker: N Pooran
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.1:
+        non_striker: N Pooran
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.2:
+        non_striker: DA Miller
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 17.3:
+        non_striker: N Pooran
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.4:
+        non_striker: DA Miller
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 17.5:
+        non_striker: N Pooran
+        bowler: UT Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Miller
+    - 17.6:
+        non_striker: N Pooran
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.7:
+        non_striker: DA Miller
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 18.1:
+        non_striker: N Pooran
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+        wicket:
+          player_out: DA Miller
+          fielders:
+          - AB de Villiers
+          kind: caught
+    - 18.2:
+        non_striker: N Pooran
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mandeep Singh
+    - 18.3:
+        non_striker: N Pooran
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mandeep Singh
+    - 18.4:
+        non_striker: Mandeep Singh
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 18.5:
+        non_striker: N Pooran
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mandeep Singh
+    - 18.6:
+        non_striker: Mandeep Singh
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          fielders:
+          - AB de Villiers
+          kind: caught
+    - 19.1:
+        non_striker: Mandeep Singh
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Ashwin
+    - 19.2:
+        non_striker: Mandeep Singh
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+        wicket:
+          player_out: R Ashwin
+          fielders:
+          - V Kohli
+          kind: caught
+    - 19.3:
+        non_striker: Mandeep Singh
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+        wicket:
+          player_out: GC Viljoen
+          fielders:
+          - PA Patel
+          kind: caught
+    - 19.4:
+        non_striker: Mandeep Singh
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ashwin
+    - 19.5:
+        non_striker: Mandeep Singh
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ashwin
+    - 19.6:
+        non_striker: M Ashwin
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mandeep Singh

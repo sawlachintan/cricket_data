@@ -1,0 +1,1716 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-08-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kolsva
+  dates:
+  - '2021-08-29'
+  gender: female
+  match_type: T20
+  match_type_number: 939
+  outcome:
+    winner: Sweden
+    by:
+      wickets: 2
+  overs: 20
+  player_of_match:
+  - N Kayani
+  players:
+    Norway:
+    - Ayesha Hasan
+    - Farial Zia Safdar
+    - Pooja Kumari
+    - A Dastgir
+    - R Immadi
+    - Mutaiba Ansar
+    - DS Gamage
+    - S Jadhav
+    - Hina Hussain
+    - S Raveendrakumar
+    - AS Gorad
+    Sweden:
+    - S Linden
+    - C Elmsjoo
+    - G Shukla
+    - M Alugunoolla
+    - RG Somashekhar
+    - S Lundell
+    - T Zilfidou
+    - Abhilasha Singh
+    - S Elmsjoo
+    - S Devata
+    - N Kayani
+  registry:
+    people:
+      A Dastgir: 4cc200ec
+      AS Gorad: 2c8d0953
+      Abhilasha Singh: 89b748cf
+      Ayesha Hasan: 6a3de477
+      C Elmsjoo: c61c241b
+      DS Gamage: 00be46fe
+      Farial Zia Safdar: 36f7682b
+      G Shukla: 6b4817d9
+      Hina Hussain: 6501e421
+      M Alugunoolla: 15f570b6
+      Mutaiba Ansar: 857e2c79
+      N Kayani: ca3f2b64
+      Pooja Kumari: ff5051bd
+      R Immadi: baeae6dd
+      RG Somashekhar: 881cb071
+      S Devata: d5172e9a
+      S Elmsjoo: ce5030d8
+      S Jadhav: d8c88b14
+      S Linden: 35836baf
+      S Lundell: 0d298cc9
+      S Raveendrakumar: 80713a84
+      T Zilfidou: 112fa94c
+  teams:
+  - Norway
+  - Sweden
+  toss:
+    decision: field
+    winner: Sweden
+  venue: Guttsta Wicked Cricket Club
+innings:
+- 1st innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        bowler: N Kayani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Farial Zia Safdar
+        batsman: Ayesha Hasan
+    - 0.2:
+        bowler: N Kayani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Farial Zia Safdar
+        batsman: Ayesha Hasan
+    - 0.3:
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Farial Zia Safdar
+        batsman: Ayesha Hasan
+    - 0.4:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Farial Zia Safdar
+    - 0.5:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Farial Zia Safdar
+        wicket:
+          player_out: Farial Zia Safdar
+          fielders:
+          - Abhilasha Singh
+          kind: caught
+    - 0.6:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Kumari
+    - 0.7:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pooja Kumari
+    - 0.8:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Kumari
+        wicket:
+          player_out: Pooja Kumari
+          fielders:
+          - S Lundell
+          kind: caught
+    - 0.9:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dastgir
+    - 1.1:
+        non_striker: A Dastgir
+        bowler: S Devata
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 1.2:
+        non_striker: A Dastgir
+        bowler: S Devata
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 1.3:
+        non_striker: A Dastgir
+        bowler: S Devata
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 1.4:
+        non_striker: A Dastgir
+        bowler: S Devata
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 1.5:
+        non_striker: Ayesha Hasan
+        bowler: S Devata
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dastgir
+        wicket:
+          player_out: A Dastgir
+          kind: bowled
+    - 1.6:
+        non_striker: Ayesha Hasan
+        bowler: S Devata
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 1.7:
+        non_striker: Ayesha Hasan
+        bowler: S Devata
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 1.8:
+        non_striker: R Immadi
+        bowler: S Devata
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 1.9:
+        non_striker: R Immadi
+        bowler: S Devata
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 1.10:
+        non_striker: R Immadi
+        bowler: S Devata
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ayesha Hasan
+        wicket:
+          fielders:
+          - T Zilfidou
+          player_out: R Immadi
+          kind: run out
+    - 1.11:
+        non_striker: Ayesha Hasan
+        bowler: S Devata
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Mutaiba Ansar
+    - 1.12:
+        non_striker: Ayesha Hasan
+        bowler: S Devata
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mutaiba Ansar
+    - 2.1:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mutaiba Ansar
+    - 2.2:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mutaiba Ansar
+    - 2.3:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mutaiba Ansar
+    - 2.4:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mutaiba Ansar
+    - 2.5:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mutaiba Ansar
+        wicket:
+          player_out: Mutaiba Ansar
+          fielders:
+          - RG Somashekhar
+          kind: caught
+    - 2.6:
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DS Gamage
+        batsman: Ayesha Hasan
+    - 2.7:
+        non_striker: DS Gamage
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 3.1:
+        non_striker: DS Gamage
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 3.2:
+        non_striker: Ayesha Hasan
+        bowler: S Elmsjoo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DS Gamage
+    - 3.3:
+        non_striker: Ayesha Hasan
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Gamage
+    - 3.4:
+        non_striker: Ayesha Hasan
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Gamage
+    - 3.5:
+        non_striker: Ayesha Hasan
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Gamage
+        wicket:
+          fielders:
+          - S Elmsjoo
+          player_out: DS Gamage
+          kind: run out
+    - 3.6:
+        non_striker: S Jadhav
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 3.7:
+        non_striker: S Jadhav
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 4.1:
+        non_striker: Ayesha Hasan
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jadhav
+    - 4.2:
+        non_striker: S Jadhav
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 4.3:
+        non_striker: S Jadhav
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 4.4:
+        non_striker: Ayesha Hasan
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jadhav
+    - 4.5:
+        non_striker: S Jadhav
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 4.6:
+        non_striker: S Jadhav
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 5.1:
+        non_striker: Ayesha Hasan
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jadhav
+    - 5.2:
+        non_striker: S Jadhav
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+        wicket:
+          fielders:
+          - Abhilasha Singh
+          - M Alugunoolla
+          player_out: S Jadhav
+          kind: run out
+    - 5.3:
+        non_striker: Ayesha Hasan
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hina Hussain
+    - 5.4:
+        non_striker: Ayesha Hasan
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hina Hussain
+    - 5.5:
+        non_striker: Ayesha Hasan
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hina Hussain
+        wicket:
+          fielders:
+          - M Alugunoolla
+          player_out: Hina Hussain
+          kind: caught
+    - 5.6:
+        non_striker: Ayesha Hasan
+        bowler: S Elmsjoo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Raveendrakumar
+    - 5.7:
+        non_striker: Ayesha Hasan
+        bowler: S Elmsjoo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Raveendrakumar
+    - 5.8:
+        non_striker: Ayesha Hasan
+        bowler: S Elmsjoo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Raveendrakumar
+    - 5.9:
+        non_striker: Ayesha Hasan
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Raveendrakumar
+    - 6.1:
+        non_striker: S Raveendrakumar
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 6.2:
+        non_striker: S Raveendrakumar
+        bowler: G Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 6.3:
+        non_striker: S Raveendrakumar
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 6.4:
+        non_striker: S Raveendrakumar
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 6.5:
+        non_striker: Ayesha Hasan
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Raveendrakumar
+    - 6.6:
+        non_striker: Ayesha Hasan
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Raveendrakumar
+    - 6.7:
+        non_striker: Ayesha Hasan
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Raveendrakumar
+    - 7.1:
+        non_striker: S Raveendrakumar
+        bowler: RG Somashekhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 7.2:
+        non_striker: S Raveendrakumar
+        bowler: RG Somashekhar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 7.3:
+        non_striker: Ayesha Hasan
+        bowler: RG Somashekhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Raveendrakumar
+    - 7.4:
+        non_striker: Ayesha Hasan
+        bowler: RG Somashekhar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Raveendrakumar
+    - 7.5:
+        non_striker: Ayesha Hasan
+        bowler: RG Somashekhar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Raveendrakumar
+    - 7.6:
+        non_striker: S Raveendrakumar
+        bowler: RG Somashekhar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Ayesha Hasan
+    - 7.7:
+        non_striker: Ayesha Hasan
+        bowler: RG Somashekhar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Raveendrakumar
+    - 7.8:
+        non_striker: S Raveendrakumar
+        bowler: RG Somashekhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 8.1:
+        non_striker: Ayesha Hasan
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Raveendrakumar
+    - 8.2:
+        non_striker: Ayesha Hasan
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Raveendrakumar
+    - 8.3:
+        non_striker: Ayesha Hasan
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Raveendrakumar
+    - 8.4:
+        non_striker: Ayesha Hasan
+        bowler: G Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Raveendrakumar
+    - 8.5:
+        non_striker: Ayesha Hasan
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Raveendrakumar
+    - 8.6:
+        non_striker: Ayesha Hasan
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Raveendrakumar
+    - 8.7:
+        non_striker: Ayesha Hasan
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Raveendrakumar
+    - 9.1:
+        non_striker: S Raveendrakumar
+        bowler: RG Somashekhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 9.2:
+        non_striker: S Raveendrakumar
+        bowler: RG Somashekhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 9.3:
+        non_striker: S Raveendrakumar
+        bowler: RG Somashekhar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 9.4:
+        non_striker: Ayesha Hasan
+        bowler: RG Somashekhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Raveendrakumar
+        wicket:
+          player_out: S Raveendrakumar
+          fielders:
+          - S Lundell
+          kind: caught
+    - 9.5:
+        non_striker: Ayesha Hasan
+        bowler: RG Somashekhar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 9.6:
+        non_striker: Ayesha Hasan
+        bowler: RG Somashekhar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 9.7:
+        non_striker: Ayesha Hasan
+        bowler: RG Somashekhar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 9.8:
+        non_striker: Ayesha Hasan
+        bowler: RG Somashekhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 9.9:
+        non_striker: Ayesha Hasan
+        bowler: RG Somashekhar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 10.1:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 10.2:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 10.3:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 10.4:
+        non_striker: AS Gorad
+        bowler: N Kayani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 10.5:
+        non_striker: AS Gorad
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 10.6:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 10.7:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 10.8:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 10.9:
+        non_striker: Ayesha Hasan
+        bowler: N Kayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 11.1:
+        non_striker: Ayesha Hasan
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 11.2:
+        non_striker: AS Gorad
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 11.3:
+        non_striker: AS Gorad
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 11.4:
+        non_striker: Ayesha Hasan
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 11.5:
+        non_striker: Ayesha Hasan
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 11.6:
+        non_striker: Ayesha Hasan
+        bowler: G Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 11.7:
+        non_striker: Ayesha Hasan
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 12.1:
+        non_striker: AS Gorad
+        bowler: N Kayani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 12.2:
+        non_striker: AS Gorad
+        bowler: N Kayani
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Ayesha Hasan
+        wicket:
+          player_out: AS Gorad
+          kind: run out
+- 2nd innings:
+    team: Sweden
+    deliveries:
+    - 0.1:
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: C Elmsjoo
+        batsman: S Linden
+    - 0.2:
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Elmsjoo
+        batsman: S Linden
+    - 0.3:
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Elmsjoo
+        batsman: S Linden
+    - 0.4:
+        non_striker: S Linden
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Elmsjoo
+    - 0.5:
+        non_striker: S Linden
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Elmsjoo
+        wicket:
+          player_out: C Elmsjoo
+          fielders:
+          - R Immadi
+          kind: caught
+    - 0.6:
+        non_striker: S Linden
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Shukla
+    - 0.7:
+        non_striker: S Linden
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Shukla
+    - 1.1:
+        non_striker: G Shukla
+        bowler: S Raveendrakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Linden
+    - 1.2:
+        non_striker: S Linden
+        bowler: S Raveendrakumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: G Shukla
+    - 1.3:
+        non_striker: S Linden
+        bowler: S Raveendrakumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Shukla
+    - 1.4:
+        non_striker: S Linden
+        bowler: S Raveendrakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Shukla
+    - 1.5:
+        non_striker: S Linden
+        bowler: S Raveendrakumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Shukla
+    - 1.6:
+        non_striker: S Linden
+        bowler: S Raveendrakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Shukla
+    - 1.7:
+        non_striker: S Linden
+        bowler: S Raveendrakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Shukla
+    - 2.1:
+        non_striker: G Shukla
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Linden
+    - 2.2:
+        non_striker: G Shukla
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Linden
+    - 2.3:
+        non_striker: G Shukla
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Linden
+    - 2.4:
+        non_striker: G Shukla
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Linden
+    - 2.5:
+        non_striker: G Shukla
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Linden
+    - 2.6:
+        non_striker: G Shukla
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Linden
+        wicket:
+          player_out: S Linden
+          fielders:
+          - AS Gorad
+          kind: caught
+    - 2.7:
+        non_striker: G Shukla
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+    - 2.8:
+        non_striker: G Shukla
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+    - 2.9:
+        non_striker: G Shukla
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+    - 3.1:
+        non_striker: M Alugunoolla
+        bowler: S Raveendrakumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Shukla
+    - 3.2:
+        non_striker: M Alugunoolla
+        bowler: S Raveendrakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Shukla
+    - 3.3:
+        non_striker: G Shukla
+        bowler: S Raveendrakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+    - 3.4:
+        non_striker: G Shukla
+        bowler: S Raveendrakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Alugunoolla
+    - 3.5:
+        non_striker: M Alugunoolla
+        bowler: S Raveendrakumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: G Shukla
+    - 3.6:
+        non_striker: M Alugunoolla
+        bowler: S Raveendrakumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Shukla
+    - 3.7:
+        non_striker: M Alugunoolla
+        bowler: S Raveendrakumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Shukla
+    - 3.8:
+        non_striker: M Alugunoolla
+        bowler: S Raveendrakumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Shukla
+    - 4.1:
+        non_striker: G Shukla
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+    - 4.2:
+        non_striker: G Shukla
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+    - 4.3:
+        non_striker: G Shukla
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+    - 4.4:
+        non_striker: G Shukla
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+    - 4.5:
+        non_striker: G Shukla
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Alugunoolla
+    - 4.6:
+        non_striker: M Alugunoolla
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Shukla
+    - 5.1:
+        non_striker: G Shukla
+        bowler: DS Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+    - 5.2:
+        non_striker: G Shukla
+        bowler: DS Gamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Alugunoolla
+    - 5.3:
+        non_striker: M Alugunoolla
+        bowler: DS Gamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Shukla
+    - 5.4:
+        non_striker: M Alugunoolla
+        bowler: DS Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Shukla
+        wicket:
+          player_out: G Shukla
+          fielders:
+          - S Raveendrakumar
+          kind: caught
+    - 5.5:
+        bowler: DS Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RG Somashekhar
+        batsman: M Alugunoolla
+    - 5.6:
+        non_striker: RG Somashekhar
+        bowler: DS Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+    - 6.1:
+        non_striker: M Alugunoolla
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+    - 6.2:
+        non_striker: M Alugunoolla
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Somashekhar
+    - 6.3:
+        non_striker: M Alugunoolla
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+        wicket:
+          player_out: RG Somashekhar
+          fielders:
+          - Ayesha Hasan
+          kind: caught
+    - 6.4:
+        non_striker: M Alugunoolla
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lundell
+    - 6.5:
+        non_striker: S Lundell
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+    - 6.6:
+        non_striker: S Lundell
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+    - 7.1:
+        non_striker: M Alugunoolla
+        bowler: DS Gamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lundell
+    - 7.2:
+        non_striker: M Alugunoolla
+        bowler: DS Gamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lundell
+    - 7.3:
+        non_striker: M Alugunoolla
+        bowler: DS Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 7.4:
+        non_striker: M Alugunoolla
+        bowler: DS Gamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Lundell
+    - 7.5:
+        non_striker: M Alugunoolla
+        bowler: DS Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 7.6:
+        non_striker: M Alugunoolla
+        bowler: DS Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+        wicket:
+          player_out: S Lundell
+          kind: run out
+    - 7.7:
+        bowler: DS Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Zilfidou
+        batsman: M Alugunoolla
+    - 7.8:
+        non_striker: T Zilfidou
+        bowler: DS Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+    - 8.1:
+        non_striker: M Alugunoolla
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zilfidou
+        wicket:
+          player_out: T Zilfidou
+          fielders:
+          - Mutaiba Ansar
+          kind: caught
+    - 8.2:
+        non_striker: M Alugunoolla
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhilasha Singh
+    - 8.3:
+        non_striker: M Alugunoolla
+        bowler: Pooja Kumari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhilasha Singh
+    - 8.4:
+        non_striker: M Alugunoolla
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhilasha Singh
+    - 8.5:
+        non_striker: M Alugunoolla
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhilasha Singh
+    - 8.6:
+        non_striker: M Alugunoolla
+        bowler: Pooja Kumari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhilasha Singh
+    - 8.7:
+        non_striker: M Alugunoolla
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhilasha Singh
+    - 8.8:
+        non_striker: M Alugunoolla
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhilasha Singh
+    - 9.1:
+        non_striker: Abhilasha Singh
+        bowler: DS Gamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Alugunoolla
+    - 9.2:
+        non_striker: M Alugunoolla
+        bowler: DS Gamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhilasha Singh
+    - 9.3:
+        non_striker: M Alugunoolla
+        bowler: DS Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhilasha Singh
+    - 9.4:
+        non_striker: M Alugunoolla
+        bowler: DS Gamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhilasha Singh
+    - 9.5:
+        non_striker: Abhilasha Singh
+        bowler: DS Gamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Alugunoolla
+    - 9.6:
+        non_striker: Abhilasha Singh
+        bowler: DS Gamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Alugunoolla
+    - 9.7:
+        non_striker: Abhilasha Singh
+        bowler: DS Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+    - 10.1:
+        non_striker: M Alugunoolla
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhilasha Singh
+    - 10.2:
+        non_striker: M Alugunoolla
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhilasha Singh
+    - 10.3:
+        non_striker: M Alugunoolla
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhilasha Singh
+        wicket:
+          player_out: Abhilasha Singh
+          kind: bowled
+    - 10.4:
+        non_striker: M Alugunoolla
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Elmsjoo
+    - 10.5:
+        non_striker: M Alugunoolla
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Elmsjoo
+    - 10.6:
+        non_striker: S Elmsjoo
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+    - 11.1:
+        non_striker: M Alugunoolla
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Elmsjoo
+    - 11.2:
+        non_striker: S Elmsjoo
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+    - 11.3:
+        non_striker: S Elmsjoo
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+        wicket:
+          player_out: M Alugunoolla
+          kind: lbw
+    - 11.4:
+        non_striker: S Elmsjoo
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Devata
+    - 11.5:
+        non_striker: S Elmsjoo
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Devata
+    - 11.6:
+        bowler: Pooja Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Devata
+        batsman: S Elmsjoo
+    - 12.1:
+        non_striker: S Elmsjoo
+        bowler: Farial Zia Safdar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Devata

@@ -1,0 +1,1445 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-06-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sofia
+  dates:
+  - '2021-06-26'
+  gender: male
+  match_type: T20
+  match_type_number: 1175
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Bulgaria:
+    - H Lakov
+    - Sulaiman Ali
+    - IA De Silva
+    - Bakhtiar Tahiri
+    - P Mishra
+    - KC D'Souza
+    - Aswad Khan
+    - H Ivanov
+    - J Albin
+    - D Nikolov
+    - Rohan Bhavesh Patel
+    Greece:
+    - Arsalan Ahmed
+    - Aslam Mohammad
+    - A Manousis
+    - Asrar Ahmed
+    - Syed Amanullah
+    - A Manatos
+    - AS Mehmi
+    - GC Galanis
+    - T Zotos
+    - S Gasteratos
+    - S Siriotis
+  registry:
+    people:
+      A Manatos: eebc0141
+      A Manousis: b672e825
+      AS Mehmi: 4612619b
+      Arsalan Ahmed: e0febd97
+      Aslam Mohammad: 67ae5a56
+      Asrar Ahmed: 88251c6c
+      Aswad Khan: 596ed7e6
+      Bakhtiar Tahiri: a9ee404e
+      D Nikolov: 9c3a8776
+      GC Galanis: db218528
+      H Ivanov: 58b5299f
+      H Lakov: 87a6f411
+      IA De Silva: 58973aaf
+      J Albin: a4a53adf
+      KC D'Souza: 2687fff2
+      P Mishra: 3fa5672e
+      Rohan Bhavesh Patel: 7f46e127
+      S Gasteratos: 11174f6d
+      S Siriotis: ff8b37cb
+      Sulaiman Ali: 13bf1d91
+      Syed Amanullah: ae4006ad
+      T Zotos: 4c4d245a
+  teams:
+  - Bulgaria
+  - Greece
+  toss:
+    decision: field
+    winner: Greece
+  venue: National Sports Academy, Sofia
+innings:
+- 1st innings:
+    team: Bulgaria
+    deliveries:
+    - 0.1:
+        bowler: S Gasteratos
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: Sulaiman Ali
+        batsman: H Lakov
+    - 0.2:
+        non_striker: H Lakov
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaiman Ali
+        wicket:
+          player_out: Sulaiman Ali
+          kind: bowled
+    - 0.3:
+        non_striker: H Lakov
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IA De Silva
+    - 0.4:
+        non_striker: H Lakov
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA De Silva
+    - 0.5:
+        non_striker: IA De Silva
+        bowler: S Gasteratos
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Lakov
+    - 0.6:
+        non_striker: IA De Silva
+        bowler: S Gasteratos
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Lakov
+    - 0.7:
+        non_striker: IA De Silva
+        bowler: S Gasteratos
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Lakov
+    - 0.8:
+        non_striker: IA De Silva
+        bowler: S Gasteratos
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Lakov
+    - 0.9:
+        non_striker: IA De Silva
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Lakov
+    - 0.10:
+        non_striker: IA De Silva
+        bowler: S Gasteratos
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Lakov
+    - 0.11:
+        non_striker: IA De Silva
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lakov
+    - 0.12:
+        non_striker: IA De Silva
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lakov
+    - 1.1:
+        non_striker: H Lakov
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 1.2:
+        non_striker: H Lakov
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IA De Silva
+    - 1.3:
+        non_striker: H Lakov
+        bowler: Aslam Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IA De Silva
+    - 1.4:
+        non_striker: H Lakov
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 1.5:
+        non_striker: H Lakov
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 1.6:
+        non_striker: H Lakov
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 1.7:
+        non_striker: H Lakov
+        bowler: Aslam Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: IA De Silva
+    - 2.1:
+        non_striker: H Lakov
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 2.2:
+        non_striker: H Lakov
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 2.3:
+        non_striker: H Lakov
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IA De Silva
+    - 2.4:
+        non_striker: H Lakov
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA De Silva
+    - 2.5:
+        non_striker: IA De Silva
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lakov
+    - 2.6:
+        non_striker: H Lakov
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA De Silva
+    - 3.1:
+        non_striker: H Lakov
+        bowler: Aslam Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IA De Silva
+    - 3.2:
+        non_striker: H Lakov
+        bowler: Aslam Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IA De Silva
+    - 3.3:
+        non_striker: H Lakov
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IA De Silva
+    - 3.4:
+        non_striker: H Lakov
+        bowler: Aslam Mohammad
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: IA De Silva
+    - 3.5:
+        non_striker: H Lakov
+        bowler: Aslam Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IA De Silva
+    - 3.6:
+        non_striker: H Lakov
+        bowler: Aslam Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IA De Silva
+    - 3.7:
+        non_striker: H Lakov
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 3.8:
+        non_striker: H Lakov
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 3.9:
+        non_striker: H Lakov
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 3.10:
+        non_striker: H Lakov
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 4.1:
+        non_striker: IA De Silva
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Lakov
+    - 4.2:
+        non_striker: IA De Silva
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lakov
+        wicket:
+          player_out: H Lakov
+          fielders:
+          - S Siriotis
+          kind: caught
+    - 4.3:
+        non_striker: IA De Silva
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+    - 4.4:
+        non_striker: IA De Silva
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+    - 4.5:
+        non_striker: IA De Silva
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+    - 4.6:
+        non_striker: IA De Silva
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+    - 5.1:
+        non_striker: Bakhtiar Tahiri
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 5.2:
+        non_striker: Bakhtiar Tahiri
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 5.3:
+        non_striker: Bakhtiar Tahiri
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+        wicket:
+          player_out: IA De Silva
+          fielders:
+          - AS Mehmi
+          kind: caught
+    - 5.4:
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Mishra
+        batsman: Bakhtiar Tahiri
+    - 5.5:
+        non_striker: Bakhtiar Tahiri
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 5.6:
+        non_striker: Bakhtiar Tahiri
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 6.1:
+        non_striker: P Mishra
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+    - 6.2:
+        non_striker: P Mishra
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bakhtiar Tahiri
+    - 6.3:
+        non_striker: Bakhtiar Tahiri
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 6.4:
+        non_striker: Bakhtiar Tahiri
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 6.5:
+        non_striker: Bakhtiar Tahiri
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 6.6:
+        non_striker: Bakhtiar Tahiri
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 7.1:
+        non_striker: P Mishra
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bakhtiar Tahiri
+    - 7.2:
+        non_striker: P Mishra
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bakhtiar Tahiri
+    - 7.3:
+        non_striker: Bakhtiar Tahiri
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+        wicket:
+          player_out: P Mishra
+          kind: bowled
+    - 7.4:
+        non_striker: Bakhtiar Tahiri
+        bowler: Aslam Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KC D'Souza
+    - 7.5:
+        non_striker: Bakhtiar Tahiri
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC D'Souza
+    - 7.6:
+        non_striker: KC D'Souza
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bakhtiar Tahiri
+    - 7.7:
+        non_striker: Bakhtiar Tahiri
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC D'Souza
+    - 8.1:
+        non_striker: Bakhtiar Tahiri
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC D'Souza
+    - 8.2:
+        non_striker: Bakhtiar Tahiri
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC D'Souza
+    - 8.3:
+        non_striker: KC D'Souza
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+    - 8.4:
+        non_striker: KC D'Souza
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+    - 8.5:
+        non_striker: KC D'Souza
+        bowler: Asrar Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bakhtiar Tahiri
+    - 8.6:
+        non_striker: KC D'Souza
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bakhtiar Tahiri
+    - 8.7:
+        non_striker: KC D'Souza
+        bowler: Asrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+    - 9.1:
+        non_striker: Bakhtiar Tahiri
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC D'Souza
+    - 9.2:
+        non_striker: Bakhtiar Tahiri
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KC D'Souza
+    - 9.3:
+        non_striker: Bakhtiar Tahiri
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KC D'Souza
+    - 9.4:
+        non_striker: Bakhtiar Tahiri
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KC D'Souza
+    - 9.5:
+        non_striker: Bakhtiar Tahiri
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC D'Souza
+    - 9.6:
+        non_striker: Bakhtiar Tahiri
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC D'Souza
+        wicket:
+          player_out: KC D'Souza
+          fielders:
+          - T Zotos
+          kind: caught
+    - 10.1:
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aswad Khan
+        batsman: Bakhtiar Tahiri
+    - 10.2:
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aswad Khan
+        batsman: Bakhtiar Tahiri
+    - 10.3:
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aswad Khan
+        batsman: Bakhtiar Tahiri
+    - 10.4:
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Aswad Khan
+        batsman: Bakhtiar Tahiri
+    - 10.5:
+        bowler: GC Galanis
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: Aswad Khan
+        batsman: Bakhtiar Tahiri
+    - 10.6:
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aswad Khan
+        batsman: Bakhtiar Tahiri
+    - 10.7:
+        non_striker: Aswad Khan
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bakhtiar Tahiri
+    - 11.1:
+        non_striker: Aswad Khan
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+        wicket:
+          player_out: Aswad Khan
+          kind: run out
+    - 11.2:
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Ivanov
+        batsman: Bakhtiar Tahiri
+    - 11.3:
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Ivanov
+        batsman: Bakhtiar Tahiri
+    - 11.4:
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Ivanov
+        batsman: Bakhtiar Tahiri
+    - 11.5:
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Ivanov
+        batsman: Bakhtiar Tahiri
+    - 11.6:
+        non_striker: H Ivanov
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+    - 12.1:
+        non_striker: Bakhtiar Tahiri
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ivanov
+    - 12.2:
+        non_striker: Bakhtiar Tahiri
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ivanov
+        wicket:
+          player_out: H Ivanov
+          kind: lbw
+    - 12.3:
+        non_striker: Bakhtiar Tahiri
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+    - 12.4:
+        non_striker: Bakhtiar Tahiri
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Albin
+    - 12.5:
+        non_striker: J Albin
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bakhtiar Tahiri
+    - 12.6:
+        non_striker: Bakhtiar Tahiri
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+    - 13.1:
+        non_striker: J Albin
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bakhtiar Tahiri
+    - 13.2:
+        non_striker: J Albin
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+    - 13.3:
+        non_striker: J Albin
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+    - 13.4:
+        non_striker: J Albin
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bakhtiar Tahiri
+    - 13.5:
+        non_striker: J Albin
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bakhtiar Tahiri
+    - 13.6:
+        non_striker: Bakhtiar Tahiri
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+    - 14.1:
+        non_striker: J Albin
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+    - 14.2:
+        non_striker: J Albin
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+    - 14.3:
+        non_striker: J Albin
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+    - 14.4:
+        non_striker: J Albin
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Bakhtiar Tahiri
+    - 14.5:
+        non_striker: J Albin
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+    - 14.6:
+        non_striker: J Albin
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bakhtiar Tahiri
+    - 15.1:
+        non_striker: J Albin
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+    - 15.2:
+        non_striker: J Albin
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Bakhtiar Tahiri
+    - 15.3:
+        non_striker: J Albin
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bakhtiar Tahiri
+    - 15.4:
+        non_striker: J Albin
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Bakhtiar Tahiri
+    - 15.5:
+        non_striker: J Albin
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+    - 15.6:
+        non_striker: J Albin
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bakhtiar Tahiri
+    - 16.1:
+        non_striker: J Albin
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtiar Tahiri
+        wicket:
+          player_out: Bakhtiar Tahiri
+          fielders:
+          - A Manousis
+          kind: stumped
+    - 16.2:
+        non_striker: J Albin
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nikolov
+    - 16.3:
+        non_striker: J Albin
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nikolov
+        wicket:
+          player_out: D Nikolov
+          kind: bowled
+    - 16.4:
+        non_striker: J Albin
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Bhavesh Patel
+    - 16.5:
+        non_striker: J Albin
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Bhavesh Patel
+    - 16.6:
+        non_striker: J Albin
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Bhavesh Patel
+    - 17.1:
+        non_striker: Rohan Bhavesh Patel
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+    - 17.2:
+        non_striker: Rohan Bhavesh Patel
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+    - 17.3:
+        non_striker: Rohan Bhavesh Patel
+        bowler: S Gasteratos
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Albin
+    - 17.4:
+        non_striker: Rohan Bhavesh Patel
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+    - 17.5:
+        non_striker: Rohan Bhavesh Patel
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Albin
+    - 17.6:
+        non_striker: J Albin
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Bhavesh Patel
+    - 17.7:
+        non_striker: Rohan Bhavesh Patel
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Albin
+    - 18.1:
+        non_striker: Rohan Bhavesh Patel
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+    - 18.2:
+        non_striker: Rohan Bhavesh Patel
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+    - 18.3:
+        non_striker: Rohan Bhavesh Patel
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Albin
+    - 18.4:
+        non_striker: Rohan Bhavesh Patel
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Albin
+    - 18.5:
+        non_striker: J Albin
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Bhavesh Patel
+    - 18.6:
+        non_striker: Rohan Bhavesh Patel
+        bowler: Arsalan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Albin
+    - 19.1:
+        non_striker: Rohan Bhavesh Patel
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Albin
+    - 19.2:
+        non_striker: Rohan Bhavesh Patel
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+    - 19.3:
+        non_striker: Rohan Bhavesh Patel
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Albin
+    - 19.4:
+        non_striker: Rohan Bhavesh Patel
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+    - 19.5:
+        non_striker: Rohan Bhavesh Patel
+        bowler: S Gasteratos
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+        wicket:
+          player_out: J Albin
+          kind: run out
+- 2nd innings:
+    team: Greece
+    deliveries:
+    - 0.1:
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Aslam Mohammad
+        batsman: Arsalan Ahmed
+    - 0.2:
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Aslam Mohammad
+        batsman: Arsalan Ahmed
+    - 0.3:
+        non_striker: Arsalan Ahmed
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Mohammad
+    - 0.4:
+        non_striker: Aslam Mohammad
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arsalan Ahmed
+    - 0.5:
+        non_striker: Aslam Mohammad
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arsalan Ahmed
+    - 0.6:
+        non_striker: Aslam Mohammad
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Arsalan Ahmed
+    - 1.1:
+        non_striker: Arsalan Ahmed
+        bowler: Bakhtiar Tahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Mohammad
+    - 1.2:
+        non_striker: Arsalan Ahmed
+        bowler: Bakhtiar Tahiri
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Aslam Mohammad
+    - 1.3:
+        non_striker: Aslam Mohammad
+        bowler: Bakhtiar Tahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arsalan Ahmed
+        wicket:
+          player_out: Arsalan Ahmed
+          kind: bowled
+    - 1.4:
+        non_striker: Aslam Mohammad
+        bowler: Bakhtiar Tahiri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Manousis
+    - 1.5:
+        non_striker: Aslam Mohammad
+        bowler: Bakhtiar Tahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Manousis
+    - 1.6:
+        non_striker: Aslam Mohammad
+        bowler: Bakhtiar Tahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Manousis
+    - 1.7:
+        non_striker: Aslam Mohammad
+        bowler: Bakhtiar Tahiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Manousis
+    - 2.1:
+        non_striker: Aslam Mohammad
+        bowler: Aswad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Manousis
+    - 2.2:
+        non_striker: A Manousis
+        bowler: Aswad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Mohammad
+    - 2.3:
+        non_striker: Aslam Mohammad
+        bowler: Aswad Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Manousis
+    - 2.4:
+        non_striker: Aslam Mohammad
+        bowler: Aswad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Manousis
+    - 2.5:
+        non_striker: Aslam Mohammad
+        bowler: Aswad Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Manousis
+    - 2.6:
+        non_striker: Aslam Mohammad
+        bowler: Aswad Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Manousis
+    - 2.7:
+        non_striker: Aslam Mohammad
+        bowler: Aswad Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Manousis
+    - 2.8:
+        non_striker: Aslam Mohammad
+        bowler: Aswad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Manousis
+    - 3.1:
+        non_striker: A Manousis
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Mohammad
+        wicket:
+          player_out: Aslam Mohammad
+          fielders:
+          - H Ivanov
+          kind: caught
+    - 3.2:
+        non_striker: A Manousis
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asrar Ahmed
+    - 3.3:
+        non_striker: Asrar Ahmed
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Manousis
+    - 3.4:
+        non_striker: A Manousis
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed
+    - 3.5:
+        non_striker: A Manousis
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asrar Ahmed

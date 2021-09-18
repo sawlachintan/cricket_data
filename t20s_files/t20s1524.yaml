@@ -1,0 +1,1043 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-07-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Marsa
+  dates:
+  - '2021-07-08'
+  gender: male
+  match_type: T20
+  match_type_number: 1183
+  outcome:
+    winner: Belgium
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - B Niaz
+  players:
+    Malta:
+    - Zeeshan Khan
+    - HS Gericke
+    - SSM Stanislaus
+    - VP Thamotharam
+    - Amar Sharma
+    - B Arora
+    - N Khanna
+    - Ravinder Singh
+    - A Bishnoi
+    - Bilal Muhammad
+    - Washeem Abbas
+    Belgium:
+    - Said Hakim
+    - Hadisullah Tarakhel
+    - B Niaz
+    - Ashiqullah Said
+    - Khalid Ahmadi
+    - Mamoon Latif
+    - S Jamil
+    - NSK Mehta
+    - Shaheryar Butt
+    - Sheraz Sheikh
+    - Saber Zakhil
+  registry:
+    people:
+      A Bishnoi: 376557f7
+      Amar Sharma: 14e1fdab
+      Ashiqullah Said: 407d13cc
+      B Arora: 39e9f0c9
+      B Niaz: b7824537
+      Bilal Muhammad: eb5aa5b9
+      HS Gericke: c28a293e
+      Hadisullah Tarakhel: 77bedcce
+      Khalid Ahmadi: cf0b9a0d
+      Mamoon Latif: 8d78d0d0
+      N Khanna: 0ec6a7c3
+      NSK Mehta: d516a95f
+      Ravinder Singh: 710e1a5c
+      S Jamil: 3d6617c6
+      SSM Stanislaus: 34dd3fd9
+      Saber Zakhil: 036dcf9b
+      Said Hakim: 4cc59a40
+      Shaheryar Butt: b6bad765
+      Sheraz Sheikh: 4aad6842
+      VP Thamotharam: eb40ed89
+      Washeem Abbas: 6de4e430
+      Zeeshan Khan: 3f9b1a96
+  teams:
+  - Malta
+  - Belgium
+  toss:
+    decision: bat
+    winner: Malta
+  venue: Marsa Sports Club
+innings:
+- 1st innings:
+    team: Malta
+    deliveries:
+    - 0.1:
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HS Gericke
+        batsman: Zeeshan Khan
+    - 0.2:
+        non_striker: Zeeshan Khan
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Gericke
+    - 0.3:
+        non_striker: HS Gericke
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 0.4:
+        non_striker: Zeeshan Khan
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Gericke
+    - 0.5:
+        non_striker: HS Gericke
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+        wicket:
+          player_out: Zeeshan Khan
+          fielders:
+          - Sheraz Sheikh
+          kind: caught
+    - 0.6:
+        non_striker: HS Gericke
+        bowler: NSK Mehta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SSM Stanislaus
+    - 0.7:
+        non_striker: SSM Stanislaus
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Gericke
+    - 1.1:
+        non_striker: SSM Stanislaus
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Gericke
+    - 1.2:
+        non_striker: HS Gericke
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 1.3:
+        non_striker: HS Gericke
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 1.4:
+        non_striker: SSM Stanislaus
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HS Gericke
+    - 1.5:
+        non_striker: SSM Stanislaus
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Gericke
+    - 1.6:
+        non_striker: SSM Stanislaus
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Gericke
+    - 2.1:
+        non_striker: HS Gericke
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 2.2:
+        non_striker: HS Gericke
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 2.3:
+        non_striker: HS Gericke
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+        wicket:
+          player_out: SSM Stanislaus
+          kind: bowled
+    - 2.4:
+        non_striker: HS Gericke
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 2.5:
+        non_striker: HS Gericke
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 2.6:
+        non_striker: HS Gericke
+        bowler: Ashiqullah Said
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VP Thamotharam
+    - 2.7:
+        non_striker: HS Gericke
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 3.1:
+        non_striker: HS Gericke
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 3.2:
+        non_striker: HS Gericke
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+    - 3.3:
+        non_striker: HS Gericke
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 3.4:
+        non_striker: HS Gericke
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 3.5:
+        non_striker: HS Gericke
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 3.6:
+        non_striker: VP Thamotharam
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HS Gericke
+    - 3.7:
+        non_striker: VP Thamotharam
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Gericke
+        wicket:
+          player_out: HS Gericke
+          kind: lbw
+    - 4.1:
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amar Sharma
+        batsman: VP Thamotharam
+    - 4.2:
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Amar Sharma
+        batsman: VP Thamotharam
+    - 4.3:
+        non_striker: VP Thamotharam
+        bowler: Ashiqullah Said
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Amar Sharma
+    - 4.4:
+        non_striker: Amar Sharma
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+    - 4.5:
+        non_striker: Amar Sharma
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 4.6:
+        non_striker: Amar Sharma
+        bowler: Ashiqullah Said
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+    - 5.1:
+        non_striker: VP Thamotharam
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amar Sharma
+    - 5.2:
+        non_striker: Amar Sharma
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+        wicket:
+          player_out: VP Thamotharam
+          fielders:
+          - NSK Mehta
+          kind: caught
+    - 5.3:
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Arora
+        batsman: Amar Sharma
+    - 5.4:
+        non_striker: B Arora
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+        wicket:
+          player_out: Amar Sharma
+          fielders:
+          - Said Hakim
+          kind: caught
+    - 5.5:
+        non_striker: B Arora
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Khanna
+    - 5.6:
+        non_striker: N Khanna
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 6.1:
+        non_striker: B Arora
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Khanna
+    - 6.2:
+        non_striker: B Arora
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Khanna
+    - 6.3:
+        non_striker: B Arora
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Khanna
+    - 6.4:
+        non_striker: B Arora
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Khanna
+    - 6.5:
+        non_striker: N Khanna
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 6.6:
+        non_striker: N Khanna
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 7.1:
+        non_striker: B Arora
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Khanna
+        wicket:
+          player_out: N Khanna
+          fielders:
+          - Ashiqullah Said
+          kind: caught
+    - 7.2:
+        non_striker: B Arora
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinder Singh
+    - 7.3:
+        non_striker: B Arora
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinder Singh
+    - 7.4:
+        non_striker: B Arora
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinder Singh
+    - 7.5:
+        non_striker: B Arora
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinder Singh
+    - 7.6:
+        non_striker: B Arora
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinder Singh
+    - 8.1:
+        non_striker: Ravinder Singh
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 8.2:
+        non_striker: Ravinder Singh
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 8.3:
+        non_striker: Ravinder Singh
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 8.4:
+        non_striker: Ravinder Singh
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 8.5:
+        non_striker: Ravinder Singh
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 8.6:
+        non_striker: B Arora
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinder Singh
+    - 9.1:
+        non_striker: B Arora
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinder Singh
+    - 9.2:
+        non_striker: B Arora
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinder Singh
+    - 9.3:
+        non_striker: B Arora
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinder Singh
+    - 9.4:
+        non_striker: B Arora
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinder Singh
+    - 9.5:
+        non_striker: B Arora
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinder Singh
+    - 9.6:
+        non_striker: B Arora
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ravinder Singh
+    - 10.1:
+        non_striker: Ravinder Singh
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 10.2:
+        non_striker: Ravinder Singh
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 10.3:
+        non_striker: B Arora
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinder Singh
+    - 10.4:
+        non_striker: Ravinder Singh
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 10.5:
+        non_striker: B Arora
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinder Singh
+    - 10.6:
+        non_striker: Ravinder Singh
+        bowler: NSK Mehta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 11.1:
+        non_striker: B Arora
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinder Singh
+    - 11.2:
+        non_striker: Ravinder Singh
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+        wicket:
+          player_out: B Arora
+          kind: bowled
+    - 11.3:
+        non_striker: Ravinder Singh
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bishnoi
+        wicket:
+          player_out: A Bishnoi
+          kind: run out
+    - 11.4:
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Bilal Muhammad
+        batsman: Ravinder Singh
+    - 11.5:
+        non_striker: Ravinder Singh
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Muhammad
+    - 11.6:
+        non_striker: Ravinder Singh
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bilal Muhammad
+    - 12.1:
+        non_striker: Bilal Muhammad
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinder Singh
+    - 12.2:
+        non_striker: Ravinder Singh
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Muhammad
+    - 12.3:
+        non_striker: Bilal Muhammad
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinder Singh
+    - 12.4:
+        non_striker: Ravinder Singh
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Muhammad
+        wicket:
+          player_out: Bilal Muhammad
+          kind: run out
+    - 12.5:
+        non_striker: Ravinder Singh
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washeem Abbas
+    - 12.6:
+        non_striker: Washeem Abbas
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinder Singh
+        wicket:
+          player_out: Ravinder Singh
+          kind: bowled
+- 2nd innings:
+    team: Belgium
+    deliveries:
+    - 0.1:
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Hadisullah Tarakhel
+        batsman: Said Hakim
+    - 0.2:
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Hadisullah Tarakhel
+        batsman: Said Hakim
+    - 0.3:
+        non_striker: Said Hakim
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hadisullah Tarakhel
+    - 0.4:
+        non_striker: Hadisullah Tarakhel
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Said Hakim
+    - 0.5:
+        non_striker: Hadisullah Tarakhel
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Said Hakim
+    - 0.6:
+        non_striker: Hadisullah Tarakhel
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Said Hakim
+    - 1.1:
+        non_striker: Said Hakim
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hadisullah Tarakhel
+    - 1.2:
+        non_striker: Said Hakim
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hadisullah Tarakhel
+    - 1.3:
+        non_striker: Said Hakim
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hadisullah Tarakhel
+    - 1.4:
+        non_striker: Said Hakim
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hadisullah Tarakhel
+    - 1.5:
+        non_striker: Said Hakim
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hadisullah Tarakhel
+    - 1.6:
+        non_striker: Said Hakim
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hadisullah Tarakhel
+    - 2.1:
+        non_striker: Hadisullah Tarakhel
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Said Hakim
+    - 2.2:
+        non_striker: Hadisullah Tarakhel
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Said Hakim
+    - 2.3:
+        non_striker: Hadisullah Tarakhel
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Said Hakim
+    - 2.4:
+        non_striker: Hadisullah Tarakhel
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Said Hakim
+    - 2.5:
+        non_striker: Hadisullah Tarakhel
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Said Hakim
+    - 2.6:
+        non_striker: Said Hakim
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hadisullah Tarakhel
+    - 3.1:
+        non_striker: Said Hakim
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hadisullah Tarakhel
+    - 3.2:
+        non_striker: Said Hakim
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hadisullah Tarakhel
+    - 3.3:
+        non_striker: Said Hakim
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hadisullah Tarakhel
+    - 3.4:
+        non_striker: Said Hakim
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hadisullah Tarakhel
+    - 3.5:
+        non_striker: Hadisullah Tarakhel
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Said Hakim
+    - 3.6:
+        non_striker: Hadisullah Tarakhel
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Said Hakim
+    - 4.1:
+        non_striker: Said Hakim
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hadisullah Tarakhel
+    - 4.2:
+        non_striker: Said Hakim
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hadisullah Tarakhel
+    - 4.3:
+        non_striker: Said Hakim
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hadisullah Tarakhel
+    - 4.4:
+        non_striker: Said Hakim
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hadisullah Tarakhel
+    - 4.5:
+        non_striker: Said Hakim
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hadisullah Tarakhel
+    - 4.6:
+        non_striker: Said Hakim
+        bowler: Amar Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Hadisullah Tarakhel
+    - 5.1:
+        non_striker: Said Hakim
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hadisullah Tarakhel
+    - 5.2:
+        non_striker: Said Hakim
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hadisullah Tarakhel
+    - 5.3:
+        non_striker: Said Hakim
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hadisullah Tarakhel

@@ -1,0 +1,1876 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-04-13'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Chennai
+  competition: IPL
+  dates:
+  - '2019-03-23'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Chennai Super Kings
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - Harbhajan Singh
+  players:
+    Royal Challengers Bangalore:
+    - V Kohli
+    - PA Patel
+    - MM Ali
+    - AB de Villiers
+    - SO Hetmyer
+    - S Dube
+    - C de Grandhomme
+    - NA Saini
+    - YS Chahal
+    - UT Yadav
+    - Mohammed Siraj
+    Chennai Super Kings:
+    - SR Watson
+    - AT Rayudu
+    - SK Raina
+    - KM Jadhav
+    - RA Jadeja
+    - MS Dhoni
+    - DJ Bravo
+    - DL Chahar
+    - SN Thakur
+    - Harbhajan Singh
+    - Imran Tahir
+  registry:
+    people:
+      AB de Villiers: c4487b84
+      AT Rayudu: 70d205c9
+      AY Dandekar: 2efc430e
+      BNJ Oxenford: c1add349
+      C de Grandhomme: 94d7f855
+      DJ Bravo: 87e562a9
+      DL Chahar: 23eeb873
+      HAS Khalid: 291ded7c
+      Harbhajan Singh: 8b5b6769
+      Imran Tahir: acee4cc4
+      J Srinath: bad31fac
+      KM Jadhav: 99d63244
+      MM Ali: bb351c23
+      MS Dhoni: 4a8a2e3b
+      Mohammed Siraj: 2f49c897
+      NA Saini: 21d4e29b
+      Nitin Menon: e1d41d9e
+      PA Patel: b5da6c24
+      RA Jadeja: fe93fd9d
+      S Dube: a4e37e47
+      SK Raina: 1dc12ab9
+      SN Thakur: 1abb78f8
+      SO Hetmyer: 48a1d7b7
+      SR Watson: 4329fbb5
+      UT Yadav: cc1e8c68
+      V Kohli: ba607b88
+      YS Chahal: 57ee1fde
+  teams:
+  - Royal Challengers Bangalore
+  - Chennai Super Kings
+  toss:
+    decision: field
+    winner: Chennai Super Kings
+  umpires:
+  - AY Dandekar
+  - BNJ Oxenford
+  venue: MA Chidambaram Stadium
+innings:
+- 1st innings:
+    team: Royal Challengers Bangalore
+    deliveries:
+    - 0.1:
+        non_striker: PA Patel
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 0.2:
+        non_striker: V Kohli
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 0.3:
+        non_striker: V Kohli
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 0.4:
+        non_striker: V Kohli
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 0.5:
+        non_striker: V Kohli
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 0.6:
+        non_striker: V Kohli
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 1.1:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 1.2:
+        non_striker: V Kohli
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 1.3:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 1.4:
+        non_striker: V Kohli
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Patel
+    - 1.5:
+        non_striker: V Kohli
+        bowler: Harbhajan Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PA Patel
+    - 1.6:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 2.1:
+        non_striker: PA Patel
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 2.2:
+        non_striker: PA Patel
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 2.3:
+        non_striker: PA Patel
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 2.4:
+        non_striker: PA Patel
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 2.5:
+        non_striker: PA Patel
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 2.6:
+        non_striker: PA Patel
+        bowler: DL Chahar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: V Kohli
+    - 2.7:
+        non_striker: PA Patel
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 3.1:
+        non_striker: V Kohli
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 3.2:
+        non_striker: V Kohli
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 3.3:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+        wicket:
+          player_out: V Kohli
+          fielders:
+          - RA Jadeja
+          kind: caught
+    - 3.4:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 3.5:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 3.6:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MM Ali
+    - 4.1:
+        non_striker: MM Ali
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 4.2:
+        non_striker: PA Patel
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 4.3:
+        non_striker: MM Ali
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 4.4:
+        non_striker: PA Patel
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 4.5:
+        non_striker: MM Ali
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 4.6:
+        non_striker: PA Patel
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 5.1:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 5.2:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+        wicket:
+          player_out: MM Ali
+          kind: caught and bowled
+    - 5.3:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB de Villiers
+    - 5.4:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB de Villiers
+    - 5.5:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 5.6:
+        non_striker: AB de Villiers
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 6.1:
+        non_striker: PA Patel
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 6.2:
+        non_striker: AB de Villiers
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 6.3:
+        non_striker: PA Patel
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 6.4:
+        non_striker: PA Patel
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 6.5:
+        non_striker: PA Patel
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 6.6:
+        non_striker: PA Patel
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 7.1:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB de Villiers
+    - 7.2:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+        wicket:
+          player_out: AB de Villiers
+          fielders:
+          - RA Jadeja
+          kind: caught
+    - 7.3:
+        non_striker: SO Hetmyer
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 7.4:
+        non_striker: SO Hetmyer
+        bowler: Harbhajan Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PA Patel
+    - 7.5:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 7.6:
+        non_striker: PA Patel
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          kind: run out
+    - 8.1:
+        non_striker: S Dube
+        bowler: SK Raina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 8.2:
+        non_striker: PA Patel
+        bowler: SK Raina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 8.3:
+        non_striker: PA Patel
+        bowler: SK Raina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 8.4:
+        non_striker: S Dube
+        bowler: SK Raina
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Patel
+    - 8.5:
+        non_striker: S Dube
+        bowler: SK Raina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 8.6:
+        non_striker: PA Patel
+        bowler: SK Raina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 9.1:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 9.2:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+        wicket:
+          player_out: S Dube
+          fielders:
+          - SR Watson
+          kind: caught
+    - 9.3:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 9.4:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 9.5:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C de Grandhomme
+    - 9.6:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 10.1:
+        non_striker: C de Grandhomme
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 10.2:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 10.3:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+        wicket:
+          player_out: C de Grandhomme
+          fielders:
+          - MS Dhoni
+          kind: caught
+    - 10.4:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Saini
+    - 10.5:
+        non_striker: NA Saini
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 10.6:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Saini
+    - 11.1:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Saini
+        wicket:
+          player_out: NA Saini
+          fielders:
+          - SR Watson
+          kind: caught
+    - 11.2:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 11.3:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 11.4:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chahal
+    - 11.5:
+        non_striker: YS Chahal
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 11.6:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 12.1:
+        non_striker: YS Chahal
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 12.2:
+        non_striker: YS Chahal
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 12.3:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 12.4:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 12.5:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 12.6:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: YS Chahal
+    - 13.1:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 13.2:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 13.3:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 13.4:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+        wicket:
+          player_out: YS Chahal
+          fielders:
+          - Harbhajan Singh
+          kind: caught
+    - 13.5:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+    - 13.6:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+    - 14.1:
+        non_striker: UT Yadav
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 14.2:
+        non_striker: UT Yadav
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 14.3:
+        non_striker: UT Yadav
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Patel
+    - 14.4:
+        non_striker: UT Yadav
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 14.5:
+        non_striker: UT Yadav
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 14.6:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+    - 15.1:
+        non_striker: UT Yadav
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 15.2:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+    - 15.3:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+    - 15.4:
+        non_striker: PA Patel
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Yadav
+    - 15.5:
+        non_striker: UT Yadav
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 15.6:
+        non_striker: UT Yadav
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 16.1:
+        non_striker: UT Yadav
+        bowler: RA Jadeja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PA Patel
+    - 16.2:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+    - 16.3:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+    - 16.4:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+    - 16.5:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+        wicket:
+          player_out: UT Yadav
+          kind: bowled
+    - 16.6:
+        non_striker: PA Patel
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+    - 17.1:
+        non_striker: Mohammed Siraj
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+        wicket:
+          player_out: PA Patel
+          fielders:
+          - KM Jadhav
+          kind: caught
+- 2nd innings:
+    team: Chennai Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 0.2:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 0.3:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 0.4:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 0.5:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 0.6:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 1.1:
+        non_striker: SR Watson
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 1.2:
+        non_striker: SR Watson
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 1.3:
+        non_striker: AT Rayudu
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 1.4:
+        non_striker: AT Rayudu
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 1.5:
+        non_striker: AT Rayudu
+        bowler: NA Saini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SR Watson
+    - 1.6:
+        non_striker: SR Watson
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AT Rayudu
+    - 2.1:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+        wicket:
+          player_out: SR Watson
+          kind: bowled
+    - 2.2:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 2.3:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 2.4:
+        non_striker: SK Raina
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 2.5:
+        non_striker: SK Raina
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 2.6:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 3.1:
+        non_striker: SK Raina
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 3.2:
+        non_striker: SK Raina
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 3.3:
+        non_striker: SK Raina
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 3.4:
+        non_striker: SK Raina
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 3.5:
+        non_striker: SK Raina
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 3.6:
+        non_striker: SK Raina
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 4.1:
+        non_striker: SK Raina
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 4.2:
+        non_striker: SK Raina
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 4.3:
+        non_striker: SK Raina
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 4.4:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 4.5:
+        non_striker: SK Raina
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 4.6:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 5.1:
+        non_striker: SK Raina
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 5.2:
+        non_striker: SK Raina
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 5.3:
+        non_striker: SK Raina
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 5.4:
+        non_striker: SK Raina
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 5.5:
+        non_striker: AT Rayudu
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 5.6:
+        non_striker: SK Raina
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 6.1:
+        non_striker: AT Rayudu
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 6.2:
+        non_striker: AT Rayudu
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 6.3:
+        non_striker: AT Rayudu
+        bowler: NA Saini
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: SK Raina
+    - 6.4:
+        non_striker: SK Raina
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 6.5:
+        non_striker: SK Raina
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 6.6:
+        non_striker: AT Rayudu
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 6.7:
+        non_striker: AT Rayudu
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 7.1:
+        non_striker: SK Raina
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 7.2:
+        non_striker: AT Rayudu
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Raina
+    - 7.3:
+        non_striker: AT Rayudu
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Raina
+    - 7.4:
+        non_striker: AT Rayudu
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 7.5:
+        non_striker: AT Rayudu
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 7.6:
+        non_striker: AT Rayudu
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 8.1:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+    - 8.2:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 8.3:
+        non_striker: SK Raina
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 8.4:
+        non_striker: SK Raina
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 8.5:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Raina
+    - 8.6:
+        non_striker: SK Raina
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 9.1:
+        non_striker: AT Rayudu
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Raina
+    - 9.2:
+        non_striker: AT Rayudu
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Raina
+        wicket:
+          player_out: SK Raina
+          fielders:
+          - S Dube
+          kind: caught
+    - 9.3:
+        non_striker: AT Rayudu
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 9.4:
+        non_striker: AT Rayudu
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Jadhav
+    - 9.5:
+        non_striker: AT Rayudu
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 9.6:
+        non_striker: AT Rayudu
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 10.1:
+        non_striker: KM Jadhav
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 10.2:
+        non_striker: KM Jadhav
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 10.3:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 10.4:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 10.5:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 10.6:
+        non_striker: AT Rayudu
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Jadhav
+    - 11.1:
+        non_striker: KM Jadhav
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 11.2:
+        non_striker: KM Jadhav
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 11.3:
+        non_striker: KM Jadhav
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 11.4:
+        non_striker: KM Jadhav
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 11.5:
+        non_striker: KM Jadhav
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 11.6:
+        non_striker: KM Jadhav
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 12.1:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 12.2:
+        non_striker: AT Rayudu
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jadhav
+    - 12.3:
+        non_striker: KM Jadhav
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 12.4:
+        non_striker: KM Jadhav
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 12.5:
+        non_striker: KM Jadhav
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 12.6:
+        non_striker: KM Jadhav
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 13.1:
+        non_striker: AT Rayudu
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 13.2:
+        non_striker: AT Rayudu
+        bowler: NA Saini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Jadhav
+    - 13.3:
+        non_striker: AT Rayudu
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 13.4:
+        non_striker: AT Rayudu
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jadhav
+    - 13.5:
+        non_striker: KM Jadhav
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Rayudu
+    - 13.6:
+        non_striker: KM Jadhav
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Rayudu
+    - 13.7:
+        non_striker: KM Jadhav
+        bowler: NA Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 14.1:
+        non_striker: AT Rayudu
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jadhav
+    - 14.2:
+        non_striker: KM Jadhav
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+        wicket:
+          player_out: AT Rayudu
+          kind: bowled
+    - 14.3:
+        non_striker: KM Jadhav
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 14.4:
+        non_striker: KM Jadhav
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Jadeja
+    - 14.5:
+        non_striker: KM Jadhav
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 14.6:
+        non_striker: RA Jadeja
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jadhav
+    - 15.1:
+        non_striker: RA Jadeja
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jadhav
+    - 15.2:
+        non_striker: KM Jadhav
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 15.3:
+        non_striker: KM Jadhav
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 15.4:
+        non_striker: RA Jadeja
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jadhav
+    - 15.5:
+        non_striker: KM Jadhav
+        bowler: UT Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Jadeja
+    - 15.6:
+        non_striker: KM Jadhav
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 15.7:
+        non_striker: RA Jadeja
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 16.1:
+        non_striker: KM Jadhav
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 16.2:
+        non_striker: KM Jadhav
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 16.3:
+        non_striker: KM Jadhav
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 16.4:
+        non_striker: KM Jadhav
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 16.5:
+        non_striker: KM Jadhav
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 16.6:
+        non_striker: KM Jadhav
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 17.1:
+        non_striker: RA Jadeja
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jadhav
+    - 17.2:
+        non_striker: KM Jadhav
+        bowler: S Dube
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Jadeja
+    - 17.3:
+        non_striker: KM Jadhav
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 17.4:
+        non_striker: KM Jadhav
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 17.5:
+        non_striker: KM Jadhav
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja

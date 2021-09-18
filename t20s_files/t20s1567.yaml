@@ -1,0 +1,2162 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-08-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Krefeld
+  dates:
+  - '2021-08-08'
+  gender: male
+  match_type: T20
+  match_type_number: 1220
+  outcome:
+    winner: Norway
+    by:
+      runs: 51
+  overs: 20
+  player_of_match:
+  - Wahidullah Sahak
+  players:
+    Norway:
+    - Raza Iqbal
+    - E Ul Haq
+    - Wahidullah Sahak
+    - D Abeyrathna
+    - Sher Sahak
+    - Usman Arif (2)
+    - Vinay Ravi
+    - S Waqas Ahmed
+    - P Bhart
+    - Junaid Mehmood
+    - Bilal Safdar
+    Germany:
+    - Husnain Kabeer
+    - Abdul-Shakoor Rahimzei
+    - Talha Khan
+    - H Singh
+    - V Ganesan
+    - Azmat Ali
+    - Sahir Naqash
+    - Nooruddin Mujadady
+    - SVE Bharathi
+    - Israr Khan
+    - Ahmadschah Ahmadzai
+  registry:
+    people:
+      Abdul-Shakoor Rahimzei: e45810ed
+      Ahmadschah Ahmadzai: d6055cb9
+      Azmat Ali: 4121a79a
+      Bilal Safdar: 1c4161b3
+      D Abeyrathna: ee17d329
+      E Ul Haq: 3559290a
+      H Singh: 8209da53
+      Husnain Kabeer: 8787dd53
+      Israr Khan: 4ee5ded2
+      J Flannery: 22431c5a
+      Junaid Mehmood: 3e46c4f3
+      M Jameson: bdf1ffe3
+      Nooruddin Mujadady: fcd92ab0
+      P Bhart: 0daf3ffc
+      Raza Iqbal: eee46f77
+      S Waqas Ahmed: fb27d38c
+      SVE Bharathi: 6a63c29c
+      Sahir Naqash: 352e589f
+      Sher Sahak: 8299b9a2
+      Talha Khan: 8e5a1a7a
+      Usman Arif: fccc2d5a
+      V Ganesan: baa7dd37
+      Vinay Malhotra: 452837d1
+      Vinay Ravi: 9c181b99
+      Wahidullah Sahak: 6913e38e
+  teams:
+  - Norway
+  - Germany
+  toss:
+    decision: field
+    winner: Germany
+  umpires:
+  - J Flannery
+  - M Jameson
+  venue: Bayer Uerdingen Cricket Ground
+innings:
+- 1st innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Ul Haq
+        batsman: Raza Iqbal
+    - 0.2:
+        non_striker: Raza Iqbal
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Ul Haq
+    - 0.3:
+        non_striker: Raza Iqbal
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ul Haq
+    - 0.4:
+        non_striker: Raza Iqbal
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ul Haq
+    - 0.5:
+        non_striker: Raza Iqbal
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ul Haq
+        wicket:
+          player_out: E Ul Haq
+          fielders:
+          - Husnain Kabeer
+          kind: caught
+    - 0.6:
+        non_striker: Raza Iqbal
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wahidullah Sahak
+    - 1.1:
+        non_striker: Wahidullah Sahak
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raza Iqbal
+    - 1.2:
+        non_striker: Raza Iqbal
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 1.3:
+        non_striker: Raza Iqbal
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 1.4:
+        non_striker: Raza Iqbal
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahidullah Sahak
+    - 1.5:
+        non_striker: Wahidullah Sahak
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Raza Iqbal
+    - 1.6:
+        non_striker: Wahidullah Sahak
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raza Iqbal
+    - 2.1:
+        non_striker: Raza Iqbal
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Wahidullah Sahak
+    - 2.2:
+        non_striker: Wahidullah Sahak
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Raza Iqbal
+    - 2.3:
+        non_striker: Wahidullah Sahak
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Raza Iqbal
+    - 2.4:
+        non_striker: Wahidullah Sahak
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Raza Iqbal
+    - 2.5:
+        non_striker: Wahidullah Sahak
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raza Iqbal
+    - 2.6:
+        non_striker: Wahidullah Sahak
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raza Iqbal
+    - 2.7:
+        non_striker: Wahidullah Sahak
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raza Iqbal
+    - 2.8:
+        non_striker: Wahidullah Sahak
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raza Iqbal
+    - 2.9:
+        non_striker: Raza Iqbal
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 3.1:
+        non_striker: Wahidullah Sahak
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raza Iqbal
+    - 3.2:
+        non_striker: Wahidullah Sahak
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raza Iqbal
+    - 3.3:
+        non_striker: Wahidullah Sahak
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raza Iqbal
+    - 3.4:
+        non_striker: Wahidullah Sahak
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raza Iqbal
+    - 3.5:
+        non_striker: Wahidullah Sahak
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raza Iqbal
+    - 3.6:
+        non_striker: Raza Iqbal
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 4.1:
+        non_striker: Wahidullah Sahak
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Raza Iqbal
+    - 4.2:
+        non_striker: Wahidullah Sahak
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Raza Iqbal
+    - 4.3:
+        non_striker: Wahidullah Sahak
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Raza Iqbal
+    - 4.4:
+        non_striker: Wahidullah Sahak
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Raza Iqbal
+    - 4.5:
+        non_striker: Wahidullah Sahak
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raza Iqbal
+    - 4.6:
+        non_striker: Raza Iqbal
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 5.1:
+        non_striker: Wahidullah Sahak
+        bowler: SVE Bharathi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Raza Iqbal
+    - 5.2:
+        non_striker: Raza Iqbal
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahidullah Sahak
+    - 5.3:
+        non_striker: Wahidullah Sahak
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raza Iqbal
+    - 5.4:
+        non_striker: Wahidullah Sahak
+        bowler: SVE Bharathi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Raza Iqbal
+    - 5.5:
+        non_striker: Wahidullah Sahak
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raza Iqbal
+    - 5.6:
+        non_striker: Wahidullah Sahak
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raza Iqbal
+        wicket:
+          player_out: Raza Iqbal
+          fielders:
+          - Nooruddin Mujadady
+          kind: caught
+    - 5.7:
+        non_striker: Wahidullah Sahak
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+    - 6.1:
+        non_striker: D Abeyrathna
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 6.2:
+        non_striker: D Abeyrathna
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahidullah Sahak
+    - 6.3:
+        non_striker: Wahidullah Sahak
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+    - 6.4:
+        non_striker: Wahidullah Sahak
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+    - 6.5:
+        non_striker: Wahidullah Sahak
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Abeyrathna
+    - 6.6:
+        non_striker: Wahidullah Sahak
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Abeyrathna
+    - 6.7:
+        non_striker: D Abeyrathna
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 7.1:
+        non_striker: Wahidullah Sahak
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+    - 7.2:
+        non_striker: Wahidullah Sahak
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+    - 7.3:
+        non_striker: Wahidullah Sahak
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Abeyrathna
+    - 7.4:
+        non_striker: D Abeyrathna
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahidullah Sahak
+    - 7.5:
+        non_striker: Wahidullah Sahak
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Abeyrathna
+    - 7.6:
+        non_striker: D Abeyrathna
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wahidullah Sahak
+    - 8.1:
+        non_striker: Wahidullah Sahak
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+    - 8.2:
+        non_striker: Wahidullah Sahak
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+    - 8.3:
+        non_striker: Wahidullah Sahak
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: D Abeyrathna
+    - 8.4:
+        non_striker: D Abeyrathna
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Wahidullah Sahak
+    - 8.5:
+        non_striker: D Abeyrathna
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahidullah Sahak
+    - 8.6:
+        non_striker: Wahidullah Sahak
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Abeyrathna
+    - 9.1:
+        non_striker: Wahidullah Sahak
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+    - 9.2:
+        non_striker: Wahidullah Sahak
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Abeyrathna
+    - 9.3:
+        non_striker: D Abeyrathna
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahidullah Sahak
+    - 9.4:
+        non_striker: Wahidullah Sahak
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+    - 9.5:
+        non_striker: Wahidullah Sahak
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+    - 9.6:
+        non_striker: Wahidullah Sahak
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+    - 10.1:
+        non_striker: D Abeyrathna
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 10.2:
+        non_striker: D Abeyrathna
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 10.3:
+        non_striker: D Abeyrathna
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahidullah Sahak
+    - 10.4:
+        non_striker: Wahidullah Sahak
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+    - 10.5:
+        non_striker: Wahidullah Sahak
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Abeyrathna
+    - 10.6:
+        non_striker: D Abeyrathna
+        bowler: Abdul-Shakoor Rahimzei
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 11.1:
+        non_striker: Wahidullah Sahak
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Abeyrathna
+    - 11.2:
+        non_striker: D Abeyrathna
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Wahidullah Sahak
+    - 11.3:
+        non_striker: D Abeyrathna
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Wahidullah Sahak
+    - 11.4:
+        non_striker: D Abeyrathna
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wahidullah Sahak
+    - 11.5:
+        non_striker: D Abeyrathna
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 11.6:
+        non_striker: D Abeyrathna
+        bowler: V Ganesan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahidullah Sahak
+    - 12.1:
+        non_striker: D Abeyrathna
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 12.2:
+        non_striker: D Abeyrathna
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 12.3:
+        non_striker: D Abeyrathna
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 12.4:
+        non_striker: D Abeyrathna
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 12.5:
+        non_striker: D Abeyrathna
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wahidullah Sahak
+    - 12.6:
+        non_striker: D Abeyrathna
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 13.1:
+        non_striker: Wahidullah Sahak
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Abeyrathna
+    - 13.2:
+        non_striker: D Abeyrathna
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 13.3:
+        non_striker: D Abeyrathna
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahidullah Sahak
+    - 13.4:
+        non_striker: Wahidullah Sahak
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Abeyrathna
+    - 13.5:
+        non_striker: D Abeyrathna
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 13.6:
+        non_striker: D Abeyrathna
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wahidullah Sahak
+    - 14.1:
+        non_striker: Wahidullah Sahak
+        bowler: Ahmadschah Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Abeyrathna
+    - 14.2:
+        non_striker: D Abeyrathna
+        bowler: Ahmadschah Ahmadzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wahidullah Sahak
+    - 14.3:
+        non_striker: D Abeyrathna
+        bowler: Ahmadschah Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahidullah Sahak
+    - 14.4:
+        non_striker: Wahidullah Sahak
+        bowler: Ahmadschah Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+    - 14.5:
+        non_striker: Wahidullah Sahak
+        bowler: Ahmadschah Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+        wicket:
+          player_out: D Abeyrathna
+          fielders:
+          - Israr Khan
+          kind: caught
+    - 14.6:
+        non_striker: Sher Sahak
+        bowler: Ahmadschah Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahidullah Sahak
+    - 15.1:
+        non_striker: Sher Sahak
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wahidullah Sahak
+    - 15.2:
+        non_striker: Sher Sahak
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahidullah Sahak
+    - 15.3:
+        non_striker: Wahidullah Sahak
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sher Sahak
+    - 15.4:
+        non_striker: Wahidullah Sahak
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sher Sahak
+    - 15.5:
+        non_striker: Wahidullah Sahak
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sher Sahak
+    - 15.6:
+        non_striker: Wahidullah Sahak
+        bowler: Israr Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sher Sahak
+    - 16.1:
+        non_striker: Sher Sahak
+        bowler: Ahmadschah Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+    - 16.2:
+        non_striker: Sher Sahak
+        bowler: Ahmadschah Ahmadzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Wahidullah Sahak
+    - 16.3:
+        non_striker: Sher Sahak
+        bowler: Ahmadschah Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+        wicket:
+          player_out: Wahidullah Sahak
+          kind: caught and bowled
+    - 16.4:
+        non_striker: Sher Sahak
+        bowler: Ahmadschah Ahmadzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Usman Arif (2)
+    - 16.5:
+        non_striker: Sher Sahak
+        bowler: Ahmadschah Ahmadzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Usman Arif (2)
+    - 16.6:
+        non_striker: Sher Sahak
+        bowler: Ahmadschah Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Arif (2)
+    - 17.1:
+        non_striker: Sher Sahak
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Usman Arif (2)
+    - 17.2:
+        non_striker: Usman Arif (2)
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sher Sahak
+    - 17.3:
+        non_striker: Usman Arif (2)
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sher Sahak
+    - 17.4:
+        non_striker: Usman Arif (2)
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sher Sahak
+    - 17.5:
+        non_striker: Sher Sahak
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Arif (2)
+    - 17.6:
+        non_striker: Usman Arif (2)
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sher Sahak
+    - 18.1:
+        non_striker: Sher Sahak
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Usman Arif (2)
+    - 18.2:
+        non_striker: Sher Sahak
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Usman Arif (2)
+    - 18.3:
+        non_striker: Sher Sahak
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Arif (2)
+    - 18.4:
+        non_striker: Sher Sahak
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Arif (2)
+        wicket:
+          player_out: Usman Arif (2)
+          fielders:
+          - Israr Khan
+          kind: caught
+    - 18.5:
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Vinay Ravi
+        batsman: Sher Sahak
+    - 18.6:
+        non_striker: Vinay Ravi
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sher Sahak
+    - 19.1:
+        non_striker: Sher Sahak
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinay Ravi
+    - 19.2:
+        non_striker: Vinay Ravi
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sher Sahak
+    - 19.3:
+        non_striker: Vinay Ravi
+        bowler: Sahir Naqash
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Sher Sahak
+    - 19.4:
+        non_striker: Sher Sahak
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinay Ravi
+    - 19.5:
+        non_striker: Vinay Ravi
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sher Sahak
+        wicket:
+          player_out: Vinay Ravi
+          kind: run out
+    - 19.6:
+        bowler: Sahir Naqash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: S Waqas Ahmed
+        batsman: Sher Sahak
+    - 19.7:
+        non_striker: Sher Sahak
+        bowler: Sahir Naqash
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: S Waqas Ahmed
+    - 19.8:
+        non_striker: Sher Sahak
+        bowler: Sahir Naqash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Waqas Ahmed
+        wicket:
+          player_out: S Waqas Ahmed
+          kind: run out
+- 2nd innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Abdul-Shakoor Rahimzei
+        batsman: Husnain Kabeer
+    - 0.2:
+        non_striker: Husnain Kabeer
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul-Shakoor Rahimzei
+    - 0.3:
+        non_striker: Abdul-Shakoor Rahimzei
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Husnain Kabeer
+    - 0.4:
+        non_striker: Abdul-Shakoor Rahimzei
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Husnain Kabeer
+    - 0.5:
+        non_striker: Abdul-Shakoor Rahimzei
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Husnain Kabeer
+    - 0.6:
+        non_striker: Abdul-Shakoor Rahimzei
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Husnain Kabeer
+    - 1.1:
+        non_striker: Husnain Kabeer
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul-Shakoor Rahimzei
+    - 1.2:
+        non_striker: Abdul-Shakoor Rahimzei
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Husnain Kabeer
+        wicket:
+          player_out: Husnain Kabeer
+          fielders:
+          - P Bhart
+          kind: caught
+    - 1.3:
+        non_striker: Abdul-Shakoor Rahimzei
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Talha Khan
+    - 1.4:
+        non_striker: Talha Khan
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul-Shakoor Rahimzei
+    - 1.5:
+        non_striker: Talha Khan
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul-Shakoor Rahimzei
+    - 1.6:
+        non_striker: Talha Khan
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul-Shakoor Rahimzei
+    - 2.1:
+        non_striker: Talha Khan
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul-Shakoor Rahimzei
+    - 2.2:
+        non_striker: Talha Khan
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abdul-Shakoor Rahimzei
+    - 2.3:
+        non_striker: Talha Khan
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul-Shakoor Rahimzei
+    - 2.4:
+        non_striker: Abdul-Shakoor Rahimzei
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Talha Khan
+    - 2.5:
+        non_striker: Abdul-Shakoor Rahimzei
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Talha Khan
+    - 2.6:
+        non_striker: Abdul-Shakoor Rahimzei
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Talha Khan
+    - 3.1:
+        non_striker: Talha Khan
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul-Shakoor Rahimzei
+    - 3.2:
+        non_striker: Talha Khan
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul-Shakoor Rahimzei
+    - 3.3:
+        non_striker: Abdul-Shakoor Rahimzei
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Talha Khan
+    - 3.4:
+        non_striker: Talha Khan
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdul-Shakoor Rahimzei
+    - 3.5:
+        non_striker: Talha Khan
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul-Shakoor Rahimzei
+    - 3.6:
+        non_striker: Talha Khan
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul-Shakoor Rahimzei
+    - 4.1:
+        non_striker: Talha Khan
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul-Shakoor Rahimzei
+    - 4.2:
+        non_striker: Abdul-Shakoor Rahimzei
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Talha Khan
+    - 4.3:
+        non_striker: Abdul-Shakoor Rahimzei
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Talha Khan
+    - 4.4:
+        non_striker: Talha Khan
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul-Shakoor Rahimzei
+    - 4.5:
+        non_striker: Talha Khan
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul-Shakoor Rahimzei
+    - 4.6:
+        non_striker: Talha Khan
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul-Shakoor Rahimzei
+    - 5.1:
+        non_striker: Talha Khan
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul-Shakoor Rahimzei
+        wicket:
+          player_out: Abdul-Shakoor Rahimzei
+          kind: bowled
+    - 5.2:
+        non_striker: Talha Khan
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 5.3:
+        non_striker: Talha Khan
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 5.4:
+        non_striker: H Singh
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Talha Khan
+    - 5.5:
+        non_striker: Talha Khan
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 5.6:
+        non_striker: H Singh
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Talha Khan
+    - 6.1:
+        non_striker: Talha Khan
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 6.2:
+        non_striker: Talha Khan
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 6.3:
+        non_striker: H Singh
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Talha Khan
+    - 6.4:
+        non_striker: H Singh
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Talha Khan
+        wicket:
+          player_out: Talha Khan
+          fielders:
+          - Bilal Safdar
+          kind: caught
+    - 6.5:
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: V Ganesan
+        batsman: H Singh
+    - 6.6:
+        non_striker: V Ganesan
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 7.1:
+        non_striker: H Singh
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+    - 7.2:
+        non_striker: H Singh
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 7.3:
+        non_striker: V Ganesan
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 7.4:
+        non_striker: H Singh
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 7.5:
+        non_striker: V Ganesan
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 7.6:
+        non_striker: H Singh
+        bowler: P Bhart
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Ganesan
+    - 7.7:
+        non_striker: H Singh
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+    - 8.1:
+        non_striker: V Ganesan
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 8.2:
+        non_striker: H Singh
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 8.3:
+        non_striker: V Ganesan
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 8.4:
+        non_striker: V Ganesan
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 8.5:
+        non_striker: V Ganesan
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 8.6:
+        non_striker: H Singh
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 9.1:
+        non_striker: H Singh
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 9.2:
+        non_striker: V Ganesan
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 9.3:
+        non_striker: V Ganesan
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 9.4:
+        non_striker: V Ganesan
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 9.5:
+        non_striker: H Singh
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+        wicket:
+          player_out: V Ganesan
+          fielders:
+          - D Abeyrathna
+          kind: caught
+    - 9.6:
+        non_striker: Azmat Ali
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 10.1:
+        non_striker: Azmat Ali
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 10.2:
+        non_striker: H Singh
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmat Ali
+    - 10.3:
+        non_striker: H Singh
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmat Ali
+    - 10.4:
+        non_striker: H Singh
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmat Ali
+    - 10.5:
+        non_striker: Azmat Ali
+        bowler: Raza Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: H Singh
+    - 10.6:
+        non_striker: H Singh
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmat Ali
+    - 11.1:
+        non_striker: Azmat Ali
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 11.2:
+        non_striker: H Singh
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmat Ali
+    - 11.3:
+        non_striker: H Singh
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmat Ali
+    - 11.4:
+        non_striker: Azmat Ali
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 11.5:
+        non_striker: Azmat Ali
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 11.6:
+        non_striker: Azmat Ali
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 12.1:
+        non_striker: H Singh
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmat Ali
+    - 12.2:
+        non_striker: H Singh
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmat Ali
+    - 12.3:
+        non_striker: Azmat Ali
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 12.4:
+        non_striker: Azmat Ali
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 12.5:
+        non_striker: Azmat Ali
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 12.6:
+        non_striker: Azmat Ali
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 13.1:
+        non_striker: H Singh
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmat Ali
+    - 13.2:
+        non_striker: Azmat Ali
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 13.3:
+        non_striker: H Singh
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmat Ali
+    - 13.4:
+        non_striker: Azmat Ali
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 13.5:
+        non_striker: H Singh
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmat Ali
+    - 13.6:
+        non_striker: Azmat Ali
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 14.1:
+        non_striker: H Singh
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmat Ali
+    - 14.2:
+        non_striker: H Singh
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmat Ali
+    - 14.3:
+        non_striker: Azmat Ali
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 14.4:
+        non_striker: Azmat Ali
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 14.5:
+        non_striker: Azmat Ali
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 14.6:
+        non_striker: Azmat Ali
+        bowler: P Bhart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 15.1:
+        non_striker: H Singh
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azmat Ali
+    - 15.2:
+        non_striker: H Singh
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmat Ali
+    - 15.3:
+        non_striker: H Singh
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmat Ali
+    - 15.4:
+        non_striker: Azmat Ali
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 15.5:
+        non_striker: H Singh
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmat Ali
+    - 15.6:
+        non_striker: Azmat Ali
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 16.1:
+        non_striker: Azmat Ali
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 16.2:
+        non_striker: H Singh
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmat Ali
+    - 16.3:
+        non_striker: Azmat Ali
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 16.4:
+        non_striker: Azmat Ali
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 16.5:
+        non_striker: H Singh
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmat Ali
+    - 16.6:
+        non_striker: Azmat Ali
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+        wicket:
+          player_out: H Singh
+          fielders:
+          - Wahidullah Sahak
+          kind: caught
+    - 17.1:
+        non_striker: Azmat Ali
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahir Naqash
+    - 17.2:
+        non_striker: Sahir Naqash
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmat Ali
+        wicket:
+          player_out: Azmat Ali
+          fielders:
+          - D Abeyrathna
+          kind: caught
+    - 17.3:
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Nooruddin Mujadady
+        batsman: Sahir Naqash
+    - 17.4:
+        non_striker: Sahir Naqash
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nooruddin Mujadady
+    - 17.5:
+        non_striker: Sahir Naqash
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nooruddin Mujadady
+    - 17.6:
+        non_striker: Sahir Naqash
+        bowler: S Waqas Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nooruddin Mujadady
+    - 18.1:
+        non_striker: Nooruddin Mujadady
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahir Naqash
+    - 18.2:
+        non_striker: Sahir Naqash
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nooruddin Mujadady
+    - 18.3:
+        non_striker: Nooruddin Mujadady
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sahir Naqash
+    - 18.4:
+        non_striker: Nooruddin Mujadady
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahir Naqash
+    - 18.5:
+        non_striker: Nooruddin Mujadady
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Sahir Naqash
+    - 18.6:
+        non_striker: Sahir Naqash
+        bowler: Usman Arif (2)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nooruddin Mujadady
+    - 19.1:
+        non_striker: Nooruddin Mujadady
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahir Naqash
+    - 19.2:
+        non_striker: Sahir Naqash
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nooruddin Mujadady
+    - 19.3:
+        non_striker: Nooruddin Mujadady
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sahir Naqash
+    - 19.4:
+        non_striker: Nooruddin Mujadady
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahir Naqash
+    - 19.5:
+        non_striker: Sahir Naqash
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nooruddin Mujadady
+    - 19.6:
+        non_striker: Sahir Naqash
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nooruddin Mujadady

@@ -1,0 +1,2338 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-09-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ilfov County
+  dates:
+  - '2021-09-05'
+  gender: male
+  match_type: T20
+  match_type_number: 1257
+  outcome:
+    winner: Romania
+    by:
+      runs: 33
+  overs: 20
+  player_of_match:
+  - Asif Bevinje
+  players:
+    Romania:
+    - Taranjeet Singh
+    - G Manan
+    - R Satheesan
+    - Asif Bevinje
+    - S Nadigotla
+    - S Periyalwar
+    - Sami Ullah
+    - V Saini
+    - S Vashisht
+    - Aftab Kayani
+    - P Florin
+    Luxembourg:
+    - TC Barker
+    - WJ Cope
+    - T Whiteman
+    - V Vijh
+    - A Halbhavi
+    - J Mees
+    - J Barker
+    - A Manepalli
+    - M Cope
+    - A Nanda
+    - A Dhingra
+  registry:
+    people:
+      A Dhingra: 753ada66
+      A Halbhavi: df1b4c8f
+      A Manepalli: '36101309'
+      A Nanda: 704e0160
+      Aftab Kayani: 4d83491d
+      Asif Bevinje: 9865ed99
+      G Manan: d7265622
+      J Barker: c18cecbe
+      J Mees: ab1445ea
+      M Cope: c83c594d
+      P Florin: c9c356e2
+      R Satheesan: 1125ebe4
+      S Nadigotla: b78b3ffd
+      S Periyalwar: d207e4fb
+      S Vashisht: 20ac8219
+      Sami Ullah: ad05692c
+      T Whiteman: 472455a3
+      TC Barker: c31adb5c
+      Taranjeet Singh: ec483176
+      V Saini: 0fa81719
+      V Vijh: b857468a
+      WJ Cope: fb34b0ec
+  teams:
+  - Romania
+  - Luxembourg
+  toss:
+    decision: bat
+    winner: Romania
+  venue: Moara Vlasiei Cricket Ground, Ilfov County
+innings:
+- 1st innings:
+    team: Romania
+    deliveries:
+    - 0.1:
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Manan
+        batsman: Taranjeet Singh
+    - 0.2:
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Manan
+        batsman: Taranjeet Singh
+    - 0.3:
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Manan
+        batsman: Taranjeet Singh
+    - 0.4:
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Manan
+        batsman: Taranjeet Singh
+    - 0.5:
+        non_striker: Taranjeet Singh
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Manan
+    - 0.6:
+        non_striker: Taranjeet Singh
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Manan
+    - 1.1:
+        non_striker: G Manan
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjeet Singh
+    - 1.2:
+        non_striker: G Manan
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjeet Singh
+    - 1.3:
+        non_striker: G Manan
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taranjeet Singh
+    - 1.4:
+        non_striker: G Manan
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjeet Singh
+        wicket:
+          player_out: Taranjeet Singh
+          fielders:
+          - M Cope
+          kind: caught
+    - 1.5:
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: R Satheesan
+        batsman: G Manan
+    - 1.6:
+        non_striker: R Satheesan
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Manan
+    - 2.1:
+        non_striker: G Manan
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+        wicket:
+          player_out: R Satheesan
+          fielders:
+          - A Manepalli
+          kind: caught
+    - 2.2:
+        non_striker: G Manan
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Bevinje
+    - 2.3:
+        non_striker: G Manan
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Bevinje
+    - 2.4:
+        non_striker: Asif Bevinje
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Manan
+    - 2.5:
+        non_striker: Asif Bevinje
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Manan
+    - 2.6:
+        non_striker: Asif Bevinje
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Manan
+    - 3.1:
+        non_striker: G Manan
+        bowler: A Nanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Asif Bevinje
+    - 3.2:
+        non_striker: G Manan
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asif Bevinje
+    - 3.3:
+        non_striker: G Manan
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Bevinje
+    - 3.4:
+        non_striker: G Manan
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Bevinje
+    - 3.5:
+        non_striker: G Manan
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Bevinje
+    - 3.6:
+        non_striker: G Manan
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Bevinje
+    - 3.7:
+        non_striker: Asif Bevinje
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Manan
+    - 4.1:
+        non_striker: G Manan
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Bevinje
+    - 4.2:
+        non_striker: G Manan
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Bevinje
+    - 4.3:
+        non_striker: G Manan
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Bevinje
+    - 4.4:
+        non_striker: Asif Bevinje
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Manan
+    - 4.5:
+        non_striker: Asif Bevinje
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Manan
+    - 4.6:
+        non_striker: Asif Bevinje
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Manan
+        wicket:
+          player_out: G Manan
+          kind: caught and bowled
+    - 5.1:
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Nadigotla
+        batsman: Asif Bevinje
+    - 5.2:
+        non_striker: Asif Bevinje
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 5.3:
+        non_striker: S Nadigotla
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Bevinje
+    - 5.4:
+        non_striker: S Nadigotla
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Bevinje
+    - 5.5:
+        non_striker: S Nadigotla
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Bevinje
+    - 5.6:
+        non_striker: S Nadigotla
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Bevinje
+    - 6.1:
+        non_striker: Asif Bevinje
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 6.2:
+        non_striker: S Nadigotla
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asif Bevinje
+    - 6.3:
+        non_striker: S Nadigotla
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Bevinje
+    - 6.4:
+        non_striker: S Nadigotla
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Bevinje
+    - 6.5:
+        non_striker: Asif Bevinje
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadigotla
+    - 6.6:
+        non_striker: Asif Bevinje
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadigotla
+    - 7.1:
+        non_striker: S Nadigotla
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Bevinje
+    - 7.2:
+        non_striker: S Nadigotla
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Bevinje
+    - 7.3:
+        non_striker: Asif Bevinje
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 7.4:
+        non_striker: S Nadigotla
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Bevinje
+    - 7.5:
+        non_striker: Asif Bevinje
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadigotla
+    - 7.6:
+        non_striker: Asif Bevinje
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Nadigotla
+    - 8.1:
+        non_striker: S Nadigotla
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Bevinje
+    - 8.2:
+        non_striker: S Nadigotla
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asif Bevinje
+    - 8.3:
+        non_striker: S Nadigotla
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Bevinje
+    - 8.4:
+        non_striker: Asif Bevinje
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadigotla
+    - 8.5:
+        non_striker: Asif Bevinje
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 8.6:
+        non_striker: S Nadigotla
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Bevinje
+    - 9.1:
+        non_striker: S Nadigotla
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Bevinje
+    - 9.2:
+        non_striker: S Nadigotla
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asif Bevinje
+    - 9.3:
+        non_striker: S Nadigotla
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Bevinje
+    - 9.4:
+        non_striker: S Nadigotla
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Bevinje
+        wicket:
+          player_out: Asif Bevinje
+          kind: caught and bowled
+    - 9.5:
+        non_striker: S Nadigotla
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Periyalwar
+    - 9.6:
+        non_striker: S Nadigotla
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Periyalwar
+    - 10.1:
+        non_striker: S Nadigotla
+        bowler: V Vijh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Periyalwar
+    - 10.2:
+        non_striker: S Periyalwar
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 10.3:
+        non_striker: S Nadigotla
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Periyalwar
+    - 10.4:
+        non_striker: S Periyalwar
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 10.5:
+        non_striker: S Nadigotla
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Periyalwar
+    - 10.6:
+        non_striker: S Periyalwar
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 11.1:
+        non_striker: S Periyalwar
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 11.2:
+        non_striker: S Nadigotla
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Periyalwar
+    - 11.3:
+        non_striker: S Periyalwar
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 11.4:
+        non_striker: S Nadigotla
+        bowler: WJ Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Periyalwar
+    - 11.5:
+        non_striker: S Nadigotla
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Periyalwar
+    - 11.6:
+        non_striker: S Nadigotla
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Periyalwar
+    - 11.7:
+        non_striker: S Nadigotla
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Periyalwar
+    - 12.1:
+        non_striker: S Periyalwar
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Nadigotla
+    - 12.2:
+        non_striker: S Periyalwar
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Nadigotla
+    - 12.3:
+        non_striker: S Periyalwar
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadigotla
+    - 12.4:
+        non_striker: S Periyalwar
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Nadigotla
+    - 12.5:
+        non_striker: S Periyalwar
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 12.6:
+        non_striker: S Nadigotla
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Periyalwar
+    - 13.1:
+        non_striker: S Periyalwar
+        bowler: V Vijh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Nadigotla
+    - 13.2:
+        non_striker: S Periyalwar
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadigotla
+    - 13.3:
+        non_striker: S Periyalwar
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Nadigotla
+    - 13.4:
+        non_striker: S Periyalwar
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadigotla
+    - 13.5:
+        non_striker: S Periyalwar
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Nadigotla
+    - 13.6:
+        non_striker: S Periyalwar
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 13.7:
+        non_striker: S Nadigotla
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Periyalwar
+    - 14.1:
+        non_striker: S Periyalwar
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Nadigotla
+    - 14.2:
+        non_striker: S Periyalwar
+        bowler: M Cope
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: S Nadigotla
+    - 14.3:
+        non_striker: S Periyalwar
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Nadigotla
+    - 14.4:
+        non_striker: S Periyalwar
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 14.5:
+        non_striker: S Nadigotla
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Periyalwar
+    - 14.6:
+        non_striker: S Periyalwar
+        bowler: M Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Nadigotla
+        wicket:
+          player_out: S Periyalwar
+          kind: retired not out
+    - 15.1:
+        non_striker: S Nadigotla
+        bowler: A Nanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sami Ullah
+    - 15.2:
+        non_striker: S Nadigotla
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Ullah
+    - 15.3:
+        non_striker: S Nadigotla
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Ullah
+    - 15.4:
+        non_striker: Sami Ullah
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 15.5:
+        non_striker: S Nadigotla
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Ullah
+    - 15.6:
+        non_striker: S Nadigotla
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Ullah
+    - 15.7:
+        non_striker: S Nadigotla
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Ullah
+    - 16.1:
+        non_striker: S Nadigotla
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Ullah
+    - 16.2:
+        non_striker: S Nadigotla
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Ullah
+    - 16.3:
+        non_striker: Sami Ullah
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 16.4:
+        non_striker: S Nadigotla
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Ullah
+    - 16.5:
+        non_striker: Sami Ullah
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Nadigotla
+    - 16.6:
+        non_striker: Sami Ullah
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 17.1:
+        non_striker: Sami Ullah
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadigotla
+    - 17.2:
+        non_striker: Sami Ullah
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadigotla
+    - 17.3:
+        non_striker: Sami Ullah
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadigotla
+    - 17.4:
+        non_striker: Sami Ullah
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Nadigotla
+    - 17.5:
+        non_striker: Sami Ullah
+        bowler: V Vijh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Nadigotla
+    - 17.6:
+        non_striker: Sami Ullah
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadigotla
+        wicket:
+          player_out: S Nadigotla
+          fielders:
+          - J Barker
+          kind: caught
+    - 17.7:
+        bowler: V Vijh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: V Saini
+        batsman: Sami Ullah
+    - 17.8:
+        non_striker: V Saini
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Ullah
+    - 18.1:
+        non_striker: V Saini
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Ullah
+        wicket:
+          player_out: Sami Ullah
+          kind: bowled
+    - 18.2:
+        non_striker: V Saini
+        bowler: A Dhingra
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: S Vashisht
+    - 18.3:
+        non_striker: V Saini
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 18.4:
+        non_striker: S Vashisht
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Saini
+        wicket:
+          player_out: S Vashisht
+          kind: run out
+    - 18.5:
+        non_striker: V Saini
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aftab Kayani
+    - 18.6:
+        non_striker: V Saini
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aftab Kayani
+    - 19.1:
+        non_striker: Aftab Kayani
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Saini
+        wicket:
+          player_out: V Saini
+          fielders:
+          - TC Barker
+          kind: caught
+    - 19.2:
+        non_striker: Aftab Kayani
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Florin
+    - 19.3:
+        non_striker: P Florin
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aftab Kayani
+    - 19.4:
+        non_striker: P Florin
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aftab Kayani
+    - 19.5:
+        non_striker: P Florin
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aftab Kayani
+    - 19.6:
+        non_striker: P Florin
+        bowler: V Vijh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aftab Kayani
+        wicket:
+          player_out: Aftab Kayani
+          kind: run out
+- 2nd innings:
+    team: Luxembourg
+    deliveries:
+    - 0.1:
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: WJ Cope
+        batsman: TC Barker
+    - 0.2:
+        non_striker: TC Barker
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Cope
+    - 0.3:
+        non_striker: WJ Cope
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TC Barker
+    - 0.4:
+        non_striker: WJ Cope
+        bowler: S Vashisht
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TC Barker
+    - 0.5:
+        non_striker: WJ Cope
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TC Barker
+    - 0.6:
+        non_striker: WJ Cope
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+    - 0.7:
+        non_striker: WJ Cope
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Barker
+    - 1.1:
+        non_striker: WJ Cope
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+    - 1.2:
+        non_striker: WJ Cope
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+        wicket:
+          player_out: TC Barker
+          fielders:
+          - S Nadigotla
+          kind: caught
+    - 1.3:
+        non_striker: WJ Cope
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Whiteman
+    - 1.4:
+        non_striker: WJ Cope
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Whiteman
+    - 1.5:
+        non_striker: WJ Cope
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Whiteman
+    - 1.6:
+        non_striker: WJ Cope
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Whiteman
+    - 2.1:
+        non_striker: WJ Cope
+        bowler: S Vashisht
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Whiteman
+    - 2.2:
+        non_striker: T Whiteman
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Cope
+    - 2.3:
+        non_striker: T Whiteman
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Cope
+    - 2.4:
+        non_striker: T Whiteman
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Cope
+    - 2.5:
+        non_striker: WJ Cope
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Whiteman
+    - 2.6:
+        non_striker: T Whiteman
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Cope
+    - 3.1:
+        non_striker: WJ Cope
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Whiteman
+    - 3.2:
+        non_striker: WJ Cope
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Whiteman
+    - 3.3:
+        non_striker: T Whiteman
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Cope
+    - 3.4:
+        non_striker: T Whiteman
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Cope
+    - 3.5:
+        non_striker: T Whiteman
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Cope
+        wicket:
+          player_out: WJ Cope
+          fielders:
+          - S Vashisht
+          kind: caught
+    - 3.6:
+        non_striker: V Vijh
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Whiteman
+    - 4.1:
+        non_striker: T Whiteman
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 4.2:
+        non_striker: T Whiteman
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 4.3:
+        non_striker: V Vijh
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Whiteman
+        wicket:
+          player_out: T Whiteman
+          kind: bowled
+    - 4.4:
+        non_striker: V Vijh
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Halbhavi
+    - 4.5:
+        non_striker: V Vijh
+        bowler: S Vashisht
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Halbhavi
+    - 4.6:
+        non_striker: V Vijh
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Halbhavi
+    - 4.7:
+        non_striker: V Vijh
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Halbhavi
+    - 5.1:
+        non_striker: A Halbhavi
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 5.2:
+        non_striker: A Halbhavi
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 5.3:
+        non_striker: V Vijh
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Halbhavi
+    - 5.4:
+        non_striker: V Vijh
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Halbhavi
+    - 5.5:
+        non_striker: V Vijh
+        bowler: Asif Bevinje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Halbhavi
+    - 5.6:
+        non_striker: V Vijh
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Halbhavi
+    - 5.7:
+        non_striker: A Halbhavi
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 6.1:
+        non_striker: V Vijh
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Halbhavi
+    - 6.2:
+        non_striker: V Vijh
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Halbhavi
+    - 6.3:
+        non_striker: V Vijh
+        bowler: S Vashisht
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Halbhavi
+    - 6.4:
+        non_striker: V Vijh
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Halbhavi
+    - 6.5:
+        non_striker: V Vijh
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Halbhavi
+    - 6.6:
+        non_striker: V Vijh
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Halbhavi
+    - 6.7:
+        non_striker: V Vijh
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Halbhavi
+    - 7.1:
+        non_striker: A Halbhavi
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 7.2:
+        non_striker: V Vijh
+        bowler: Sami Ullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Halbhavi
+    - 7.3:
+        non_striker: V Vijh
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Halbhavi
+    - 7.4:
+        non_striker: V Vijh
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Halbhavi
+    - 7.5:
+        non_striker: A Halbhavi
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 7.6:
+        non_striker: A Halbhavi
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 7.7:
+        non_striker: V Vijh
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Halbhavi
+    - 8.1:
+        non_striker: A Halbhavi
+        bowler: V Saini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Vijh
+    - 8.2:
+        non_striker: A Halbhavi
+        bowler: V Saini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Vijh
+    - 8.3:
+        non_striker: A Halbhavi
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 8.4:
+        non_striker: V Vijh
+        bowler: V Saini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Halbhavi
+    - 8.5:
+        non_striker: V Vijh
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Halbhavi
+    - 8.6:
+        non_striker: V Vijh
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Halbhavi
+    - 8.7:
+        non_striker: V Vijh
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Halbhavi
+    - 8.8:
+        non_striker: A Halbhavi
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 8.9:
+        non_striker: A Halbhavi
+        bowler: V Saini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Vijh
+    - 8.10:
+        non_striker: A Halbhavi
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+        wicket:
+          player_out: V Vijh
+          fielders:
+          - R Satheesan
+          kind: caught
+    - 9.1:
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Mees
+        batsman: A Halbhavi
+    - 9.2:
+        non_striker: A Halbhavi
+        bowler: Sami Ullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Mees
+    - 9.3:
+        non_striker: A Halbhavi
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 9.4:
+        non_striker: A Halbhavi
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mees
+    - 9.5:
+        non_striker: A Halbhavi
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 9.6:
+        non_striker: A Halbhavi
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 9.7:
+        non_striker: A Halbhavi
+        bowler: Sami Ullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Mees
+    - 9.8:
+        non_striker: A Halbhavi
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 10.1:
+        non_striker: J Mees
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Halbhavi
+    - 10.2:
+        non_striker: J Mees
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Halbhavi
+    - 10.3:
+        non_striker: A Halbhavi
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 10.4:
+        non_striker: J Mees
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Halbhavi
+    - 10.5:
+        non_striker: J Mees
+        bowler: V Saini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Halbhavi
+    - 10.6:
+        non_striker: J Mees
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Halbhavi
+    - 10.7:
+        non_striker: A Halbhavi
+        bowler: V Saini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Mees
+    - 10.8:
+        non_striker: A Halbhavi
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 11.1:
+        non_striker: J Mees
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Halbhavi
+    - 11.2:
+        non_striker: J Mees
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Halbhavi
+    - 11.3:
+        non_striker: A Halbhavi
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mees
+    - 11.4:
+        non_striker: A Halbhavi
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 11.5:
+        non_striker: A Halbhavi
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+        wicket:
+          player_out: J Mees
+          kind: bowled
+    - 11.6:
+        non_striker: A Halbhavi
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+    - 12.1:
+        non_striker: J Barker
+        bowler: Aftab Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Halbhavi
+        wicket:
+          player_out: A Halbhavi
+          kind: caught and bowled
+    - 12.2:
+        bowler: Aftab Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Manepalli
+        batsman: J Barker
+    - 12.3:
+        bowler: Aftab Kayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Manepalli
+        batsman: J Barker
+    - 12.4:
+        non_striker: J Barker
+        bowler: Aftab Kayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Manepalli
+    - 12.5:
+        non_striker: A Manepalli
+        bowler: Aftab Kayani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Barker
+    - 12.6:
+        non_striker: A Manepalli
+        bowler: Aftab Kayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 12.7:
+        non_striker: J Barker
+        bowler: Aftab Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Manepalli
+    - 13.1:
+        non_striker: A Manepalli
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+    - 13.2:
+        non_striker: A Manepalli
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+    - 13.3:
+        non_striker: A Manepalli
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+        wicket:
+          player_out: J Barker
+          kind: bowled
+    - 13.4:
+        non_striker: A Manepalli
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Cope
+    - 13.5:
+        non_striker: A Manepalli
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Cope
+    - 13.6:
+        non_striker: M Cope
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Manepalli
+    - 14.1:
+        non_striker: A Manepalli
+        bowler: Aftab Kayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Cope
+    - 14.2:
+        non_striker: M Cope
+        bowler: Aftab Kayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Manepalli
+    - 14.3:
+        non_striker: A Manepalli
+        bowler: Aftab Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Cope
+        wicket:
+          player_out: M Cope
+          fielders:
+          - V Saini
+          kind: caught
+    - 14.4:
+        bowler: Aftab Kayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Nanda
+        batsman: A Manepalli
+    - 14.5:
+        non_striker: A Manepalli
+        bowler: Aftab Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nanda
+    - 14.6:
+        non_striker: A Manepalli
+        bowler: Aftab Kayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nanda
+    - 15.1:
+        non_striker: A Nanda
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Manepalli
+    - 15.2:
+        non_striker: A Manepalli
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nanda
+    - 15.3:
+        non_striker: A Manepalli
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nanda
+    - 15.4:
+        non_striker: A Manepalli
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Nanda
+    - 15.5:
+        non_striker: A Manepalli
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Nanda
+    - 15.6:
+        non_striker: A Nanda
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Manepalli
+    - 16.1:
+        non_striker: A Manepalli
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Nanda
+    - 16.2:
+        non_striker: A Nanda
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Manepalli
+    - 16.3:
+        non_striker: A Manepalli
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Nanda
+    - 16.4:
+        non_striker: A Nanda
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Manepalli
+    - 16.5:
+        non_striker: A Manepalli
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Nanda
+    - 16.6:
+        non_striker: A Nanda
+        bowler: P Florin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Manepalli
+    - 16.7:
+        non_striker: A Nanda
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Manepalli
+    - 17.1:
+        non_striker: A Manepalli
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Nanda
+    - 17.2:
+        non_striker: A Manepalli
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nanda
+    - 17.3:
+        non_striker: A Manepalli
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Nanda
+    - 17.4:
+        non_striker: A Nanda
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Manepalli
+    - 17.5:
+        non_striker: A Nanda
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Manepalli
+    - 17.6:
+        non_striker: A Nanda
+        bowler: Asif Bevinje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Manepalli
+    - 18.1:
+        non_striker: A Nanda
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Manepalli
+    - 18.2:
+        non_striker: A Nanda
+        bowler: P Florin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Manepalli
+    - 18.3:
+        non_striker: A Nanda
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Manepalli
+    - 18.4:
+        non_striker: A Manepalli
+        bowler: P Florin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Nanda
+    - 18.5:
+        non_striker: A Manepalli
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Nanda
+    - 18.6:
+        non_striker: A Nanda
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Manepalli
+    - 18.7:
+        non_striker: A Manepalli
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Nanda
+    - 18.8:
+        non_striker: A Nanda
+        bowler: P Florin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Manepalli
+    - 18.9:
+        non_striker: A Nanda
+        bowler: P Florin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Manepalli
+    - 18.10:
+        non_striker: A Nanda
+        bowler: P Florin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Manepalli
+    - 19.1:
+        non_striker: A Nanda
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Manepalli
+        wicket:
+          player_out: A Manepalli
+          fielders:
+          - S Vashisht
+          kind: caught
+    - 19.2:
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Dhingra
+        batsman: A Nanda
+    - 19.3:
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Dhingra
+        batsman: A Nanda
+    - 19.4:
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Dhingra
+        batsman: A Nanda
+    - 19.5:
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Dhingra
+        batsman: A Nanda
+    - 19.6:
+        non_striker: A Dhingra
+        bowler: Sami Ullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Nanda

@@ -1,0 +1,920 @@
+---
+meta:
+  data_version: 0.91
+  created: '2020-07-06'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: London
+  dates:
+  - '2018-07-29'
+  gender: male
+  match_type: T20
+  match_type_number: 691
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Netherlands:
+    - TP Visee
+    - MP O'Dowd
+    - W Barresi
+    - RN ten Doeschate
+    - MJG Rippon
+    - SA Edwards
+    - PM Seelaar
+    - S Snater
+    - HC Overdijk
+    - PA van Meekeren
+    - FJ Klaassen
+    Nepal:
+    - AK Sah
+    - G Malla
+    - P Khadka
+    - Aarif Sheikh
+    - DS Airee
+    - Sompal Kami
+    - B Regmi
+    - Karan KC
+    - S Lamichhane
+    - LN Rajbanshi
+    - S Vesawkar
+  registry:
+    people:
+      AK Sah: 5b1d6583
+      Aarif Sheikh: cd4d7695
+      B Regmi: 98d05440
+      BJ Debenham: 524a3a82
+      DA Haggo: e6789a88
+      DS Airee: 1747ea18
+      DT Jukes: 7c215d14
+      FJ Klaassen: c042b412
+      G Malla: b2e1d224
+      HC Overdijk: 2c01f21a
+      Karan KC: f53b3e1d
+      LN Rajbanshi: 6ad2d5f7
+      MJG Rippon: b03db6fa
+      MP O'Dowd: b699df47
+      P Khadka: 12c3ba4d
+      PA van Meekeren: 4557dc54
+      PM Seelaar: abbdca1a
+      RN ten Doeschate: 4ec07775
+      Rizwan Akram: b5346f1e
+      S Lamichhane: b410bd3d
+      S Snater: a790df98
+      S Vesawkar: 3de06845
+      SA Edwards: b59db04f
+      Sompal Kami: 1adb8ee8
+      TP Visee: 881b3f8e
+      W Barresi: 0d677597
+  teams:
+  - Netherlands
+  - Nepal
+  toss:
+    decision: field
+    winner: Nepal
+  umpires:
+  - Rizwan Akram
+  - DA Haggo
+  venue: Lord's
+innings:
+- 1st innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MP O'Dowd
+        batsman: TP Visee
+    - 0.2:
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MP O'Dowd
+        batsman: TP Visee
+    - 0.3:
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MP O'Dowd
+        batsman: TP Visee
+    - 0.4:
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: MP O'Dowd
+        batsman: TP Visee
+    - 0.5:
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MP O'Dowd
+        batsman: TP Visee
+    - 0.6:
+        bowler: Sompal Kami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: MP O'Dowd
+        batsman: TP Visee
+    - 0.7:
+        non_striker: MP O'Dowd
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Visee
+    - 1.1:
+        non_striker: TP Visee
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 1.2:
+        non_striker: MP O'Dowd
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Visee
+    - 1.3:
+        non_striker: TP Visee
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 1.4:
+        non_striker: TP Visee
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 1.5:
+        non_striker: MP O'Dowd
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Visee
+        wicket:
+          player_out: TP Visee
+          kind: bowled
+    - 1.6:
+        non_striker: MP O'Dowd
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 2.1:
+        non_striker: W Barresi
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MP O'Dowd
+    - 2.2:
+        non_striker: MP O'Dowd
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 2.3:
+        non_striker: MP O'Dowd
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Barresi
+    - 2.4:
+        non_striker: MP O'Dowd
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 2.5:
+        non_striker: W Barresi
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+        wicket:
+          player_out: MP O'Dowd
+          fielders:
+          - Aarif Sheikh
+          kind: caught
+    - 2.6:
+        non_striker: RN ten Doeschate
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 3.1:
+        non_striker: W Barresi
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN ten Doeschate
+    - 3.2:
+        non_striker: W Barresi
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN ten Doeschate
+    - 3.3:
+        non_striker: W Barresi
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN ten Doeschate
+    - 3.4:
+        non_striker: RN ten Doeschate
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 3.5:
+        non_striker: RN ten Doeschate
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 3.6:
+        non_striker: RN ten Doeschate
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 4.1:
+        non_striker: RN ten Doeschate
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 4.2:
+        non_striker: RN ten Doeschate
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: W Barresi
+    - 4.3:
+        non_striker: RN ten Doeschate
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 4.4:
+        non_striker: W Barresi
+        bowler: Sompal Kami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RN ten Doeschate
+    - 4.5:
+        non_striker: RN ten Doeschate
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 4.6:
+        non_striker: W Barresi
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN ten Doeschate
+    - 5.1:
+        non_striker: W Barresi
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RN ten Doeschate
+    - 5.2:
+        non_striker: W Barresi
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN ten Doeschate
+    - 5.3:
+        non_striker: RN ten Doeschate
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: W Barresi
+    - 5.4:
+        non_striker: W Barresi
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN ten Doeschate
+    - 5.5:
+        non_striker: RN ten Doeschate
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 5.6:
+        non_striker: RN ten Doeschate
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 6.1:
+        non_striker: RN ten Doeschate
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 6.2:
+        non_striker: W Barresi
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN ten Doeschate
+    - 6.3:
+        non_striker: RN ten Doeschate
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 6.4:
+        non_striker: RN ten Doeschate
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 6.5:
+        non_striker: RN ten Doeschate
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 6.6:
+        non_striker: RN ten Doeschate
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 7.1:
+        non_striker: W Barresi
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN ten Doeschate
+    - 7.2:
+        non_striker: RN ten Doeschate
+        bowler: LN Rajbanshi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: W Barresi
+    - 7.3:
+        non_striker: W Barresi
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN ten Doeschate
+    - 7.4:
+        non_striker: W Barresi
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN ten Doeschate
+    - 7.5:
+        non_striker: W Barresi
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN ten Doeschate
+    - 7.6:
+        non_striker: RN ten Doeschate
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 7.7:
+        non_striker: W Barresi
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN ten Doeschate
+    - 8.1:
+        non_striker: RN ten Doeschate
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 8.2:
+        non_striker: W Barresi
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN ten Doeschate
+    - 8.3:
+        non_striker: RN ten Doeschate
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 8.4:
+        non_striker: W Barresi
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN ten Doeschate
+    - 8.5:
+        non_striker: RN ten Doeschate
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+        wicket:
+          player_out: W Barresi
+          kind: bowled
+    - 8.6:
+        non_striker: RN ten Doeschate
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 9.1:
+        non_striker: RN ten Doeschate
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 9.2:
+        non_striker: MJG Rippon
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN ten Doeschate
+    - 9.3:
+        non_striker: RN ten Doeschate
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 9.4:
+        non_striker: RN ten Doeschate
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 9.5:
+        non_striker: RN ten Doeschate
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJG Rippon
+    - 9.6:
+        non_striker: RN ten Doeschate
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJG Rippon
+    - 10.1:
+        non_striker: MJG Rippon
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RN ten Doeschate
+    - 10.2:
+        non_striker: MJG Rippon
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RN ten Doeschate
+    - 10.3:
+        non_striker: MJG Rippon
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 6
+          non_boundary: 1
+          batsman: 6
+        batsman: RN ten Doeschate
+    - 10.4:
+        non_striker: MJG Rippon
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN ten Doeschate
+    - 10.5:
+        non_striker: RN ten Doeschate
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 10.6:
+        non_striker: RN ten Doeschate
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJG Rippon
+    - 11.1:
+        non_striker: MJG Rippon
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN ten Doeschate
+    - 11.2:
+        non_striker: MJG Rippon
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RN ten Doeschate
+    - 11.3:
+        non_striker: MJG Rippon
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RN ten Doeschate
+    - 11.4:
+        non_striker: MJG Rippon
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN ten Doeschate
+    - 11.5:
+        non_striker: RN ten Doeschate
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 11.6:
+        non_striker: MJG Rippon
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RN ten Doeschate
+    - 12.1:
+        non_striker: MJG Rippon
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN ten Doeschate
+    - 12.2:
+        non_striker: RN ten Doeschate
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+        wicket:
+          player_out: RN ten Doeschate
+          kind: run out
+    - 12.3:
+        non_striker: MJG Rippon
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 12.4:
+        non_striker: MJG Rippon
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 12.5:
+        non_striker: MJG Rippon
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 12.6:
+        non_striker: MJG Rippon
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 13.1:
+        non_striker: MJG Rippon
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 13.2:
+        non_striker: SA Edwards
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJG Rippon
+    - 13.3:
+        non_striker: SA Edwards
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 13.4:
+        non_striker: MJG Rippon
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 13.5:
+        non_striker: MJG Rippon
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 13.6:
+        non_striker: SA Edwards
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 14.1:
+        non_striker: SA Edwards
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJG Rippon
+    - 14.2:
+        non_striker: SA Edwards
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 14.3:
+        non_striker: MJG Rippon
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 14.4:
+        non_striker: MJG Rippon
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 14.5:
+        non_striker: MJG Rippon
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 14.6:
+        non_striker: SA Edwards
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJG Rippon
+    - 15.1:
+        non_striker: MJG Rippon
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Edwards
+    - 15.2:
+        non_striker: MJG Rippon
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Edwards
+    - 15.3:
+        non_striker: MJG Rippon
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 15.4:
+        non_striker: SA Edwards
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJG Rippon
+    - 15.5:
+        non_striker: SA Edwards
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 15.6:
+        non_striker: SA Edwards
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 16.1:
+        non_striker: MJG Rippon
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 16.2:
+        non_striker: SA Edwards
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJG Rippon
+    - 16.3:
+        non_striker: SA Edwards
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 16.4:
+        non_striker: SA Edwards
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJG Rippon

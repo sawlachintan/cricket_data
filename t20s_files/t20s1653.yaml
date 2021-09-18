@@ -1,0 +1,1783 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-09-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Entebbe
+  dates:
+  - '2021-09-16'
+  gender: male
+  match_type: T20
+  match_type_number: 1277
+  outcome:
+    winner: Nigeria
+    by:
+      runs: 4
+    method: D/L
+  overs: 20
+  player_of_match:
+  - JO Adedeji
+  players:
+    Nigeria:
+    - AJ Ayannaike
+    - O Olaleye
+    - JO Adedeji
+    - VD Adewoye
+    - CN Onwuzulike
+    - P Aho
+    - Mohameed Taiwo
+    - RA Abolarin
+    - Sulaimon Runsewe
+    - P Useni
+    - O Isesele
+    Kenya:
+    - Gurdeep Singh
+    - RN Patel
+    - IA Karim
+    - NM Odhiambo
+    - Zahid Abbas
+    - SO Ngoche
+    - E Ochieng
+    - E Otieno
+    - Vraj Patel
+    - P Koech
+    - DS Wesonga
+  registry:
+    people:
+      AJ Ayannaike: f74b682b
+      CN Onwuzulike: 715dbf27
+      DS Wesonga: 7545a91a
+      E Ochieng: b64e3749
+      E Otieno: c57fa67e
+      E Wandera: 671cf580
+      Gurdeep Singh: 31865a5b
+      IA Karim: ca92a578
+      JO Adedeji: abee08c7
+      Mohameed Taiwo: a9d788e3
+      NM Odhiambo: c07a1f41
+      O Isesele: 6034840a
+      O Olaleye: 811785d2
+      P Aho: 2e392afa
+      P Koech: f4a0a615
+      P Useni: 71fa64d6
+      Patric Makumbi: e4c69c16
+      RA Abolarin: ed524599
+      RN Patel: db1bf9c2
+      SO Ngoche: 49118dc7
+      Sulaimon Runsewe: c25d26dc
+      VD Adewoye: 45a34a2d
+      Vraj Patel: 2af28253
+      Zahid Abbas: dce01d1e
+  teams:
+  - Nigeria
+  - Kenya
+  toss:
+    winner: Nigeria
+    decision: bat
+  umpires:
+  - E Wandera
+  - Patric Makumbi
+  venue: Entebbe Cricket Oval
+innings:
+- 1st innings:
+    team: Nigeria
+    deliveries:
+    - 0.1:
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: O Olaleye
+        batsman: AJ Ayannaike
+    - 0.2:
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Olaleye
+        batsman: AJ Ayannaike
+    - 0.3:
+        non_striker: O Olaleye
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Ayannaike
+        wicket:
+          player_out: AJ Ayannaike
+          fielders:
+          - RN Patel
+          kind: caught
+    - 0.4:
+        non_striker: O Olaleye
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JO Adedeji
+    - 0.5:
+        non_striker: O Olaleye
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 0.6:
+        non_striker: O Olaleye
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 1.1:
+        non_striker: JO Adedeji
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Olaleye
+    - 1.2:
+        non_striker: JO Adedeji
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Olaleye
+    - 1.3:
+        non_striker: JO Adedeji
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Olaleye
+    - 1.4:
+        non_striker: JO Adedeji
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Olaleye
+    - 1.5:
+        non_striker: JO Adedeji
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Olaleye
+    - 1.6:
+        non_striker: JO Adedeji
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Olaleye
+    - 2.1:
+        non_striker: O Olaleye
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 2.2:
+        non_striker: O Olaleye
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 2.3:
+        non_striker: O Olaleye
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 2.4:
+        non_striker: JO Adedeji
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Olaleye
+        wicket:
+          player_out: O Olaleye
+          fielders:
+          - DS Wesonga
+          kind: caught
+    - 2.5:
+        non_striker: JO Adedeji
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VD Adewoye
+    - 2.6:
+        non_striker: JO Adedeji
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VD Adewoye
+    - 3.1:
+        non_striker: VD Adewoye
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 3.2:
+        non_striker: VD Adewoye
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JO Adedeji
+    - 3.3:
+        non_striker: VD Adewoye
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 3.4:
+        non_striker: JO Adedeji
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VD Adewoye
+    - 3.5:
+        non_striker: JO Adedeji
+        bowler: E Otieno
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: VD Adewoye
+    - 3.6:
+        non_striker: JO Adedeji
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VD Adewoye
+    - 3.7:
+        non_striker: JO Adedeji
+        bowler: E Otieno
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VD Adewoye
+    - 3.8:
+        non_striker: JO Adedeji
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VD Adewoye
+    - 4.1:
+        non_striker: VD Adewoye
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 4.2:
+        non_striker: VD Adewoye
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JO Adedeji
+    - 4.3:
+        non_striker: VD Adewoye
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 4.4:
+        non_striker: VD Adewoye
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JO Adedeji
+    - 4.5:
+        non_striker: VD Adewoye
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 4.6:
+        non_striker: VD Adewoye
+        bowler: Vraj Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JO Adedeji
+    - 4.7:
+        non_striker: VD Adewoye
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 5.1:
+        non_striker: JO Adedeji
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VD Adewoye
+        wicket:
+          player_out: VD Adewoye
+          fielders:
+          - IA Karim
+          kind: caught
+    - 5.2:
+        non_striker: JO Adedeji
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Onwuzulike
+    - 5.3:
+        non_striker: CN Onwuzulike
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 5.4:
+        non_striker: CN Onwuzulike
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 5.5:
+        non_striker: JO Adedeji
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Onwuzulike
+    - 5.6:
+        non_striker: CN Onwuzulike
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 6.1:
+        non_striker: CN Onwuzulike
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JO Adedeji
+    - 6.2:
+        non_striker: CN Onwuzulike
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JO Adedeji
+    - 6.3:
+        non_striker: CN Onwuzulike
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 6.4:
+        non_striker: CN Onwuzulike
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 6.5:
+        non_striker: JO Adedeji
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+    - 6.6:
+        non_striker: JO Adedeji
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Onwuzulike
+    - 7.1:
+        non_striker: CN Onwuzulike
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 7.2:
+        non_striker: CN Onwuzulike
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 7.3:
+        non_striker: CN Onwuzulike
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 7.4:
+        non_striker: CN Onwuzulike
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 7.5:
+        non_striker: JO Adedeji
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Onwuzulike
+    - 7.6:
+        non_striker: JO Adedeji
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Onwuzulike
+    - 8.1:
+        non_striker: JO Adedeji
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Onwuzulike
+    - 8.2:
+        non_striker: CN Onwuzulike
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 8.3:
+        non_striker: CN Onwuzulike
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 8.4:
+        non_striker: JO Adedeji
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Onwuzulike
+    - 8.5:
+        non_striker: JO Adedeji
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+    - 8.6:
+        non_striker: JO Adedeji
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Onwuzulike
+    - 9.1:
+        non_striker: JO Adedeji
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CN Onwuzulike
+    - 9.2:
+        non_striker: JO Adedeji
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Onwuzulike
+    - 9.3:
+        non_striker: CN Onwuzulike
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 9.4:
+        non_striker: JO Adedeji
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+    - 9.5:
+        non_striker: JO Adedeji
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+    - 9.6:
+        non_striker: JO Adedeji
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Onwuzulike
+    - 10.1:
+        non_striker: CN Onwuzulike
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 10.2:
+        non_striker: JO Adedeji
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+    - 10.3:
+        non_striker: JO Adedeji
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+    - 10.4:
+        non_striker: JO Adedeji
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Onwuzulike
+    - 10.5:
+        non_striker: CN Onwuzulike
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 10.6:
+        non_striker: JO Adedeji
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Onwuzulike
+    - 11.1:
+        non_striker: JO Adedeji
+        bowler: SO Ngoche
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: CN Onwuzulike
+    - 11.2:
+        non_striker: CN Onwuzulike
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JO Adedeji
+    - 11.3:
+        non_striker: CN Onwuzulike
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 11.4:
+        non_striker: CN Onwuzulike
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 11.5:
+        non_striker: CN Onwuzulike
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 11.6:
+        non_striker: JO Adedeji
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+    - 11.7:
+        non_striker: JO Adedeji
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+    - 12.1:
+        non_striker: CN Onwuzulike
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 12.2:
+        non_striker: JO Adedeji
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+    - 12.3:
+        non_striker: JO Adedeji
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+    - 12.4:
+        non_striker: JO Adedeji
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Onwuzulike
+    - 12.5:
+        non_striker: CN Onwuzulike
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 12.6:
+        non_striker: JO Adedeji
+        bowler: Zahid Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Onwuzulike
+    - 13.1:
+        non_striker: CN Onwuzulike
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 13.2:
+        non_striker: CN Onwuzulike
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 13.3:
+        non_striker: CN Onwuzulike
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JO Adedeji
+    - 13.4:
+        non_striker: CN Onwuzulike
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 13.5:
+        non_striker: CN Onwuzulike
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 13.6:
+        non_striker: JO Adedeji
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CN Onwuzulike
+    - 14.1:
+        non_striker: CN Onwuzulike
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 14.2:
+        non_striker: CN Onwuzulike
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JO Adedeji
+    - 14.3:
+        non_striker: CN Onwuzulike
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 14.4:
+        non_striker: JO Adedeji
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+    - 14.5:
+        non_striker: JO Adedeji
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+    - 14.6:
+        non_striker: JO Adedeji
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+    - 15.1:
+        non_striker: CN Onwuzulike
+        bowler: E Otieno
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JO Adedeji
+    - 15.2:
+        non_striker: CN Onwuzulike
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JO Adedeji
+    - 15.3:
+        non_striker: CN Onwuzulike
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+        wicket:
+          player_out: JO Adedeji
+          fielders:
+          - Zahid Abbas
+          kind: caught
+    - 15.4:
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Aho
+        batsman: CN Onwuzulike
+    - 15.5:
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Aho
+        batsman: CN Onwuzulike
+    - 15.6:
+        bowler: E Otieno
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: P Aho
+        batsman: CN Onwuzulike
+    - 15.7:
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: P Aho
+        batsman: CN Onwuzulike
+    - 15.8:
+        non_striker: P Aho
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Onwuzulike
+    - 16.1:
+        non_striker: P Aho
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+    - 16.2:
+        non_striker: P Aho
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CN Onwuzulike
+    - 16.3:
+        non_striker: P Aho
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Onwuzulike
+    - 16.4:
+        non_striker: CN Onwuzulike
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Aho
+    - 16.5:
+        non_striker: CN Onwuzulike
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Aho
+    - 16.6:
+        non_striker: P Aho
+        bowler: E Ochieng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Onwuzulike
+    - 17.1:
+        non_striker: CN Onwuzulike
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Aho
+    - 17.2:
+        non_striker: P Aho
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+    - 17.3:
+        non_striker: P Aho
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+    - 17.4:
+        non_striker: P Aho
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+        wicket:
+          player_out: CN Onwuzulike
+          fielders:
+          - DS Wesonga
+          kind: caught
+    - 17.5:
+        non_striker: P Aho
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohameed Taiwo
+    - 17.6:
+        non_striker: P Aho
+        bowler: E Otieno
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohameed Taiwo
+- 2nd innings:
+    team: Kenya
+    deliveries:
+    - 0.1:
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RN Patel
+        batsman: Gurdeep Singh
+    - 0.2:
+        non_striker: Gurdeep Singh
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 0.3:
+        non_striker: RN Patel
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurdeep Singh
+    - 0.4:
+        non_striker: RN Patel
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurdeep Singh
+    - 0.5:
+        non_striker: Gurdeep Singh
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RN Patel
+    - 0.6:
+        non_striker: Gurdeep Singh
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 1.1:
+        non_striker: RN Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gurdeep Singh
+    - 1.2:
+        non_striker: RN Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurdeep Singh
+    - 1.3:
+        non_striker: RN Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurdeep Singh
+    - 1.4:
+        non_striker: RN Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurdeep Singh
+    - 1.5:
+        non_striker: Gurdeep Singh
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RN Patel
+    - 1.6:
+        non_striker: Gurdeep Singh
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RN Patel
+    - 2.1:
+        non_striker: RN Patel
+        bowler: P Aho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Gurdeep Singh
+    - 2.2:
+        non_striker: Gurdeep Singh
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 2.3:
+        non_striker: Gurdeep Singh
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RN Patel
+    - 2.4:
+        non_striker: Gurdeep Singh
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 2.5:
+        non_striker: RN Patel
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurdeep Singh
+    - 2.6:
+        non_striker: RN Patel
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurdeep Singh
+    - 3.1:
+        non_striker: RN Patel
+        bowler: RA Abolarin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurdeep Singh
+        wicket:
+          player_out: Gurdeep Singh
+          fielders:
+          - CN Onwuzulike
+          kind: caught
+    - 3.2:
+        bowler: RA Abolarin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: IA Karim
+        batsman: RN Patel
+    - 3.3:
+        non_striker: IA Karim
+        bowler: RA Abolarin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+        wicket:
+          player_out: RN Patel
+          fielders:
+          - JO Adedeji
+          kind: caught
+    - 3.4:
+        bowler: RA Abolarin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NM Odhiambo
+        batsman: IA Karim
+    - 3.5:
+        bowler: RA Abolarin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NM Odhiambo
+        batsman: IA Karim
+    - 3.6:
+        non_striker: NM Odhiambo
+        bowler: RA Abolarin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 4.1:
+        non_striker: IA Karim
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Odhiambo
+    - 4.2:
+        non_striker: IA Karim
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Odhiambo
+    - 4.3:
+        non_striker: IA Karim
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Odhiambo
+    - 4.4:
+        non_striker: IA Karim
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: NM Odhiambo
+    - 4.5:
+        non_striker: IA Karim
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Odhiambo
+    - 4.6:
+        non_striker: NM Odhiambo
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 5.1:
+        non_striker: IA Karim
+        bowler: RA Abolarin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Odhiambo
+    - 5.2:
+        non_striker: NM Odhiambo
+        bowler: RA Abolarin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 5.3:
+        non_striker: IA Karim
+        bowler: RA Abolarin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Odhiambo
+        wicket:
+          player_out: NM Odhiambo
+          fielders:
+          - Mohameed Taiwo
+          kind: caught
+    - 5.4:
+        non_striker: IA Karim
+        bowler: RA Abolarin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahid Abbas
+    - 5.5:
+        non_striker: IA Karim
+        bowler: RA Abolarin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahid Abbas
+    - 5.6:
+        non_striker: Zahid Abbas
+        bowler: RA Abolarin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 6.1:
+        non_striker: Zahid Abbas
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 6.2:
+        non_striker: Zahid Abbas
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 6.3:
+        non_striker: IA Karim
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahid Abbas
+    - 6.4:
+        non_striker: Zahid Abbas
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 6.5:
+        non_striker: IA Karim
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahid Abbas
+    - 6.6:
+        non_striker: IA Karim
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahid Abbas
+    - 7.1:
+        non_striker: IA Karim
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahid Abbas
+    - 7.2:
+        non_striker: Zahid Abbas
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+        wicket:
+          player_out: IA Karim
+          kind: bowled
+    - 7.3:
+        non_striker: Zahid Abbas
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+    - 7.4:
+        non_striker: Zahid Abbas
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+    - 7.5:
+        non_striker: Zahid Abbas
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 7.6:
+        non_striker: SO Ngoche
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahid Abbas
+    - 8.1:
+        non_striker: Zahid Abbas
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+    - 8.2:
+        non_striker: Zahid Abbas
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+    - 8.3:
+        non_striker: Zahid Abbas
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+    - 8.4:
+        non_striker: Zahid Abbas
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+    - 8.5:
+        non_striker: Zahid Abbas
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+    - 8.6:
+        non_striker: Zahid Abbas
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+    - 9.1:
+        non_striker: SO Ngoche
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahid Abbas
+    - 9.2:
+        non_striker: Zahid Abbas
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Ngoche
+    - 9.3:
+        non_striker: Zahid Abbas
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+    - 9.4:
+        non_striker: Zahid Abbas
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 9.5:
+        non_striker: SO Ngoche
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zahid Abbas
+    - 9.6:
+        non_striker: SO Ngoche
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahid Abbas
+    - 10.1:
+        non_striker: Zahid Abbas
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 10.2:
+        non_striker: SO Ngoche
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahid Abbas
+    - 10.3:
+        non_striker: SO Ngoche
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahid Abbas
+        wicket:
+          player_out: Zahid Abbas
+          kind: lbw
+    - 10.4:
+        non_striker: SO Ngoche
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ochieng
+    - 10.5:
+        non_striker: SO Ngoche
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ochieng
+    - 10.6:
+        non_striker: SO Ngoche
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Ochieng
+    - 11.1:
+        non_striker: SO Ngoche
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Ochieng
+    - 11.2:
+        non_striker: SO Ngoche
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Ochieng
+    - 11.3:
+        non_striker: SO Ngoche
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ochieng
+    - 11.4:
+        non_striker: SO Ngoche
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Ochieng
+    - 11.5:
+        non_striker: E Ochieng
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Ngoche
+    - 11.6:
+        non_striker: E Ochieng
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Ngoche
+    - 12.1:
+        non_striker: SO Ngoche
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Ochieng
+    - 12.2:
+        non_striker: SO Ngoche
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Ochieng
+    - 12.3:
+        non_striker: E Ochieng
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 12.4:
+        non_striker: SO Ngoche
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Ochieng
+    - 12.5:
+        non_striker: E Ochieng
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+    - 12.6:
+        non_striker: E Ochieng
+        bowler: JO Adedeji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 13.1:
+        non_striker: E Ochieng
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Ngoche
+    - 13.2:
+        non_striker: E Ochieng
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Ngoche
+    - 13.3:
+        non_striker: E Ochieng
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Ngoche
+    - 13.4:
+        non_striker: E Ochieng
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+    - 13.5:
+        non_striker: E Ochieng
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+    - 13.6:
+        non_striker: E Ochieng
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 14.1:
+        non_striker: E Ochieng
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Ngoche
+    - 14.2:
+        non_striker: E Ochieng
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Ngoche
+    - 14.3:
+        non_striker: E Ochieng
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Ngoche
+    - 14.4:
+        non_striker: E Ochieng
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Ngoche
+    - 14.5:
+        non_striker: E Ochieng
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Ngoche
+    - 14.6:
+        non_striker: E Ochieng
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche

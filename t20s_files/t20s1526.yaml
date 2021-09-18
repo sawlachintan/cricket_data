@@ -1,0 +1,2429 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-07-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Krefeld
+  dates:
+  - '2021-07-09'
+  gender: female
+  match_type: T20
+  match_type_number: 915
+  outcome:
+    winner: Germany
+    by:
+      runs: 65
+  overs: 20
+  player_of_match:
+  - JE Ronalds
+  players:
+    Germany:
+    - AM Healey
+    - CM Gough
+    - A Doddaballapur
+    - JE Ronalds
+    - ST Frohnmayer
+    - S Sadarangani
+    - SR McAnanama-Brereton
+    - EC Bargna
+    - PA Wadenpohl
+    - K Vijayaraghavan
+    - V Stolle
+    France:
+    - TE Britton
+    - AC Brodin
+    - J King
+    - PC McGeown
+    - DL Graham
+    - E Brelivet
+    - M Cargouet
+    - I Vrignaud
+    - ME Violleau
+    - SPY Baron
+    - C Breteche
+  registry:
+    people:
+      A Doddaballapur: fe4f5d2b
+      AC Brodin: 95569cde
+      AM Healey: f3249df1
+      C Breteche: 458a21f3
+      CM Gough: f1328a90
+      DL Graham: 907e30d9
+      E Brelivet: f2eb0e99
+      EC Bargna: 9908d470
+      I Vrignaud: bb472ec7
+      J King: f7ad6448
+      JE Ronalds: d4f98302
+      K Vijayaraghavan: '048da365'
+      M Cargouet: 990957cc
+      ME Violleau: 69f47625
+      PA Wadenpohl: 11898ffe
+      PC McGeown: 1aabd6fc
+      S Sadarangani: acd030a0
+      SPY Baron: 864dba03
+      SR McAnanama-Brereton: bb1be934
+      ST Frohnmayer: 7e8bcfc1
+      TE Britton: 5eceeb7f
+      V Stolle: 0dc4ac6c
+  teams:
+  - Germany
+  - France
+  toss:
+    decision: bat
+    winner: Germany
+  venue: Bayer Uerdingen Cricket Ground
+innings:
+- 1st innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CM Gough
+        batsman: AM Healey
+    - 0.2:
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CM Gough
+        batsman: AM Healey
+    - 0.3:
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CM Gough
+        batsman: AM Healey
+    - 0.4:
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CM Gough
+        batsman: AM Healey
+    - 0.5:
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CM Gough
+        batsman: AM Healey
+    - 0.6:
+        non_striker: CM Gough
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Healey
+    - 1.1:
+        non_striker: AM Healey
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 1.2:
+        non_striker: CM Gough
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Healey
+    - 1.3:
+        non_striker: AM Healey
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 1.4:
+        non_striker: CM Gough
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Healey
+    - 1.5:
+        non_striker: CM Gough
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Healey
+    - 1.6:
+        non_striker: CM Gough
+        bowler: ME Violleau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Healey
+    - 1.7:
+        non_striker: CM Gough
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Healey
+    - 2.1:
+        non_striker: AM Healey
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 2.2:
+        non_striker: AM Healey
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Gough
+    - 2.3:
+        non_striker: AM Healey
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 2.4:
+        non_striker: CM Gough
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Healey
+        wicket:
+          player_out: AM Healey
+          fielders:
+          - TE Britton
+          kind: caught
+    - 2.5:
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Doddaballapur
+        batsman: CM Gough
+    - 2.6:
+        bowler: C Breteche
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Doddaballapur
+        batsman: CM Gough
+    - 2.7:
+        non_striker: A Doddaballapur
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 3.1:
+        non_striker: CM Gough
+        bowler: ME Violleau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Doddaballapur
+    - 3.2:
+        non_striker: CM Gough
+        bowler: ME Violleau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Doddaballapur
+    - 3.3:
+        non_striker: CM Gough
+        bowler: ME Violleau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Doddaballapur
+    - 3.4:
+        non_striker: CM Gough
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 3.5:
+        non_striker: CM Gough
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 3.6:
+        non_striker: A Doddaballapur
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 3.7:
+        non_striker: CM Gough
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 3.8:
+        non_striker: CM Gough
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 3.9:
+        non_striker: A Doddaballapur
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 4.1:
+        non_striker: A Doddaballapur
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 4.2:
+        non_striker: A Doddaballapur
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Gough
+    - 4.3:
+        non_striker: A Doddaballapur
+        bowler: AC Brodin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CM Gough
+    - 4.4:
+        non_striker: A Doddaballapur
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CM Gough
+    - 4.5:
+        non_striker: A Doddaballapur
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 4.6:
+        non_striker: A Doddaballapur
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 4.7:
+        non_striker: CM Gough
+        bowler: AC Brodin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Doddaballapur
+    - 4.8:
+        non_striker: CM Gough
+        bowler: AC Brodin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Doddaballapur
+    - 4.9:
+        non_striker: CM Gough
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 5.1:
+        non_striker: A Doddaballapur
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Gough
+    - 5.2:
+        non_striker: A Doddaballapur
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 5.3:
+        non_striker: CM Gough
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 5.4:
+        non_striker: CM Gough
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 5.5:
+        non_striker: CM Gough
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 5.6:
+        non_striker: CM Gough
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 6.1:
+        non_striker: CM Gough
+        bowler: SPY Baron
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Doddaballapur
+    - 6.2:
+        non_striker: CM Gough
+        bowler: SPY Baron
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Doddaballapur
+    - 6.3:
+        non_striker: CM Gough
+        bowler: SPY Baron
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Doddaballapur
+    - 6.4:
+        non_striker: CM Gough
+        bowler: SPY Baron
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Doddaballapur
+    - 6.5:
+        non_striker: CM Gough
+        bowler: SPY Baron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 6.6:
+        non_striker: A Doddaballapur
+        bowler: SPY Baron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 6.7:
+        non_striker: CM Gough
+        bowler: SPY Baron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 6.8:
+        non_striker: A Doddaballapur
+        bowler: SPY Baron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 6.9:
+        non_striker: CM Gough
+        bowler: SPY Baron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 6.10:
+        non_striker: A Doddaballapur
+        bowler: SPY Baron
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CM Gough
+    - 6.11:
+        non_striker: A Doddaballapur
+        bowler: SPY Baron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 7.1:
+        non_striker: A Doddaballapur
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 7.2:
+        non_striker: A Doddaballapur
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 7.3:
+        non_striker: A Doddaballapur
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 7.4:
+        non_striker: A Doddaballapur
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 7.5:
+        non_striker: A Doddaballapur
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+        wicket:
+          player_out: CM Gough
+          fielders:
+          - DL Graham
+          kind: caught
+    - 7.6:
+        non_striker: A Doddaballapur
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 8.1:
+        non_striker: JE Ronalds
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Doddaballapur
+    - 8.2:
+        non_striker: JE Ronalds
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 8.3:
+        non_striker: A Doddaballapur
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 8.4:
+        non_striker: A Doddaballapur
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 8.5:
+        non_striker: A Doddaballapur
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 8.6:
+        non_striker: JE Ronalds
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 9.1:
+        non_striker: JE Ronalds
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 9.2:
+        non_striker: A Doddaballapur
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 9.3:
+        non_striker: A Doddaballapur
+        bowler: PC McGeown
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: JE Ronalds
+    - 9.4:
+        non_striker: JE Ronalds
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 9.5:
+        non_striker: A Doddaballapur
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 9.6:
+        non_striker: A Doddaballapur
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Ronalds
+    - 9.7:
+        non_striker: A Doddaballapur
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 10.1:
+        non_striker: A Doddaballapur
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 10.2:
+        non_striker: JE Ronalds
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 10.3:
+        non_striker: JE Ronalds
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 10.4:
+        non_striker: JE Ronalds
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 10.5:
+        non_striker: JE Ronalds
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Doddaballapur
+    - 10.6:
+        non_striker: JE Ronalds
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Doddaballapur
+    - 11.1:
+        non_striker: A Doddaballapur
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 11.2:
+        non_striker: JE Ronalds
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 11.3:
+        non_striker: A Doddaballapur
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 11.4:
+        non_striker: A Doddaballapur
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 11.5:
+        non_striker: JE Ronalds
+        bowler: ME Violleau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Doddaballapur
+    - 11.6:
+        non_striker: JE Ronalds
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Doddaballapur
+    - 11.7:
+        non_striker: JE Ronalds
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 12.1:
+        non_striker: JE Ronalds
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 12.2:
+        non_striker: JE Ronalds
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 12.3:
+        non_striker: A Doddaballapur
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 12.4:
+        non_striker: A Doddaballapur
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 12.5:
+        non_striker: JE Ronalds
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 12.6:
+        non_striker: A Doddaballapur
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Ronalds
+    - 13.1:
+        non_striker: JE Ronalds
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 13.2:
+        non_striker: A Doddaballapur
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 13.3:
+        non_striker: A Doddaballapur
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+        wicket:
+          player_out: A Doddaballapur
+          kind: run out
+    - 13.4:
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ST Frohnmayer
+        batsman: JE Ronalds
+    - 13.5:
+        non_striker: JE Ronalds
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Frohnmayer
+    - 13.6:
+        non_striker: JE Ronalds
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Frohnmayer
+    - 14.1:
+        non_striker: ST Frohnmayer
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 14.2:
+        non_striker: ST Frohnmayer
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Ronalds
+    - 14.3:
+        non_striker: ST Frohnmayer
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 14.4:
+        non_striker: ST Frohnmayer
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 14.5:
+        non_striker: JE Ronalds
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Frohnmayer
+    - 14.6:
+        non_striker: JE Ronalds
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Frohnmayer
+    - 15.1:
+        non_striker: ST Frohnmayer
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 15.2:
+        non_striker: ST Frohnmayer
+        bowler: AC Brodin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JE Ronalds
+    - 15.3:
+        non_striker: ST Frohnmayer
+        bowler: AC Brodin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JE Ronalds
+    - 15.4:
+        non_striker: ST Frohnmayer
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 15.5:
+        non_striker: ST Frohnmayer
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 15.6:
+        non_striker: ST Frohnmayer
+        bowler: AC Brodin
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: JE Ronalds
+    - 15.7:
+        non_striker: JE Ronalds
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Frohnmayer
+    - 15.8:
+        non_striker: ST Frohnmayer
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 15.9:
+        non_striker: ST Frohnmayer
+        bowler: AC Brodin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JE Ronalds
+    - 16.1:
+        non_striker: ST Frohnmayer
+        bowler: C Breteche
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JE Ronalds
+    - 16.2:
+        non_striker: ST Frohnmayer
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 16.3:
+        non_striker: JE Ronalds
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Frohnmayer
+    - 16.4:
+        non_striker: JE Ronalds
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Frohnmayer
+    - 16.5:
+        non_striker: JE Ronalds
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Frohnmayer
+    - 16.6:
+        non_striker: JE Ronalds
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Frohnmayer
+    - 16.7:
+        non_striker: ST Frohnmayer
+        bowler: C Breteche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+        wicket:
+          player_out: JE Ronalds
+          kind: caught and bowled
+    - 17.1:
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Sadarangani
+        batsman: ST Frohnmayer
+    - 17.2:
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Sadarangani
+        batsman: ST Frohnmayer
+    - 17.3:
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Sadarangani
+        batsman: ST Frohnmayer
+    - 17.4:
+        non_striker: ST Frohnmayer
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 17.5:
+        non_striker: ST Frohnmayer
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 17.6:
+        non_striker: ST Frohnmayer
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sadarangani
+    - 18.1:
+        non_striker: ST Frohnmayer
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 18.2:
+        non_striker: ST Frohnmayer
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 18.3:
+        non_striker: ST Frohnmayer
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sadarangani
+    - 18.4:
+        non_striker: S Sadarangani
+        bowler: DL Graham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ST Frohnmayer
+    - 18.5:
+        non_striker: ST Frohnmayer
+        bowler: DL Graham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sadarangani
+    - 18.6:
+        non_striker: ST Frohnmayer
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 18.7:
+        non_striker: ST Frohnmayer
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 19.1:
+        non_striker: S Sadarangani
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Frohnmayer
+    - 19.2:
+        non_striker: ST Frohnmayer
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sadarangani
+    - 19.3:
+        non_striker: S Sadarangani
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Frohnmayer
+    - 19.4:
+        non_striker: ST Frohnmayer
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sadarangani
+    - 19.5:
+        non_striker: ST Frohnmayer
+        bowler: PC McGeown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Sadarangani
+    - 19.6:
+        non_striker: S Sadarangani
+        bowler: PC McGeown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Frohnmayer
+- 2nd innings:
+    team: France
+    deliveries:
+    - 0.1:
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AC Brodin
+        batsman: TE Britton
+    - 0.2:
+        non_striker: TE Britton
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Brodin
+    - 0.3:
+        non_striker: TE Britton
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Brodin
+    - 0.4:
+        non_striker: TE Britton
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Brodin
+    - 0.5:
+        non_striker: TE Britton
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Brodin
+    - 0.6:
+        non_striker: TE Britton
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Brodin
+    - 1.1:
+        non_striker: AC Brodin
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+    - 1.2:
+        non_striker: AC Brodin
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+    - 1.3:
+        non_striker: AC Brodin
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TE Britton
+    - 1.4:
+        non_striker: TE Britton
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Brodin
+        wicket:
+          player_out: AC Brodin
+          kind: caught and bowled
+    - 1.5:
+        non_striker: TE Britton
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J King
+    - 1.6:
+        non_striker: TE Britton
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J King
+    - 2.1:
+        non_striker: J King
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+    - 2.2:
+        non_striker: J King
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TE Britton
+    - 2.3:
+        non_striker: TE Britton
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J King
+    - 2.4:
+        non_striker: TE Britton
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J King
+    - 2.5:
+        non_striker: TE Britton
+        bowler: EC Bargna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J King
+    - 2.6:
+        non_striker: TE Britton
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J King
+    - 2.7:
+        non_striker: TE Britton
+        bowler: EC Bargna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J King
+    - 2.8:
+        non_striker: TE Britton
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J King
+    - 3.1:
+        non_striker: J King
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TE Britton
+    - 3.2:
+        non_striker: J King
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TE Britton
+    - 3.3:
+        non_striker: TE Britton
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J King
+    - 3.4:
+        non_striker: TE Britton
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J King
+    - 3.5:
+        non_striker: TE Britton
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J King
+    - 3.6:
+        non_striker: TE Britton
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J King
+    - 4.1:
+        non_striker: J King
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+    - 4.2:
+        non_striker: J King
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+    - 4.3:
+        non_striker: J King
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+    - 4.4:
+        non_striker: J King
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+    - 4.5:
+        non_striker: J King
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+    - 4.6:
+        non_striker: J King
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+    - 5.1:
+        non_striker: TE Britton
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J King
+    - 5.2:
+        non_striker: J King
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+    - 5.3:
+        non_striker: J King
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TE Britton
+    - 5.4:
+        non_striker: J King
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TE Britton
+    - 5.5:
+        non_striker: TE Britton
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J King
+    - 5.6:
+        non_striker: TE Britton
+        bowler: AM Healey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J King
+    - 6.1:
+        non_striker: TE Britton
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J King
+    - 6.2:
+        non_striker: J King
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TE Britton
+    - 6.3:
+        non_striker: TE Britton
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J King
+    - 6.4:
+        non_striker: TE Britton
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J King
+    - 6.5:
+        non_striker: TE Britton
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J King
+    - 6.6:
+        non_striker: TE Britton
+        bowler: ST Frohnmayer
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: J King
+    - 6.7:
+        non_striker: J King
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+    - 7.1:
+        non_striker: TE Britton
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J King
+    - 7.2:
+        non_striker: TE Britton
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J King
+    - 7.3:
+        non_striker: TE Britton
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J King
+    - 7.4:
+        non_striker: J King
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+    - 7.5:
+        non_striker: J King
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+    - 7.6:
+        non_striker: J King
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+    - 8.1:
+        non_striker: TE Britton
+        bowler: ST Frohnmayer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J King
+    - 8.2:
+        non_striker: TE Britton
+        bowler: ST Frohnmayer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J King
+    - 8.3:
+        non_striker: TE Britton
+        bowler: ST Frohnmayer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J King
+    - 8.4:
+        non_striker: TE Britton
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J King
+    - 8.5:
+        non_striker: TE Britton
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J King
+        wicket:
+          player_out: J King
+          fielders:
+          - JE Ronalds
+          kind: caught
+    - 8.6:
+        non_striker: TE Britton
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PC McGeown
+    - 8.7:
+        non_striker: TE Britton
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PC McGeown
+    - 8.8:
+        non_striker: TE Britton
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PC McGeown
+    - 8.9:
+        non_striker: TE Britton
+        bowler: ST Frohnmayer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PC McGeown
+    - 8.10:
+        non_striker: TE Britton
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PC McGeown
+    - 9.1:
+        non_striker: PC McGeown
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TE Britton
+    - 9.2:
+        non_striker: TE Britton
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PC McGeown
+    - 9.3:
+        non_striker: TE Britton
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PC McGeown
+        wicket:
+          player_out: PC McGeown
+          fielders:
+          - CM Gough
+          kind: caught
+    - 9.4:
+        non_striker: TE Britton
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Graham
+        wicket:
+          player_out: DL Graham
+          kind: lbw
+    - 9.5:
+        non_striker: TE Britton
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brelivet
+    - 9.6:
+        non_striker: TE Britton
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brelivet
+    - 10.1:
+        non_striker: E Brelivet
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TE Britton
+    - 10.2:
+        non_striker: E Brelivet
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+    - 10.3:
+        non_striker: E Brelivet
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+    - 10.4:
+        non_striker: E Brelivet
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TE Britton
+    - 10.5:
+        non_striker: TE Britton
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Brelivet
+    - 10.6:
+        non_striker: TE Britton
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brelivet
+    - 10.7:
+        non_striker: TE Britton
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brelivet
+    - 10.8:
+        non_striker: TE Britton
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Brelivet
+    - 11.1:
+        non_striker: E Brelivet
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+    - 11.2:
+        non_striker: E Brelivet
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Britton
+        wicket:
+          player_out: TE Britton
+          kind: bowled
+    - 11.3:
+        non_striker: E Brelivet
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Cargouet
+    - 11.4:
+        non_striker: E Brelivet
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Cargouet
+    - 11.5:
+        non_striker: E Brelivet
+        bowler: A Doddaballapur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: M Cargouet
+    - 11.6:
+        non_striker: M Cargouet
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brelivet
+    - 12.1:
+        non_striker: E Brelivet
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Cargouet
+    - 12.2:
+        non_striker: E Brelivet
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Cargouet
+    - 12.3:
+        non_striker: M Cargouet
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: E Brelivet
+    - 12.4:
+        non_striker: M Cargouet
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brelivet
+    - 12.5:
+        non_striker: M Cargouet
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Brelivet
+    - 12.6:
+        non_striker: M Cargouet
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brelivet
+    - 12.7:
+        non_striker: M Cargouet
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brelivet
+    - 12.8:
+        non_striker: M Cargouet
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brelivet
+        wicket:
+          player_out: E Brelivet
+          fielders:
+          - K Vijayaraghavan
+          kind: caught
+    - 13.1:
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Vrignaud
+        batsman: M Cargouet
+    - 13.2:
+        non_striker: I Vrignaud
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Cargouet
+        wicket:
+          player_out: M Cargouet
+          kind: bowled
+    - 13.3:
+        non_striker: I Vrignaud
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Violleau
+    - 13.4:
+        non_striker: I Vrignaud
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Violleau
+    - 13.5:
+        non_striker: I Vrignaud
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Violleau
+    - 13.6:
+        non_striker: I Vrignaud
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Violleau
+    - 14.1:
+        non_striker: I Vrignaud
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Violleau
+    - 14.2:
+        non_striker: I Vrignaud
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Violleau
+    - 14.3:
+        non_striker: I Vrignaud
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Violleau
+    - 14.4:
+        non_striker: I Vrignaud
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: ME Violleau
+    - 14.5:
+        non_striker: I Vrignaud
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Violleau
+    - 14.6:
+        non_striker: ME Violleau
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Vrignaud
+    - 14.7:
+        non_striker: ME Violleau
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Vrignaud
+    - 14.8:
+        non_striker: I Vrignaud
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Violleau
+    - 15.1:
+        non_striker: I Vrignaud
+        bowler: PA Wadenpohl
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: ME Violleau
+    - 15.2:
+        non_striker: I Vrignaud
+        bowler: PA Wadenpohl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Violleau
+    - 15.3:
+        non_striker: I Vrignaud
+        bowler: PA Wadenpohl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ME Violleau
+    - 15.4:
+        non_striker: I Vrignaud
+        bowler: PA Wadenpohl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Violleau
+    - 15.5:
+        non_striker: I Vrignaud
+        bowler: PA Wadenpohl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Violleau
+    - 15.6:
+        non_striker: ME Violleau
+        bowler: PA Wadenpohl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Vrignaud
+    - 15.7:
+        non_striker: ME Violleau
+        bowler: PA Wadenpohl
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Vrignaud
+    - 15.8:
+        non_striker: ME Violleau
+        bowler: PA Wadenpohl
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Vrignaud
+    - 15.9:
+        non_striker: ME Violleau
+        bowler: PA Wadenpohl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Vrignaud
+        wicket:
+          player_out: I Vrignaud
+          fielders:
+          - JE Ronalds
+          kind: caught
+    - 16.1:
+        bowler: JE Ronalds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: SPY Baron
+        batsman: ME Violleau
+    - 16.2:
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SPY Baron
+        batsman: ME Violleau
+    - 16.3:
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SPY Baron
+        batsman: ME Violleau
+    - 16.4:
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SPY Baron
+        batsman: ME Violleau
+    - 16.5:
+        non_striker: ME Violleau
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPY Baron
+    - 16.6:
+        non_striker: ME Violleau
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPY Baron
+    - 16.7:
+        non_striker: ME Violleau
+        bowler: JE Ronalds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SPY Baron
+    - 16.8:
+        non_striker: ME Violleau
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPY Baron
+    - 17.1:
+        non_striker: SPY Baron
+        bowler: PA Wadenpohl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Violleau
+    - 17.2:
+        non_striker: SPY Baron
+        bowler: PA Wadenpohl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Violleau
+    - 17.3:
+        non_striker: ME Violleau
+        bowler: PA Wadenpohl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPY Baron
+    - 17.4:
+        non_striker: SPY Baron
+        bowler: PA Wadenpohl
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: ME Violleau
+    - 17.5:
+        non_striker: ME Violleau
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: S Sadarangani
+            out: PA Wadenpohl
+            reason: excluded - high full pitched balls
+            role: bowler
+        batsman: SPY Baron
+    - 17.6:
+        non_striker: ME Violleau
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPY Baron
+    - 17.7:
+        non_striker: ME Violleau
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPY Baron
+    - 18.1:
+        non_striker: SPY Baron
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Violleau
+    - 18.2:
+        non_striker: SPY Baron
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Violleau
+    - 18.3:
+        non_striker: ME Violleau
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPY Baron
+    - 18.4:
+        non_striker: ME Violleau
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPY Baron
+        wicket:
+          player_out: SPY Baron
+          kind: caught and bowled
+    - 18.5:
+        non_striker: ME Violleau
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Breteche
+    - 18.6:
+        non_striker: ME Violleau
+        bowler: JE Ronalds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Breteche
+    - 18.7:
+        non_striker: ME Violleau
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Breteche
+        wicket:
+          player_out: C Breteche
+          fielders:
+          - AM Healey
+          kind: caught

@@ -1,0 +1,782 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-12-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Pokhara
+  dates:
+  - '2019-12-07'
+  gender: female
+  match_type: T20
+  match_type_number: 810
+  outcome:
+    winner: Nepal
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - Anjali Chand
+  players:
+    Maldives:
+    - Aima Aishath
+    - Hamza Niyaz
+    - Sumayya Abdul
+    - Hafsaa Abdhulla
+    - Zoona Mariyam
+    - Eashal Ibrahim
+    - Sajaa Fathimath
+    - Latsha Haleemath
+    - Kinaanath Ismail
+    - Maaha Naseer
+    - Shamma Ali
+    Nepal:
+    - K Shrestha
+    - Roma Thapa
+    - I Barma
+    - RC Belbashi
+    - S Khadka
+    - Apsari Begam
+    - Karuna Bhandari
+    - S Khatiwada
+    - K Kunwar
+    - Anjali Chand
+    - SR Magar
+  registry:
+    people:
+      Aima Aishath: 62aa10d7
+      Anjali Chand: e15d9f04
+      Apsari Begam: eb765b41
+      Eashal Ibrahim: 06be92a7
+      Hafsaa Abdhulla: 7fa1e4a2
+      Hamza Niyaz: 6795e49f
+      Hiralal Raut: f9e21b08
+      I Barma: 521abce2
+      K Kunwar: 97e6e41a
+      K Shrestha: 119de50f
+      Karuna Bhandari: c68fc575
+      Kinaanath Ismail: e9ead9c3
+      Latsha Haleemath: 2d99b12e
+      Maaha Naseer: f8809f92
+      Manjul Bhattarai: 4f408a79
+      Manmohan Lamsal: 6dc32900
+      Manohar Adhikari: f1194524
+      RC Belbashi: dfdaca74
+      Roma Thapa: 05d9faac
+      S Khadka: c96e51ba
+      S Khatiwada: 7b5250ed
+      SR Magar: 61c22ad0
+      Sajaa Fathimath: e793a951
+      Shamma Ali: 012bd3f6
+      Sumayya Abdul: a521ba3e
+      Zoona Mariyam: f19bcd5b
+  teams:
+  - Nepal
+  - Maldives
+  toss:
+    decision: bat
+    winner: Maldives
+  umpires:
+  - Manjul Bhattarai
+  - Hiralal Raut
+  venue: Pokhara Rangasala
+innings:
+- 1st innings:
+    team: Maldives
+    deliveries:
+    - 0.1:
+        bowler: K Kunwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Hamza Niyaz
+        batsman: Aima Aishath
+    - 0.2:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Hamza Niyaz
+        batsman: Aima Aishath
+    - 0.3:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Hamza Niyaz
+        batsman: Aima Aishath
+    - 0.4:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Hamza Niyaz
+        batsman: Aima Aishath
+    - 0.5:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Hamza Niyaz
+        batsman: Aima Aishath
+    - 0.6:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Hamza Niyaz
+        batsman: Aima Aishath
+    - 0.7:
+        bowler: K Kunwar
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: Hamza Niyaz
+        batsman: Aima Aishath
+    - 0.8:
+        non_striker: Hamza Niyaz
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aima Aishath
+    - 1.1:
+        non_striker: Aima Aishath
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Niyaz
+    - 1.2:
+        non_striker: Aima Aishath
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Niyaz
+    - 1.3:
+        non_striker: Aima Aishath
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Niyaz
+        wicket:
+          player_out: Hamza Niyaz
+          kind: bowled
+    - 1.4:
+        non_striker: Aima Aishath
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sumayya Abdul
+    - 1.5:
+        non_striker: Aima Aishath
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sumayya Abdul
+    - 1.6:
+        non_striker: Aima Aishath
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sumayya Abdul
+    - 2.1:
+        non_striker: Sumayya Abdul
+        bowler: S Khatiwada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aima Aishath
+    - 2.2:
+        non_striker: Sumayya Abdul
+        bowler: S Khatiwada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aima Aishath
+    - 2.3:
+        non_striker: Sumayya Abdul
+        bowler: S Khatiwada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aima Aishath
+    - 2.4:
+        non_striker: Sumayya Abdul
+        bowler: S Khatiwada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aima Aishath
+    - 2.5:
+        non_striker: Sumayya Abdul
+        bowler: S Khatiwada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aima Aishath
+    - 2.6:
+        non_striker: Aima Aishath
+        bowler: S Khatiwada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sumayya Abdul
+    - 3.1:
+        non_striker: Sumayya Abdul
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aima Aishath
+        wicket:
+          player_out: Aima Aishath
+          kind: lbw
+    - 3.2:
+        non_striker: Sumayya Abdul
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hafsaa Abdhulla
+    - 3.3:
+        non_striker: Sumayya Abdul
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hafsaa Abdhulla
+    - 3.4:
+        non_striker: Sumayya Abdul
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hafsaa Abdhulla
+    - 3.5:
+        non_striker: Sumayya Abdul
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hafsaa Abdhulla
+    - 3.6:
+        non_striker: Sumayya Abdul
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hafsaa Abdhulla
+    - 4.1:
+        non_striker: Hafsaa Abdhulla
+        bowler: S Khatiwada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sumayya Abdul
+    - 4.2:
+        non_striker: Hafsaa Abdhulla
+        bowler: S Khatiwada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sumayya Abdul
+        wicket:
+          player_out: Sumayya Abdul
+          kind: bowled
+    - 4.3:
+        non_striker: Hafsaa Abdhulla
+        bowler: S Khatiwada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoona Mariyam
+    - 4.4:
+        non_striker: Hafsaa Abdhulla
+        bowler: S Khatiwada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoona Mariyam
+    - 4.5:
+        non_striker: Hafsaa Abdhulla
+        bowler: S Khatiwada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoona Mariyam
+    - 4.6:
+        non_striker: Hafsaa Abdhulla
+        bowler: S Khatiwada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoona Mariyam
+    - 5.1:
+        non_striker: Zoona Mariyam
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hafsaa Abdhulla
+    - 5.2:
+        non_striker: Zoona Mariyam
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hafsaa Abdhulla
+    - 5.3:
+        non_striker: Zoona Mariyam
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hafsaa Abdhulla
+        wicket:
+          player_out: Hafsaa Abdhulla
+          kind: caught and bowled
+    - 5.4:
+        non_striker: Zoona Mariyam
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eashal Ibrahim
+    - 5.5:
+        non_striker: Zoona Mariyam
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eashal Ibrahim
+    - 5.6:
+        non_striker: Zoona Mariyam
+        bowler: Anjali Chand
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Eashal Ibrahim
+    - 5.7:
+        non_striker: Zoona Mariyam
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eashal Ibrahim
+    - 6.1:
+        non_striker: Eashal Ibrahim
+        bowler: Karuna Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoona Mariyam
+    - 6.2:
+        non_striker: Eashal Ibrahim
+        bowler: Karuna Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoona Mariyam
+    - 6.3:
+        non_striker: Eashal Ibrahim
+        bowler: Karuna Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoona Mariyam
+    - 6.4:
+        non_striker: Eashal Ibrahim
+        bowler: Karuna Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoona Mariyam
+    - 6.5:
+        non_striker: Eashal Ibrahim
+        bowler: Karuna Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoona Mariyam
+    - 6.6:
+        non_striker: Eashal Ibrahim
+        bowler: Karuna Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoona Mariyam
+    - 7.1:
+        non_striker: Zoona Mariyam
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eashal Ibrahim
+        wicket:
+          player_out: Eashal Ibrahim
+          kind: bowled
+    - 7.2:
+        non_striker: Zoona Mariyam
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sajaa Fathimath
+    - 7.3:
+        non_striker: Zoona Mariyam
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sajaa Fathimath
+    - 7.4:
+        non_striker: Zoona Mariyam
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sajaa Fathimath
+    - 7.5:
+        non_striker: Zoona Mariyam
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sajaa Fathimath
+    - 7.6:
+        non_striker: Zoona Mariyam
+        bowler: Anjali Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sajaa Fathimath
+    - 8.1:
+        non_striker: Sajaa Fathimath
+        bowler: Karuna Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoona Mariyam
+    - 8.2:
+        non_striker: Sajaa Fathimath
+        bowler: Karuna Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoona Mariyam
+    - 8.3:
+        non_striker: Sajaa Fathimath
+        bowler: Karuna Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoona Mariyam
+    - 8.4:
+        non_striker: Sajaa Fathimath
+        bowler: Karuna Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoona Mariyam
+    - 8.5:
+        non_striker: Sajaa Fathimath
+        bowler: Karuna Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoona Mariyam
+    - 8.6:
+        non_striker: Sajaa Fathimath
+        bowler: Karuna Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoona Mariyam
+        wicket:
+          player_out: Zoona Mariyam
+          kind: bowled
+    - 9.1:
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Latsha Haleemath
+        batsman: Sajaa Fathimath
+    - 9.2:
+        non_striker: Latsha Haleemath
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sajaa Fathimath
+        wicket:
+          player_out: Sajaa Fathimath
+          kind: bowled
+    - 9.3:
+        non_striker: Latsha Haleemath
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kinaanath Ismail
+    - 9.4:
+        non_striker: Latsha Haleemath
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kinaanath Ismail
+    - 9.5:
+        non_striker: Latsha Haleemath
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kinaanath Ismail
+    - 9.6:
+        non_striker: Latsha Haleemath
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kinaanath Ismail
+    - 10.1:
+        non_striker: Kinaanath Ismail
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Latsha Haleemath
+    - 10.2:
+        non_striker: Kinaanath Ismail
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Latsha Haleemath
+    - 10.3:
+        non_striker: Kinaanath Ismail
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Latsha Haleemath
+    - 10.4:
+        non_striker: Kinaanath Ismail
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Latsha Haleemath
+        wicket:
+          player_out: Latsha Haleemath
+          fielders:
+          - SR Magar
+          kind: caught
+    - 10.5:
+        non_striker: Kinaanath Ismail
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maaha Naseer
+        wicket:
+          player_out: Maaha Naseer
+          kind: bowled
+    - 10.6:
+        non_striker: Kinaanath Ismail
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamma Ali
+    - 11.1:
+        non_striker: Shamma Ali
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kinaanath Ismail
+    - 11.2:
+        non_striker: Shamma Ali
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kinaanath Ismail
+    - 11.3:
+        non_striker: Shamma Ali
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kinaanath Ismail
+        wicket:
+          player_out: Kinaanath Ismail
+          fielders:
+          - RC Belbashi
+          kind: caught
+- 2nd innings:
+    team: Nepal
+    deliveries:
+    - 0.1:
+        bowler: Eashal Ibrahim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Roma Thapa
+        batsman: K Shrestha
+    - 0.2:
+        bowler: Eashal Ibrahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Roma Thapa
+        batsman: K Shrestha
+    - 0.3:
+        bowler: Eashal Ibrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Roma Thapa
+        batsman: K Shrestha
+    - 0.4:
+        non_striker: K Shrestha
+        bowler: Eashal Ibrahim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Roma Thapa
+    - 0.5:
+        non_striker: K Shrestha
+        bowler: Eashal Ibrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Roma Thapa
+    - 0.6:
+        non_striker: Roma Thapa
+        bowler: Eashal Ibrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Shrestha
+    - 0.7:
+        non_striker: K Shrestha
+        bowler: Eashal Ibrahim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Roma Thapa
+    - 0.8:
+        non_striker: K Shrestha
+        bowler: Eashal Ibrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Roma Thapa
+    - 1.1:
+        non_striker: K Shrestha
+        bowler: Shamma Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Roma Thapa

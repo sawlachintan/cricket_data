@@ -1,0 +1,2085 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-08-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dublin
+  dates:
+  - '2021-08-29'
+  gender: male
+  match_type: T20
+  match_type_number: 1242
+  outcome:
+    winner: Ireland
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - KJ O'Brien
+  players:
+    Zimbabwe:
+    - W Madhevere
+    - T Marumani
+    - RW Chakabva
+    - D Myers
+    - CR Ervine
+    - M Shumba
+    - RP Burl
+    - LM Jongwe
+    - WP Masakadza
+    - TL Chatara
+    - R Ngarava
+    Ireland:
+    - PR Stirling
+    - KJ O'Brien
+    - A Balbirnie
+    - GH Dockrell
+    - HT Tector
+    - NA Rock
+    - SC Getkate
+    - Simi Singh
+    - BJ McCarthy
+    - CA Young
+    - B White
+  registry:
+    people:
+      A Balbirnie: 6ef13460
+      AJ Neill: 7ffe0ce3
+      B White: 1a448be0
+      BJ McCarthy: 3766056b
+      CA Young: bd0a4a7d
+      CR Ervine: c96311d4
+      D Myers: d96165b5
+      GH Dockrell: 99cddc5e
+      HT Tector: 59ea70a4
+      K Gallagher: 704afd47
+      KJ O'Brien: 243431b5
+      LM Jongwe: b8704508
+      M Hawthorne: ea123ee4
+      M Shumba: 6766ca00
+      NA Rock: 43f4087c
+      PA Reynolds: a416c9c3
+      PR Stirling: cf494ffe
+      R Black: 156c8fb1
+      R Ngarava: 6e3f5a5c
+      RP Burl: b08252b8
+      RW Chakabva: 2f0d7e4a
+      SC Getkate: c8065f31
+      Simi Singh: c9945bdf
+      T Marumani: 3d5d51a5
+      TL Chatara: 5bbabe59
+      W Madhevere: a879b92c
+      WP Masakadza: 4bc0a378
+  teams:
+  - Zimbabwe
+  - Ireland
+  toss:
+    decision: bat
+    winner: Zimbabwe
+  umpires:
+  - AJ Neill
+  - M Hawthorne
+  venue: Castle Avenue, Dublin
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: T Marumani
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 0.2:
+        non_striker: W Madhevere
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 0.3:
+        non_striker: W Madhevere
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 0.4:
+        non_striker: W Madhevere
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 0.5:
+        non_striker: W Madhevere
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 0.6:
+        non_striker: W Madhevere
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: T Marumani
+    - 1.1:
+        non_striker: W Madhevere
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: T Marumani
+    - 1.2:
+        non_striker: T Marumani
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Madhevere
+    - 1.3:
+        non_striker: T Marumani
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 1.4:
+        non_striker: W Madhevere
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 1.5:
+        non_striker: T Marumani
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 1.6:
+        non_striker: T Marumani
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 1.7:
+        non_striker: T Marumani
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 2.1:
+        non_striker: W Madhevere
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 2.2:
+        non_striker: T Marumani
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 2.3:
+        non_striker: W Madhevere
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 2.4:
+        non_striker: W Madhevere
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 2.5:
+        non_striker: T Marumani
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 2.6:
+        non_striker: T Marumani
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: W Madhevere
+    - 3.1:
+        non_striker: T Marumani
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 3.2:
+        non_striker: T Marumani
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 3.3:
+        non_striker: T Marumani
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Madhevere
+    - 3.4:
+        non_striker: T Marumani
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 3.5:
+        non_striker: T Marumani
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 3.6:
+        non_striker: W Madhevere
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 4.1:
+        non_striker: T Marumani
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 4.2:
+        non_striker: T Marumani
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 4.3:
+        non_striker: T Marumani
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Madhevere
+    - 4.4:
+        non_striker: T Marumani
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 4.5:
+        non_striker: W Madhevere
+        bowler: SC Getkate
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Marumani
+    - 4.6:
+        non_striker: T Marumani
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+        wicket:
+          player_out: W Madhevere
+          fielders:
+          - NA Rock
+          kind: caught
+    - 5.1:
+        non_striker: RW Chakabva
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 5.2:
+        non_striker: RW Chakabva
+        bowler: Simi Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Marumani
+    - 5.3:
+        non_striker: T Marumani
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 5.4:
+        non_striker: RW Chakabva
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 5.5:
+        non_striker: T Marumani
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 5.6:
+        non_striker: T Marumani
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+        wicket:
+          player_out: T Marumani
+          kind: run out
+    - 6.1:
+        non_striker: RW Chakabva
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Myers
+    - 6.2:
+        non_striker: D Myers
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 6.3:
+        non_striker: RW Chakabva
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Myers
+    - 6.4:
+        non_striker: RW Chakabva
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Myers
+        wicket:
+          player_out: D Myers
+          kind: bowled
+    - 6.5:
+        non_striker: RW Chakabva
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 6.6:
+        non_striker: RW Chakabva
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 7.1:
+        non_striker: CR Ervine
+        bowler: B White
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RW Chakabva
+    - 7.2:
+        non_striker: CR Ervine
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 7.3:
+        non_striker: CR Ervine
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 7.4:
+        non_striker: RW Chakabva
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 7.5:
+        non_striker: CR Ervine
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 7.6:
+        non_striker: RW Chakabva
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 8.1:
+        non_striker: RW Chakabva
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 8.2:
+        non_striker: CR Ervine
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 8.3:
+        non_striker: RW Chakabva
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 8.4:
+        non_striker: RW Chakabva
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 8.5:
+        non_striker: CR Ervine
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 8.6:
+        non_striker: RW Chakabva
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 9.1:
+        non_striker: RW Chakabva
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 9.2:
+        non_striker: RW Chakabva
+        bowler: B White
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CR Ervine
+    - 9.3:
+        non_striker: CR Ervine
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 9.4:
+        non_striker: RW Chakabva
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 9.5:
+        non_striker: RW Chakabva
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+        wicket:
+          player_out: CR Ervine
+          kind: lbw
+    - 9.6:
+        non_striker: RW Chakabva
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 10.1:
+        non_striker: M Shumba
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+        wicket:
+          player_out: RW Chakabva
+          fielders:
+          - PR Stirling
+          kind: caught
+    - 10.2:
+        non_striker: M Shumba
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 10.3:
+        non_striker: M Shumba
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 10.4:
+        non_striker: M Shumba
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 10.5:
+        non_striker: M Shumba
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 10.6:
+        non_striker: M Shumba
+        bowler: SC Getkate
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RP Burl
+    - 10.7:
+        non_striker: M Shumba
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 11.1:
+        non_striker: RP Burl
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 11.2:
+        non_striker: M Shumba
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 11.3:
+        non_striker: M Shumba
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 11.4:
+        non_striker: RP Burl
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 11.5:
+        non_striker: M Shumba
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 11.6:
+        non_striker: M Shumba
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 12.1:
+        non_striker: M Shumba
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RP Burl
+    - 12.2:
+        non_striker: M Shumba
+        bowler: SC Getkate
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RP Burl
+    - 12.3:
+        non_striker: M Shumba
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 12.4:
+        non_striker: M Shumba
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 12.5:
+        non_striker: M Shumba
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 12.6:
+        non_striker: M Shumba
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 12.7:
+        non_striker: RP Burl
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 13.1:
+        non_striker: M Shumba
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 13.2:
+        non_striker: RP Burl
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Shumba
+    - 13.3:
+        non_striker: RP Burl
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 13.4:
+        non_striker: M Shumba
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 13.5:
+        non_striker: RP Burl
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 13.6:
+        non_striker: M Shumba
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 14.1:
+        non_striker: RP Burl
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 14.2:
+        non_striker: M Shumba
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 14.3:
+        non_striker: RP Burl
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 14.4:
+        non_striker: M Shumba
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 14.5:
+        non_striker: M Shumba
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 14.6:
+        non_striker: M Shumba
+        bowler: Simi Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RP Burl
+    - 15.1:
+        non_striker: M Shumba
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 15.2:
+        non_striker: RP Burl
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 15.3:
+        non_striker: M Shumba
+        bowler: B White
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RP Burl
+    - 15.4:
+        non_striker: M Shumba
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 15.5:
+        non_striker: M Shumba
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 15.6:
+        non_striker: RP Burl
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 16.1:
+        non_striker: RP Burl
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Shumba
+    - 16.2:
+        non_striker: RP Burl
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 16.3:
+        non_striker: RP Burl
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Shumba
+    - 16.4:
+        non_striker: RP Burl
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 16.5:
+        non_striker: M Shumba
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 16.6:
+        non_striker: M Shumba
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 17.1:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Shumba
+    - 17.2:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 17.3:
+        non_striker: M Shumba
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 17.4:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 17.5:
+        non_striker: M Shumba
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 17.6:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 17.7:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Shumba
+    - 18.1:
+        non_striker: M Shumba
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 18.2:
+        non_striker: RP Burl
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 18.3:
+        non_striker: M Shumba
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 18.4:
+        non_striker: RP Burl
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 18.5:
+        non_striker: RP Burl
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Shumba
+    - 18.6:
+        non_striker: RP Burl
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Shumba
+    - 19.1:
+        non_striker: M Shumba
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 19.2:
+        non_striker: M Shumba
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 19.3:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 19.4:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Shumba
+    - 19.5:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Shumba
+    - 19.6:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Shumba
+    - 19.7:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Shumba
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: KJ O'Brien
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.2:
+        non_striker: KJ O'Brien
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 0.3:
+        non_striker: KJ O'Brien
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.4:
+        non_striker: KJ O'Brien
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.5:
+        non_striker: KJ O'Brien
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 0.6:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 1.1:
+        non_striker: KJ O'Brien
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.2:
+        non_striker: KJ O'Brien
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.3:
+        non_striker: KJ O'Brien
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 1.4:
+        non_striker: KJ O'Brien
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.5:
+        non_striker: KJ O'Brien
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.6:
+        non_striker: KJ O'Brien
+        bowler: WP Masakadza
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: PR Stirling
+    - 1.7:
+        non_striker: KJ O'Brien
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.1:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: KJ O'Brien
+    - 2.2:
+        non_striker: KJ O'Brien
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: PR Stirling
+    - 2.3:
+        non_striker: KJ O'Brien
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 2.4:
+        non_striker: KJ O'Brien
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 2.5:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 2.6:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 2.7:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 2.8:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 3.1:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 3.2:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.3:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.4:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.5:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.6:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 4.1:
+        non_striker: KJ O'Brien
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 4.2:
+        non_striker: KJ O'Brien
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 4.3:
+        non_striker: KJ O'Brien
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 4.4:
+        non_striker: PR Stirling
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 4.5:
+        non_striker: PR Stirling
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 4.6:
+        non_striker: KJ O'Brien
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.1:
+        non_striker: PR Stirling
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 5.2:
+        non_striker: PR Stirling
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 5.3:
+        non_striker: PR Stirling
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 5.4:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.5:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 5.6:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 6.1:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 6.2:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - RW Chakabva
+          kind: caught
+    - 6.3:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 6.4:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 6.5:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 6.6:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 7.1:
+        non_striker: KJ O'Brien
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 7.2:
+        non_striker: KJ O'Brien
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 7.3:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 7.4:
+        non_striker: KJ O'Brien
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 7.5:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 7.6:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 8.1:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 8.2:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 8.3:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 8.4:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 8.5:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 8.6:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 9.1:
+        non_striker: A Balbirnie
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 9.2:
+        non_striker: A Balbirnie
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 9.3:
+        non_striker: A Balbirnie
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ O'Brien
+    - 9.4:
+        non_striker: A Balbirnie
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 9.5:
+        non_striker: A Balbirnie
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 9.6:
+        non_striker: A Balbirnie
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 10.1:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 10.2:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+        wicket:
+          player_out: A Balbirnie
+          kind: bowled
+    - 10.3:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 10.4:
+        non_striker: GH Dockrell
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 10.5:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Dockrell
+    - 10.6:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 10.7:
+        non_striker: GH Dockrell
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 11.1:
+        non_striker: GH Dockrell
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 11.2:
+        non_striker: GH Dockrell
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ O'Brien
+    - 11.3:
+        non_striker: GH Dockrell
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ O'Brien
+    - 11.4:
+        non_striker: GH Dockrell
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 11.5:
+        non_striker: KJ O'Brien
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 11.6:
+        non_striker: GH Dockrell
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 12.1:
+        non_striker: KJ O'Brien
+        bowler: LM Jongwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Dockrell
+    - 12.2:
+        non_striker: KJ O'Brien
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 12.3:
+        non_striker: GH Dockrell
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 12.4:
+        non_striker: KJ O'Brien
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 12.5:
+        non_striker: KJ O'Brien
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 12.6:
+        non_striker: KJ O'Brien
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 12.7:
+        non_striker: KJ O'Brien
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 13.1:
+        non_striker: GH Dockrell
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ O'Brien
+    - 13.2:
+        non_striker: GH Dockrell
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 13.3:
+        non_striker: GH Dockrell
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 13.4:
+        non_striker: KJ O'Brien
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 13.5:
+        non_striker: GH Dockrell
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KJ O'Brien
+    - 13.6:
+        non_striker: KJ O'Brien
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 14.1:
+        non_striker: GH Dockrell
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 14.2:
+        non_striker: GH Dockrell
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 14.3:
+        non_striker: GH Dockrell
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 14.4:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: GH Dockrell
+    - 14.5:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 14.6:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 15.1:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 15.2:
+        non_striker: GH Dockrell
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 15.3:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 15.4:
+        non_striker: GH Dockrell
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+        wicket:
+          player_out: KJ O'Brien
+          fielders:
+          - M Shumba
+          kind: caught
+    - 15.5:
+        non_striker: GH Dockrell
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 15.6:
+        non_striker: HT Tector
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 16.1:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 16.2:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 16.3:
+        non_striker: GH Dockrell
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 16.4:
+        non_striker: GH Dockrell
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 16.5:
+        non_striker: GH Dockrell
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 16.6:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 17.1:
+        non_striker: HT Tector
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 17.2:
+        non_striker: HT Tector
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 17.3:
+        non_striker: GH Dockrell
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 17.4:
+        non_striker: GH Dockrell
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 17.5:
+        non_striker: HT Tector
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 17.6:
+        non_striker: HT Tector
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 18.1:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Dockrell
+    - 18.2:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Dockrell
+    - 18.3:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Dockrell

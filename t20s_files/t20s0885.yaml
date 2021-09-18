@@ -1,0 +1,2269 @@
+---
+meta:
+  data_version: 0.91
+  created: '2020-06-23'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2018-08-20'
+  gender: female
+  match_type: T20
+  match_type_number: 469
+  outcome:
+    winner: Botswana
+    by:
+      runs: 124
+  overs: 20
+  player_of_match:
+  - B Mpedi
+  players:
+    Botswana:
+    - L Mophakedi
+    - O Batisani
+    - F Samanyika
+    - S Mosweu
+    - T Legaabile
+    - G Matome
+    - A Mokgotlhe
+    - B Madimabe
+    - B Mpedi
+    - M Ramafifi
+    - O Keitsemang
+    Lesotho:
+    - T Kobeli
+    - T Khabo
+    - T Ramabitsa
+    - M Tsarsi
+    - P Pheko
+    - B Phelenyane
+    - T Koloi
+    - B Lekau
+    - M Moalosi
+    - R Khasana
+    - M Matobole
+  registry:
+    people:
+      A Mokgotlhe: 781f1a40
+      B Lekau: 2fdcecae
+      B Madimabe: 1e481de4
+      B Mpedi: 8c712051
+      B Phelenyane: c982ad6f
+      F Samanyika: c42eed38
+      G Matome: a6898f7a
+      L Mophakedi: c8cdbb92
+      M Matobole: 6f37931c
+      M Moalosi: 34628c4a
+      M Ramafifi: 40d1b7bd
+      M Tsarsi: 0f42a805
+      O Batisani: 7ff6c967
+      O Keitsemang: 5145239b
+      P Pheko: 24e0b90f
+      R Khasana: 5a6b2c1d
+      S Mosweu: 10726a80
+      T Khabo: 7be9cb29
+      T Kobeli: 10f52b3a
+      T Koloi: 97b1bd58
+      T Legaabile: c7e59109
+      T Ramabitsa: 3a341948
+  teams:
+  - Botswana
+  - Lesotho
+  toss:
+    decision: field
+    winner: Lesotho
+  venue: Botswana Cricket Association Oval 1
+innings:
+- 1st innings:
+    team: Botswana
+    deliveries:
+    - 0.1:
+        bowler: M Matobole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: O Batisani
+        batsman: L Mophakedi
+    - 0.2:
+        non_striker: L Mophakedi
+        bowler: M Matobole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: O Batisani
+    - 0.3:
+        non_striker: L Mophakedi
+        bowler: M Matobole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Batisani
+    - 0.4:
+        non_striker: L Mophakedi
+        bowler: M Matobole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Batisani
+    - 0.5:
+        non_striker: L Mophakedi
+        bowler: M Matobole
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: O Batisani
+    - 0.6:
+        non_striker: L Mophakedi
+        bowler: M Matobole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Batisani
+    - 0.7:
+        non_striker: L Mophakedi
+        bowler: M Matobole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Batisani
+    - 0.8:
+        non_striker: L Mophakedi
+        bowler: M Matobole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Batisani
+    - 0.9:
+        non_striker: O Batisani
+        bowler: M Matobole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mophakedi
+    - 0.10:
+        non_striker: L Mophakedi
+        bowler: M Matobole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Batisani
+        wicket:
+          player_out: O Batisani
+          fielders:
+          - P Pheko
+          kind: caught
+    - 1.1:
+        bowler: T Koloi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: F Samanyika
+        batsman: L Mophakedi
+    - 1.2:
+        non_striker: F Samanyika
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+        wicket:
+          player_out: F Samanyika
+          kind: run out
+    - 1.3:
+        non_striker: L Mophakedi
+        bowler: T Koloi
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: S Mosweu
+    - 1.4:
+        non_striker: L Mophakedi
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+    - 1.5:
+        non_striker: L Mophakedi
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mosweu
+    - 1.6:
+        non_striker: L Mophakedi
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+    - 1.7:
+        non_striker: L Mophakedi
+        bowler: T Koloi
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: S Mosweu
+    - 1.8:
+        non_striker: L Mophakedi
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+    - 1.9:
+        non_striker: L Mophakedi
+        bowler: T Koloi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mosweu
+    - 1.10:
+        non_striker: L Mophakedi
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mosweu
+    - 2.1:
+        non_striker: L Mophakedi
+        bowler: B Lekau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mosweu
+    - 2.2:
+        non_striker: L Mophakedi
+        bowler: B Lekau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mosweu
+    - 2.3:
+        non_striker: L Mophakedi
+        bowler: B Lekau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+    - 2.4:
+        non_striker: L Mophakedi
+        bowler: B Lekau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mosweu
+    - 2.5:
+        non_striker: L Mophakedi
+        bowler: B Lekau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mosweu
+    - 2.6:
+        non_striker: L Mophakedi
+        bowler: B Lekau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+    - 2.7:
+        non_striker: L Mophakedi
+        bowler: B Lekau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+        wicket:
+          player_out: S Mosweu
+          kind: bowled
+    - 2.8:
+        non_striker: L Mophakedi
+        bowler: B Lekau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 3.1:
+        non_striker: T Legaabile
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+    - 3.2:
+        non_striker: T Legaabile
+        bowler: T Koloi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Mophakedi
+    - 3.3:
+        non_striker: T Legaabile
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Mophakedi
+    - 3.4:
+        non_striker: T Legaabile
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+    - 3.5:
+        non_striker: T Legaabile
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Mophakedi
+    - 3.6:
+        non_striker: T Legaabile
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mophakedi
+    - 3.7:
+        non_striker: L Mophakedi
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 4.1:
+        non_striker: L Mophakedi
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 4.2:
+        non_striker: L Mophakedi
+        bowler: B Phelenyane
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: T Legaabile
+    - 4.3:
+        non_striker: L Mophakedi
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 4.4:
+        non_striker: L Mophakedi
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 4.5:
+        non_striker: L Mophakedi
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Legaabile
+    - 4.6:
+        non_striker: L Mophakedi
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Legaabile
+    - 4.7:
+        non_striker: L Mophakedi
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 5.1:
+        non_striker: L Mophakedi
+        bowler: T Ramabitsa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Legaabile
+    - 5.2:
+        non_striker: L Mophakedi
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 5.3:
+        non_striker: L Mophakedi
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Legaabile
+    - 5.4:
+        non_striker: L Mophakedi
+        bowler: T Ramabitsa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Legaabile
+    - 5.5:
+        non_striker: L Mophakedi
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Legaabile
+    - 5.6:
+        non_striker: L Mophakedi
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 5.7:
+        non_striker: L Mophakedi
+        bowler: T Ramabitsa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Legaabile
+    - 5.8:
+        non_striker: L Mophakedi
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 5.9:
+        non_striker: L Mophakedi
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 6.1:
+        non_striker: L Mophakedi
+        bowler: B Lekau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 6.2:
+        non_striker: L Mophakedi
+        bowler: B Lekau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: T Legaabile
+    - 6.3:
+        non_striker: T Legaabile
+        bowler: B Lekau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+    - 6.4:
+        non_striker: T Legaabile
+        bowler: B Lekau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Mophakedi
+    - 6.5:
+        non_striker: T Legaabile
+        bowler: B Lekau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Mophakedi
+    - 6.6:
+        non_striker: T Legaabile
+        bowler: B Lekau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+    - 6.7:
+        non_striker: T Legaabile
+        bowler: B Lekau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+    - 7.1:
+        non_striker: L Mophakedi
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 7.2:
+        non_striker: T Legaabile
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+    - 7.3:
+        non_striker: T Legaabile
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mophakedi
+    - 7.4:
+        non_striker: L Mophakedi
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 7.5:
+        non_striker: T Legaabile
+        bowler: T Ramabitsa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Mophakedi
+    - 7.6:
+        non_striker: T Legaabile
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+    - 7.7:
+        non_striker: T Legaabile
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+    - 8.1:
+        non_striker: L Mophakedi
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 8.2:
+        non_striker: T Legaabile
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+    - 8.3:
+        non_striker: T Legaabile
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mophakedi
+    - 8.4:
+        non_striker: L Mophakedi
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 8.5:
+        non_striker: T Legaabile
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mophakedi
+    - 8.6:
+        non_striker: L Mophakedi
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 9.1:
+        non_striker: T Legaabile
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Mophakedi
+    - 9.2:
+        non_striker: T Legaabile
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Mophakedi
+    - 9.3:
+        non_striker: T Legaabile
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mophakedi
+    - 9.4:
+        non_striker: L Mophakedi
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 9.5:
+        non_striker: L Mophakedi
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Legaabile
+    - 9.6:
+        non_striker: L Mophakedi
+        bowler: R Khasana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Legaabile
+    - 9.7:
+        non_striker: L Mophakedi
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 10.1:
+        non_striker: T Legaabile
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mophakedi
+    - 10.2:
+        non_striker: L Mophakedi
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 10.3:
+        non_striker: L Mophakedi
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 10.4:
+        non_striker: L Mophakedi
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Legaabile
+    - 10.5:
+        non_striker: L Mophakedi
+        bowler: B Phelenyane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Legaabile
+    - 10.6:
+        non_striker: L Mophakedi
+        bowler: B Phelenyane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Legaabile
+    - 10.7:
+        non_striker: T Legaabile
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+    - 11.1:
+        non_striker: L Mophakedi
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 11.2:
+        non_striker: T Legaabile
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Mophakedi
+    - 11.3:
+        non_striker: T Legaabile
+        bowler: R Khasana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Mophakedi
+    - 11.4:
+        non_striker: T Legaabile
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+        wicket:
+          player_out: L Mophakedi
+          fielders:
+          - T Ramabitsa
+          kind: caught
+    - 11.5:
+        non_striker: T Legaabile
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 11.6:
+        non_striker: T Legaabile
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 11.7:
+        non_striker: T Legaabile
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 12.1:
+        non_striker: G Matome
+        bowler: B Lekau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Legaabile
+    - 12.2:
+        non_striker: G Matome
+        bowler: B Lekau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 12.3:
+        non_striker: G Matome
+        bowler: B Lekau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 12.4:
+        non_striker: G Matome
+        bowler: B Lekau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Legaabile
+    - 12.5:
+        non_striker: G Matome
+        bowler: B Lekau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Legaabile
+    - 12.6:
+        non_striker: G Matome
+        bowler: B Lekau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 12.7:
+        non_striker: G Matome
+        bowler: B Lekau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 12.8:
+        non_striker: G Matome
+        bowler: B Lekau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 13.1:
+        non_striker: T Legaabile
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Matome
+    - 13.2:
+        non_striker: T Legaabile
+        bowler: R Khasana
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: G Matome
+    - 13.3:
+        non_striker: T Legaabile
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 13.4:
+        non_striker: T Legaabile
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 13.5:
+        non_striker: T Legaabile
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 13.6:
+        non_striker: G Matome
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 14.1:
+        non_striker: G Matome
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 14.2:
+        non_striker: G Matome
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 14.3:
+        non_striker: T Legaabile
+        bowler: B Phelenyane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Matome
+    - 14.4:
+        non_striker: T Legaabile
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 14.5:
+        non_striker: T Legaabile
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 14.6:
+        non_striker: T Legaabile
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Matome
+    - 14.7:
+        non_striker: T Legaabile
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Matome
+    - 15.1:
+        non_striker: G Matome
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 15.2:
+        non_striker: T Legaabile
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 15.3:
+        non_striker: G Matome
+        bowler: T Ramabitsa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Legaabile
+    - 15.4:
+        non_striker: G Matome
+        bowler: T Ramabitsa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Legaabile
+    - 15.5:
+        non_striker: G Matome
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 15.6:
+        non_striker: T Legaabile
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 15.7:
+        non_striker: G Matome
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 15.8:
+        non_striker: G Matome
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Legaabile
+    - 16.1:
+        non_striker: T Legaabile
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Matome
+    - 16.2:
+        non_striker: T Legaabile
+        bowler: T Koloi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Matome
+    - 16.3:
+        non_striker: T Legaabile
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Matome
+    - 16.4:
+        non_striker: T Legaabile
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 16.5:
+        non_striker: T Legaabile
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 16.6:
+        non_striker: G Matome
+        bowler: T Koloi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Legaabile
+    - 16.7:
+        non_striker: G Matome
+        bowler: T Koloi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Legaabile
+    - 16.8:
+        non_striker: G Matome
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 16.9:
+        non_striker: G Matome
+        bowler: T Koloi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 17.1:
+        non_striker: G Matome
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Legaabile
+    - 17.2:
+        non_striker: G Matome
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Legaabile
+    - 17.3:
+        non_striker: G Matome
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 17.4:
+        non_striker: T Legaabile
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Matome
+    - 17.5:
+        non_striker: T Legaabile
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 17.6:
+        non_striker: G Matome
+        bowler: R Khasana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 18.1:
+        non_striker: T Legaabile
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 18.2:
+        non_striker: T Legaabile
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 18.3:
+        non_striker: T Legaabile
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Matome
+    - 18.4:
+        non_striker: T Legaabile
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 18.5:
+        non_striker: G Matome
+        bowler: T Ramabitsa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Legaabile
+    - 18.6:
+        non_striker: G Matome
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 18.7:
+        non_striker: T Legaabile
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 19.1:
+        non_striker: G Matome
+        bowler: M Matobole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Legaabile
+    - 19.2:
+        non_striker: G Matome
+        bowler: M Matobole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 19.3:
+        non_striker: G Matome
+        bowler: M Matobole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 19.4:
+        non_striker: G Matome
+        bowler: M Matobole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 19.5:
+        non_striker: T Legaabile
+        bowler: M Matobole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 19.6:
+        non_striker: T Legaabile
+        bowler: M Matobole
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Matome
+    - 19.7:
+        non_striker: T Legaabile
+        bowler: M Matobole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Matome
+- 2nd innings:
+    team: Lesotho
+    deliveries:
+    - 0.1:
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Khabo
+        batsman: T Kobeli
+    - 0.2:
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Khabo
+        batsman: T Kobeli
+    - 0.3:
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Khabo
+        batsman: T Kobeli
+    - 0.4:
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Khabo
+        batsman: T Kobeli
+    - 0.5:
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Khabo
+        batsman: T Kobeli
+    - 0.6:
+        non_striker: T Khabo
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kobeli
+    - 1.1:
+        non_striker: T Kobeli
+        bowler: A Mokgotlhe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Khabo
+    - 1.2:
+        non_striker: T Kobeli
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Khabo
+    - 1.3:
+        non_striker: T Kobeli
+        bowler: A Mokgotlhe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Khabo
+    - 1.4:
+        non_striker: T Kobeli
+        bowler: A Mokgotlhe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Khabo
+    - 1.5:
+        non_striker: T Kobeli
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Khabo
+    - 1.6:
+        non_striker: T Kobeli
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Khabo
+    - 1.7:
+        non_striker: T Kobeli
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Khabo
+    - 1.8:
+        non_striker: T Kobeli
+        bowler: A Mokgotlhe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Khabo
+    - 1.9:
+        non_striker: T Kobeli
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Khabo
+    - 1.10:
+        non_striker: T Kobeli
+        bowler: A Mokgotlhe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Khabo
+    - 1.11:
+        non_striker: T Kobeli
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Khabo
+    - 2.1:
+        non_striker: T Kobeli
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Khabo
+    - 2.2:
+        non_striker: T Kobeli
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Khabo
+    - 2.3:
+        non_striker: T Kobeli
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Khabo
+    - 2.4:
+        non_striker: T Kobeli
+        bowler: G Matome
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Khabo
+    - 2.5:
+        non_striker: T Kobeli
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Khabo
+    - 2.6:
+        non_striker: T Kobeli
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Khabo
+    - 2.7:
+        non_striker: T Kobeli
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Khabo
+    - 3.1:
+        non_striker: T Khabo
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kobeli
+    - 3.2:
+        non_striker: T Khabo
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kobeli
+        wicket:
+          player_out: T Kobeli
+          kind: lbw
+    - 3.3:
+        non_striker: T Khabo
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ramabitsa
+    - 3.4:
+        non_striker: T Khabo
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ramabitsa
+        wicket:
+          player_out: T Ramabitsa
+          kind: lbw
+    - 3.5:
+        non_striker: T Khabo
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Tsarsi
+    - 3.6:
+        non_striker: M Tsarsi
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Khabo
+    - 4.1:
+        non_striker: T Khabo
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Tsarsi
+    - 4.2:
+        non_striker: T Khabo
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Tsarsi
+    - 4.3:
+        non_striker: T Khabo
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Tsarsi
+        wicket:
+          player_out: M Tsarsi
+          kind: bowled
+    - 4.4:
+        non_striker: T Khabo
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 4.5:
+        non_striker: T Khabo
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pheko
+    - 4.6:
+        non_striker: P Pheko
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Khabo
+    - 5.1:
+        non_striker: T Khabo
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 5.2:
+        non_striker: T Khabo
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 5.3:
+        non_striker: T Khabo
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 5.4:
+        non_striker: T Khabo
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 5.5:
+        non_striker: T Khabo
+        bowler: T Legaabile
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: P Pheko
+    - 5.6:
+        non_striker: T Khabo
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 6.1:
+        non_striker: P Pheko
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Khabo
+    - 6.2:
+        non_striker: P Pheko
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Khabo
+        wicket:
+          player_out: T Khabo
+          kind: lbw
+    - 6.3:
+        non_striker: P Pheko
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Phelenyane
+        wicket:
+          player_out: B Phelenyane
+          fielders:
+          - A Mokgotlhe
+          kind: caught
+    - 6.4:
+        non_striker: P Pheko
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Koloi
+        wicket:
+          player_out: T Koloi
+          kind: bowled
+    - 6.5:
+        non_striker: P Pheko
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lekau
+    - 6.6:
+        non_striker: P Pheko
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lekau
+    - 7.1:
+        non_striker: B Lekau
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 7.2:
+        non_striker: B Lekau
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 7.3:
+        non_striker: B Lekau
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 7.4:
+        non_striker: B Lekau
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pheko
+    - 7.5:
+        non_striker: P Pheko
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lekau
+    - 7.6:
+        non_striker: P Pheko
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lekau
+    - 8.1:
+        non_striker: B Lekau
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 8.2:
+        non_striker: B Lekau
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 8.3:
+        non_striker: B Lekau
+        bowler: B Mpedi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Pheko
+    - 8.4:
+        non_striker: B Lekau
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 8.5:
+        non_striker: B Lekau
+        bowler: B Mpedi
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: P Pheko
+    - 8.6:
+        non_striker: B Lekau
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 8.7:
+        non_striker: B Lekau
+        bowler: B Mpedi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Pheko
+    - 8.8:
+        non_striker: B Lekau
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 8.9:
+        non_striker: B Lekau
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+        wicket:
+          player_out: P Pheko
+          kind: lbw
+    - 9.1:
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Moalosi
+        batsman: B Lekau
+    - 9.2:
+        bowler: S Mosweu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Moalosi
+        batsman: B Lekau
+    - 9.3:
+        bowler: S Mosweu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Moalosi
+        batsman: B Lekau
+    - 9.4:
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Moalosi
+        batsman: B Lekau
+    - 9.5:
+        bowler: S Mosweu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Moalosi
+        batsman: B Lekau
+    - 9.6:
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Moalosi
+        batsman: B Lekau
+    - 9.7:
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Moalosi
+        batsman: B Lekau
+    - 9.8:
+        non_striker: B Lekau
+        bowler: S Mosweu
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: M Moalosi
+    - 9.9:
+        non_striker: B Lekau
+        bowler: S Mosweu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Moalosi
+    - 9.10:
+        non_striker: B Lekau
+        bowler: S Mosweu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Moalosi
+    - 9.11:
+        non_striker: B Lekau
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Moalosi
+    - 10.1:
+        non_striker: B Lekau
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Moalosi
+    - 10.2:
+        non_striker: B Lekau
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Moalosi
+    - 10.3:
+        non_striker: M Moalosi
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lekau
+    - 10.4:
+        non_striker: M Moalosi
+        bowler: M Ramafifi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Lekau
+    - 10.5:
+        non_striker: M Moalosi
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lekau
+    - 10.6:
+        non_striker: M Moalosi
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lekau
+    - 10.7:
+        non_striker: M Moalosi
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lekau
+    - 11.1:
+        non_striker: B Lekau
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Moalosi
+    - 11.2:
+        non_striker: M Moalosi
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Lekau
+    - 11.3:
+        non_striker: B Lekau
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Moalosi
+    - 11.4:
+        non_striker: B Lekau
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Moalosi
+        wicket:
+          player_out: B Lekau
+          kind: run out
+    - 11.5:
+        non_striker: M Moalosi
+        bowler: S Mosweu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Khasana
+    - 11.6:
+        non_striker: M Moalosi
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khasana
+    - 11.7:
+        non_striker: M Moalosi
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khasana
+    - 12.1:
+        non_striker: R Khasana
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Moalosi
+    - 12.2:
+        non_striker: R Khasana
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Moalosi
+    - 12.3:
+        non_striker: R Khasana
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Moalosi
+    - 12.4:
+        non_striker: R Khasana
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Moalosi
+    - 12.5:
+        non_striker: R Khasana
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Moalosi
+    - 12.6:
+        non_striker: M Moalosi
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khasana
+    - 13.1:
+        non_striker: R Khasana
+        bowler: O Keitsemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Moalosi
+    - 13.2:
+        non_striker: R Khasana
+        bowler: O Keitsemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Moalosi
+    - 13.3:
+        non_striker: R Khasana
+        bowler: O Keitsemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Moalosi
+    - 13.4:
+        non_striker: R Khasana
+        bowler: O Keitsemang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Moalosi
+    - 13.5:
+        non_striker: M Moalosi
+        bowler: O Keitsemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khasana
+    - 13.6:
+        non_striker: M Moalosi
+        bowler: O Keitsemang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Khasana
+    - 14.1:
+        non_striker: M Moalosi
+        bowler: B Mpedi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Khasana
+    - 14.2:
+        non_striker: M Moalosi
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khasana
+    - 14.3:
+        non_striker: M Moalosi
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khasana
+        wicket:
+          player_out: R Khasana
+          kind: bowled
+    - 14.4:
+        non_striker: M Moalosi
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Matobole
+        wicket:
+          player_out: M Matobole
+          kind: bowled

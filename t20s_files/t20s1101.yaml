@@ -1,0 +1,1962 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-07-21'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Derry
+  dates:
+  - '2019-07-14'
+  gender: male
+  match_type: T20
+  match_type_number: 831
+  outcome:
+    winner: Zimbabwe
+    by:
+      wickets: 8
+  overs: 20
+  players:
+    Ireland:
+    - PR Stirling
+    - KJ O'Brien
+    - GC Wilson
+    - J Little
+    - MR Adair
+    - GJ Delany
+    - SC Getkate
+    - GJ Thompson
+    - L Tucker
+    - CA Young
+    - GH Dockrell
+    Zimbabwe:
+    - BRM Taylor
+    - H Masakadza
+    - CR Ervine
+    - SC Williams
+    - Sikandar Raza
+    - RP Burl
+    - SF Mire
+    - R Mutumbami
+    - KM Jarvis
+    - CB Mpofu
+    - TL Chatara
+  registry:
+    people:
+      AJ Neill: 7ffe0ce3
+      BRM Taylor: 53597be1
+      CA Young: bd0a4a7d
+      CB Mpofu: 49691d7a
+      CR Ervine: c96311d4
+      GC Wilson: 05de1a5a
+      GH Dockrell: 99cddc5e
+      GJ Delany: 33b3d2df
+      GJ Thompson: 91f0792f
+      H Masakadza: 31fbf891
+      J Little: 9061a703
+      JJ Crowe: 2e760301
+      KJ O'Brien: 243431b5
+      KM Jarvis: '59792462'
+      L Tucker: 3979b5e0
+      M Hawthorne: ea123ee4
+      MR Adair: fc55ec67
+      PR Stirling: cf494ffe
+      R Black: 156c8fb1
+      R Mutumbami: 5fef85ee
+      RP Burl: b08252b8
+      SC Getkate: c8065f31
+      SC Williams: afe57f7a
+      SF Mire: 3300d23c
+      Sikandar Raza: 26d041c4
+      TL Chatara: 5bbabe59
+  teams:
+  - Ireland
+  - Zimbabwe
+  toss:
+    decision: field
+    winner: Zimbabwe
+  umpires:
+  - R Black
+  - AJ Neill
+  venue: Bready
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: KJ O'Brien
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          kind: bowled
+    - 0.2:
+        non_striker: KJ O'Brien
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 0.3:
+        non_striker: KJ O'Brien
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 0.4:
+        non_striker: KJ O'Brien
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 0.5:
+        non_striker: KJ O'Brien
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 0.6:
+        non_striker: KJ O'Brien
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Wilson
+    - 1.1:
+        non_striker: GC Wilson
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 1.2:
+        non_striker: GC Wilson
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 1.3:
+        non_striker: GC Wilson
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 1.4:
+        non_striker: GC Wilson
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 1.5:
+        non_striker: GC Wilson
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 1.6:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 2.1:
+        non_striker: KJ O'Brien
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Wilson
+    - 2.2:
+        non_striker: KJ O'Brien
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 2.3:
+        non_striker: GC Wilson
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 2.4:
+        non_striker: KJ O'Brien
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 2.5:
+        non_striker: KJ O'Brien
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 2.6:
+        non_striker: KJ O'Brien
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 3.1:
+        non_striker: KJ O'Brien
+        bowler: KM Jarvis
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: GC Wilson
+    - 3.2:
+        non_striker: GC Wilson
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 3.3:
+        non_striker: KJ O'Brien
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Wilson
+    - 3.4:
+        non_striker: KJ O'Brien
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 3.5:
+        non_striker: KJ O'Brien
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 3.6:
+        non_striker: GC Wilson
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 4.1:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Wilson
+    - 4.2:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 4.3:
+        non_striker: GC Wilson
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 4.4:
+        non_striker: GC Wilson
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ O'Brien
+    - 4.5:
+        non_striker: GC Wilson
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 4.6:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 5.1:
+        non_striker: KJ O'Brien
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 5.2:
+        non_striker: GC Wilson
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 5.3:
+        non_striker: GC Wilson
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+        wicket:
+          player_out: KJ O'Brien
+          fielders:
+          - R Mutumbami
+          kind: caught
+    - 5.4:
+        non_striker: L Tucker
+        bowler: KM Jarvis
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: GC Wilson
+    - 5.5:
+        non_striker: GC Wilson
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+        wicket:
+          player_out: L Tucker
+          kind: lbw
+    - 5.6:
+        non_striker: GC Wilson
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Thompson
+    - 6.1:
+        non_striker: GJ Thompson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 6.2:
+        non_striker: GC Wilson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Thompson
+    - 6.3:
+        non_striker: GC Wilson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Thompson
+    - 6.4:
+        non_striker: GJ Thompson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 6.5:
+        non_striker: GC Wilson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Thompson
+    - 6.6:
+        non_striker: GC Wilson
+        bowler: SF Mire
+        extras:
+          byes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: GJ Thompson
+    - 7.1:
+        non_striker: GC Wilson
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Thompson
+    - 7.2:
+        non_striker: GJ Thompson
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 7.3:
+        non_striker: GJ Thompson
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 7.4:
+        non_striker: GC Wilson
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Thompson
+    - 7.5:
+        non_striker: GC Wilson
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Thompson
+    - 7.6:
+        non_striker: GJ Thompson
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 8.1:
+        non_striker: GJ Thompson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 8.2:
+        non_striker: GJ Thompson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 8.3:
+        non_striker: GJ Thompson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 8.4:
+        non_striker: GJ Thompson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 8.5:
+        non_striker: GC Wilson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Thompson
+    - 8.6:
+        non_striker: GJ Thompson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 9.1:
+        non_striker: GC Wilson
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Thompson
+    - 9.2:
+        non_striker: GC Wilson
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Thompson
+    - 9.3:
+        non_striker: GC Wilson
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Thompson
+    - 9.4:
+        non_striker: GJ Thompson
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 9.5:
+        non_striker: GC Wilson
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Thompson
+    - 9.6:
+        non_striker: GJ Thompson
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 10.1:
+        non_striker: GC Wilson
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Thompson
+    - 10.2:
+        non_striker: GC Wilson
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Thompson
+    - 10.3:
+        non_striker: GC Wilson
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Thompson
+    - 10.4:
+        non_striker: GJ Thompson
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 10.5:
+        non_striker: GC Wilson
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Thompson
+    - 10.6:
+        non_striker: GC Wilson
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Thompson
+    - 11.1:
+        non_striker: GJ Thompson
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 11.2:
+        non_striker: GC Wilson
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Thompson
+    - 11.3:
+        non_striker: GC Wilson
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Thompson
+    - 11.4:
+        non_striker: GC Wilson
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Thompson
+    - 11.5:
+        non_striker: GC Wilson
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Thompson
+    - 11.6:
+        non_striker: GC Wilson
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Thompson
+    - 12.1:
+        non_striker: GJ Thompson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 12.2:
+        non_striker: GC Wilson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Thompson
+    - 12.3:
+        non_striker: GC Wilson
+        bowler: SF Mire
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: GJ Thompson
+    - 12.4:
+        non_striker: GJ Thompson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 12.5:
+        non_striker: GC Wilson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Thompson
+    - 12.6:
+        non_striker: GC Wilson
+        bowler: SF Mire
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: GJ Thompson
+    - 13.1:
+        non_striker: GC Wilson
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Thompson
+    - 13.2:
+        non_striker: GC Wilson
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Thompson
+    - 13.3:
+        non_striker: GJ Thompson
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 13.4:
+        non_striker: GC Wilson
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Thompson
+        wicket:
+          player_out: GJ Thompson
+          kind: caught and bowled
+    - 13.5:
+        non_striker: MR Adair
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 13.6:
+        non_striker: MR Adair
+        bowler: TL Chatara
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: GC Wilson
+    - 14.1:
+        non_striker: MR Adair
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 14.2:
+        non_striker: MR Adair
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Wilson
+    - 14.3:
+        non_striker: MR Adair
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GC Wilson
+    - 14.4:
+        non_striker: MR Adair
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 14.5:
+        non_striker: GC Wilson
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 14.6:
+        non_striker: MR Adair
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Wilson
+    - 15.1:
+        non_striker: GC Wilson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+    - 15.2:
+        non_striker: GC Wilson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Adair
+    - 15.3:
+        non_striker: GC Wilson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 15.4:
+        non_striker: GC Wilson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+    - 15.5:
+        non_striker: GC Wilson
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 15.6:
+        non_striker: MR Adair
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 16.1:
+        non_striker: MR Adair
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 16.2:
+        non_striker: GC Wilson
+        bowler: CB Mpofu
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: MR Adair
+    - 16.3:
+        non_striker: GC Wilson
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 16.4:
+        non_striker: GC Wilson
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 16.5:
+        non_striker: GC Wilson
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Adair
+    - 16.6:
+        non_striker: GC Wilson
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 16.7:
+        non_striker: MR Adair
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+        wicket:
+          player_out: GC Wilson
+          fielders:
+          - R Mutumbami
+          kind: caught
+    - 17.1:
+        non_striker: SC Getkate
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+    - 17.2:
+        non_striker: SC Getkate
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+    - 17.3:
+        non_striker: SC Getkate
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Adair
+    - 17.4:
+        non_striker: SC Getkate
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 17.5:
+        non_striker: MR Adair
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 17.6:
+        non_striker: SC Getkate
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+        wicket:
+          player_out: MR Adair
+          fielders:
+          - RP Burl
+          kind: caught
+    - 18.1:
+        non_striker: SC Getkate
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Delany
+    - 18.2:
+        non_striker: SC Getkate
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 18.3:
+        non_striker: GJ Delany
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC Getkate
+    - 18.4:
+        non_striker: GJ Delany
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 18.5:
+        non_striker: SC Getkate
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 18.6:
+        non_striker: SC Getkate
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 19.1:
+        non_striker: GJ Delany
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Getkate
+    - 19.2:
+        non_striker: GJ Delany
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+        wicket:
+          player_out: SC Getkate
+          kind: lbw
+    - 19.3:
+        non_striker: GJ Delany
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 19.4:
+        non_striker: GH Dockrell
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Delany
+    - 19.5:
+        non_striker: GH Dockrell
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+        wicket:
+          player_out: GH Dockrell
+          fielders:
+          - TL Chatara
+          kind: run out
+    - 19.6:
+        non_striker: CA Young
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+        wicket:
+          player_out: GJ Delany
+          fielders:
+          - SC Williams
+          - BRM Taylor
+          kind: run out
+- 2nd innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: H Masakadza
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 0.2:
+        non_striker: H Masakadza
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 0.3:
+        non_striker: H Masakadza
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 0.4:
+        non_striker: BRM Taylor
+        bowler: CA Young
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: H Masakadza
+    - 0.5:
+        non_striker: H Masakadza
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BRM Taylor
+    - 0.6:
+        non_striker: H Masakadza
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 1.1:
+        non_striker: BRM Taylor
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 1.2:
+        non_striker: BRM Taylor
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 1.3:
+        non_striker: BRM Taylor
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+        wicket:
+          player_out: H Masakadza
+          fielders:
+          - GJ Thompson
+          kind: caught
+    - 1.4:
+        non_striker: CR Ervine
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BRM Taylor
+    - 1.5:
+        non_striker: CR Ervine
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 1.6:
+        non_striker: CR Ervine
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 2.1:
+        non_striker: BRM Taylor
+        bowler: MR Adair
+        extras:
+          noballs: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: CR Ervine
+    - 2.2:
+        non_striker: BRM Taylor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 2.3:
+        non_striker: BRM Taylor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 2.4:
+        non_striker: BRM Taylor
+        bowler: MR Adair
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: CR Ervine
+    - 2.5:
+        non_striker: BRM Taylor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 2.6:
+        non_striker: BRM Taylor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 2.7:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 2.8:
+        non_striker: BRM Taylor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.1:
+        non_striker: CR Ervine
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 3.2:
+        non_striker: BRM Taylor
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.3:
+        non_striker: BRM Taylor
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 3.4:
+        non_striker: BRM Taylor
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.5:
+        non_striker: BRM Taylor
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.6:
+        non_striker: BRM Taylor
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 4.1:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BRM Taylor
+    - 4.2:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 4.3:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 4.4:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 4.5:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 4.6:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 5.1:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 5.2:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 5.3:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 5.4:
+        non_striker: BRM Taylor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 5.5:
+        non_striker: BRM Taylor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 5.6:
+        non_striker: BRM Taylor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 6.1:
+        non_striker: BRM Taylor
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 6.2:
+        non_striker: CR Ervine
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+        wicket:
+          player_out: BRM Taylor
+          kind: lbw
+    - 6.3:
+        non_striker: CR Ervine
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 6.4:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 6.5:
+        non_striker: CR Ervine
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 6.6:
+        non_striker: CR Ervine
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 7.1:
+        non_striker: SC Williams
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 7.2:
+        non_striker: SC Williams
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 7.3:
+        non_striker: SC Williams
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CR Ervine
+    - 7.4:
+        non_striker: SC Williams
+        bowler: PR Stirling
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: CR Ervine
+    - 7.5:
+        non_striker: CR Ervine
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 7.6:
+        non_striker: CR Ervine
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 8.1:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 8.2:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 8.3:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CR Ervine
+    - 8.4:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 8.5:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 8.6:
+        non_striker: CR Ervine
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 9.1:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC Williams
+    - 9.2:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 9.3:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 9.4:
+        non_striker: SC Williams
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 9.5:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 9.6:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 10.1:
+        non_striker: CR Ervine
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 10.2:
+        non_striker: SC Williams
+        bowler: CA Young
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: CR Ervine
+    - 10.3:
+        non_striker: SC Williams
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 10.4:
+        non_striker: CR Ervine
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 10.5:
+        non_striker: CR Ervine
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 10.6:
+        non_striker: CR Ervine
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 10.7:
+        non_striker: CR Ervine
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 11.1:
+        non_striker: SC Williams
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 11.2:
+        non_striker: SC Williams
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 11.3:
+        non_striker: SC Williams
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 11.4:
+        non_striker: CR Ervine
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 11.5:
+        non_striker: CR Ervine
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 11.6:
+        non_striker: SC Williams
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CR Ervine
+    - 12.1:
+        non_striker: CR Ervine
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 12.2:
+        non_striker: CR Ervine
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 12.3:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 12.4:
+        non_striker: CR Ervine
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC Williams
+    - 12.5:
+        non_striker: CR Ervine
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 12.6:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 13.1:
+        non_striker: SC Williams
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 13.2:
+        non_striker: CR Ervine
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 13.3:
+        non_striker: SC Williams
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 13.4:
+        non_striker: CR Ervine
+        bowler: GH Dockrell
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: SC Williams
+    - 13.5:
+        non_striker: CR Ervine
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 13.6:
+        non_striker: SC Williams
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 13.7:
+        non_striker: CR Ervine
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 14.1:
+        non_striker: SC Williams
+        bowler: MR Adair
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: CR Ervine
+    - 14.2:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 14.3:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 14.4:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 14.5:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 14.6:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 15.1:
+        non_striker: SC Williams
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CR Ervine
+    - 15.2:
+        non_striker: SC Williams
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 15.3:
+        non_striker: SC Williams
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 15.4:
+        non_striker: CR Ervine
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 15.5:
+        non_striker: CR Ervine
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 15.6:
+        non_striker: SC Williams
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 16.1:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 16.2:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 16.3:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 16.4:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine

@@ -1,0 +1,2124 @@
+---
+meta:
+  data_version: 0.91
+  created: '2020-06-23'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2018-08-24'
+  gender: female
+  match_type: T20
+  match_type_number: 485
+  outcome:
+    winner: Namibia
+    by:
+      wickets: 6
+  overs: 20
+  players:
+    Botswana:
+    - L Mophakedi
+    - O Batisani
+    - S Mosweu
+    - F Samanyika
+    - T Legaabile
+    - G Matome
+    - B Madimabe
+    - M Ramafifi
+    - B Mpedi
+    - B Gaanamong
+    - A Mokgotlhe
+    Namibia:
+    - Yasmeen Khan
+    - JA Diergaardt
+    - Adri van der Merwe
+    - W Mwatile
+    - KA Green
+    - Reehana Khan
+    - D Foerster
+    - V Hamunyela
+    - SN Shihepo
+    - E Simeon
+    - S Namusha
+  registry:
+    people:
+      A Mokgotlhe: 781f1a40
+      Adri van der Merwe: 02610bad
+      B Gaanamong: 73d19a42
+      B Madimabe: 1e481de4
+      B Mpedi: 8c712051
+      D Foerster: 5596d5bf
+      E Simeon: 6d97d2e2
+      F Samanyika: c42eed38
+      G Matome: a6898f7a
+      JA Diergaardt: b72a8938
+      KA Green: fa9fdefa
+      L Mophakedi: c8cdbb92
+      M Ramafifi: 40d1b7bd
+      O Batisani: 7ff6c967
+      Reehana Khan: 4cf05de9
+      S Mosweu: 10726a80
+      S Namusha: ba0e04b2
+      SN Shihepo: 1b3f7dbb
+      T Legaabile: c7e59109
+      V Hamunyela: d758a366
+      W Mwatile: 5728635a
+      Yasmeen Khan: ade5c0c0
+  teams:
+  - Botswana
+  - Namibia
+  toss:
+    decision: field
+    winner: Namibia
+  venue: Botswana Cricket Association Oval 1
+innings:
+- 1st innings:
+    team: Botswana
+    deliveries:
+    - 0.1:
+        bowler: SN Shihepo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: O Batisani
+        batsman: L Mophakedi
+    - 0.2:
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Batisani
+        batsman: L Mophakedi
+    - 0.3:
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Batisani
+        batsman: L Mophakedi
+    - 0.4:
+        non_striker: O Batisani
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+        wicket:
+          player_out: L Mophakedi
+          kind: lbw
+    - 0.5:
+        non_striker: O Batisani
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+    - 0.6:
+        non_striker: O Batisani
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mosweu
+    - 0.7:
+        non_striker: S Mosweu
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Batisani
+    - 1.1:
+        non_striker: O Batisani
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+    - 1.2:
+        non_striker: O Batisani
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+    - 1.3:
+        non_striker: O Batisani
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+    - 1.4:
+        non_striker: O Batisani
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mosweu
+    - 1.5:
+        non_striker: O Batisani
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+    - 1.6:
+        non_striker: O Batisani
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+    - 2.1:
+        non_striker: S Mosweu
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Batisani
+    - 2.2:
+        non_striker: S Mosweu
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Batisani
+    - 2.3:
+        non_striker: S Mosweu
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Batisani
+    - 2.4:
+        non_striker: O Batisani
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+    - 2.5:
+        non_striker: O Batisani
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mosweu
+    - 2.6:
+        non_striker: O Batisani
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+        wicket:
+          player_out: S Mosweu
+          fielders:
+          - Yasmeen Khan
+          kind: caught
+    - 3.1:
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Samanyika
+        batsman: O Batisani
+    - 3.2:
+        bowler: S Namusha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: F Samanyika
+        batsman: O Batisani
+    - 3.3:
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Samanyika
+        batsman: O Batisani
+    - 3.4:
+        non_striker: F Samanyika
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Batisani
+        wicket:
+          player_out: O Batisani
+          fielders:
+          - Yasmeen Khan
+          kind: caught
+    - 3.5:
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Legaabile
+        batsman: F Samanyika
+    - 3.6:
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Legaabile
+        batsman: F Samanyika
+    - 3.7:
+        non_striker: T Legaabile
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 4.1:
+        non_striker: F Samanyika
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 4.2:
+        non_striker: F Samanyika
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 4.3:
+        non_striker: F Samanyika
+        bowler: SN Shihepo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Legaabile
+    - 4.4:
+        non_striker: F Samanyika
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+        wicket:
+          player_out: T Legaabile
+          kind: caught and bowled
+    - 4.5:
+        non_striker: F Samanyika
+        bowler: SN Shihepo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: G Matome
+    - 4.6:
+        non_striker: G Matome
+        bowler: SN Shihepo
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: F Samanyika
+    - 4.7:
+        non_striker: G Matome
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 4.8:
+        non_striker: F Samanyika
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 4.9:
+        non_striker: F Samanyika
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 5.1:
+        non_striker: G Matome
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 5.2:
+        non_striker: G Matome
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 5.3:
+        non_striker: G Matome
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 5.4:
+        non_striker: G Matome
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 5.5:
+        non_striker: F Samanyika
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 5.6:
+        non_striker: F Samanyika
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 6.1:
+        non_striker: G Matome
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 6.2:
+        non_striker: F Samanyika
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 6.3:
+        non_striker: G Matome
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 6.4:
+        non_striker: G Matome
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 6.5:
+        non_striker: G Matome
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 6.6:
+        non_striker: F Samanyika
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Matome
+    - 7.1:
+        non_striker: G Matome
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Samanyika
+    - 7.2:
+        non_striker: G Matome
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 7.3:
+        non_striker: G Matome
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 7.4:
+        non_striker: F Samanyika
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 7.5:
+        non_striker: F Samanyika
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Matome
+    - 7.6:
+        non_striker: F Samanyika
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 8.1:
+        non_striker: G Matome
+        bowler: W Mwatile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Samanyika
+    - 8.2:
+        non_striker: G Matome
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 8.3:
+        non_striker: G Matome
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 8.4:
+        non_striker: G Matome
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 8.5:
+        non_striker: F Samanyika
+        bowler: W Mwatile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Matome
+    - 8.6:
+        non_striker: F Samanyika
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 8.7:
+        non_striker: G Matome
+        bowler: W Mwatile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Samanyika
+    - 8.8:
+        non_striker: G Matome
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 8.9:
+        non_striker: F Samanyika
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Matome
+    - 9.1:
+        non_striker: G Matome
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 9.2:
+        non_striker: G Matome
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 9.3:
+        non_striker: G Matome
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 9.4:
+        non_striker: F Samanyika
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 9.5:
+        non_striker: F Samanyika
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 9.6:
+        non_striker: F Samanyika
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 10.1:
+        non_striker: G Matome
+        bowler: Reehana Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Samanyika
+    - 10.2:
+        non_striker: G Matome
+        bowler: Reehana Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 10.3:
+        non_striker: F Samanyika
+        bowler: Reehana Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 10.4:
+        non_striker: F Samanyika
+        bowler: Reehana Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 10.5:
+        non_striker: G Matome
+        bowler: Reehana Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 10.6:
+        non_striker: G Matome
+        bowler: Reehana Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Samanyika
+    - 10.7:
+        non_striker: G Matome
+        bowler: Reehana Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 10.8:
+        non_striker: F Samanyika
+        bowler: Reehana Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 11.1:
+        non_striker: G Matome
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 11.2:
+        non_striker: G Matome
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 11.3:
+        non_striker: G Matome
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 11.4:
+        non_striker: F Samanyika
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 11.5:
+        non_striker: F Samanyika
+        bowler: KA Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Matome
+    - 11.6:
+        non_striker: F Samanyika
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 11.7:
+        non_striker: G Matome
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 12.1:
+        non_striker: F Samanyika
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 12.2:
+        non_striker: F Samanyika
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 12.3:
+        non_striker: F Samanyika
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 12.4:
+        non_striker: F Samanyika
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 12.5:
+        non_striker: G Matome
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 12.6:
+        non_striker: G Matome
+        bowler: S Namusha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 13.1:
+        non_striker: G Matome
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 13.2:
+        non_striker: F Samanyika
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 13.3:
+        non_striker: G Matome
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 13.4:
+        non_striker: G Matome
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 13.5:
+        non_striker: G Matome
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 13.6:
+        non_striker: G Matome
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 14.1:
+        non_striker: F Samanyika
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 14.2:
+        non_striker: F Samanyika
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 14.3:
+        non_striker: G Matome
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 14.4:
+        non_striker: G Matome
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 14.5:
+        non_striker: F Samanyika
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 14.6:
+        non_striker: F Samanyika
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Matome
+    - 15.1:
+        non_striker: G Matome
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 15.2:
+        non_striker: G Matome
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 15.3:
+        non_striker: G Matome
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 15.4:
+        non_striker: F Samanyika
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 15.5:
+        non_striker: F Samanyika
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 15.6:
+        non_striker: F Samanyika
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 16.1:
+        non_striker: G Matome
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 16.2:
+        non_striker: F Samanyika
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 16.3:
+        non_striker: F Samanyika
+        bowler: JA Diergaardt
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: G Matome
+    - 16.4:
+        non_striker: F Samanyika
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 16.5:
+        non_striker: G Matome
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 16.6:
+        non_striker: G Matome
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Samanyika
+    - 16.7:
+        non_striker: G Matome
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 17.1:
+        non_striker: F Samanyika
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 17.2:
+        non_striker: F Samanyika
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 17.3:
+        non_striker: F Samanyika
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 17.4:
+        non_striker: F Samanyika
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Matome
+    - 17.5:
+        non_striker: F Samanyika
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 17.6:
+        non_striker: G Matome
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 18.1:
+        non_striker: G Matome
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 18.2:
+        non_striker: F Samanyika
+        bowler: SN Shihepo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Matome
+    - 18.3:
+        non_striker: F Samanyika
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 18.4:
+        non_striker: F Samanyika
+        bowler: SN Shihepo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Matome
+    - 18.5:
+        non_striker: F Samanyika
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 18.6:
+        non_striker: G Matome
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Samanyika
+    - 18.7:
+        non_striker: G Matome
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 18.8:
+        non_striker: F Samanyika
+        bowler: SN Shihepo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 19.1:
+        non_striker: F Samanyika
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 19.2:
+        non_striker: G Matome
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 19.3:
+        non_striker: G Matome
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 19.4:
+        non_striker: G Matome
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 19.5:
+        non_striker: F Samanyika
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 19.6:
+        non_striker: G Matome
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+- 2nd innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JA Diergaardt
+        batsman: Yasmeen Khan
+    - 0.2:
+        non_striker: Yasmeen Khan
+        bowler: G Matome
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Diergaardt
+    - 0.3:
+        non_striker: Yasmeen Khan
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Diergaardt
+    - 0.4:
+        non_striker: Yasmeen Khan
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Diergaardt
+    - 0.5:
+        non_striker: Yasmeen Khan
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Diergaardt
+    - 0.6:
+        non_striker: JA Diergaardt
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasmeen Khan
+    - 0.7:
+        non_striker: JA Diergaardt
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 1.1:
+        non_striker: Yasmeen Khan
+        bowler: T Legaabile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Diergaardt
+    - 1.2:
+        non_striker: Yasmeen Khan
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Diergaardt
+    - 1.3:
+        non_striker: Yasmeen Khan
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Diergaardt
+    - 1.4:
+        non_striker: JA Diergaardt
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 1.5:
+        non_striker: Yasmeen Khan
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Diergaardt
+        wicket:
+          player_out: JA Diergaardt
+          fielders:
+          - A Mokgotlhe
+          kind: caught
+    - 1.6:
+        non_striker: Yasmeen Khan
+        bowler: T Legaabile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Adri van der Merwe
+    - 1.7:
+        non_striker: Yasmeen Khan
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 1.8:
+        non_striker: Yasmeen Khan
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adri van der Merwe
+    - 2.1:
+        non_striker: Yasmeen Khan
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 2.2:
+        non_striker: Yasmeen Khan
+        bowler: G Matome
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Adri van der Merwe
+    - 2.3:
+        non_striker: Yasmeen Khan
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adri van der Merwe
+    - 2.4:
+        non_striker: Adri van der Merwe
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 2.5:
+        non_striker: Adri van der Merwe
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasmeen Khan
+    - 2.6:
+        non_striker: Adri van der Merwe
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 2.7:
+        non_striker: Adri van der Merwe
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 3.1:
+        non_striker: Yasmeen Khan
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Adri van der Merwe
+    - 3.2:
+        non_striker: Yasmeen Khan
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 3.3:
+        non_striker: Yasmeen Khan
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 3.4:
+        non_striker: Yasmeen Khan
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adri van der Merwe
+    - 3.5:
+        non_striker: Adri van der Merwe
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 3.6:
+        non_striker: Yasmeen Khan
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 4.1:
+        non_striker: Adri van der Merwe
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+        wicket:
+          player_out: Yasmeen Khan
+          fielders:
+          - L Mophakedi
+          kind: caught
+    - 4.2:
+        non_striker: Adri van der Merwe
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 4.3:
+        non_striker: Adri van der Merwe
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 4.4:
+        non_striker: Adri van der Merwe
+        bowler: B Mpedi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Mwatile
+    - 4.5:
+        non_striker: Adri van der Merwe
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Mwatile
+    - 4.6:
+        non_striker: Adri van der Merwe
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Mwatile
+    - 4.7:
+        non_striker: W Mwatile
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adri van der Merwe
+    - 5.1:
+        non_striker: W Mwatile
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adri van der Merwe
+    - 5.2:
+        non_striker: Adri van der Merwe
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: W Mwatile
+    - 5.3:
+        non_striker: W Mwatile
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 5.4:
+        non_striker: W Mwatile
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adri van der Merwe
+    - 5.5:
+        non_striker: Adri van der Merwe
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 5.6:
+        non_striker: Adri van der Merwe
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Mwatile
+    - 6.1:
+        non_striker: Adri van der Merwe
+        bowler: B Mpedi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Mwatile
+    - 6.2:
+        non_striker: Adri van der Merwe
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 6.3:
+        non_striker: Adri van der Merwe
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 6.4:
+        non_striker: Adri van der Merwe
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Mwatile
+    - 6.5:
+        non_striker: W Mwatile
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adri van der Merwe
+    - 6.6:
+        non_striker: Adri van der Merwe
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 6.7:
+        non_striker: Adri van der Merwe
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 7.1:
+        non_striker: W Mwatile
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Adri van der Merwe
+    - 7.2:
+        non_striker: W Mwatile
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 7.3:
+        non_striker: W Mwatile
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 7.4:
+        non_striker: W Mwatile
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adri van der Merwe
+    - 7.5:
+        non_striker: Adri van der Merwe
+        bowler: A Mokgotlhe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Mwatile
+    - 7.6:
+        non_striker: Adri van der Merwe
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Mwatile
+    - 7.7:
+        non_striker: W Mwatile
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adri van der Merwe
+    - 8.1:
+        non_striker: W Mwatile
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 8.2:
+        non_striker: W Mwatile
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Adri van der Merwe
+    - 8.3:
+        non_striker: W Mwatile
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 8.4:
+        non_striker: W Mwatile
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 8.5:
+        non_striker: W Mwatile
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adri van der Merwe
+    - 8.6:
+        non_striker: Adri van der Merwe
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 9.1:
+        non_striker: W Mwatile
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 9.2:
+        non_striker: W Mwatile
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 9.3:
+        non_striker: W Mwatile
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 9.4:
+        non_striker: W Mwatile
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 9.5:
+        non_striker: W Mwatile
+        bowler: A Mokgotlhe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Adri van der Merwe
+    - 9.6:
+        non_striker: W Mwatile
+        bowler: A Mokgotlhe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Adri van der Merwe
+    - 9.7:
+        non_striker: W Mwatile
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 9.8:
+        non_striker: W Mwatile
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 10.1:
+        non_striker: Adri van der Merwe
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Mwatile
+    - 10.2:
+        non_striker: W Mwatile
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Adri van der Merwe
+    - 10.3:
+        non_striker: W Mwatile
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Adri van der Merwe
+    - 10.4:
+        non_striker: W Mwatile
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adri van der Merwe
+    - 10.5:
+        non_striker: Adri van der Merwe
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 10.6:
+        non_striker: Adri van der Merwe
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Mwatile
+    - 11.1:
+        non_striker: W Mwatile
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adri van der Merwe
+    - 11.2:
+        non_striker: Adri van der Merwe
+        bowler: A Mokgotlhe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Mwatile
+    - 11.3:
+        non_striker: Adri van der Merwe
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Mwatile
+    - 11.4:
+        non_striker: Adri van der Merwe
+        bowler: A Mokgotlhe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Mwatile
+    - 11.5:
+        non_striker: Adri van der Merwe
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 11.6:
+        non_striker: Adri van der Merwe
+        bowler: A Mokgotlhe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Mwatile
+    - 11.7:
+        non_striker: Adri van der Merwe
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 11.8:
+        non_striker: Adri van der Merwe
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Mwatile
+    - 11.9:
+        non_striker: W Mwatile
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 12.1:
+        non_striker: Adri van der Merwe
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 12.2:
+        non_striker: Adri van der Merwe
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Mwatile
+    - 12.3:
+        non_striker: Adri van der Merwe
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 12.4:
+        non_striker: Adri van der Merwe
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 12.5:
+        non_striker: Adri van der Merwe
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 12.6:
+        non_striker: Adri van der Merwe
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 13.1:
+        non_striker: W Mwatile
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adri van der Merwe
+    - 13.2:
+        non_striker: Adri van der Merwe
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 13.3:
+        non_striker: Adri van der Merwe
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 13.4:
+        non_striker: Adri van der Merwe
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+        wicket:
+          player_out: W Mwatile
+          fielders:
+          - B Gaanamong
+          kind: caught
+    - 13.5:
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KA Green
+        batsman: Adri van der Merwe
+    - 13.6:
+        non_striker: Adri van der Merwe
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 14.1:
+        non_striker: KA Green
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 14.2:
+        non_striker: KA Green
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+        wicket:
+          player_out: Adri van der Merwe
+          fielders:
+          - G Matome
+          kind: caught
+    - 14.3:
+        non_striker: KA Green
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reehana Khan
+    - 14.4:
+        non_striker: KA Green
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Reehana Khan
+    - 14.5:
+        non_striker: KA Green
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reehana Khan
+    - 14.6:
+        non_striker: KA Green
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reehana Khan
+    - 15.1:
+        non_striker: Reehana Khan
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 15.2:
+        non_striker: Reehana Khan
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 15.3:
+        non_striker: Reehana Khan
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 15.4:
+        non_striker: KA Green
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reehana Khan
+    - 15.5:
+        non_striker: KA Green
+        bowler: M Ramafifi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Reehana Khan
+    - 15.6:
+        non_striker: KA Green
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reehana Khan
+    - 15.7:
+        non_striker: KA Green
+        bowler: M Ramafifi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reehana Khan
+    - 16.1:
+        non_striker: Reehana Khan
+        bowler: B Mpedi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green

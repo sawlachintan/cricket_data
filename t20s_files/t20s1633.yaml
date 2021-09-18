@@ -1,0 +1,1965 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-09-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2021-09-11'
+  gender: female
+  match_type: T20
+  match_type_number: 957
+  outcome:
+    winner: Tanzania
+    by:
+      runs: 200
+  overs: 20
+  player_of_match:
+  - MA Swedy
+  players:
+    Tanzania:
+    - S Mtae
+    - FO Kibasu
+    - HM Omary
+    - MA Swedy
+    - MI Shakim
+    - NJ Pius
+    - PZ Kamunya
+    - NN Saidi
+    - SF Jerome
+    - SH Mohamedi
+    - MH Ushanga
+    Mozambique:
+    - P Cuinica
+    - C Murrombe
+    - HR Ponja
+    - C Magaia
+    - TJE Chiracheque
+    - O Matsolo
+    - A Cossa
+    - OC Moiane
+    - I Chuma
+    - AL Mangue
+    - R Haiong
+  registry:
+    people:
+      A Cossa: ef160d73
+      A Louw: 5eecae5d
+      AL Mangue: 7e8cd083
+      C Magaia: bb4d1237
+      C Murrombe: 2cf802eb
+      FO Kibasu: 1c726c76
+      GH Pienaar: 3516e46b
+      HM Omary: 2cbe5db1
+      HR Ponja: 6114eaf4
+      I Chuma: b1021056
+      IO Oyieko: de4828fa
+      MA Swedy: 202ce08c
+      MH Ushanga: '0286eabe'
+      MI Shakim: 5ffee881
+      NJ Pius: f4270fc7
+      NN Saidi: 16610c7b
+      O Matsolo: 3c4a62c4
+      OC Moiane: b74a1124
+      P Cuinica: efca38df
+      PZ Kamunya: 6e60bbe2
+      R D'Mello: f3c22863
+      R Haiong: 2832fbba
+      S Mtae: bb641155
+      SF Jerome: e393c6c1
+      SH Mohamedi: 10ab6a37
+      TJE Chiracheque: '078c4e60'
+  teams:
+  - Tanzania
+  - Mozambique
+  toss:
+    winner: Mozambique
+    decision: field
+  umpires:
+  - A Louw
+  - R D'Mello
+  venue: Botswana Cricket Association Oval 1, Gaborone
+innings:
+- 1st innings:
+    team: Tanzania
+    deliveries:
+    - 0.1:
+        bowler: O Matsolo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: FO Kibasu
+        batsman: S Mtae
+    - 0.2:
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FO Kibasu
+        batsman: S Mtae
+    - 0.3:
+        bowler: O Matsolo
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        non_striker: FO Kibasu
+        batsman: S Mtae
+    - 0.4:
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FO Kibasu
+        batsman: S Mtae
+    - 0.5:
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FO Kibasu
+        batsman: S Mtae
+    - 0.6:
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: FO Kibasu
+        batsman: S Mtae
+    - 0.7:
+        non_striker: S Mtae
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 0.8:
+        non_striker: S Mtae
+        bowler: O Matsolo
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: FO Kibasu
+    - 0.9:
+        non_striker: S Mtae
+        bowler: O Matsolo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: FO Kibasu
+    - 1.1:
+        non_striker: S Mtae
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 1.2:
+        non_striker: FO Kibasu
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 1.3:
+        non_striker: FO Kibasu
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Mtae
+    - 1.4:
+        non_striker: S Mtae
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 1.5:
+        non_striker: S Mtae
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu
+    - 1.6:
+        non_striker: S Mtae
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 2.1:
+        non_striker: FO Kibasu
+        bowler: O Matsolo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mtae
+    - 2.2:
+        non_striker: FO Kibasu
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mtae
+    - 2.3:
+        non_striker: S Mtae
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 2.4:
+        non_striker: FO Kibasu
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+        wicket:
+          player_out: S Mtae
+          kind: lbw
+    - 2.5:
+        non_striker: FO Kibasu
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Omary
+    - 2.6:
+        non_striker: HM Omary
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 2.7:
+        non_striker: FO Kibasu
+        bowler: O Matsolo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: HM Omary
+    - 2.8:
+        non_striker: HM Omary
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: FO Kibasu
+    - 3.1:
+        non_striker: HM Omary
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FO Kibasu
+    - 3.2:
+        non_striker: HM Omary
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 3.3:
+        non_striker: HM Omary
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: FO Kibasu
+    - 3.4:
+        non_striker: FO Kibasu
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 3.5:
+        non_striker: FO Kibasu
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Omary
+    - 3.6:
+        non_striker: FO Kibasu
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Omary
+    - 4.1:
+        non_striker: FO Kibasu
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 4.2:
+        non_striker: FO Kibasu
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Omary
+    - 4.3:
+        non_striker: FO Kibasu
+        bowler: AL Mangue
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HM Omary
+    - 4.4:
+        non_striker: FO Kibasu
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Omary
+    - 4.5:
+        non_striker: HM Omary
+        bowler: AL Mangue
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FO Kibasu
+    - 4.6:
+        non_striker: HM Omary
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 4.7:
+        non_striker: FO Kibasu
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 4.8:
+        non_striker: FO Kibasu
+        bowler: AL Mangue
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HM Omary
+    - 4.9:
+        non_striker: FO Kibasu
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Omary
+    - 5.1:
+        non_striker: FO Kibasu
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+        wicket:
+          player_out: HM Omary
+          kind: bowled
+    - 5.2:
+        non_striker: FO Kibasu
+        bowler: C Magaia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Swedy
+    - 5.3:
+        non_striker: FO Kibasu
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Swedy
+    - 5.4:
+        non_striker: FO Kibasu
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Swedy
+    - 5.5:
+        non_striker: MA Swedy
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 5.6:
+        non_striker: MA Swedy
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 5.7:
+        non_striker: FO Kibasu
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Swedy
+    - 6.1:
+        non_striker: FO Kibasu
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Swedy
+    - 6.2:
+        non_striker: FO Kibasu
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Swedy
+    - 6.3:
+        non_striker: FO Kibasu
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Swedy
+    - 6.4:
+        non_striker: FO Kibasu
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Swedy
+    - 6.5:
+        non_striker: FO Kibasu
+        bowler: AL Mangue
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: MA Swedy
+    - 6.6:
+        non_striker: MA Swedy
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 6.7:
+        non_striker: MA Swedy
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu
+    - 7.1:
+        non_striker: FO Kibasu
+        bowler: C Magaia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Swedy
+    - 7.2:
+        non_striker: FO Kibasu
+        bowler: C Magaia
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: MA Swedy
+    - 7.3:
+        non_striker: FO Kibasu
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Swedy
+    - 7.4:
+        non_striker: FO Kibasu
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Swedy
+    - 7.5:
+        non_striker: FO Kibasu
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Swedy
+    - 7.6:
+        non_striker: FO Kibasu
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Swedy
+    - 7.7:
+        non_striker: MA Swedy
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 7.8:
+        non_striker: MA Swedy
+        bowler: C Magaia
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: FO Kibasu
+    - 7.9:
+        non_striker: FO Kibasu
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Swedy
+    - 8.1:
+        non_striker: FO Kibasu
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Swedy
+    - 8.2:
+        non_striker: FO Kibasu
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Swedy
+    - 8.3:
+        non_striker: FO Kibasu
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Swedy
+    - 8.4:
+        non_striker: MA Swedy
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 8.5:
+        non_striker: FO Kibasu
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Swedy
+    - 8.6:
+        non_striker: FO Kibasu
+        bowler: AL Mangue
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Swedy
+    - 9.1:
+        non_striker: MA Swedy
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FO Kibasu
+    - 9.2:
+        non_striker: MA Swedy
+        bowler: I Chuma
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: FO Kibasu
+    - 9.3:
+        non_striker: FO Kibasu
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Swedy
+    - 9.4:
+        non_striker: MA Swedy
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 9.5:
+        non_striker: FO Kibasu
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Swedy
+    - 9.6:
+        non_striker: FO Kibasu
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Swedy
+    - 9.7:
+        non_striker: FO Kibasu
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Swedy
+    - 10.1:
+        non_striker: FO Kibasu
+        bowler: O Matsolo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Swedy
+    - 10.2:
+        non_striker: FO Kibasu
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Swedy
+    - 10.3:
+        non_striker: MA Swedy
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 10.4:
+        non_striker: FO Kibasu
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Swedy
+    - 10.5:
+        non_striker: FO Kibasu
+        bowler: O Matsolo
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: MA Swedy
+    - 10.6:
+        non_striker: FO Kibasu
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Swedy
+    - 10.7:
+        non_striker: FO Kibasu
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Swedy
+    - 10.8:
+        non_striker: MA Swedy
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu
+    - 11.1:
+        non_striker: FO Kibasu
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Swedy
+    - 11.2:
+        non_striker: MA Swedy
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 11.3:
+        non_striker: FO Kibasu
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Swedy
+    - 11.4:
+        non_striker: MA Swedy
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FO Kibasu
+    - 11.5:
+        non_striker: MA Swedy
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu
+    - 11.6:
+        non_striker: MA Swedy
+        bowler: I Chuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 12.1:
+        non_striker: MA Swedy
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu
+    - 12.2:
+        non_striker: MA Swedy
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu
+    - 12.3:
+        non_striker: MA Swedy
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu
+    - 12.4:
+        non_striker: MA Swedy
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 12.5:
+        non_striker: MA Swedy
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu
+    - 12.6:
+        non_striker: MA Swedy
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu
+    - 13.1:
+        non_striker: FO Kibasu
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Swedy
+    - 13.2:
+        non_striker: MA Swedy
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+        wicket:
+          player_out: FO Kibasu
+          kind: bowled
+    - 13.3:
+        non_striker: MA Swedy
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MI Shakim
+    - 13.4:
+        non_striker: MA Swedy
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MI Shakim
+    - 13.5:
+        non_striker: MA Swedy
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MI Shakim
+        wicket:
+          player_out: MI Shakim
+          kind: bowled
+    - 13.6:
+        non_striker: MA Swedy
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Pius
+    - 14.1:
+        non_striker: NJ Pius
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Swedy
+    - 14.2:
+        non_striker: NJ Pius
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Swedy
+    - 14.3:
+        non_striker: NJ Pius
+        bowler: O Matsolo
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: MA Swedy
+    - 14.4:
+        non_striker: NJ Pius
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MA Swedy
+    - 14.5:
+        non_striker: MA Swedy
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Pius
+    - 14.6:
+        non_striker: MA Swedy
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Pius
+    - 14.7:
+        non_striker: NJ Pius
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Swedy
+    - 15.1:
+        non_striker: MA Swedy
+        bowler: C Magaia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NJ Pius
+    - 15.2:
+        non_striker: MA Swedy
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Pius
+    - 15.3:
+        non_striker: NJ Pius
+        bowler: C Magaia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Swedy
+    - 15.4:
+        non_striker: NJ Pius
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Swedy
+    - 15.5:
+        non_striker: NJ Pius
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Swedy
+    - 15.6:
+        non_striker: NJ Pius
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Swedy
+    - 15.7:
+        non_striker: MA Swedy
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Pius
+    - 15.8:
+        non_striker: MA Swedy
+        bowler: C Magaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Pius
+    - 16.1:
+        non_striker: NJ Pius
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Swedy
+    - 16.2:
+        non_striker: NJ Pius
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Swedy
+    - 16.3:
+        non_striker: MA Swedy
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Pius
+    - 16.4:
+        non_striker: MA Swedy
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Pius
+    - 16.5:
+        non_striker: MA Swedy
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Pius
+    - 16.6:
+        non_striker: MA Swedy
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Pius
+    - 17.1:
+        non_striker: NJ Pius
+        bowler: A Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Swedy
+    - 17.2:
+        non_striker: NJ Pius
+        bowler: A Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Swedy
+    - 17.3:
+        non_striker: MA Swedy
+        bowler: A Cossa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NJ Pius
+    - 17.4:
+        non_striker: MA Swedy
+        bowler: A Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Pius
+    - 17.5:
+        non_striker: NJ Pius
+        bowler: A Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Swedy
+    - 17.6:
+        non_striker: MA Swedy
+        bowler: A Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Pius
+    - 17.7:
+        non_striker: MA Swedy
+        bowler: A Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Pius
+    - 18.1:
+        non_striker: MA Swedy
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Pius
+    - 18.2:
+        non_striker: MA Swedy
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Pius
+    - 18.3:
+        non_striker: MA Swedy
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Pius
+    - 18.4:
+        non_striker: NJ Pius
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Swedy
+    - 18.5:
+        non_striker: NJ Pius
+        bowler: C Murrombe
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: MA Swedy
+    - 18.6:
+        non_striker: NJ Pius
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Swedy
+    - 18.7:
+        non_striker: MA Swedy
+        bowler: C Murrombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Pius
+    - 19.1:
+        non_striker: MA Swedy
+        bowler: A Cossa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Pius
+    - 19.2:
+        non_striker: MA Swedy
+        bowler: A Cossa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ Pius
+    - 19.3:
+        non_striker: MA Swedy
+        bowler: A Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Pius
+    - 19.4:
+        non_striker: NJ Pius
+        bowler: A Cossa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Swedy
+    - 19.5:
+        non_striker: NJ Pius
+        bowler: A Cossa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Swedy
+    - 19.6:
+        non_striker: NJ Pius
+        bowler: A Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Swedy
+- 2nd innings:
+    team: Mozambique
+    absent_hurt:
+    - R Haiong
+    deliveries:
+    - 0.1:
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Murrombe
+        batsman: P Cuinica
+    - 0.2:
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Murrombe
+        batsman: P Cuinica
+    - 0.3:
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Murrombe
+        batsman: P Cuinica
+    - 0.4:
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Murrombe
+        batsman: P Cuinica
+    - 0.5:
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Murrombe
+        batsman: P Cuinica
+    - 0.6:
+        non_striker: C Murrombe
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 1.1:
+        non_striker: P Cuinica
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Murrombe
+    - 1.2:
+        non_striker: P Cuinica
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Murrombe
+    - 1.3:
+        non_striker: P Cuinica
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Murrombe
+    - 1.4:
+        non_striker: P Cuinica
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Murrombe
+    - 1.5:
+        non_striker: P Cuinica
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Murrombe
+    - 1.6:
+        non_striker: P Cuinica
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Murrombe
+    - 2.1:
+        non_striker: C Murrombe
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 2.2:
+        non_striker: C Murrombe
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 2.3:
+        non_striker: C Murrombe
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Cuinica
+    - 2.4:
+        non_striker: C Murrombe
+        bowler: NN Saidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Cuinica
+    - 2.5:
+        non_striker: C Murrombe
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Cuinica
+    - 2.6:
+        non_striker: C Murrombe
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 2.7:
+        non_striker: C Murrombe
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+        wicket:
+          player_out: P Cuinica
+          kind: bowled
+    - 3.1:
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HR Ponja
+        batsman: C Murrombe
+    - 3.2:
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: HR Ponja
+        batsman: C Murrombe
+    - 3.3:
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HR Ponja
+        batsman: C Murrombe
+    - 3.4:
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HR Ponja
+        batsman: C Murrombe
+    - 3.5:
+        non_striker: C Murrombe
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Ponja
+    - 3.6:
+        non_striker: C Murrombe
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Ponja
+        wicket:
+          player_out: HR Ponja
+          kind: caught and bowled
+    - 4.1:
+        non_striker: C Magaia
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Murrombe
+        wicket:
+          player_out: C Murrombe
+          kind: lbw
+    - 4.2:
+        non_striker: C Magaia
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJE Chiracheque
+    - 4.3:
+        non_striker: C Magaia
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJE Chiracheque
+    - 4.4:
+        non_striker: C Magaia
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJE Chiracheque
+    - 4.5:
+        non_striker: C Magaia
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJE Chiracheque
+    - 4.6:
+        non_striker: C Magaia
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJE Chiracheque
+    - 5.1:
+        non_striker: C Magaia
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJE Chiracheque
+        wicket:
+          player_out: TJE Chiracheque
+          fielders:
+          - HM Omary
+          kind: caught
+    - 5.2:
+        non_striker: C Magaia
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 5.3:
+        non_striker: C Magaia
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 5.4:
+        non_striker: C Magaia
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 5.5:
+        non_striker: C Magaia
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 5.6:
+        non_striker: C Magaia
+        bowler: PZ Kamunya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Matsolo
+    - 5.7:
+        non_striker: C Magaia
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 6.1:
+        non_striker: O Matsolo
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 6.2:
+        non_striker: O Matsolo
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 6.3:
+        non_striker: O Matsolo
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 6.4:
+        non_striker: O Matsolo
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 6.5:
+        non_striker: C Magaia
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 6.6:
+        non_striker: C Magaia
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 7.1:
+        non_striker: O Matsolo
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 7.2:
+        non_striker: O Matsolo
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 7.3:
+        non_striker: O Matsolo
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Magaia
+    - 7.4:
+        non_striker: O Matsolo
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+        wicket:
+          player_out: C Magaia
+          fielders:
+          - HM Omary
+          kind: caught
+    - 7.5:
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Cossa
+        batsman: O Matsolo
+    - 7.6:
+        non_striker: A Cossa
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 8.1:
+        non_striker: O Matsolo
+        bowler: MI Shakim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Cossa
+    - 8.2:
+        non_striker: A Cossa
+        bowler: MI Shakim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Matsolo
+    - 8.3:
+        non_striker: O Matsolo
+        bowler: MI Shakim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Cossa
+    - 8.4:
+        non_striker: O Matsolo
+        bowler: MI Shakim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Cossa
+        wicket:
+          player_out: A Cossa
+          kind: bowled
+    - 8.5:
+        non_striker: O Matsolo
+        bowler: MI Shakim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OC Moiane
+    - 8.6:
+        non_striker: O Matsolo
+        bowler: MI Shakim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OC Moiane
+    - 9.1:
+        non_striker: O Matsolo
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OC Moiane
+    - 9.2:
+        non_striker: O Matsolo
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OC Moiane
+    - 9.3:
+        non_striker: O Matsolo
+        bowler: SF Jerome
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OC Moiane
+    - 9.4:
+        non_striker: O Matsolo
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OC Moiane
+    - 9.5:
+        non_striker: OC Moiane
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 9.6:
+        non_striker: OC Moiane
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 9.7:
+        non_striker: OC Moiane
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 10.1:
+        non_striker: O Matsolo
+        bowler: MI Shakim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OC Moiane
+    - 10.2:
+        non_striker: O Matsolo
+        bowler: MI Shakim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OC Moiane
+    - 10.3:
+        non_striker: O Matsolo
+        bowler: MI Shakim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OC Moiane
+    - 10.4:
+        non_striker: OC Moiane
+        bowler: MI Shakim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Matsolo
+    - 10.5:
+        non_striker: OC Moiane
+        bowler: MI Shakim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 10.6:
+        non_striker: OC Moiane
+        bowler: MI Shakim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: O Matsolo
+    - 10.7:
+        non_striker: O Matsolo
+        bowler: MI Shakim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OC Moiane
+    - 11.1:
+        non_striker: OC Moiane
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 11.2:
+        non_striker: OC Moiane
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Matsolo
+    - 11.3:
+        non_striker: O Matsolo
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OC Moiane
+        wicket:
+          player_out: OC Moiane
+          kind: bowled
+    - 11.4:
+        non_striker: O Matsolo
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 11.5:
+        non_striker: O Matsolo
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 11.6:
+        non_striker: O Matsolo
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+        wicket:
+          player_out: I Chuma
+          kind: bowled
+    - 12.1:
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AL Mangue
+        batsman: O Matsolo
+    - 12.2:
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AL Mangue
+        batsman: O Matsolo
+    - 12.3:
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AL Mangue
+        batsman: O Matsolo
+    - 12.4:
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AL Mangue
+        batsman: O Matsolo
+    - 12.5:
+        non_striker: AL Mangue
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+        wicket:
+          player_out: AL Mangue
+          kind: run out

@@ -1,0 +1,2155 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-06-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Abu Dhabi
+  competition: Pakistan Super League
+  dates:
+  - '2021-06-17'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Islamabad United
+    by:
+      runs: 15
+  overs: 20
+  player_of_match:
+  - UT Khawaja
+  players:
+    Islamabad United:
+    - UT Khawaja
+    - C Munro
+    - Asif Ali
+    - BA King
+    - Hussain Talat
+    - Iftikhar Ahmed
+    - Muhammad Akhlaq
+    - Hasan Ali
+    - Zafar Gohar
+    - Fawad Ahmed
+    - Akif Javed
+    Peshawar Zalmi:
+    - Hazratullah
+    - Kamran Akmal
+    - Imam-ul-Haq
+    - Shoaib Malik
+    - R Powell
+    - SE Rutherford
+    - Wahab Riaz
+    - Umaid Asif
+    - Abrar Ahmed
+    - Waqar Salamkheil
+    - Sameen Gul
+  registry:
+    people:
+      Abrar Ahmed: abb7c76c
+      Ahsan Raza: e0e5b209
+      Akif Javed: 99d7d5b7
+      Asif Ali: 0a4736eb
+      BA King: 7fca84b7
+      C Munro: af2c687b
+      Fawad Ahmed: 22ae3041
+      Hasan Ali: 2911de16
+      Hazratullah: 5ea51c25
+      Hussain Talat: bb4b445b
+      Iftikhar Ahmed: 29e253dd
+      Imam-ul-Haq: 40c041ea
+      Kamran Akmal: ff077124
+      Mohammad Anees (2): dd853938
+      Muhammad Akhlaq: 9739e85c
+      R Powell: 650d5e49
+      Rashid Riaz: fb82725e
+      SE Rutherford: d014d5ac
+      Sameen Gul: 3be224b0
+      Shoaib Malik: 64c34cd0
+      Shozab Raza: 153c67dc
+      UT Khawaja: 331ea488
+      Umaid Asif: f69f1d8a
+      Wahab Riaz: b3118300
+      Waqar Salamkheil: 3f1066d0
+      Zafar Gohar: 9fd3a210
+      Zameer Haider: 5537565f
+  teams:
+  - Islamabad United
+  - Peshawar Zalmi
+  toss:
+    decision: field
+    winner: Peshawar Zalmi
+  umpires:
+  - Rashid Riaz
+  - Shozab Raza
+  venue: Sheikh Zayed Stadium, Abu Dhabi
+innings:
+- 1st innings:
+    team: Islamabad United
+    deliveries:
+    - 0.1:
+        non_striker: C Munro
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.2:
+        non_striker: C Munro
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.3:
+        non_striker: C Munro
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.4:
+        non_striker: C Munro
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 0.5:
+        non_striker: UT Khawaja
+        bowler: Wahab Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Munro
+    - 0.6:
+        non_striker: C Munro
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 1.1:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 1.2:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 1.3:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 1.4:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 1.5:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 1.6:
+        non_striker: C Munro
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 2.1:
+        non_striker: C Munro
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 2.2:
+        non_striker: C Munro
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 2.3:
+        non_striker: C Munro
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 2.4:
+        non_striker: UT Khawaja
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 2.5:
+        non_striker: C Munro
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 2.6:
+        non_striker: C Munro
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 3.1:
+        non_striker: C Munro
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 3.2:
+        non_striker: C Munro
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 3.3:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 3.4:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 3.5:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 3.6:
+        non_striker: C Munro
+        bowler: Sameen Gul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: UT Khawaja
+    - 3.7:
+        non_striker: C Munro
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 4.1:
+        non_striker: UT Khawaja
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 4.2:
+        non_striker: C Munro
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 4.3:
+        non_striker: C Munro
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 4.4:
+        non_striker: UT Khawaja
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 4.5:
+        non_striker: UT Khawaja
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 4.6:
+        non_striker: UT Khawaja
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 5.1:
+        non_striker: UT Khawaja
+        bowler: Wahab Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Munro
+    - 5.2:
+        non_striker: UT Khawaja
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 5.3:
+        non_striker: UT Khawaja
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 5.4:
+        non_striker: C Munro
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 5.5:
+        non_striker: UT Khawaja
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 5.6:
+        non_striker: C Munro
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 5.7:
+        non_striker: C Munro
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 6.1:
+        non_striker: C Munro
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 6.2:
+        non_striker: C Munro
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 6.3:
+        non_striker: UT Khawaja
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 6.4:
+        non_striker: UT Khawaja
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 6.5:
+        non_striker: UT Khawaja
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 6.6:
+        non_striker: UT Khawaja
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 7.1:
+        non_striker: C Munro
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 7.2:
+        non_striker: UT Khawaja
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 7.3:
+        non_striker: UT Khawaja
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 7.4:
+        non_striker: C Munro
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 7.5:
+        non_striker: C Munro
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 7.6:
+        non_striker: C Munro
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 8.1:
+        non_striker: C Munro
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 8.2:
+        non_striker: C Munro
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 8.3:
+        non_striker: C Munro
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 8.4:
+        non_striker: UT Khawaja
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 8.5:
+        non_striker: UT Khawaja
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 8.6:
+        non_striker: C Munro
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 9.1:
+        non_striker: UT Khawaja
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 9.2:
+        non_striker: C Munro
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 9.3:
+        non_striker: C Munro
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 9.4:
+        non_striker: UT Khawaja
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 9.5:
+        non_striker: UT Khawaja
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          kind: bowled
+    - 9.6:
+        non_striker: UT Khawaja
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 10.1:
+        non_striker: UT Khawaja
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 10.2:
+        non_striker: Asif Ali
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 10.3:
+        non_striker: UT Khawaja
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asif Ali
+    - 10.4:
+        non_striker: UT Khawaja
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Ali
+    - 10.5:
+        non_striker: UT Khawaja
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 10.6:
+        non_striker: UT Khawaja
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Ali
+    - 11.1:
+        non_striker: Asif Ali
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 11.2:
+        non_striker: Asif Ali
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 11.3:
+        non_striker: UT Khawaja
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 11.4:
+        non_striker: UT Khawaja
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asif Ali
+    - 11.5:
+        non_striker: UT Khawaja
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 11.6:
+        non_striker: Asif Ali
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 12.1:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Ali
+    - 12.2:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Ali
+    - 12.3:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asif Ali
+    - 12.4:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Ali
+    - 12.5:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+        wicket:
+          player_out: Asif Ali
+          fielders:
+          - Hazratullah
+          kind: caught
+    - 12.6:
+        non_striker: BA King
+        bowler: Sameen Gul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: UT Khawaja
+    - 12.7:
+        non_striker: BA King
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 13.1:
+        non_striker: BA King
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 13.2:
+        non_striker: BA King
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 13.3:
+        non_striker: UT Khawaja
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 13.4:
+        non_striker: BA King
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 13.5:
+        non_striker: UT Khawaja
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BA King
+    - 13.6:
+        non_striker: BA King
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 14.1:
+        non_striker: BA King
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 14.2:
+        non_striker: UT Khawaja
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 14.3:
+        non_striker: UT Khawaja
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 14.4:
+        non_striker: UT Khawaja
+        bowler: Wahab Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA King
+    - 14.5:
+        non_striker: UT Khawaja
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 14.6:
+        non_striker: UT Khawaja
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 14.7:
+        non_striker: UT Khawaja
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 15.1:
+        non_striker: BA King
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: UT Khawaja
+    - 15.2:
+        non_striker: BA King
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 15.3:
+        non_striker: UT Khawaja
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 15.4:
+        non_striker: UT Khawaja
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 15.5:
+        non_striker: UT Khawaja
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA King
+    - 15.6:
+        non_striker: UT Khawaja
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA King
+    - 16.1:
+        non_striker: BA King
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 16.2:
+        non_striker: BA King
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 16.3:
+        non_striker: BA King
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 16.4:
+        non_striker: BA King
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 16.5:
+        non_striker: BA King
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 16.6:
+        non_striker: BA King
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 17.1:
+        non_striker: UT Khawaja
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA King
+    - 17.2:
+        non_striker: UT Khawaja
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 17.3:
+        non_striker: UT Khawaja
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 17.4:
+        non_striker: UT Khawaja
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 17.5:
+        non_striker: UT Khawaja
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA King
+    - 17.6:
+        non_striker: UT Khawaja
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 18.1:
+        non_striker: BA King
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 18.2:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 18.3:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 18.4:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 18.5:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA King
+    - 18.6:
+        non_striker: UT Khawaja
+        bowler: Sameen Gul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 19.1:
+        non_striker: BA King
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 19.2:
+        non_striker: BA King
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: UT Khawaja
+    - 19.3:
+        non_striker: BA King
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: UT Khawaja
+    - 19.4:
+        non_striker: BA King
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 19.5:
+        non_striker: BA King
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 19.6:
+        non_striker: BA King
+        bowler: Umaid Asif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+- 2nd innings:
+    team: Peshawar Zalmi
+    deliveries:
+    - 0.1:
+        non_striker: Kamran Akmal
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+        wicket:
+          player_out: Hazratullah
+          fielders:
+          - Hasan Ali
+          kind: caught
+    - 0.2:
+        non_striker: Imam-ul-Haq
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kamran Akmal
+    - 0.3:
+        non_striker: Imam-ul-Haq
+        bowler: Akif Javed
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Kamran Akmal
+    - 0.4:
+        non_striker: Imam-ul-Haq
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 0.5:
+        non_striker: Imam-ul-Haq
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kamran Akmal
+    - 0.6:
+        non_striker: Imam-ul-Haq
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 1.1:
+        non_striker: Imam-ul-Haq
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 1.2:
+        non_striker: Kamran Akmal
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imam-ul-Haq
+    - 1.3:
+        non_striker: Kamran Akmal
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imam-ul-Haq
+    - 1.4:
+        non_striker: Kamran Akmal
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 1.5:
+        non_striker: Imam-ul-Haq
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 1.6:
+        non_striker: Imam-ul-Haq
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 2.1:
+        non_striker: Imam-ul-Haq
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 2.2:
+        non_striker: Kamran Akmal
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imam-ul-Haq
+    - 2.3:
+        non_striker: Kamran Akmal
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imam-ul-Haq
+    - 2.4:
+        non_striker: Kamran Akmal
+        bowler: Zafar Gohar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imam-ul-Haq
+    - 2.5:
+        non_striker: Kamran Akmal
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 2.6:
+        non_striker: Imam-ul-Haq
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kamran Akmal
+    - 2.7:
+        non_striker: Imam-ul-Haq
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 3.1:
+        non_striker: Kamran Akmal
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imam-ul-Haq
+    - 3.2:
+        non_striker: Imam-ul-Haq
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 3.3:
+        non_striker: Imam-ul-Haq
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 3.4:
+        non_striker: Imam-ul-Haq
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 3.5:
+        non_striker: Imam-ul-Haq
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+    - 3.6:
+        non_striker: Imam-ul-Haq
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 4.1:
+        non_striker: Imam-ul-Haq
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kamran Akmal
+    - 4.2:
+        non_striker: Imam-ul-Haq
+        bowler: Akif Javed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kamran Akmal
+    - 4.3:
+        non_striker: Imam-ul-Haq
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 4.4:
+        non_striker: Kamran Akmal
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imam-ul-Haq
+        wicket:
+          player_out: Imam-ul-Haq
+          fielders:
+          - Hasan Ali
+          kind: caught
+    - 4.5:
+        non_striker: Shoaib Malik
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kamran Akmal
+    - 4.6:
+        non_striker: Shoaib Malik
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kamran Akmal
+    - 4.7:
+        non_striker: Shoaib Malik
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 5.1:
+        non_striker: Shoaib Malik
+        bowler: Fawad Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kamran Akmal
+    - 5.2:
+        non_striker: Shoaib Malik
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 5.3:
+        non_striker: Kamran Akmal
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 5.4:
+        non_striker: Shoaib Malik
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 5.5:
+        non_striker: Kamran Akmal
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Malik
+    - 5.6:
+        non_striker: Kamran Akmal
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 5.7:
+        non_striker: Kamran Akmal
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 6.1:
+        non_striker: Kamran Akmal
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 6.2:
+        non_striker: Shoaib Malik
+        bowler: Hussain Talat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Kamran Akmal
+    - 6.3:
+        non_striker: Kamran Akmal
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 6.4:
+        non_striker: Kamran Akmal
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Malik
+    - 6.5:
+        non_striker: Kamran Akmal
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 6.6:
+        non_striker: Shoaib Malik
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 7.1:
+        non_striker: Shoaib Malik
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kamran Akmal
+    - 7.2:
+        non_striker: Shoaib Malik
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 7.3:
+        non_striker: Kamran Akmal
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 7.4:
+        non_striker: Shoaib Malik
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kamran Akmal
+    - 7.5:
+        non_striker: Shoaib Malik
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 7.6:
+        non_striker: Kamran Akmal
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 8.1:
+        non_striker: Kamran Akmal
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 8.2:
+        non_striker: Shoaib Malik
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kamran Akmal
+    - 8.3:
+        non_striker: Shoaib Malik
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Akmal
+    - 8.4:
+        non_striker: Kamran Akmal
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Malik
+    - 8.5:
+        non_striker: Kamran Akmal
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 8.6:
+        non_striker: Shoaib Malik
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Akmal
+        wicket:
+          player_out: Kamran Akmal
+          fielders:
+          - Iftikhar Ahmed
+          kind: caught
+    - 9.1:
+        non_striker: R Powell
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Malik
+    - 9.2:
+        non_striker: R Powell
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 9.3:
+        non_striker: Shoaib Malik
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 9.4:
+        non_striker: Shoaib Malik
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 9.5:
+        non_striker: Shoaib Malik
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 9.6:
+        non_striker: Shoaib Malik
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 10.1:
+        non_striker: R Powell
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 10.2:
+        non_striker: Shoaib Malik
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 10.3:
+        non_striker: Shoaib Malik
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 10.4:
+        non_striker: Shoaib Malik
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 10.5:
+        non_striker: Shoaib Malik
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 10.6:
+        non_striker: R Powell
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Malik
+    - 11.1:
+        non_striker: Shoaib Malik
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 11.2:
+        non_striker: R Powell
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Malik
+    - 11.3:
+        non_striker: R Powell
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Malik
+    - 11.4:
+        non_striker: R Powell
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Malik
+    - 11.5:
+        non_striker: R Powell
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Malik
+    - 11.6:
+        non_striker: R Powell
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 12.1:
+        non_striker: R Powell
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 12.2:
+        non_striker: Shoaib Malik
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 12.3:
+        non_striker: Shoaib Malik
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          fielders:
+          - Muhammad Akhlaq
+          kind: caught
+    - 12.4:
+        non_striker: SE Rutherford
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 12.5:
+        non_striker: Shoaib Malik
+        bowler: Akif Javed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SE Rutherford
+    - 12.6:
+        non_striker: Shoaib Malik
+        bowler: Akif Javed
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SE Rutherford
+    - 12.7:
+        non_striker: SE Rutherford
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 12.8:
+        non_striker: Shoaib Malik
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 13.1:
+        non_striker: SE Rutherford
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Malik
+    - 13.2:
+        non_striker: SE Rutherford
+        bowler: Zafar Gohar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shoaib Malik
+    - 13.3:
+        non_striker: SE Rutherford
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 13.4:
+        non_striker: Shoaib Malik
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 13.5:
+        non_striker: Shoaib Malik
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 13.6:
+        non_striker: Shoaib Malik
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 13.7:
+        non_striker: Shoaib Malik
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 14.1:
+        non_striker: SE Rutherford
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Malik
+    - 14.2:
+        non_striker: SE Rutherford
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 14.3:
+        non_striker: Shoaib Malik
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 14.4:
+        non_striker: Shoaib Malik
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 14.5:
+        non_striker: SE Rutherford
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 14.6:
+        non_striker: Shoaib Malik
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          fielders:
+          - Muhammad Akhlaq
+          kind: caught
+    - 15.1:
+        non_striker: Wahab Riaz
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 15.2:
+        non_striker: Shoaib Malik
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 15.3:
+        non_striker: Wahab Riaz
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 15.4:
+        non_striker: Wahab Riaz
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Malik
+    - 15.5:
+        non_striker: Wahab Riaz
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Malik
+    - 15.6:
+        non_striker: Wahab Riaz
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 16.1:
+        non_striker: Shoaib Malik
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 16.2:
+        non_striker: Wahab Riaz
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+        wicket:
+          player_out: Shoaib Malik
+          kind: bowled
+    - 16.3:
+        non_striker: Wahab Riaz
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaid Asif
+    - 16.4:
+        non_striker: Umaid Asif
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wahab Riaz
+    - 16.5:
+        non_striker: Umaid Asif
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahab Riaz
+    - 16.6:
+        non_striker: Umaid Asif
+        bowler: Hussain Talat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 17.1:
+        non_striker: Umaid Asif
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Wahab Riaz
+    - 17.2:
+        non_striker: Umaid Asif
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 17.3:
+        non_striker: Wahab Riaz
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaid Asif
+    - 17.4:
+        non_striker: Umaid Asif
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 17.5:
+        non_striker: Wahab Riaz
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Umaid Asif
+    - 17.6:
+        non_striker: Wahab Riaz
+        bowler: Zafar Gohar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Umaid Asif
+    - 18.1:
+        non_striker: Umaid Asif
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 18.2:
+        non_striker: Wahab Riaz
+        bowler: Hasan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Umaid Asif
+    - 18.3:
+        non_striker: Umaid Asif
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Wahab Riaz
+    - 18.4:
+        non_striker: Umaid Asif
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 18.5:
+        non_striker: Wahab Riaz
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Umaid Asif
+    - 18.6:
+        non_striker: Wahab Riaz
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Umaid Asif
+    - 19.1:
+        non_striker: Umaid Asif
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wahab Riaz
+    - 19.2:
+        non_striker: Umaid Asif
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 19.3:
+        non_striker: Wahab Riaz
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaid Asif
+    - 19.4:
+        non_striker: Umaid Asif
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 19.5:
+        non_striker: Wahab Riaz
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaid Asif
+    - 19.6:
+        non_striker: Umaid Asif
+        bowler: Akif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz

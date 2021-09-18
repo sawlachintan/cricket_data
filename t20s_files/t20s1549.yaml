@@ -1,0 +1,568 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-07-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bridgetown
+  dates:
+  - '2021-07-28'
+  gender: male
+  match_type: T20
+  match_type_number: 1205
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    West Indies:
+    - LMP Simmons
+    - E Lewis
+    - CH Gayle
+    - N Pooran
+    - AD Russell
+    - KA Pollard
+    - SO Hetmyer
+    - JO Holder
+    - DJ Bravo
+    - HR Walsh
+    - AJ Hosein
+    Pakistan:
+    - Sharjeel Khan
+    - Mohammad Rizwan
+    - Babar Azam
+    - Mohammad Hafeez
+    - Fakhar Zaman
+    - Azam Khan
+    - Shadab Khan
+    - Hasan Ali
+    - Mohammad Wasim
+    - Shaheen Shah Afridi
+    - Usman Qadir
+  registry:
+    people:
+      AD Russell: bbd41817
+      AJ Hosein: 4d7f517e
+      Azam Khan: ee8f1a6d
+      Babar Azam: 8a75e999
+      CH Gayle: db584dad
+      DJ Bravo: 87e562a9
+      E Lewis: 0ebfb1ad
+      Fakhar Zaman: 1777c020
+      GO Brathwaite: 1ace56d4
+      HR Walsh: 1ac2a995
+      Hasan Ali: 2911de16
+      JO Holder: 0f721006
+      KA Pollard: a757b0d8
+      LMP Simmons: 89f64c19
+      LS Reifer: 5dee559a
+      Mohammad Hafeez: 9ab63e7b
+      Mohammad Rizwan: 2f26ac1a
+      Mohammad Wasim: 9e9af5f2
+      N Duguid: '64495506'
+      N Pooran: 3241e3fd
+      PA Gustard: 25bcf808
+      RB Richardson: 410e2f12
+      SO Hetmyer: 48a1d7b7
+      Shadab Khan: 9de62878
+      Shaheen Shah Afridi: 45a7e761
+      Sharjeel Khan: 193ef196
+      Usman Qadir: 33742f04
+  teams:
+  - West Indies
+  - Pakistan
+  toss:
+    decision: field
+    winner: Pakistan
+  umpires:
+  - GO Brathwaite
+  - N Duguid
+  venue: Kensington Oval, Bridgetown, Barbados
+innings:
+- 1st innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: E Lewis
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 0.2:
+        non_striker: E Lewis
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 0.3:
+        non_striker: LMP Simmons
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 0.4:
+        non_striker: E Lewis
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 0.5:
+        non_striker: E Lewis
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LMP Simmons
+    - 0.6:
+        non_striker: E Lewis
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LMP Simmons
+    - 0.7:
+        non_striker: E Lewis
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 1.1:
+        non_striker: LMP Simmons
+        bowler: Mohammad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Lewis
+    - 1.2:
+        non_striker: LMP Simmons
+        bowler: Mohammad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 1.3:
+        non_striker: LMP Simmons
+        bowler: Mohammad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 1.4:
+        non_striker: E Lewis
+        bowler: Mohammad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LMP Simmons
+    - 1.5:
+        non_striker: E Lewis
+        bowler: Mohammad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+        wicket:
+          player_out: LMP Simmons
+          kind: retired hurt
+    - 1.6:
+        non_striker: E Lewis
+        bowler: Mohammad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 2.1:
+        non_striker: CH Gayle
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+        wicket:
+          player_out: E Lewis
+          fielders:
+          - Shaheen Shah Afridi
+          kind: caught
+    - 2.2:
+        non_striker: CH Gayle
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 2.3:
+        non_striker: CH Gayle
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 2.4:
+        non_striker: CH Gayle
+        bowler: Hasan Ali
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: N Pooran
+    - 2.5:
+        non_striker: CH Gayle
+        bowler: Hasan Ali
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: N Pooran
+    - 2.6:
+        non_striker: CH Gayle
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 3.1:
+        non_striker: CH Gayle
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 3.2:
+        non_striker: CH Gayle
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 3.3:
+        non_striker: CH Gayle
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 3.4:
+        non_striker: CH Gayle
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 3.5:
+        non_striker: CH Gayle
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 3.6:
+        non_striker: CH Gayle
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          fielders:
+          - Shadab Khan
+          kind: caught
+    - 4.1:
+        non_striker: AD Russell
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 4.2:
+        non_striker: AD Russell
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 4.3:
+        non_striker: CH Gayle
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 4.4:
+        non_striker: AD Russell
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 4.5:
+        non_striker: AD Russell
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 4.6:
+        non_striker: AD Russell
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CH Gayle
+    - 5.1:
+        non_striker: CH Gayle
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 5.2:
+        non_striker: CH Gayle
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 5.3:
+        non_striker: CH Gayle
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 5.4:
+        non_striker: CH Gayle
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 5.5:
+        non_striker: CH Gayle
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+        wicket:
+          player_out: AD Russell
+          fielders:
+          - Mohammad Rizwan
+          kind: caught
+    - 5.6:
+        non_striker: CH Gayle
+        bowler: Usman Qadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 6.1:
+        non_striker: KA Pollard
+        bowler: Mohammad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+        wicket:
+          player_out: CH Gayle
+          fielders:
+          - Hasan Ali
+          kind: caught
+    - 6.2:
+        non_striker: KA Pollard
+        bowler: Mohammad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 6.3:
+        non_striker: SO Hetmyer
+        bowler: Mohammad Wasim
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: KA Pollard
+    - 6.4:
+        non_striker: SO Hetmyer
+        bowler: Mohammad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 6.5:
+        non_striker: KA Pollard
+        bowler: Mohammad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 6.6:
+        non_striker: KA Pollard
+        bowler: Mohammad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 6.7:
+        non_striker: KA Pollard
+        bowler: Mohammad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 7.1:
+        non_striker: SO Hetmyer
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 7.2:
+        non_striker: SO Hetmyer
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 7.3:
+        non_striker: SO Hetmyer
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 7.4:
+        non_striker: KA Pollard
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - Mohammad Rizwan
+          kind: caught
+    - 7.5:
+        non_striker: KA Pollard
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 7.6:
+        non_striker: KA Pollard
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 8.1:
+        non_striker: KA Pollard
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 8.2:
+        non_striker: KA Pollard
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 8.3:
+        non_striker: JO Holder
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 8.4:
+        non_striker: JO Holder
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 8.5:
+        non_striker: JO Holder
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 8.6:
+        non_striker: JO Holder
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard

@@ -1,0 +1,2207 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-04-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Delhi
+  competition: IPL
+  dates:
+  - '2018-04-23'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Kings XI Punjab
+    by:
+      runs: 4
+  overs: 20
+  player_of_match:
+  - AS Rajpoot
+  players:
+    Kings XI Punjab:
+    - KL Rahul
+    - AJ Finch
+    - MA Agarwal
+    - KK Nair
+    - Yuvraj Singh
+    - DA Miller
+    - R Ashwin
+    - AJ Tye
+    - BB Sran
+    - AS Rajpoot
+    - Mujeeb Ur Rahman
+    Delhi Daredevils:
+    - PP Shaw
+    - G Gambhir
+    - GJ Maxwell
+    - SS Iyer
+    - RR Pant
+    - DT Christian
+    - R Tewatia
+    - LE Plunkett
+    - A Mishra
+    - Avesh Khan
+    - TA Boult
+  registry:
+    people:
+      A Mishra: 6b19d823
+      A Nand Kishore: 84424f4f
+      AJ Finch: b8d490fd
+      AJ Tye: 7c7d63a2
+      AS Rajpoot: db31895a
+      Avesh Khan: eef2536f
+      BB Sran: d8b2f218
+      CB Gaffaney: d5ac41d8
+      CK Nandan: 012de9c4
+      DA Miller: d67d5f00
+      DT Christian: 2a2e6343
+      G Gambhir: bb345e0b
+      GJ Maxwell: b681e71e
+      GR Sadashiv Iyer: 0be62e31
+      KK Nair: 944533a5
+      KL Rahul: b17e2f24
+      LE Plunkett: 9a963804
+      MA Agarwal: 00ea847a
+      Mujeeb Ur Rahman: 7d92277a
+      PP Shaw: 8b3e9c7c
+      R Ashwin: 495d42a5
+      R Tewatia: 39a2dfa8
+      RB Richardson: 410e2f12
+      RR Pant: 919a3be2
+      SS Iyer: 85ec8e33
+      TA Boult: a818c1be
+      Yuvraj Singh: 1c914163
+  teams:
+  - Kings XI Punjab
+  - Delhi Daredevils
+  toss:
+    decision: field
+    winner: Delhi Daredevils
+  umpires:
+  - A Nand Kishore
+  - CK Nandan
+  venue: Arun Jaitley Stadium
+innings:
+- 1st innings:
+    team: Kings XI Punjab
+    deliveries:
+    - 0.1:
+        non_striker: AJ Finch
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 0.2:
+        non_striker: AJ Finch
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 0.3:
+        non_striker: KL Rahul
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AJ Finch
+    - 0.4:
+        non_striker: AJ Finch
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 0.5:
+        non_striker: KL Rahul
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Finch
+    - 0.6:
+        non_striker: KL Rahul
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 1.1:
+        non_striker: AJ Finch
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.2:
+        non_striker: AJ Finch
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 1.3:
+        non_striker: KL Rahul
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+        wicket:
+          player_out: AJ Finch
+          fielders:
+          - SS Iyer
+          kind: caught
+    - 1.4:
+        non_striker: KL Rahul
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 1.5:
+        non_striker: MA Agarwal
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.6:
+        non_striker: MA Agarwal
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 2.1:
+        non_striker: KL Rahul
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Agarwal
+    - 2.2:
+        non_striker: KL Rahul
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Agarwal
+    - 2.3:
+        non_striker: KL Rahul
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 2.4:
+        non_striker: MA Agarwal
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 2.5:
+        non_striker: MA Agarwal
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 2.6:
+        non_striker: KL Rahul
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 3.1:
+        non_striker: MA Agarwal
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 3.2:
+        non_striker: MA Agarwal
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 3.3:
+        non_striker: KL Rahul
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Agarwal
+    - 3.4:
+        non_striker: KL Rahul
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 3.5:
+        non_striker: MA Agarwal
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.6:
+        non_striker: MA Agarwal
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 4.1:
+        non_striker: KL Rahul
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 4.2:
+        non_striker: MA Agarwal
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 4.3:
+        non_striker: MA Agarwal
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+        wicket:
+          player_out: KL Rahul
+          fielders:
+          - Avesh Khan
+          kind: caught
+    - 4.4:
+        non_striker: MA Agarwal
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 4.5:
+        non_striker: KK Nair
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 4.6:
+        non_striker: KK Nair
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 5.1:
+        non_striker: MA Agarwal
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Nair
+    - 5.2:
+        non_striker: MA Agarwal
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 5.3:
+        non_striker: MA Agarwal
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 5.4:
+        non_striker: KK Nair
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 5.5:
+        non_striker: KK Nair
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Agarwal
+    - 5.6:
+        non_striker: KK Nair
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 6.1:
+        non_striker: KK Nair
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 6.2:
+        non_striker: MA Agarwal
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 6.3:
+        non_striker: MA Agarwal
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 6.4:
+        non_striker: KK Nair
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 6.5:
+        non_striker: MA Agarwal
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Nair
+    - 6.6:
+        non_striker: MA Agarwal
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 7.1:
+        non_striker: MA Agarwal
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 7.2:
+        non_striker: MA Agarwal
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 7.3:
+        non_striker: KK Nair
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+        wicket:
+          player_out: MA Agarwal
+          kind: bowled
+    - 7.4:
+        non_striker: KK Nair
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 7.5:
+        non_striker: Yuvraj Singh
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 7.6:
+        non_striker: Yuvraj Singh
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 8.1:
+        non_striker: KK Nair
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 8.2:
+        non_striker: KK Nair
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 8.3:
+        non_striker: KK Nair
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 8.4:
+        non_striker: KK Nair
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 8.5:
+        non_striker: Yuvraj Singh
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 8.6:
+        non_striker: Yuvraj Singh
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 9.1:
+        non_striker: Yuvraj Singh
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 9.2:
+        non_striker: Yuvraj Singh
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 9.3:
+        non_striker: KK Nair
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yuvraj Singh
+    - 9.4:
+        non_striker: KK Nair
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 9.5:
+        non_striker: KK Nair
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 9.6:
+        non_striker: Yuvraj Singh
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 10.1:
+        non_striker: Yuvraj Singh
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 10.2:
+        non_striker: KK Nair
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 10.3:
+        non_striker: Yuvraj Singh
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 10.4:
+        non_striker: KK Nair
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 10.5:
+        non_striker: Yuvraj Singh
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 10.6:
+        non_striker: Yuvraj Singh
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 11.1:
+        non_striker: KK Nair
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yuvraj Singh
+    - 11.2:
+        non_striker: KK Nair
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 11.3:
+        non_striker: KK Nair
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 11.4:
+        non_striker: KK Nair
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 11.5:
+        non_striker: Yuvraj Singh
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 11.6:
+        non_striker: KK Nair
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 12.1:
+        non_striker: Yuvraj Singh
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Nair
+    - 12.2:
+        non_striker: Yuvraj Singh
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 12.3:
+        non_striker: KK Nair
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yuvraj Singh
+    - 12.4:
+        non_striker: KK Nair
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+        wicket:
+          player_out: Yuvraj Singh
+          fielders:
+          - RR Pant
+          kind: caught
+    - 12.5:
+        non_striker: KK Nair
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 12.6:
+        non_striker: KK Nair
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 13.1:
+        non_striker: KK Nair
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 13.2:
+        non_striker: KK Nair
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 13.3:
+        non_striker: KK Nair
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 13.4:
+        non_striker: DA Miller
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 13.5:
+        non_striker: DA Miller
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KK Nair
+    - 13.6:
+        non_striker: DA Miller
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 14.1:
+        non_striker: DA Miller
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 14.2:
+        non_striker: KK Nair
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 14.3:
+        non_striker: KK Nair
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 14.4:
+        non_striker: DA Miller
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 14.5:
+        non_striker: KK Nair
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 14.6:
+        non_striker: KK Nair
+        bowler: R Tewatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 15.1:
+        non_striker: KK Nair
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 15.2:
+        non_striker: KK Nair
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 15.3:
+        non_striker: DA Miller
+        bowler: A Mishra
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: KK Nair
+    - 15.4:
+        non_striker: KK Nair
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 15.5:
+        non_striker: KK Nair
+        bowler: A Mishra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Miller
+    - 15.6:
+        non_striker: KK Nair
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 15.7:
+        non_striker: DA Miller
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Nair
+    - 15.8:
+        non_striker: DA Miller
+        bowler: A Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 16.1:
+        non_striker: DA Miller
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+        wicket:
+          player_out: KK Nair
+          fielders:
+          - SS Iyer
+          kind: caught
+    - 16.2:
+        non_striker: R Ashwin
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 16.3:
+        non_striker: DA Miller
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 16.4:
+        non_striker: R Ashwin
+        bowler: LE Plunkett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DA Miller
+    - 16.5:
+        non_striker: DA Miller
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 16.6:
+        non_striker: R Ashwin
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.1:
+        non_striker: R Ashwin
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 17.2:
+        non_striker: R Ashwin
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 17.3:
+        non_striker: R Ashwin
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+        wicket:
+          player_out: DA Miller
+          fielders:
+          - LE Plunkett
+          kind: caught
+    - 17.4:
+        non_striker: R Ashwin
+        bowler: DT Christian
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: AJ Tye
+    - 17.5:
+        non_striker: R Ashwin
+        bowler: DT Christian
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AJ Tye
+    - 17.6:
+        non_striker: AJ Tye
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 18.1:
+        non_striker: AJ Tye
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 18.2:
+        non_striker: R Ashwin
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+    - 18.3:
+        non_striker: R Ashwin
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Tye
+    - 18.4:
+        non_striker: AJ Tye
+        bowler: LE Plunkett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Ashwin
+    - 18.5:
+        non_striker: AJ Tye
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Ashwin
+    - 18.6:
+        non_striker: AJ Tye
+        bowler: LE Plunkett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: R Ashwin
+    - 18.7:
+        non_striker: R Ashwin
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+    - 19.1:
+        non_striker: AJ Tye
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Ashwin
+    - 19.2:
+        non_striker: AJ Tye
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+        wicket:
+          player_out: R Ashwin
+          fielders:
+          - R Tewatia
+          kind: caught
+    - 19.3:
+        non_striker: AJ Tye
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BB Sran
+    - 19.4:
+        non_striker: BB Sran
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+    - 19.5:
+        non_striker: BB Sran
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Tye
+    - 19.6:
+        non_striker: BB Sran
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+    - 19.7:
+        non_striker: BB Sran
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+        wicket:
+          player_out: AJ Tye
+          kind: bowled
+- 2nd innings:
+    team: Delhi Daredevils
+    deliveries:
+    - 0.1:
+        non_striker: G Gambhir
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+    - 0.2:
+        non_striker: G Gambhir
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+    - 0.3:
+        non_striker: G Gambhir
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PP Shaw
+    - 0.4:
+        non_striker: G Gambhir
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PP Shaw
+    - 0.5:
+        non_striker: PP Shaw
+        bowler: AS Rajpoot
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Gambhir
+    - 0.6:
+        non_striker: PP Shaw
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gambhir
+    - 0.7:
+        non_striker: PP Shaw
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gambhir
+    - 1.1:
+        non_striker: G Gambhir
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PP Shaw
+    - 1.2:
+        non_striker: G Gambhir
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PP Shaw
+    - 1.3:
+        non_striker: G Gambhir
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: PP Shaw
+    - 1.4:
+        non_striker: PP Shaw
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gambhir
+    - 1.5:
+        non_striker: G Gambhir
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PP Shaw
+    - 1.6:
+        non_striker: G Gambhir
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PP Shaw
+    - 2.1:
+        non_striker: PP Shaw
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gambhir
+    - 2.2:
+        non_striker: PP Shaw
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gambhir
+    - 2.3:
+        non_striker: G Gambhir
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Shaw
+        wicket:
+          player_out: PP Shaw
+          kind: bowled
+    - 2.4:
+        non_striker: G Gambhir
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 2.5:
+        non_striker: G Gambhir
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 2.6:
+        non_striker: G Gambhir
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 3.1:
+        non_striker: G Gambhir
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 3.2:
+        non_striker: GJ Maxwell
+        bowler: AJ Tye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Gambhir
+    - 3.3:
+        non_striker: GJ Maxwell
+        bowler: AJ Tye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: G Gambhir
+    - 3.4:
+        non_striker: G Gambhir
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 3.5:
+        non_striker: G Gambhir
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 3.6:
+        non_striker: G Gambhir
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 3.7:
+        non_striker: G Gambhir
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 4.1:
+        non_striker: GJ Maxwell
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gambhir
+    - 4.2:
+        non_striker: GJ Maxwell
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gambhir
+    - 4.3:
+        non_striker: GJ Maxwell
+        bowler: AS Rajpoot
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Gambhir
+    - 4.4:
+        non_striker: GJ Maxwell
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gambhir
+    - 4.5:
+        non_striker: G Gambhir
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 4.6:
+        non_striker: G Gambhir
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+        wicket:
+          player_out: GJ Maxwell
+          fielders:
+          - AJ Tye
+          kind: caught
+    - 4.7:
+        non_striker: SS Iyer
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gambhir
+    - 5.1:
+        non_striker: SS Iyer
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gambhir
+    - 5.2:
+        non_striker: SS Iyer
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gambhir
+    - 5.3:
+        non_striker: SS Iyer
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gambhir
+        wicket:
+          player_out: G Gambhir
+          fielders:
+          - AJ Finch
+          kind: caught
+    - 5.4:
+        non_striker: SS Iyer
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 5.5:
+        non_striker: SS Iyer
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 5.6:
+        non_striker: RR Pant
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: SS Iyer
+    - 6.1:
+        non_striker: RR Pant
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 6.2:
+        non_striker: RR Pant
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 6.3:
+        non_striker: RR Pant
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 6.4:
+        non_striker: RR Pant
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 6.5:
+        non_striker: RR Pant
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 6.6:
+        non_striker: RR Pant
+        bowler: AS Rajpoot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 7.1:
+        non_striker: SS Iyer
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 7.2:
+        non_striker: RR Pant
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 7.3:
+        non_striker: SS Iyer
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 7.4:
+        non_striker: SS Iyer
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 7.5:
+        non_striker: RR Pant
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 7.6:
+        non_striker: SS Iyer
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 8.1:
+        non_striker: SS Iyer
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+        wicket:
+          player_out: RR Pant
+          kind: bowled
+    - 8.2:
+        non_striker: SS Iyer
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 8.3:
+        non_striker: SS Iyer
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 8.4:
+        non_striker: SS Iyer
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 8.5:
+        non_striker: SS Iyer
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 8.6:
+        non_striker: DT Christian
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 9.1:
+        non_striker: DT Christian
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 9.2:
+        non_striker: SS Iyer
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 9.3:
+        non_striker: SS Iyer
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 9.4:
+        non_striker: DT Christian
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 9.5:
+        non_striker: DT Christian
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 9.6:
+        non_striker: DT Christian
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 10.1:
+        non_striker: SS Iyer
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 10.2:
+        non_striker: SS Iyer
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 10.3:
+        non_striker: DT Christian
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 10.4:
+        non_striker: DT Christian
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 10.5:
+        non_striker: DT Christian
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 10.6:
+        non_striker: SS Iyer
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 11.1:
+        non_striker: SS Iyer
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 11.2:
+        non_striker: DT Christian
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 11.3:
+        non_striker: DT Christian
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 11.4:
+        non_striker: SS Iyer
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 11.5:
+        non_striker: DT Christian
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 11.6:
+        non_striker: DT Christian
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+        wicket:
+          player_out: DT Christian
+          kind: run out
+    - 12.1:
+        non_striker: SS Iyer
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Tewatia
+    - 12.2:
+        non_striker: SS Iyer
+        bowler: BB Sran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Tewatia
+    - 12.3:
+        non_striker: SS Iyer
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+    - 12.4:
+        non_striker: SS Iyer
+        bowler: BB Sran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Tewatia
+    - 12.5:
+        non_striker: SS Iyer
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 12.6:
+        non_striker: R Tewatia
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 12.7:
+        non_striker: R Tewatia
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 12.8:
+        non_striker: R Tewatia
+        bowler: BB Sran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SS Iyer
+    - 12.9:
+        non_striker: R Tewatia
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 13.1:
+        non_striker: SS Iyer
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 13.2:
+        non_striker: R Tewatia
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 13.3:
+        non_striker: SS Iyer
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+    - 13.4:
+        non_striker: SS Iyer
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 13.5:
+        non_striker: R Tewatia
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 13.6:
+        non_striker: R Tewatia
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 14.1:
+        non_striker: R Tewatia
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 14.2:
+        non_striker: SS Iyer
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+    - 14.3:
+        non_striker: SS Iyer
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+    - 14.4:
+        non_striker: SS Iyer
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 14.5:
+        non_striker: R Tewatia
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 14.6:
+        non_striker: R Tewatia
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 15.1:
+        non_striker: SS Iyer
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 15.2:
+        non_striker: R Tewatia
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 15.3:
+        non_striker: SS Iyer
+        bowler: AJ Tye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Tewatia
+    - 15.4:
+        non_striker: R Tewatia
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 15.5:
+        non_striker: SS Iyer
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+    - 15.6:
+        non_striker: SS Iyer
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 16.1:
+        non_striker: SS Iyer
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Tewatia
+    - 16.2:
+        non_striker: SS Iyer
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 16.3:
+        non_striker: R Tewatia
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 16.4:
+        non_striker: SS Iyer
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Tewatia
+    - 16.5:
+        non_striker: SS Iyer
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Tewatia
+    - 16.6:
+        non_striker: SS Iyer
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 17.1:
+        non_striker: SS Iyer
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 17.2:
+        non_striker: R Tewatia
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 17.3:
+        non_striker: SS Iyer
+        bowler: AJ Tye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Tewatia
+    - 17.4:
+        non_striker: SS Iyer
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 17.5:
+        non_striker: R Tewatia
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 17.6:
+        non_striker: R Tewatia
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 17.7:
+        non_striker: SS Iyer
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+        wicket:
+          player_out: R Tewatia
+          fielders:
+          - KL Rahul
+          kind: caught
+    - 18.1:
+        non_striker: LE Plunkett
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 18.2:
+        non_striker: SS Iyer
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LE Plunkett
+        wicket:
+          player_out: LE Plunkett
+          fielders:
+          - KK Nair
+          kind: caught
+    - 18.3:
+        non_striker: A Mishra
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 18.4:
+        non_striker: SS Iyer
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mishra
+    - 18.5:
+        non_striker: A Mishra
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 18.6:
+        non_striker: SS Iyer
+        bowler: BB Sran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mishra
+    - 19.1:
+        non_striker: A Mishra
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 19.2:
+        non_striker: A Mishra
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 19.3:
+        non_striker: A Mishra
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 19.4:
+        non_striker: A Mishra
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 19.5:
+        non_striker: A Mishra
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 19.6:
+        non_striker: A Mishra
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+        wicket:
+          player_out: SS Iyer
+          fielders:
+          - AJ Finch
+          kind: caught

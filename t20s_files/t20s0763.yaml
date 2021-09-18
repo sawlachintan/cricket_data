@@ -1,0 +1,2005 @@
+---
+meta:
+  data_version: 0.91
+  created: '2020-07-06'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Mount Maunganui
+  dates:
+  - '2018-01-03'
+  gender: male
+  match_type: T20
+  match_type_number: 638
+  outcome:
+    winner: New Zealand
+    by:
+      runs: 119
+  overs: 20
+  player_of_match:
+  - C Munro
+  players:
+    New Zealand:
+    - MJ Guptill
+    - C Munro
+    - TC Bruce
+    - AK Kitchen
+    - KS Williamson
+    - GD Phillips
+    - MJ Santner
+    - DAJ Bracewell
+    - TG Southee
+    - IS Sodhi
+    - TA Boult
+    West Indies:
+    - CAK Walton
+    - CH Gayle
+    - ADS Fletcher
+    - R Powell
+    - SO Hetmyer
+    - CR Brathwaite
+    - AR Nurse
+    - RR Emrit
+    - JE Taylor
+    - S Badree
+    - SD Hope
+  registry:
+    people:
+      A Mehrotra: f336ff13
+      ADS Fletcher: 1bae756b
+      AJ Pycroft: 685d3f80
+      AK Kitchen: 63a1874a
+      AR Nurse: 4a745f65
+      C Munro: af2c687b
+      CAK Walton: bbff906c
+      CH Gayle: db584dad
+      CM Brown: 448f4f1c
+      CR Brathwaite: e342e5fb
+      DAJ Bracewell: 2e9fdf9b
+      GD Phillips: 9a46c4e5
+      IS Sodhi: 641ac5ff
+      JE Taylor: 4180d897
+      KS Williamson: d027ba9f
+      MJ Guptill: 2be41edb
+      MJ Santner: e4a0deae
+      R Powell: 650d5e49
+      RR Emrit: e7de4f6b
+      S Badree: 76388dc8
+      SB Haig: 811655b3
+      SD Hope: 1fc6ef83
+      SO Hetmyer: 48a1d7b7
+      TA Boult: a818c1be
+      TC Bruce: f92c9151
+      TG Southee: 13c35c9e
+      WR Knights: 63cbf8d8
+  teams:
+  - New Zealand
+  - West Indies
+  toss:
+    decision: bat
+    winner: New Zealand
+  umpires:
+  - SB Haig
+  - WR Knights
+  venue: Bay Oval
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: C Munro
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 0.2:
+        non_striker: C Munro
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 0.3:
+        non_striker: C Munro
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 0.4:
+        non_striker: MJ Guptill
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 0.5:
+        non_striker: MJ Guptill
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 0.6:
+        non_striker: C Munro
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 1.1:
+        non_striker: MJ Guptill
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 1.2:
+        non_striker: MJ Guptill
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 1.3:
+        non_striker: MJ Guptill
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 1.4:
+        non_striker: C Munro
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 1.5:
+        non_striker: MJ Guptill
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 1.6:
+        non_striker: C Munro
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 2.1:
+        non_striker: C Munro
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 2.2:
+        non_striker: MJ Guptill
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 2.3:
+        non_striker: C Munro
+        bowler: JE Taylor
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: MJ Guptill
+    - 2.4:
+        non_striker: MJ Guptill
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 2.5:
+        non_striker: C Munro
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 2.6:
+        non_striker: MJ Guptill
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 2.7:
+        non_striker: MJ Guptill
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 3.1:
+        non_striker: C Munro
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 3.2:
+        non_striker: C Munro
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 3.3:
+        non_striker: C Munro
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 3.4:
+        non_striker: C Munro
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 3.5:
+        non_striker: C Munro
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 3.6:
+        non_striker: C Munro
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 4.1:
+        non_striker: MJ Guptill
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 4.2:
+        non_striker: MJ Guptill
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 4.3:
+        non_striker: MJ Guptill
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 4.4:
+        non_striker: MJ Guptill
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 4.5:
+        non_striker: C Munro
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 4.6:
+        non_striker: MJ Guptill
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 5.1:
+        non_striker: C Munro
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 5.2:
+        non_striker: C Munro
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 5.3:
+        non_striker: MJ Guptill
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 5.4:
+        non_striker: MJ Guptill
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 5.5:
+        non_striker: C Munro
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 5.6:
+        non_striker: MJ Guptill
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 6.1:
+        non_striker: C Munro
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 6.2:
+        non_striker: MJ Guptill
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 6.3:
+        non_striker: MJ Guptill
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 6.4:
+        non_striker: C Munro
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 6.5:
+        non_striker: MJ Guptill
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 6.6:
+        non_striker: MJ Guptill
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 7.1:
+        non_striker: MJ Guptill
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 7.2:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 7.3:
+        non_striker: MJ Guptill
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 7.4:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 7.5:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 7.6:
+        non_striker: MJ Guptill
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 8.1:
+        non_striker: MJ Guptill
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 8.2:
+        non_striker: MJ Guptill
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 8.3:
+        non_striker: MJ Guptill
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 8.4:
+        non_striker: C Munro
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 8.5:
+        non_striker: MJ Guptill
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 8.6:
+        non_striker: C Munro
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 9.1:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 9.2:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 9.3:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Guptill
+    - 9.4:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: MJ Guptill
+    - 9.5:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 9.6:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 9.7:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 9.8:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 10.1:
+        non_striker: MJ Guptill
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 10.2:
+        non_striker: C Munro
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 10.3:
+        non_striker: C Munro
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 10.4:
+        non_striker: MJ Guptill
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 10.5:
+        non_striker: MJ Guptill
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 10.6:
+        non_striker: C Munro
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 11.1:
+        non_striker: C Munro
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 11.2:
+        non_striker: C Munro
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 11.3:
+        non_striker: C Munro
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+        wicket:
+          player_out: MJ Guptill
+          fielders:
+          - CAK Walton
+          kind: caught
+    - 11.4:
+        non_striker: C Munro
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 11.5:
+        non_striker: TC Bruce
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 11.6:
+        non_striker: TC Bruce
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 12.1:
+        non_striker: C Munro
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 12.2:
+        non_striker: C Munro
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Bruce
+    - 12.3:
+        non_striker: C Munro
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TC Bruce
+    - 12.4:
+        non_striker: C Munro
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 12.5:
+        non_striker: TC Bruce
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 12.6:
+        non_striker: TC Bruce
+        bowler: S Badree
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Munro
+    - 12.7:
+        non_striker: TC Bruce
+        bowler: S Badree
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 13.1:
+        non_striker: C Munro
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 13.2:
+        non_striker: C Munro
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TC Bruce
+    - 13.3:
+        non_striker: C Munro
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 13.4:
+        non_striker: TC Bruce
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 13.5:
+        non_striker: C Munro
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 13.6:
+        non_striker: TC Bruce
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 14.1:
+        non_striker: TC Bruce
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 14.2:
+        non_striker: TC Bruce
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 14.3:
+        non_striker: TC Bruce
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 14.4:
+        non_striker: TC Bruce
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 14.5:
+        non_striker: C Munro
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 14.6:
+        non_striker: TC Bruce
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 15.1:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 15.2:
+        non_striker: TC Bruce
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 15.3:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Bruce
+    - 15.4:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 15.5:
+        non_striker: TC Bruce
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 15.6:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+        wicket:
+          player_out: TC Bruce
+          kind: bowled
+    - 16.1:
+        non_striker: AK Kitchen
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 16.2:
+        non_striker: AK Kitchen
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 16.3:
+        non_striker: C Munro
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Kitchen
+    - 16.4:
+        non_striker: C Munro
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Kitchen
+    - 16.5:
+        non_striker: C Munro
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 16.6:
+        non_striker: AK Kitchen
+        bowler: AR Nurse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 17.1:
+        non_striker: AK Kitchen
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: AK Kitchen
+          kind: run out
+    - 17.2:
+        non_striker: KS Williamson
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 17.3:
+        non_striker: C Munro
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 17.4:
+        non_striker: KS Williamson
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 17.5:
+        non_striker: C Munro
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 17.6:
+        non_striker: C Munro
+        bowler: RR Emrit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 18.1:
+        non_striker: KS Williamson
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 18.2:
+        non_striker: C Munro
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 18.3:
+        non_striker: C Munro
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Williamson
+    - 18.4:
+        non_striker: C Munro
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 18.5:
+        non_striker: C Munro
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 18.6:
+        non_striker: C Munro
+        bowler: JE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+        wicket:
+          player_out: KS Williamson
+          kind: bowled
+    - 19.1:
+        non_striker: GD Phillips
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          fielders:
+          - SO Hetmyer
+          kind: caught
+    - 19.2:
+        non_striker: MJ Santner
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 19.3:
+        non_striker: MJ Santner
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 19.4:
+        non_striker: MJ Santner
+        bowler: CR Brathwaite
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: GD Phillips
+    - 19.5:
+        non_striker: MJ Santner
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 19.6:
+        non_striker: GD Phillips
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Santner
+- 2nd innings:
+    team: West Indies
+    absent_hurt:
+    - SD Hope
+    deliveries:
+    - 0.1:
+        non_striker: CH Gayle
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+        wicket:
+          player_out: CAK Walton
+          fielders:
+          - C Munro
+          kind: caught
+    - 0.2:
+        non_striker: CH Gayle
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.3:
+        non_striker: CH Gayle
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 0.4:
+        non_striker: ADS Fletcher
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 0.5:
+        non_striker: ADS Fletcher
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+        wicket:
+          player_out: CH Gayle
+          fielders:
+          - GD Phillips
+          kind: caught
+    - 0.6:
+        non_striker: ADS Fletcher
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 1.1:
+        non_striker: R Powell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 1.2:
+        non_striker: R Powell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 1.3:
+        non_striker: R Powell
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ADS Fletcher
+    - 1.4:
+        non_striker: R Powell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 1.5:
+        non_striker: R Powell
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: ADS Fletcher
+    - 1.6:
+        non_striker: ADS Fletcher
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Powell
+    - 1.7:
+        non_striker: ADS Fletcher
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 1.8:
+        non_striker: ADS Fletcher
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 1.9:
+        non_striker: ADS Fletcher
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 1.10:
+        non_striker: ADS Fletcher
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 2.1:
+        non_striker: R Powell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.2:
+        non_striker: R Powell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 2.3:
+        non_striker: R Powell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 2.4:
+        non_striker: R Powell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 2.5:
+        non_striker: R Powell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 2.6:
+        non_striker: ADS Fletcher
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 3.1:
+        non_striker: R Powell
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 3.2:
+        non_striker: R Powell
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 3.3:
+        non_striker: R Powell
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 3.4:
+        non_striker: ADS Fletcher
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 3.5:
+        non_striker: ADS Fletcher
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          fielders:
+          - KS Williamson
+          kind: caught
+    - 3.6:
+        non_striker: SO Hetmyer
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.1:
+        non_striker: ADS Fletcher
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 4.2:
+        non_striker: ADS Fletcher
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 4.3:
+        non_striker: ADS Fletcher
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 4.4:
+        non_striker: SO Hetmyer
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.5:
+        non_striker: SO Hetmyer
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+        wicket:
+          player_out: SO Hetmyer
+          kind: run out
+    - 4.6:
+        non_striker: ADS Fletcher
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Brathwaite
+    - 5.1:
+        non_striker: CR Brathwaite
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 5.2:
+        non_striker: CR Brathwaite
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 5.3:
+        non_striker: CR Brathwaite
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 5.4:
+        non_striker: CR Brathwaite
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 5.5:
+        non_striker: CR Brathwaite
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 5.6:
+        non_striker: CR Brathwaite
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 6.1:
+        non_striker: ADS Fletcher
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 6.2:
+        non_striker: CR Brathwaite
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 6.3:
+        non_striker: CR Brathwaite
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 6.4:
+        non_striker: CR Brathwaite
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 6.5:
+        non_striker: CR Brathwaite
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 6.6:
+        non_striker: ADS Fletcher
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+    - 7.1:
+        non_striker: CR Brathwaite
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 7.2:
+        non_striker: CR Brathwaite
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 7.3:
+        non_striker: ADS Fletcher
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 7.4:
+        non_striker: CR Brathwaite
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 7.5:
+        non_striker: ADS Fletcher
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 7.6:
+        non_striker: CR Brathwaite
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 8.1:
+        non_striker: CR Brathwaite
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+        wicket:
+          player_out: ADS Fletcher
+          kind: bowled
+    - 8.2:
+        non_striker: CR Brathwaite
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Nurse
+    - 8.3:
+        non_striker: AR Nurse
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CR Brathwaite
+    - 8.4:
+        non_striker: AR Nurse
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+    - 8.5:
+        non_striker: AR Nurse
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+    - 8.6:
+        non_striker: AR Nurse
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+    - 9.1:
+        non_striker: CR Brathwaite
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Nurse
+    - 9.2:
+        non_striker: CR Brathwaite
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Nurse
+    - 9.3:
+        non_striker: CR Brathwaite
+        bowler: AK Kitchen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Nurse
+    - 9.4:
+        non_striker: CR Brathwaite
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Nurse
+    - 9.5:
+        non_striker: CR Brathwaite
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Nurse
+    - 9.6:
+        non_striker: AR Nurse
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+    - 9.7:
+        non_striker: AR Nurse
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 10.1:
+        non_striker: AR Nurse
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 10.2:
+        non_striker: CR Brathwaite
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Nurse
+    - 10.3:
+        non_striker: AR Nurse
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+    - 10.4:
+        non_striker: AR Nurse
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+        wicket:
+          player_out: CR Brathwaite
+          fielders:
+          - TC Bruce
+          kind: caught
+    - 10.5:
+        non_striker: AR Nurse
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Emrit
+    - 10.6:
+        non_striker: RR Emrit
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Nurse
+    - 10.7:
+        non_striker: RR Emrit
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Nurse
+    - 11.1:
+        non_striker: AR Nurse
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Emrit
+    - 11.2:
+        non_striker: AR Nurse
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Emrit
+    - 11.3:
+        non_striker: RR Emrit
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Nurse
+    - 11.4:
+        non_striker: RR Emrit
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Nurse
+    - 11.5:
+        non_striker: AR Nurse
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Emrit
+    - 11.6:
+        non_striker: AR Nurse
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Emrit
+    - 12.1:
+        non_striker: AR Nurse
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Emrit
+        wicket:
+          player_out: RR Emrit
+          kind: lbw
+    - 12.2:
+        non_striker: AR Nurse
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JE Taylor
+    - 12.3:
+        non_striker: AR Nurse
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Taylor
+    - 12.4:
+        non_striker: JE Taylor
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Nurse
+    - 12.5:
+        non_striker: JE Taylor
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Nurse
+    - 12.6:
+        non_striker: AR Nurse
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JE Taylor
+    - 13.1:
+        non_striker: JE Taylor
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Nurse
+    - 13.2:
+        non_striker: JE Taylor
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Nurse
+    - 13.3:
+        non_striker: JE Taylor
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Nurse
+    - 13.4:
+        non_striker: JE Taylor
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Nurse
+    - 13.5:
+        non_striker: AR Nurse
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Taylor
+        wicket:
+          player_out: JE Taylor
+          fielders:
+          - MJ Santner
+          kind: caught
+    - 13.6:
+        non_striker: S Badree
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Nurse
+    - 14.1:
+        non_striker: AR Nurse
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Badree
+    - 14.2:
+        non_striker: AR Nurse
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Badree
+    - 14.3:
+        non_striker: AR Nurse
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Badree
+    - 14.4:
+        non_striker: S Badree
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Nurse
+    - 14.5:
+        non_striker: S Badree
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Nurse
+    - 14.6:
+        non_striker: S Badree
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Nurse
+    - 15.1:
+        non_striker: S Badree
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Nurse
+    - 15.2:
+        non_striker: S Badree
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Nurse
+    - 15.3:
+        non_striker: S Badree
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Nurse
+    - 15.4:
+        non_striker: AR Nurse
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Badree
+    - 15.5:
+        non_striker: S Badree
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Nurse
+    - 15.6:
+        non_striker: AR Nurse
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Badree
+    - 16.1:
+        non_striker: S Badree
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Nurse
+    - 16.2:
+        non_striker: S Badree
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Nurse
+    - 16.3:
+        non_striker: AR Nurse
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Badree
+        wicket:
+          player_out: S Badree
+          fielders:
+          - TC Bruce
+          kind: caught
