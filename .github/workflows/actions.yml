@@ -3,7 +3,7 @@ name: Run Scaper and Data to process new data
 on:
   schedule:
   # Runs at 00:00 and 12:00 UTC every day.
-    - cron: '*/7 * * * *'
+    - cron: '0 */12 * * *'
 
 jobs:
   build:
