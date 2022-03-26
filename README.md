@@ -21,11 +21,21 @@ The 11 files are: <br>
 
 ### Game types available <br>
 
-| Game Type             | Abbreviation | Link                     |
-| --------------------- | ------------ | ------------------------ |
-| Indian Premier League | IPL          | [IPL Data](./ipl_data)   |
-| Pakistan Super League | PSL          | [PSL Data](./psl_data)   |
-| T20 Internationals    | t20s         | [T20I Data](./t20s_data) |
+| Game Type                    | Abbreviation | Link                     |
+| ---------------------------- | ------------ | ------------------------ |
+| Afghanistan Premier League   | apl          | [APL Data](./apl_data)   |
+| Big Bash League              | bbl          | [BBL Data](./bbl_data)   |
+| Bangladesh Premier League    | bpl          | [BPL Data](./bpl_data)   |
+| Caribbean Premier League     | cpl          | [CPL Data](./cpl_data)   |
+| Indian Premier League        | IPL          | [IPL Data](./ipl_data)   |
+| Lanka Premier League         | lpl          | [LPL Data](./lpl_data)   |
+| Mzansi Super League          | msl          | [MSL Data](./msl_data)   |
+| Natwest T20 Blast            | ntb          | [NTB Data](./ntb_data)   |
+| Pakistan Super League        | PSL          | [PSL Data](./psl_data)   |
+| T20 Internationals           | t20s         | [T20I Data](./t20s_data) |
+| Women's Big Bash             | wbb          | [WBB Data](./wbb_data)   |
+| Women's Cricket Super League | wsl          | [WSL Data](./wsl_data)   |
+| Women's T20 Challenge        | wtc          | [WTC Data](./wtc_data)   |
 
 ### How to use the API to fetch data
 
@@ -112,4 +122,4 @@ For any issues with the files, raise an issue in the repo.
 | extras_type       | string | name of the way in which the extra runs were rewarded |
 | extras_run        | int    | runs rewarded from the type of extras                 |
 | over              | int    | over number of the innings                            |
-| n_ball              | int    | ball of the over                            |
+| n_ball            | int    | ball of the over                                      |
