@@ -3,7 +3,7 @@ name: Run Main to parse yaml as csv for all T20 Cricket data
 on:
   schedule:
   # Runs at 00:00 and 12:00 UTC every day.
-    - cron: '0/10 * * * *'
+    - cron: '0 0/12 * * *'
 
 jobs:
   build:
