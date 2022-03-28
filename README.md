@@ -50,12 +50,12 @@ For any issues with the files, raise an issue in the repo.
 
 **Meta**
 
-| Name     | Type   | Desc                                           |
-| -------- | ------ | ---------------------------------------------- |
-| Key_ID   | string | A common ID to relate info across dataframes   |
-| Version  | float  | version of the file from where data is fetched |
-| Created  | date   | date on which the file was created             |
-| Revision | float  | number of times the file was revised.          |
+| Name         | Type   | Desc                                           |
+| ------------ | ------ | ---------------------------------------------- |
+| key          | string | A common ID to relate info across dataframes   |
+| data_version | float  | version of the file from where data is fetched |
+| created      | date   | date on which the file was created             |
+| revision     | int    | number of times the file was revised.          |
 
 ---
 
@@ -63,56 +63,92 @@ For any issues with the files, raise an issue in the repo.
 
 | Name            | Type    | Desc                                             |
 | --------------- | ------- | ------------------------------------------------ |
-| Key_ID          | string  | A common ID to relate info across dataframes     |
-| City            | string  | name of the city where the match is played       |
-| Date            | date    | date of the match                                |
-| Player of Match | string  | name of the player of the match                  |
+| key             | string  | A common ID to relate info across dataframes     |
+| city            | string  | name of the city where the match is played       |
+| competition     | string  | name of the competition                          |
+| date            | date    | date of the match                                |
+| gender          | string  | gender of the players in the match               |
+| match_type      | string  | format of the game                               |
+| player_of_match | string  | name of the first player of the match            |
 | venue           | string  | name of the stadium where the match is held      |
-| Neutral Venue   | boolean | if the match is played at a neutral venue or not |
+| neutral_venue   | boolean | if the match is played at a neutral venue or not |
+
+---
+
+**Dates**
+
+| Name | Type   | Desc                                         |
+| ---- | ------ | -------------------------------------------- |
+| key  | string | A common ID to relate info across dataframes |
+| date | date   | dates of when the matches were held          |
+
+---
+
+**Player of Match**
+
+| Name            | Type   | Desc                                         |
+| --------------- | ------ | -------------------------------------------- |
+| key             | string | A common ID to relate info across dataframes |
+| player_of_match | string | name of the players of match                 |
+
+---
 
 **Umpires**
 
-| Name    | Type   | Desc                                         |
-| ------- | ------ | -------------------------------------------- |
-| Key_ID  | string | A common ID to relate info across dataframes |
-| Umpires | string | Names of the umpires for the match           |
+| Name   | Type   | Desc                                         |
+| ------ | ------ | -------------------------------------------- |
+| key    | string | A common ID to relate info across dataframes |
+| umpire | string | Names of the umpires for the match           |
+
+---
 
 **Outcome**
 
-| Name          | Type    | Desc                                         |
-| ------------- | ------- | -------------------------------------------- |
-| Key_ID        | string  | A common ID to relate info across dataframes |
-| Winner        | string  | name of the team who won the match           |
-| Result Type   | string  | how the winning team won - runs or wickets   |
-| Result Margin | int     | number by which the team won                 |
-| Eliminator    | boolean | if the match was an eliminator match or not  |
+| Name       | Type    | Desc                                                 |
+| ---------- | ------- | ---------------------------------------------------- |
+| key        | string  | A common ID to relate info across dataframes         |
+| by_innings | int     | number of innings the match was won by               |
+| by_type    | string  | how the winning team won - runs or wickets           |
+| by_margin  | string  | number by which the team won                         |
+| bowl_out   | string  | name of the team who won the bowl_out                |
+| eliminator | boolean | if the match was an eliminator match or not          |
+| method     | string  | different method of winning D/L or 1st innings score |
+| result     | string  | draw, no result, or tie when no team won the match   |
+| winner     | string  | name of the team who won the match                   |
+
+---
 
 **Teams**
 
-| Name   | Type   | Desc                                          |
-| ------ | ------ | --------------------------------------------- |
-| Key_ID | string | A common ID to relate info across dataframes  |
-| Teams  | string | Names of the teams participating in the match |
+| Name | Type   | Desc                                          |
+| ---- | ------ | --------------------------------------------- |
+| key  | string | A common ID to relate info across dataframes  |
+| team | string | Names of the teams participating in the match |
+
+---
 
 **Toss**
 
-| Name          | Type   | Desc                                            |
-| ------------- | ------ | ----------------------------------------------- |
-| Key_ID        | string | A common ID to relate info across dataframes    |
-| Toss winner   | string | Name of the team winning the toss for the match |
-| Toss decision | string | Choice of team winning the toss                 |
+| Name     | Type   | Desc                                            |
+| -------- | ------ | ----------------------------------------------- |
+| key      | string | A common ID to relate info across dataframes    |
+| decision | string | Choice of team winning the toss                 |
+| winner   | string | Name of the team winning the toss for the match |
+
+---
 
 **Innings**
 
 | Name              | Type   | Desc                                                  |
 | ----------------- | ------ | ----------------------------------------------------- |
-| Key_ID            | string | A common ID to relate info across dataframes          |
-| innings_no        | int    | Innings number of the particular match                |
-| team              | string | name of the team batting in that innings              |
-| batsman           | string | name of the batsman facing the ball                   |
+| key               | string | A common ID to relate info across dataframes          |
+| inning_no         | int    | Innings number of the particular match                |
+| delivery_no       | float  | ball and over number of the innings                   |
+| batting_team      | string | name of the team batting in that innings              |
+| batter            | string | name of the batsman facing the ball                   |
 | bowler            | string | name of the bowler bowling the ball                   |
 | non_striker       | string | name of the person on the other end of the pitch      |
-| runs_batsman      | int    | number of runs scored by the batsman in that ball     |
+| runs_batter       | int    | number of runs scored by the batsman in that ball     |
 | runs_extras       | int    | extra runs gotten off the delivery                    |
 | runs_non_boundary | int    | runs that were more than 4 but not from a boundary    |
 | runs_total        | int    | total runs scored from the delivery                   |
