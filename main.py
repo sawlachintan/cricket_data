@@ -6,24 +6,25 @@ from dataframe_functions import *
 from datetime import datetime
 import pytz
 
+
 def main():
     # download zip files and rename yaml files
     file_process()
 
     file_types = {'meta': ['key', 'data_version', 'created', 'revision'],
-              'toss': ['key', 'toss_winner', 'toss_decision'],
-              'team': ['key', 'team'],
-              'umpires': ['key', 'umpire'],
-              'info': ['key', 'city', 'competition', 'date', 'gender',
-                       'match_type', 'neutral_venue', 'overs', 'player_of_match', 'venue'],
-              'dates': ['key', 'date'],
-              'outcome': ['key', 'by_innings', 'by_type', 'by_margin', 'bowl_out',
-                          'eliminator', 'method', 'result', 'winner'],
-              'pom': ['key', 'player_of_match'],
-              'bowl_out': ['key', 'bowler', 'outcome'],
-              'supersub': ['key', 'team', 'player'],
-              'innings': ['key', 'inning_no', 'batting_team', 'delivery_no', 'batter', 'bowler', 'non_striker',
-                          'runs_batter', 'runs_extras', 'runs_non_boundary', 'runs_total', 'wicket_fielder', 'wicket_kind', 'wicket_player_out', 'extras_type']}
+                  'toss': ['key', 'toss_winner', 'toss_decision'],
+                  'team': ['key', 'team'],
+                  'umpires': ['key', 'umpire'],
+                  'info': ['key', 'city', 'competition', 'date', 'gender',
+                           'match_type', 'neutral_venue', 'overs', 'player_of_match', 'venue'],
+                  'dates': ['key', 'date'],
+                  'outcome': ['key', 'by_innings', 'by_type', 'by_margin', 'bowl_out',
+                              'eliminator', 'method', 'result', 'winner'],
+                  'pom': ['key', 'player_of_match'],
+                  'bowl_out': ['key', 'bowler', 'outcome'],
+                  'supersub': ['key', 'team', 'player'],
+                  'innings': ['key', 'inning_no', 'batting_team', 'delivery_no', 'batter', 'bowler', 'non_striker',
+                              'runs_batter', 'runs_extras', 'runs_non_boundary', 'runs_total', 'wicket_fielder', 'wicket_kind', 'wicket_player_out', 'extras_type']}
 
     for game in game_types().keys():
         start_time = datetime.now(pytz.utc)
@@ -66,36 +67,39 @@ def main():
 
             if 'umpires' in cric_info.keys() and key not in list(umpires_df.key):
                 umpires_df = umpires_df.append(umpire_entry(
-                    cric_info['umpires'], key), ignore_index=True)
+                    umpire_info=cric_info['umpires'], key=key), ignore_index=True)
             if key not in list(team_df.key):
                 team_df = team_df.append(team_entry(
-                    cric_info['teams'], key), ignore_index=True)
+                    team_info=cric_info['teams'], key=key), ignore_index=True)
             if key not in list(toss_df.key):
                 toss_df = toss_df.append(toss_entry(
-                    cric_info['toss'], key), ignore_index=True)
+                    toss_info=cric_info['toss'], key=key), ignore_index=True)
             if key not in list(outcome_df.key):
                 outcome_df = outcome_df.append(outcome_entry(
                     key=key, outcome_info=cric_info['outcome']), ignore_index=True)
             if key not in list(dates_df.key):
                 dates_df = dates_df.append(date_entry(
-                    key, cric_info['dates']), ignore_index=True)
-            
+                    key=key, dates=cric_info['dates']), ignore_index=True)
+
             if 'player_of_match' in cric_info.keys() and key not in list(pom_df.key):
                 pom_df = pom_df.append(
-                    pom_entry(key, cric_info['player_of_match']), ignore_index=True)
-            
+                    pom_entry(key=key, pom_list=cric_info['player_of_match']), ignore_index=True)
+
             if key not in list(info_df.key):
-                info_df = info_df.append(info_entry(key, cric_info))
+                info_df = info_df.append(
+                    info_entry(key=key, gen_info=cric_info))
 
             if 'bowl_out' in cric_info.keys() and key not in list(bowl_out_df.key):
-                bowl_out_df = bowl_out_df.append(bowl_out_entry(key, cric_info['bowl_out']), ignore_index = True)
-            
+                bowl_out_df = bowl_out_df.append(bowl_out_entry(
+                    key, cric_info['bowl_out']), ignore_index=True)
+
             if 'supersubs' in cric_info.keys() and key not in list(supersub_df.key):
-                supersub_df = supersub_df.append(supersub_entry(key, cric_info['supersubs']), ignore_index = True)
-            
+                supersub_df = supersub_df.append(supersub_entry(
+                    key=key, supersub_info=cric_info['supersubs']), ignore_index=True)
+
             if key not in list(innings_df.key):
-                innings_df = innings_df.append(innings_entry(key, cric_dict['innings']))
-            
+                innings_df = innings_df.append(
+                    innings_entry(key_id=key, innings_list=cric_dict['innings']))
 
             del cric_info
             del cric_dict
@@ -116,7 +120,8 @@ def main():
             'Delhi Daredevils', 'Delhi Capitals')
         team_df['team'] = team_df.team.replace(
             'Pune Warriors', 'Pune Warriors India')
-        team_df['team'] = team_df.team.replace('Kings XI Punjab', 'Punjab Kings')
+        team_df['team'] = team_df.team.replace(
+            'Kings XI Punjab', 'Punjab Kings')
 
         outcome_df['winner'] = outcome_df.winner.replace(
             'Rising Pune Supergiant', 'Rising Pune Supergiants')
@@ -165,5 +170,6 @@ def main():
 
         print(f'{game}: {time_taken}')
 
-if __name__=="__main__":
+
+if __name__ == "__main__":
     main()
