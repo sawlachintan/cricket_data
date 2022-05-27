@@ -1,5 +1,5 @@
 This zip archive contains data files from Cricsheet in YAML format. This
-archive contains 11 Women's T20 Challenge matches.
+archive contains 12 Women's T20 Challenge matches.
 
 
 The YAML data files contained in this zip file are version 0.91, and 0.92
@@ -22,6 +22,7 @@ as IPL). The 4th field is the gender of the players involved in the match. The
 teams involved in the match.
 
 
+2022-05-26 - club - WTC - female - 1314905 - Trailblazers vs Velocity
 2022-05-24 - club - WTC - female - 1314904 - Supernovas vs Velocity
 2022-05-23 - club - WTC - female - 1314903 - Supernovas vs Trailblazers
 2020-11-09 - club - WTC - female - 1235589 - Trailblazers vs Supernovas
