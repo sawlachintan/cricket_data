@@ -61,7 +61,8 @@ def main():
 
             cric_meta = cric_dict['meta']
             cric_meta['key'] = key
-            meta_df = meta_df.append(cric_meta, ignore_index=True)
+            if key not in list(meta_df.key):
+                meta_df = meta_df.append(cric_meta, ignore_index=True)
 
             cric_info = cric_dict['info']
 
