@@ -16,11 +16,11 @@ def umpire_entry(umpire_info, key: str) -> pd.DataFrame:
     umpire_df = pd.DataFrame(columns=['key', 'umpire'])
     if umpire_info == np.nan:
         umpire_dict = {'key': key, 'umpire': np.nan}
-        umpire_df = umpire_df.append(umpire_dict, ignore_index=True)
+        umpire_df = pd.concat([umpire_df, pd.DataFrame([umpire_dict])], ignore_index=True)
     else:
         for umpire in umpire_info:
             umpire_dict = {'key': key, 'umpire': umpire}
-            umpire_df = umpire_df.append(umpire_dict, ignore_index=True)
+            umpire_df = pd.concat([umpire_df, pd.DataFrame([umpire_dict])], ignore_index=True)
     return umpire_df
 
 
@@ -42,7 +42,7 @@ def toss_entry(toss_info: dict, key: str) -> pd.DataFrame:
         'key': key,
         'decision': toss_info['decision'],
         'winner': toss_info['winner']}
-    toss_df = toss_df.append(toss_dict, ignore_index=True)
+    toss_df = pd.concat([toss_df, pd.DataFrame([toss_dict])], ignore_index=True)
     return toss_df
 
 
@@ -61,7 +61,7 @@ def team_entry(key: str, team_info: list) -> pd.DataFrame:
     team_df = pd.DataFrame(columns=['key', 'team'])
     for team in team_info:
         team_dict = {'key': key, 'team': team}
-        team_df = team_df.append(team_dict, ignore_index=True)
+        team_df = pd.concat([team_df, pd.DataFrame([team_dict])], ignore_index=True)
     return team_df
 
 
@@ -91,7 +91,7 @@ def info_entry(key: str, gen_info: dict) -> pd.DataFrame:
     gen_dict['date'] = gen_info['dates'][0]
     if 'player_of_match' in gen_info.keys():
         gen_dict['player_of_match'] = gen_info['player_of_match'][0]
-    gen_df = gen_df.append(gen_dict, ignore_index=True)
+    gen_df = pd.concat([gen_df, pd.DataFrame([gen_dict])], ignore_index=True)
     return gen_df
 
 
@@ -175,8 +175,8 @@ def innings_entry(key_id: str, innings_list: list) -> pd.DataFrame:
                         ) else np.nan
                         ball_data_dict['wicket_kind'] = wicket_data[0]['kind']
                         ball_data_dict['wicket_player_out'] = wicket_data[0]['player_out']
-                        innings_df = innings_df.append(
-                            ball_data_dict, ignore_index=True)
+                        innings_df = pd.concat(
+                            [innings_df, pd.DataFrame([ball_data_dict])], ignore_index=True)
                         ball_data_dict['wicket_fielder'] = wicket_data[1]['fielders'][0] if 'fielders' in wicket_data[1].keys(
                         ) else np.nan
                         ball_data_dict['wicket_kind'] = wicket_data[1]['kind']
@@ -194,8 +194,7 @@ def innings_entry(key_id: str, innings_list: list) -> pd.DataFrame:
                     ball_data_dict['wicket_kind'] = np.nan
                     ball_data_dict['wicket_player_out'] = np.nan
 
-                innings_df = innings_df.append(
-                    ball_data_dict, ignore_index=True)
+                innings_df = pd.concat([innings_df, pd.DataFrame([ball_data_dict])], ignore_index=True)
                 del ball_data_dict
 
     over_series = pd.Series(dtype='object')
@@ -233,8 +232,8 @@ def innings_entry(key_id: str, innings_list: list) -> pd.DataFrame:
                         temp.delivery_no), 'n_ball'] = temp.n_ball
         del overs
         # print(temp_df)
-        over_series = over_series.append(temp_df.over, ignore_index=True)
-        ball_series = ball_series.append(temp_df.n_ball, ignore_index=True)
+        over_series = pd.concat([over_series, temp_df.over], ignore_index=True)
+        ball_series = pd.concat([ball_series, temp_df.n_ball], ignore_index=True)
         del temp_df
 
     innings_df['over'] = over_series
@@ -292,7 +291,7 @@ def outcome_entry(key: str, outcome_info: dict) -> pd.DataFrame:
         outcome_dict[a_col] = outcome_info[a_col] if a_col in outcome_info.keys(
         ) else np.nan
 
-    outcome_df = outcome_df.append(outcome_dict, ignore_index=True)
+    outcome_df = pd.concat([outcome_df, pd.DataFrame([outcome_dict])], ignore_index=True)
     return outcome_df
 
 
@@ -302,7 +301,7 @@ def date_entry(key: str, dates: list) -> pd.DataFrame:
         date_dict = dict()
         date_dict['key'] = key
         date_dict['date'] = date
-        dates_df = dates_df.append(date_dict, ignore_index=True)
+        dates_df = pd.concat([dates_df, pd.DataFrame([date_dict])], ignore_index=True)
     return dates_df
 
 
@@ -313,7 +312,7 @@ def pom_entry(key: str, pom_list: list) -> pd.DataFrame:
         pom_dict = dict()
         pom_dict['key'] = key
         pom_dict['player_of_match'] = pom
-        pom_df = pom_df.append(pom_dict, ignore_index=True)
+        pom_df = pd.concat([pom_df, pd.DataFrame([pom_dict])], ignore_index=True)
     return pom_df
 
 # super sub
@@ -326,7 +325,7 @@ def supersub_entry(key: str, supersub_info: dict) -> pd.DataFrame:
         supersub_dict['key'] = key
         supersub_dict['team'] = team
         supersub_dict['player'] = supersub_info[team]
-        supersub_df = supersub_df.append(supersub_dict, ignore_index=True)
+        supersub_df = pd.concat([supersub_df, pd.DataFrame([supersub_dict])], ignore_index=True)
     return supersub_df
 
 
@@ -335,7 +334,7 @@ def bowl_out_entry(key: str, bowl_out_info: dict) -> pd.DataFrame:
     bo_df = pd.DataFrame(columns=['key', 'bowler', 'outcome'])
     for bo_dict in bowl_out_info:
         bo_dict['key'] = key
-        bo_df = bo_df.append(bo_dict, ignore_index=True)
+        bo_df = pd.concat([bo_df, pd.DataFrame([bo_dict])], ignore_index=True)
     return bo_df
 
 
@@ -349,7 +348,7 @@ def player_entry(key: str, players: dict, registry: dict) -> pd.DataFrame:
             player_dict['team'] = team
             player_dict['player'] = player
             player_dict['reg_no'] = registry['people'][player]
-            player_df = player_df.append(player_dict, ignore_index=True)
+            player_df = pd.concat([player_df, pd.DataFrame([player_dict])], ignore_index=True)
             player_dict = None
 
     return player_df
