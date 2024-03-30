@@ -180,7 +180,7 @@ def main():
     games = game_types()
 
     # Parallelize the loop
-    with Pool(8) as pool:
+    with Pool(3) as pool:
         pool.map(process_game, games.keys())
 
 if __name__ == "__main__":
