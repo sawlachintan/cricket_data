@@ -22,16 +22,16 @@ as IPL). The 4th field is the gender of the players involved in the match. The
 teams involved in the match.
 
 
-2022-05-28 - club - WTC - female - 1314906 - Supernovas vs Velocity
-2022-05-26 - club - WTC - female - 1314905 - Trailblazers vs Velocity
-2022-05-24 - club - WTC - female - 1314904 - Supernovas vs Velocity
-2022-05-23 - club - WTC - female - 1314903 - Supernovas vs Trailblazers
-2020-11-09 - club - WTC - female - 1235589 - Trailblazers vs Supernovas
-2020-11-07 - club - WTC - female - 1235588 - Supernovas vs Trailblazers
-2020-11-05 - club - WTC - female - 1235587 - Velocity vs Trailblazers
-2020-11-04 - club - WTC - female - 1235586 - Supernovas vs Velocity
-2019-05-11 - club - WTC - female - 1181896 - Velocity vs Supernovas
-2019-05-09 - club - WTC - female - 1181895 - Supernovas vs Velocity
-2019-05-08 - club - WTC - female - 1181894 - Trailblazers vs Velocity
-2019-05-06 - club - WTC - female - 1181893 - Trailblazers vs Supernovas
 2018-05-22 - club - WTC - female - 1146789 - Trailblazers vs Supernovas
+2019-05-06 - club - WTC - female - 1181893 - Trailblazers vs Supernovas
+2019-05-08 - club - WTC - female - 1181894 - Trailblazers vs Velocity
+2019-05-09 - club - WTC - female - 1181895 - Supernovas vs Velocity
+2019-05-11 - club - WTC - female - 1181896 - Velocity vs Supernovas
+2020-11-04 - club - WTC - female - 1235586 - Supernovas vs Velocity
+2020-11-05 - club - WTC - female - 1235587 - Velocity vs Trailblazers
+2020-11-07 - club - WTC - female - 1235588 - Supernovas vs Trailblazers
+2020-11-09 - club - WTC - female - 1235589 - Trailblazers vs Supernovas
+2022-05-23 - club - WTC - female - 1314903 - Supernovas vs Trailblazers
+2022-05-24 - club - WTC - female - 1314904 - Supernovas vs Velocity
+2022-05-26 - club - WTC - female - 1314905 - Trailblazers vs Velocity
+2022-05-28 - club - WTC - female - 1314906 - Supernovas vs Velocity
