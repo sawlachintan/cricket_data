@@ -196,34 +196,36 @@ if __name__ == "__main__":
 
         info_df.to_csv(f"./data/bronze/{LEAGUE}/info_df.csv",index=False)
         info_df['season'] = info_df['season'].astype(str)
-        # info_df.to_parquet(f"./data/bronze/{LEAGUE}/info_df.parquet",index=False)
+        if 'missing' in info_df.columns:
+            info_df = info_df.drop(columns=['missing'])
+        info_df.to_parquet(f"./data/bronze/{LEAGUE}/info_df.parquet",index=False)
 
         playing_xi_df.columns = [str(x) for x in playing_xi_df.columns]
         playing_xi_df.to_csv(f"./data/bronze/{LEAGUE}/playing_xi_df.csv",index=False)
-        # playing_xi_df.to_parquet(f"./data/bronze/{LEAGUE}/playing_xi_df.parquet",index=False)
+        playing_xi_df.to_parquet(f"./data/bronze/{LEAGUE}/playing_xi_df.parquet",index=False)
 
         registry_df = registry_df.drop_duplicates(ignore_index=True).sort_values('name',ignore_index=True)
         registry_df.to_csv(f"./data/bronze/{LEAGUE}/registry_df.csv",index=False)
-        # registry_df.to_parquet(f"./data/bronze/{LEAGUE}/registry_df.parquet",index=False)
+        registry_df.to_parquet(f"./data/bronze/{LEAGUE}/registry_df.parquet",index=False)
 
         outcome_df.to_csv(f"./data/bronze/{LEAGUE}/outcome_df.csv",index=False)
-        # outcome_df.to_parquet(f"./data/bronze/{LEAGUE}/outcome_df.parquet",index=False)
+        outcome_df.to_parquet(f"./data/bronze/{LEAGUE}/outcome_df.parquet",index=False)
 
         officials_df.to_csv(f"./data/bronze/{LEAGUE}/officials_df.csv",index=False)
-        # officials_df.to_parquet(f"./data/bronze/{LEAGUE}/officials_df.parquet",index=False)
+        officials_df.to_parquet(f"./data/bronze/{LEAGUE}/officials_df.parquet",index=False)
 
         toss_df.to_csv(f"./data/bronze/{LEAGUE}/toss_df.csv",index=False)
-        # toss_df.to_parquet(f"./data/bronze/{LEAGUE}/toss_df.parquet",index=False)
+        toss_df.to_parquet(f"./data/bronze/{LEAGUE}/toss_df.parquet",index=False)
 
         team_df.to_csv(f"./data/bronze/{LEAGUE}/team_df.csv",index=False)
-        # team_df.to_parquet(f"./data/bronze/{LEAGUE}/team_df.parquet",index=False)
+        team_df.to_parquet(f"./data/bronze/{LEAGUE}/team_df.parquet",index=False)
 
         if 'group' in event_df.columns:
             event_df['group'] = event_df['group'].astype(str)
         if 'stage' in event_df.columns:
             event_df['stage'] = event_df['stage'].astype(str)
         event_df.to_csv(f"./data/bronze/{LEAGUE}/event_df.csv",index=False)
-        # event_df.to_parquet(f"./data/bronze/{LEAGUE}/event_df.parquet",index=False)
+        event_df.to_parquet(f"./data/bronze/{LEAGUE}/event_df.parquet",index=False)
 
         final_innings_df.columns = [x.replace(".","_") for x in final_innings_df.columns]
         def melt_extras(x):
@@ -250,6 +252,7 @@ if __name__ == "__main__":
 
         final_innings_df = final_innings_df.replace(np.nan,pd.NA)
         final_innings_df.to_csv(f"./data/bronze/{LEAGUE}/innings_df.csv", index=False)
+        final_innings_df.to_parquet(f"./data/bronze/{LEAGUE}/innings_df.parquet",index=False)
 
         # Check if the file exists and remove it
         if os.path.isfile(f"./data/temp/{LEAGUE}.zip"):
