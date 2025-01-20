@@ -159,7 +159,7 @@ def process_game(match_id, counter, LEAGUE):
 
 if __name__ == "__main__":
     LEAGUES = ["ipl", "bbl", "sma", "sat",
-           "mlc", "cpl", "psl", "ntb", "lpl", "bpl", "t20s"]
+           "mlc", "cpl", "psl", "ntb", "lpl", "bpl", "t20s","ilt"]
 
     for league in LEAGUES:
         officials_df = pd.DataFrame()

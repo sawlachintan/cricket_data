@@ -5,7 +5,7 @@ import pandas as pd
 url = f"https://cricsheet.org/downloads"
 
 LEAGUES = ["ipl", "bbl", "sma", "sat",
-           "mlc", "cpl", "psl", "ntb", "lpl", "bpl", "t20s"]
+           "mlc", "cpl", "psl", "ntb", "lpl", "bpl", "t20s","ilt"]
 
 for league in LEAGUES:
     format_url = f"{url}/{league}_json.zip"
